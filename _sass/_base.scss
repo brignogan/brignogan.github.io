@@ -256,9 +256,9 @@ header {
         cursor: pointer;
         overflow: hidden;
 
-        transition: height .4s ease-in-out;
-        -webkit-transition: height .4s ease-in-out;
-        -moz-transition: height .4s ease-in-out;
+        transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        -moz-transition: all .4s ease-in-out;
 
         @include transition-all;
         .portfolio-box-caption-content {
