@@ -391,10 +391,10 @@ body {
   width: 20px;
   height: 20px;
   background-color: $theme-primary;
+  background-size: 100% 100%;
   margin-right: 7px;
   -webkit-mask: url(../img/temps/temps_cuisson.svg) no-repeat center;
   mask: url(../img/temps/temps_cuisson.svg) no-repeat center;
-  mask-size:20px;
   -webkit-mask-size: 20px
   display: inline-block;
   vertical-align: middle;
