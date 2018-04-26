@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+  {% include page_header.html %}
+
+  <section class="post-text"  id="tag">
+
+  <h1 class="page-title">{{ page.title }}</h1>
+
+  <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="page.title">
+  <br>
+  <br>
+  <div class="icon-temps"> <div class="icon-temps_preparation"></div> temps preparation </div>
+  <div class="icon-temps-min"> {{page.temps_preparation}} </div> min
+  <br>
+  <div class="icon-temps"> <div class="icon-temps_cuisson"></div> temps de cuisson </div>
+  <div class="icon-temps-min"> {{page.temps_cuisson}} </div> min
+  <br>
+  <div class="icon-temps"> <div class="icon-temps_repos"></div>  temps de repos </div>
+  <div class="icon-temps-min"> {{page.temps_repos}} </div> min
+  <br>
+  <br>
+  {{ content }}
+
+  {% include scripts.html %}
+
+  </section>
+
+</body>
+
+</html>

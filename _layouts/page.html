@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+  {% include page_header.html %}
+
+  <section class="page-text"  id="tag">
+
+  <h1 class="page-title" >{{ page.title }}</h1>
+
+  {% assign sortedPosts = site.posts | sort: 'title' %}
+  {% assign subcat_sortedPosts = sortedPosts | where: 'tag_category',page.titlePost %}
+
+  {{ content }}
+
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','na' %}
+  {% assign dish_length  = dish_sortedPosts | size %}
+  {% if dish_length > 0 %}
+    {% for post in dish_sortedPosts %}
+        <p style="margin:0">
+        <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
+        <!-- <p><small><strong>{{ post.date | date: "%B %Y" }}</strong>: {{ post.description}}. </small></p> -->
+        </p>
+    {% endfor %}
+  {% endif %}
+
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','sauce' %}
+  {% assign dish_length  = dish_sortedPosts | size %}
+  {% if dish_length > 0 %}
+    <h2 class="page-title"> Sauce et Accompagnement </h2>
+    {% for post in dish_sortedPosts %}
+        <p style="margin:0">
+        <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
+        <!-- <p><small><strong>{{ post.date | date: "%B %Y" }}</strong>: {{ post.description}}. </small></p> -->
+        </p>
+    {% endfor %}
+  {% endif %}
+
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','entree' %}
+  {% assign dish_length  = dish_sortedPosts | size %}
+  {% if dish_length > 0 %}
+    <h2 class="page-title"> Entree </h2>
+    {% for post in dish_sortedPosts %}
+        <p style="margin:0">
+        <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
+        <!-- <p><small><strong>{{ post.date | date: "%B %Y" }}</strong>: {{ post.description}}. </small></p> -->
+        </p>
+    {% endfor %}
+  {% endif %}
+
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','platViande' %}
+  {% assign dish_length  = dish_sortedPosts | size %}
+  {% if dish_length > 0 %}
+    <h2 class="page-title"> Plat de Viande </h2>
+    {% for post in dish_sortedPosts %}
+        <p style="margin:0">
+        <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
+        </p>
+    {% endfor %}
+  {% endif %}
+
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','platPoisson' %}
+  {% assign dish_length  = dish_sortedPosts | size %}
+  {% if dish_length > 0 %}
+    <h2 class="page-title"> Plat de Poisson </h2>
+    {% for post in dish_sortedPosts %}
+        <p style="margin:0">
+        <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
+        </p>
+    {% endfor %}
+  {% endif %}
+
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','dessert' %}
+  {% assign dish_length  = dish_sortedPosts | size %}
+  {% if dish_length > 0 %}
+    <h2 class="page-title"> Dessert </h2>
+    {% for post in dish_sortedPosts %}
+        <p style="margin:0">
+        <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
+        </p>
+    {% endfor %}
+  {% endif %}
+
+
+  {% include scripts.html %}
+
+</section>
+
+</body>
+
+</html>
