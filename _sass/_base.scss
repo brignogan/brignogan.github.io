@@ -380,6 +380,7 @@ body {
   background-color: $theme-primary;
   margin-right: 7px;
   -webkit-mask: url(../img/temps/temps_preparation.svg) no-repeat center;
+  -webkit-mask-size:20px;
   mask: url(../img/temps/temps_preparation.svg) no-repeat center;
   mask-size:20px;
   display: inline-block;
@@ -391,11 +392,11 @@ body {
   width: 20px;
   height: 20px;
   background-color: $theme-primary;
-  background-size: 100% 100%;
   margin-right: 7px;
   -webkit-mask: url(../img/temps/temps_cuisson.svg) no-repeat center;
+  -webkit-mask-size:20px;
   mask: url(../img/temps/temps_cuisson.svg) no-repeat center;
-  -webkit-mask-size: 20px
+  mask-size:20px;
   display: inline-block;
   vertical-align: middle;
   margin-top: 3px;
@@ -406,8 +407,9 @@ body {
   height: 20px;
   background-color: $theme-primary;
   margin-right: 7px;
-  -webkit-mask: url(../img/temps/temps_repos.png) no-repeat center;
-  mask: url(../img/temps/temps_repos.png) no-repeat center;
+  -webkit-mask: url(../img/temps/temps_repos.svg) no-repeat center;
+  -webkit-mask-size:20px;
+  mask: url(../img/temps/temps_repos.svg) no-repeat center;
   mask-size:20px;
   display: inline-block;
   vertical-align: middle;
@@ -430,6 +432,7 @@ body {
   height: 100px;
   background-color: white; //$theme-primary;
   -webkit-mask: url(../img/drapeauBreton/bretagne.svg) no-repeat center;
+  -webkit-mask-size: 100px;
   mask: url(../img/drapeauBreton/bretagne.svg) no-repeat center;
   mask-size:100px;
   display: inline-block;
@@ -441,6 +444,7 @@ body {
   height: 100px;
   background-color: white;
   -webkit-mask: url(../img/drapeauMarocain/maroc.svg) no-repeat center;
+  -webkit-mask-size: 100px;
   mask: url(../img/drapeauMarocain/maroc.svg) no-repeat center;
   mask-size:100px;
   display: inline-block;
@@ -452,6 +456,7 @@ body {
   height: 100px;
   background-color: white;
   -webkit-mask: url(../img/drapeauAutrichien/autriche.svg) no-repeat center;
+  -webkit-mask-size: 100px;
   mask: url(../img/drapeauAutrichien/autriche.svg) no-repeat center;
   mask-size:100px;
   display: inline-block;
