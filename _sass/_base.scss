@@ -240,9 +240,11 @@ header {
     display: block;
     max-width: 650px;
     margin: 0 auto;
+    overflow: hidden;
+
     .portfolio-box-caption {
         color: white;
-        opacity: 0;
+        opacity: 0.5;
         display: block;
         background: rgba( $theme-primary, .9 );
         position: absolute;
@@ -250,6 +252,14 @@ header {
         text-align: center;
         width: 100%;
         height: 100%;
+        transform: translateY(80%);
+        cursor: pointer;
+        overflow: hidden;
+
+        transition: height .4s ease-in-out;
+        -webkit-transition: height .4s ease-in-out;
+        -moz-transition: height .4s ease-in-out;
+
         @include transition-all;
         .portfolio-box-caption-content {
             width: 100%;
@@ -276,6 +286,8 @@ header {
     &:hover, &:active{
         .portfolio-box-caption {
             opacity: 1;
+            height: 100%;
+            transform: translateY(0%);
         }
     }
     @media (min-width: 768px) {
