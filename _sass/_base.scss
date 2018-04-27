@@ -188,11 +188,13 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
-                font-size: 16px;
+                color: white;
+                font-size: 20px;
+                font-weight: 700;
                 margin-bottom: 50px;
+                margin-left: 2px;
             }
-        }
+}
     }
     @media (min-width: 768px) {
         min-height: 100%;
@@ -208,10 +210,13 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 18px;
+                    font-size: 25px;
                     max-width: 80%;
-                    margin-left: 10px;
+                    //margin-left: 10px;
                     margin-right: auto;
+                    font-weight: 700;
+                    margin-left: 2px;
+                    color: white;
                 }
             }
         }
@@ -510,6 +515,22 @@ body {
       width:90%;
   }
 }
+.icon-backbutton {
+  width: 40px;
+  height: 40px;
+  background-color: $theme-primary;
+  -webkit-mask: url(../img/backbutton.svg) no-repeat center;
+  -webkit-mask-size: 40px 40px;
+  mask: url(../img/backbutton.svg) no-repeat center;
+  mask-size: 40px;
+  display: inline-block;
+  @media (max-width: 768px) {
+    width: 20px;
+    height: 20px;
+    -webkit-mask-size: 20px 20px;
+    mask-size: 20px;
+  }
+}
 
 .icon-bretagne {
   width: 100%;
@@ -549,6 +570,7 @@ body {
 
 .page-title {
   margin-left: 0px;
+    h1 {font-size: 50px;}
 }
 
 .page-text {
@@ -570,7 +592,7 @@ body {
     height: 100%;
     padding-top: 30px;
     ul li{
-      font-size:16px;
+      font-size: 16px;
     }
     h3 { color:$theme-primary;}
 }
@@ -618,3 +640,6 @@ body {
   font-size: 16px;
   padding: 56px 48px;
 }
+
+.header-subtitle{
+  font-size: 20px;}
