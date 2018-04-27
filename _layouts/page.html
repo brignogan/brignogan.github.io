@@ -9,16 +9,19 @@
 
   <section class="page-text"  id="tag">
 
-  <h1 class="page-title">
-    <a href = "{{ site.url }}#services" >  <div class='icon-backbutton'> </div> </a> 
-    {{ page.title }}
-  </h1>
+  <div class="page-title">
+    <a href = "{{ site.url }}/#services" >
+      <div class='icon-backbutton'> </div>
+    </a>
+    <span>{{ page.title }}</span>
+  </div>
 
   {% assign sortedPosts = site.posts | sort: 'title' %}
   {% assign subcat_sortedPosts = sortedPosts | where: 'tag_category',page.titlePost %}
 
+  <div class='text-overWhite'>
   {{ content }}
-
+  </div>
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','na' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}

@@ -298,7 +298,7 @@ header {
             .project-name {
                 height:80%;
                 width: inherit;
-                font-size: 18px;
+                font-size: 16px;
                 /* Firefox */
                 display:-moz-inline;
                 -moz-box-align:start;
@@ -309,7 +309,12 @@ header {
                 display: -webkit-inline;
                 -webkit-box-align:start;
 
-                .p { text-align: center;}
+                p { text-align: center;}
+
+                @media (max-width: 400px) {
+                font-size: 14px;
+
+                }
             }
         }
     }
@@ -516,19 +521,25 @@ body {
   }
 }
 .icon-backbutton {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   background-color: $theme-primary;
   -webkit-mask: url(../img/backbutton.svg) no-repeat center;
-  -webkit-mask-size: 40px 40px;
+  -webkit-mask-size: 30px 30px;
   mask: url(../img/backbutton.svg) no-repeat center;
-  mask-size: 40px;
+  mask-size: 30px;
   display: inline-block;
   @media (max-width: 768px) {
     width: 20px;
     height: 20px;
     -webkit-mask-size: 20px 20px;
     mask-size: 20px;
+    @media (max-width: 400px) {
+    width: 18px;
+    height: 18px;
+    -webkit-mask-size: 18px 18px;
+    mask-size: 18px;
+    }
   }
 }
 
@@ -570,8 +581,20 @@ body {
 
 .page-title {
   margin-left: 0px;
-    h1 {font-size: 50px;}
-}
+  vertical-align: middle;
+  margin-top: 25px;
+  margin-bottom: 7px;
+    span {font-size: 40px;
+          line-height: 1.1;
+         }
+    @media (max-width: 768px) {
+      span {font-size: 30px;}
+   }
+    @media (max-width: 400px) {
+      span {font-size: 22px;}
+   }
+  }
+
 
 .page-text {
     margin-left:  40px;
