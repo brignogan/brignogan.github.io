@@ -6,7 +6,8 @@ tag_plat: na
 image: img/recette/crepe-froment.png
 temps_preparation: 20
 temps_cuisson: 2
-temps_repos: '-'
+temps_repos: 60
+nbre_personne: ‘pour deux douzaines de crêpes’
 ---
 
 Cette recette vient de Berthe Riou
