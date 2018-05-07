@@ -7,8 +7,9 @@ image: img/recette/fars-pitilig.png
 temps_preparation: 10
 temps_cuisson: 5
 temps_repos: '-'
+nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Grand-Mere Ploudaniel.
+Cette recette vient de Grand-Mère Ploudaniel.
 
 ### Ingredients
 * 125 g de farine de froment
@@ -20,14 +21,16 @@ Cette recette vient de Grand-Mere Ploudaniel.
 ### Preparation
 * Ajouter les oeufs et le sucre à la farine disposée en fontaine.
 * Bien mélanger puis ajouter petit à petit le lait.
+* Pour une galette :
 * Faire fondre une noix de beurre dans la poêle.
-* Quand il commence à roussir, verser la pâte par petites louchées en agitant avec la cuillère en bois. Quand la pâte commence à bien se former en gros grumeaux, ramener la pâte au centre de la poêle et aplatir les boules.
+* Quand il commence à roussir, y verser une louchée de pâte en agitant avec la cuillère en bois. Quand la pâte commence à bien se former en gros grumeaux, ramener la pâte au centre de la poêle et aplatir les boules.
 * Laisser “prendre”.
 * Retourner la galette (en la faisant sauter !), glisser des petits morceaux de beurre dessous et finir la cuisson.
-* Servir bien chaud saupoudré de sucre.
+* Servir bien chaud et éventuellement saupoudré de sucre.
+* Répéter l’opération jusqu’à épuisement de la pâte.
 
 ### Vin
-Cidre de Fouesnant brut : Sehedic ou Menez Brug
+Cidre de Fouesnant brut : Séhédic ou Menez Brug
 ou lait ribot
 
 ### Note
