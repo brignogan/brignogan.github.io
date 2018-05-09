@@ -29,7 +29,7 @@ Cette recette vient de Berthe Riou
 * On peut fourrer ces crêpes avec de la confiture, du sirop d’érable, des fruits cuits (pomme, banane), des amandes, de la glace,…
 
 ### Vin
-Cidre de Fouesnant brut : Sehedic ou Menez Brug
+Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Note
 Berthe Riou était une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée.
