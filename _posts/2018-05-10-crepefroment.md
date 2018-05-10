@@ -25,11 +25,13 @@ Cette recette vient de Berthe Riou
 * Ajouter le beurre juste fondu et refroidi.
 * Ajouter les blancs d’œufs montés en neige.
 * Délayer délicatement avec le reste de lait. Laisser reposer.
-* Cuire les crêpes sur la bilig légèrement graissée.
-* On peut fourrer ces crêpes avec de la confiture, du sirop d’érable, des fruits cuits (pomme, banane), des amandes, de la glace,…
+* Chauffer la bilig à 200-210°C. Utiliser la louche n°7 (diamètre en cm)
+* Verser une louchée de pâte sur la bilig légèrement graissée et étaler la pâte au rateau. Si la pâte glisse sous le rateau, la bilig est trop grasse, l’essuyer avec un chiffon sec.
+* Cuire la première face 1 mn puis retourner la crêpe et prolonger la cuisson encore une minute.
+* Si on veut fourrer ces crêpes, en fin de cuisson, ajouter la garniture : confiture, sirop d’érable, fruits cuits (pomme, banane), amandes, glace,…
 
 ### Vin
 Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Note
-Berthe Riou était une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée.
+Berthe Riou était une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée. La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
