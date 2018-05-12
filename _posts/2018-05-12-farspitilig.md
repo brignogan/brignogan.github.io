@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fars Pitilig
+title: Fars pitilig
 tag_category: bretagne
 tag_plat: na
 image: img/recette/fars-pitilig.png
