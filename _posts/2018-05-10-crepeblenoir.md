@@ -19,6 +19,7 @@ Cette recette vient de Michelle (Penmac'h)
 * 1 pincée de sel
 * ¼ L d’eau
 * 1 L de lait entier
+* Beurre ½ sel
 
 ### Préparation
 * Délayer les farines, le sel et les oeufs dans l’eau.

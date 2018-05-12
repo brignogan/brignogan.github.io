@@ -17,7 +17,7 @@ Cette recette vient de Berthe Riou
 * 1 c. à s. de farine de sarrasin
 * 4 œufs 
 * 150 g de sucre
-* 125 g de beurre salé
+* 125 g de beurre ½ sel
 * 1 L ¼  de lait entier
 
 ### Préparation

@@ -15,7 +15,7 @@ Cette recette vient de Xavier et Bleuenn (Bénodet).
 * 500 g de farine de froment
 * 30 g de levure de boulanger
 * 400 g d’eau tiède
-* 250 g de beurre
+* 250 g de beurre ½ sel
 * 125 g de sucre
 
 ### Preparation
