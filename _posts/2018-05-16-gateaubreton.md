@@ -34,4 +34,4 @@ Cidre de Fouesnant brut : Séhédic ou Menez Brug
 ou lait ribot
 
 ### Note
-Les parents de Jean Ollivier tenaient une boulangerie à Penanguer, un quartier de Concarneau.
+* Les parents de Jean Ollivier tenaient une boulangerie à Penanguer, un quartier de Concarneau.

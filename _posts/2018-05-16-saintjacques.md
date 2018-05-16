@@ -34,13 +34,14 @@ Cette recette est inspirée par Renée (Coat Tanguy).
 * Faire cuire le riz.
 * Faire chauffer le four à 50°C.
 * Faire dorer les Saint Jacques dans une poêle avec 20 g de beurre (1 mn sur chaque face). Saler et poivrer. Réserver au chaud dans le four.
-* Filtrer le fumet avec un chinois. Réserver le hachis au chaud dans le four.
+* Filtrer le fumet avec un chinois. Réserver le hachis de barbes et d’algues au chaud dans le four.
 * Monter le filtrat avec 20 g de beurre.
-* Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Ajouter un peu de la julienne d’écorce et napper de sauce.  
+* Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
 ### Vin
-Vin blanc (Daumas Gassac, Lirac)
+Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
 
 ### Note
-On peut remplacer l’écrasé de pommes de terre par une petite crêpe de blé noir réchauffée au beurre et ajouter une cuillerée de confit d’échalotes (Faire revenir 10 échalotes émincées dans 10 g de beurre pendant 10 mn pour qu'elles deviennent transparentes. Ajouter 1 c. à s. de sucre, 3 c. à s. de vin rouge et 2 c. à s. de vinaigre balsamique et faire cuire à feu doux et à couvert pendant 10 mn. Conserver à température ambiante pour que le confit reste onctueux.)
+* Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût
+* On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des Saint Jacques.
 

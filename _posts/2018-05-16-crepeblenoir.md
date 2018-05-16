@@ -34,4 +34,5 @@ Cette recette vient de Michelle (Penmac'h)
 Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Note
-Cette recette a été donnée par Michelle qui est diplômée de l’Université de la Crêpe deSaint Jean Trolimon. La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
+* Cette recette a été donnée par Michelle qui est diplômée de l’Université de la Crêpe deSaint Jean Trolimon.
+* La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
