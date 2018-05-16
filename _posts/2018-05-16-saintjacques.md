@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette est inspirée par Renée (Coat Tanguy).
+Cette recette vient de Renée et Ronan (Coat Tanguy).
 
 ### Ingredients
 * 12 noix de Saint Jacques
@@ -42,6 +42,6 @@ Cette recette est inspirée par Renée (Coat Tanguy).
 Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
 
 ### Note
-* Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût
+* Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
 * On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des Saint Jacques.
 

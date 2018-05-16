@@ -10,7 +10,7 @@ temps_repos: 60
 nbre_personne: ‘pour deux douzaines de crêpes’
 ---
 
-Cette recette vient de Berthe Riou
+Cette recette vient de Berthe Riou (Ploudaniel)
 
 ### Ingrédients
 * 500 g de farine de froment 
@@ -21,8 +21,9 @@ Cette recette vient de Berthe Riou
 * 1 L ¼  de lait entier
 
 ### Préparation
+* Faire juste fondre le beurre et laisser refroidir.
 * Mélanger les farines, les jaunes d’œufs, le sucre et un peu de lait pour obtenir une pâte homogène.
-* Ajouter le beurre juste fondu et refroidi.
+* Ajouter le beurre.
 * Ajouter les blancs d’œufs montés en neige.
 * Délayer délicatement avec le reste de lait. Laisser reposer.
 * Chauffer la bilig à 200-210°C. Utiliser la louche n°7 (diamètre en cm)

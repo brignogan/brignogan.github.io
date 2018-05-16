@@ -9,7 +9,7 @@ temps_cuisson: 20
 temps_repos: 72 h
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette est inspirée de Mimie Le Gall (Coat Tanguy).
+Cette recette vient de Mimie Le Gall (Coat Tanguy).
 
 ### Ingredients
 * 12 ormeaux moyens (ou plus suivant leur taille)
@@ -32,5 +32,6 @@ Cette recette est inspirée de Mimie Le Gall (Coat Tanguy).
 Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
 
 ### Note
-Les ormeaux sont considérés comme les biftecks de la mer. Cette recette est donc l’équivalent du steak-frites.
+* Mimie est une grande sécheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages.
+* Les ormeaux sont considérés comme les biftecks de la mer. Cette recette est donc l’équivalent du steak-frites.
 
