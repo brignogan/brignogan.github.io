@@ -3,7 +3,7 @@ layout: post
 title: Homard grillé 
 tag_category: bretagne
 tag_plat: na
-image: img/recette/homardgrillé.png
+image: img/recette/homardgrille.png
 temps_preparation: 60
 temps_cuisson: 30
 temps_repos: ‘-‘
