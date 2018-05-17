@@ -12,7 +12,7 @@ nbre_personne: ‘pour 4 personnes’
 Cette recette vient de Renée et Ronan (Coat Tanguy).
 
 ### Ingredients
-* 12 noix de Saint Jacques
+* 16 noix de Saint Jacques
 * les barbes de Saint Jacques
 * 60 g de beurre ½ sel
 * 2 échalotes
