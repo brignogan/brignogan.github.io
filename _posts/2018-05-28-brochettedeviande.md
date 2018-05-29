@@ -49,6 +49,6 @@ Cette recette vient de Halima et Rkia (Rabat, Agadir)
 Vin rouge (Bordeaux Franc Patarabet)
 
 ### Note
-* Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rquia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
+* Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même. 
 
