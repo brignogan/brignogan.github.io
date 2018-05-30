@@ -35,4 +35,4 @@ Cette recette vient de Rkia (Agadir)
 Bandol rouge (Tournier, Chateau Roche Redonne, les Bartavelles ou la Malissonne).
 
 ### Note
-* Cette recette se faisait traditionnellement dans le couscoussier, le temps de cuisson était alors d'au moins 2h.
+Cette recette se faisait traditionnellement dans le couscoussier, le temps de cuisson était alors d'au moins 2h.

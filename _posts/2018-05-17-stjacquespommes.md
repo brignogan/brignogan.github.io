@@ -31,6 +31,6 @@ Cette recette vient de la « biblio ».
 Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
 
 ### Note
-* Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
+Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
 
 

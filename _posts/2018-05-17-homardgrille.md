@@ -36,5 +36,5 @@ Cette recette vient de la « biblio ».
 Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
 
 ### Note
-* Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
+Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
 
