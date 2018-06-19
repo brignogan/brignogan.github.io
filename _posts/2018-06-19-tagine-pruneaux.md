@@ -39,7 +39,7 @@ Cette recette vient de Halima (Rabat)
 * Ajouter alors le sucre et la cannelle aux pruneaux et faire cuire à feu doux pour que la sauce caramélise légèrement. Ajouter de l’eau si besoin et remuer délicatement les pruneaux pour qu’ils soient bien enrobés de la sauce. Garder au chaud et, si besoin, ajouter à nouveau un peu d'eau pour maintenir la consistance de la sauce.
 * Trier les grains de sésame pour ne garder que ceux qui ont une couleur dorée.
 * Au moment de servir, disposer les pruneaux sur la viande dans le tagine.
-* Frire rapidement les amandes dans un peu d’huile, elles doivent prendre une belle couleur dorée, les essuyer dans un papier copain et les déposer sur la viande et ajouter les grains de sésame. 
+* Frire rapidement les amandes dans un peu d’huile, elles doivent prendre une belle couleur dorée, les essuyer et les déposer sur la viande et ajouter les grains de sésame. 
 
 ### Vin
 Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
