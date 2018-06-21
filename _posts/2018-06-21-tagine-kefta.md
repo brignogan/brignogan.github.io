@@ -30,7 +30,8 @@ Cette recette vient du restaurant « La Clé » à Rabat (en 1976)
 * Ajouter les tomates, laissez cuire 5 minutes. Ajouter les petits pois et de l’eau à peine à hauteur. Cuire 20 mn puis laisser épaissir la sauce.
 * Verser le tout dans le tagine et garder au chaud.
 * Hacher le coriandre et le persil.
-* Au dernier moment, déposer les boulettes de kefta sur les petits pois, parsemer de coriandre et de persil, laissez mijoter 5 minutes maximum. * Pour finir, cassez les œufs par dessus et refermer le couvercle du tagine pour achever la cuisson pendant 3-4 mn (les oeufs doivent être juste pochés).
+* Au dernier moment, déposer les boulettes de kefta sur les petits pois, parsemer de coriandre et de persil, laissez mijoter 5 minutes maximum.
+* Pour finir, cassez les œufs par dessus et refermer le couvercle du tagine pour achever la cuisson pendant 3-4 mn (les oeufs doivent être juste pochés).
 * Servir aussitôt. 
 
 ### Vin
