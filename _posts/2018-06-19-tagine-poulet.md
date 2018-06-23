@@ -2,7 +2,7 @@
 layout: post
 title: Tagine de poulet au citron confit
 tag_category: maroc
-tag_plat: na
+tag_plat: PlatViande
 image: img/recette/tagine-poulet.png
 temps_preparation: 30
 temps_cuisson: 90

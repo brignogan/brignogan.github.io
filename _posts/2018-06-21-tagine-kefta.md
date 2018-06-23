@@ -2,7 +2,7 @@
 layout: post
 title: Tagine de kefta aux oeufs
 tag_category: maroc
-tag_plat: na
+tag_plat: platViande
 image: img/recette/tagine-kefta.png
 temps_preparation: 15
 temps_cuisson: 30

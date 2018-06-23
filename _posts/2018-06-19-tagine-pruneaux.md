@@ -2,7 +2,7 @@
 layout: post
 title: Tagine d’agneau aux pruneaux et amandes
 tag_category: maroc
-tag_plat: na
+tag_plat: platViande
 image: img/recette/tagine-pruneaux.png
 temps_preparation: 30
 temps_cuisson: 60

@@ -2,7 +2,7 @@
 layout: post
 title: Tagine d’agneau aux oignons et raisins secs
 tag_category: maroc
-tag_plat: na
+tag_plat: platViande
 image: img/recette/tagine-oignons.png
 temps_preparation: 30
 temps_cuisson: 60

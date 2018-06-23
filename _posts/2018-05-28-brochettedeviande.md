@@ -2,7 +2,7 @@
 layout: post
 title: Brochettes de viande
 tag_category: maroc
-tag_plat: na
+tag_plat: platViande
 image: img/recette/brochettes-viande.png
 temps_preparation: 15
 temps_cuisson: 5
