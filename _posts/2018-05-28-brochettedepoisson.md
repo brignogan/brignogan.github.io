@@ -9,7 +9,7 @@ temps_cuisson: 5
 temps_repos: 120
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Halima et Rkia (Rabat, Agadir)
+Cette recette vient de Halima (Rabat)
 
 ### Ingredients
 * 900 g de poissons fermes : lotte, saumon
