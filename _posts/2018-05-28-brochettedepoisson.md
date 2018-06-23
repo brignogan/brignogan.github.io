@@ -2,7 +2,7 @@
 layout: post
 title: Brochettes de poisson
 tag_category: maroc
-tag_plat: na
+tag_plat: entree
 image: img/recette/brochettes-poisson.png
 temps_preparation: 15
 temps_cuisson: 5
