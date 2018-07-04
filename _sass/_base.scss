@@ -463,6 +463,10 @@ body {
     display: inline-block;
     width: 170px;
     }
+.icon-nbre{
+    display: inline-block;
+    width: 470px;
+    }
 .icon-temps-min{
     display: inline-block;
     width: 30px;
@@ -510,7 +514,20 @@ body {
   margin-top: 3px;
   margin-bottom: 3px;
 }
-
+.icon-nbre_personn {
+  width: 20px;
+  height: 20px;
+  background-color: $theme-primary;
+  margin-right: 7px;
+  -webkit-mask: url(../img/nbrePersonne/people_281x281.svg) no-repeat center;
+  -webkit-mask-size:20px;
+  mask: url(../img/nbrePersonne/people_281x281.svg) no-repeat center;
+  mask-size:20px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
 .image-recette{
   width: 400px;
 }

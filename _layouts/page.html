@@ -33,7 +33,7 @@
     {% endfor %}
   {% endif %}
 
-  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','sauce' %}
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','sauce' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
     <h2 class="page-title"> Sauce et Accompagnement </h2>
@@ -45,7 +45,7 @@
     {% endfor %}
   {% endif %}
 
-  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','entree' %}
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','entree' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
     <h2 class="page-title"> Entree </h2>
@@ -57,7 +57,7 @@
     {% endfor %}
   {% endif %}
 
-  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','platViande' %}
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','platViande' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
     <h2 class="page-title"> Plat de Viande </h2>
@@ -68,7 +68,7 @@
     {% endfor %}
   {% endif %}
 
-  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','platPoisson' %}
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','platPoisson' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
     <h2 class="page-title"> Plat de Poisson </h2>
@@ -79,7 +79,7 @@
     {% endfor %}
   {% endif %}
 
-  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tags_plat','dessert' %}
+  {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','dessert' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
     <h2 class="page-title"> Dessert </h2>

@@ -26,7 +26,14 @@
   <div class="icon-temps-min"> {{page.temps_cuisson}} </div> min
   <br>
   <div class="icon-temps"> <div class="icon-temps_repos"></div>  temps de repos </div>
-  <div class="icon-temps-min"> {{page.temps_repos}} </div> min
+  {% if page.temps_repos | divided_by: 60  > 0 %}
+    <div class="icon-temps-min"> {{page.temps_repos | divided_by:60 }} </div> h
+  {% endif %}
+  {% if page.temps_repos | modulo: 60  > 0 %}
+    <div class="icon-temps-min"> {{page.temps_repos | modulo:60 }} </div> min
+  {% endif %}
+  <br>
+  <div class="icon-nbre"> <div class="icon-nbre_personn"></div> {{ page.nbre_personne | replace: "‘", '' | replace:  "’", ''}}</div>
   <br>
   <br>
   {{ content }}
