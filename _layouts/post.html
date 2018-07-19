@@ -16,23 +16,52 @@
     <span>{{ page.title }}</span>
   </div>
 
-  <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="page.title">
+  <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="pas encore d'image">
   <br>
   <br>
+
   <div class="icon-temps"> <div class="icon-temps_preparation"></div> temps preparation </div>
-  <div class="icon-temps-min"> {{page.temps_preparation}} </div> min
+  {% assign hours = page.temps_preparation | divided_by: 60 %}
+  {% if  hours  > 0 %}
+    <div class="icon-temps-min"> {{hours}} </div> h
+  {% endif %}
+  {% assign minutes = page.temps_preparation | modulo: 60 %}
+  {% if  minutes   > 0 %}
+    <div class="icon-temps-min"> {{minutes}} </div> min
+  {% endif %}
+  {% if  minutes  == 0  and hours == 0%}
+      <div class="icon-temps-min"> - </div>
+  {% endif %}
   <br>
+
   <div class="icon-temps"> <div class="icon-temps_cuisson"></div> temps de cuisson </div>
-  <div class="icon-temps-min"> {{page.temps_cuisson}} </div> min
+  {% assign hours = page.temps_cuisson | divided_by: 60 %}
+  {% if  hours  > 0 %}
+    <div class="icon-temps-min"> {{hours}} </div> h
+  {% endif %}
+  {% assign minutes = page.temps_cuisson | modulo: 60 %}
+  {% if  minutes   > 0 %}
+    <div class="icon-temps-min"> {{minutes}} </div> min
+  {% endif %}
+  {% if  minutes  == 0  and hours == 0%}
+      <div class="icon-temps-min"> - </div>
+  {% endif %}
   <br>
+
   <div class="icon-temps"> <div class="icon-temps_repos"></div>  temps de repos </div>
-  {% if page.temps_repos | divided_by: 60  > 0 %}
-    <div class="icon-temps-min"> {{page.temps_repos | divided_by:60 }} </div> h
+  {% assign hours = page.temps_repos | divided_by: 60 %}
+  {% if  hours  > 0 %}
+    <div class="icon-temps-min"> {{hours}} </div> h
   {% endif %}
-  {% if page.temps_repos | modulo: 60  > 0 %}
-    <div class="icon-temps-min"> {{page.temps_repos | modulo:60 }} </div> min
+  {% assign minutes = page.temps_repos | modulo: 60 %}
+  {% if  minutes   > 0 %}
+    <div class="icon-temps-min"> {{minutes}} </div> min
+  {% endif %}
+  {% if  minutes  == 0  and hours == 0%}
+      <div class="icon-temps-min"> - </div>
   {% endif %}
   <br>
+
   <div class="icon-nbre"> <div class="icon-nbre_personn"></div> {{ page.nbre_personne | replace: "‘", '' | replace:  "’", ''}}</div>
   <br>
   <br>

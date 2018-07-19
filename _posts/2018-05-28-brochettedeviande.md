@@ -43,12 +43,11 @@ Cette recette vient de Halima et Rkia (Rabat, Agadir)
 * Récupérer et hacher l'écorce du citron confit. Hacher les olives.
 * Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié du coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile d'arachide et du sel. Ajuster l'assaisonnement. Réserver au frais.
 * Cuire 5 mn les brochettes sur le barbecue très chaud.
-* Servir les brochettes avec le jus de la marinade, les différentes salades et les oeufs. Ne pas oublier le pain (kesra ou à défaut baguette). Proposer sel, poivre et cumin. 
-  
+* Servir les brochettes avec le jus de la marinade, les différentes salades et les oeufs. Ne pas oublier le pain (kesra ou à défaut baguette). Proposer sel, poivre et cumin.
+
 ### Vin
 Vin rouge (Bordeaux Franc Patarabet)
 
 ### Note
 * Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
-* On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même. 
-
+* On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.
