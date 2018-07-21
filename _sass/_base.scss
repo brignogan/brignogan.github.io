@@ -282,15 +282,10 @@ header {
                 height: 18%;
                 width: inherit;
                 padding-left: 10px;
-                /* Firefox */
-                display:-moz-box;
-                -moz-box-align:center;
 
-                display:box;
-                box-align:center;
-
-                display: -webkit-inline;
-                -webkit-box-align:center;
+                display:flex;
+                flex-direction: column;
+                justify-content: center;
 
                 text-transform: uppercase;
 
@@ -301,15 +296,10 @@ header {
                 height:80%;
                 width: inherit;
                 font-size: 16px;
-                /* Firefox */
-                display:-moz-inline;
-                -moz-box-align:start;
 
-                display:inline;
-                box-align:start;
-
-                display: -webkit-inline;
-                -webkit-box-align:start;
+                display:flex;
+                flex-direction: column;
+                justify-content: space-evenly;
 
                 p { text-align: center;
                     margin-left: 20px;
