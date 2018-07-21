@@ -581,7 +581,16 @@ body {
   mask-size: 50%;
   display: inline-block;
 }
-
+.icon-famille {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  -webkit-mask: url(../img/Famille/famille.svg) no-repeat center;
+  -webkit-mask-size: 100% 100%;
+  mask: url(../img/Famille/famille.svg) no-repeat center;
+  mask-size: 100%;
+  display: inline-block;
+}
 .icon-autriche {
   width: 100%;
   height: 100%;
