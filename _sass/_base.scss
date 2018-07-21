@@ -82,7 +82,6 @@ aside {
 }
 
 // Navigation
-
 .navbar-default {
     background-color: white;
     border-color: rgba($theme-dark, .5);
@@ -104,7 +103,7 @@ aside {
             > a:focus {
                 text-transform: uppercase;
                 font-weight: 700;
-                font-size: 13px;
+                font-size: 14px;
                 color: $theme-dark;
                 &:hover {
                     color: $theme-primary;
@@ -112,7 +111,7 @@ aside {
             }
             &.active {
                 > a,
-                > a:focus {
+                 a:focus {
                     color: $theme-primary !important;
                     background-color: transparent;
                     &:hover {
@@ -126,17 +125,17 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: white;
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-primary;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: white;
             &:hover {
-                color: white;
+                color: $theme-primary
             }
         }
         &.affix {
@@ -144,7 +143,7 @@ aside {
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
-                font-size: 14px;
+                font-size: 18px;
                 &:hover,
                 &:focus {
                     color: darken($theme-primary, 10%);
@@ -164,61 +163,50 @@ aside {
 // Homepage Header
 
 header {
-    position: relative;
     width: 100%;
-    min-height: auto;
+    height: 100%;
     @include background-cover;
-    background-position: center;
+    background-position: left;
     background-image: url('../img/header.jpg');
-    text-align: left;
     color: white;
+
     .header-content {
-        position: relative;
-        top:125px;
-        text-align: left;
-        padding: 100px 15px 100px;
-        width: 100%;
+        height: inherit;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-end;
+        padding-right: 25px;
+        padding-left: 20px;
+        padding-bottom: 20px;
         .header-content-inner {
             h1 {
-                font-weight: 700;
+                font-size:25px;
+                font-weight: 600;
                 text-transform: uppercase;
-                margin-top: 0;
-                margin-bottom: 0;
-            }
+                text-align: right;
+                max-width: 700px;}
             hr {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
                 color: white;
                 font-size: 20px;
-                font-weight: 700;
-                margin-bottom: 50px;
-                margin-left: 2px;
+                font-weight: 400;
+                text-align: right;
+                margin-bottom: 0;
             }
-}
+        }
     }
     @media (min-width: 768px) {
-        min-height: 100%;
+        background-position: center;
+        min-height: inherit;
         .header-content {
-            position: absolute;
-            top: 85%;
-            -webkit-transform: translateY(-50%);
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
-            padding: 0 50px;
             .header-content-inner {
-                max-width: 1000px;
-                margin-left: auto;
-                margin-right: auto;
+              h1{font-size:40px;
+                font-weight: 700}
                 p {
-                    font-size: 25px;
-                    max-width: 80%;
-                    //margin-left: 10px;
-                    margin-right: auto;
-                    font-weight: 700;
-                    margin-left: 2px;
-                    color: white;
+                    font-size: 30px;
                 }
             }
         }
@@ -604,7 +592,7 @@ body {
 .page-title {
   margin-left: 0px;
   vertical-align: middle;
-  margin-top: 25px;
+  margin-top: 40px;
   margin-bottom: 7px;
     span {font-size: 40px;
           line-height: 1.1;
