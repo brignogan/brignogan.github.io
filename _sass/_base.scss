@@ -20,6 +20,8 @@ hr.light {
 
 a {
     @include transition-all;
+  stroke-width:20;
+
     color: $theme-primary;
     &:hover,
     &:focus {
@@ -309,7 +311,10 @@ header {
                 display: -webkit-inline;
                 -webkit-box-align:start;
 
-                p { text-align: center;}
+                p { text-align: center;
+                    margin-left: 35px;
+                    margin-right: 35px;
+                  }
 
                 @media (max-width: 400px) {
                 font-size: 14px;
