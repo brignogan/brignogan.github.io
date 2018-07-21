@@ -312,8 +312,9 @@ header {
                 -webkit-box-align:start;
 
                 p { text-align: center;
-                    margin-left: 35px;
-                    margin-right: 35px;
+                    margin-left: 20px;
+                    margin-right: 20px;
+                    margin-bottom: 5px;
                   }
 
                 @media (max-width: 400px) {
@@ -425,7 +426,7 @@ header {
 }
 
 .btn-xl {
-    padding: 15px 30px;
+    padding: 7px 7px;
 }
 
 // Contact
