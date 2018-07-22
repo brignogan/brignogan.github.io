@@ -171,13 +171,13 @@ header {
     color: white;
 
     .header-content {
-        height: inherit;
+        height: 95%;
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
         align-items: flex-end;
-        padding-right: 25px;
-        padding-left: 20px;
+        padding-right: 10px;
+        padding-left: 10px;
         padding-bottom: 20px;
         .header-content-inner {
             h1 {
@@ -198,11 +198,21 @@ header {
             }
         }
     }
+    .header-arrow {
+      width:inherit;
+      height: 5%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      }
+
     @media (min-width: 768px) {
         background-position: center;
         min-height: inherit;
         .header-content {
-            .header-content-inner {
+            padding-left: 20px;
+             .header-content-inner {
               h1{font-size:40px;
                 font-weight: 700}
                 p {
@@ -540,6 +550,28 @@ body {
     height: 18px;
     -webkit-mask-size: 18px 18px;
     mask-size: 18px;
+    }
+  }
+}
+.icon-downbutton {
+  width: 50px;
+  height: 30px;
+  background-color: white;
+  -webkit-mask: url(../img/downbutton.svg) no-repeat center;
+  -webkit-mask-size: 30px 50px;
+  mask: url(../img/downbutton.svg) no-repeat center;
+  mask-size: 50px;
+  display: inline-block;
+  @media (max-width: 768px) {
+    width: 40px;
+    height: 30px;
+    -webkit-mask-size: 30px 40px;
+    mask-size: 40px;
+    @media (max-width: 400px) {
+    width:30px;
+    height: 30px;
+    -webkit-mask-size: 30px 30px;
+    mask-size: 30px;
     }
   }
 }
