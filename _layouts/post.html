@@ -10,11 +10,13 @@
 
   <div class="page-title" >
 
+    <div class="inner">
     <a href = "{{ site.url }}//{{page.tag_category}}/#tag" >
       <div class='icon-backbutton'> </div>
     </a>
+    </div>
 
-    <span> {{ page.title }} </span>
+    <div class="inner"> <span> {{ page.title }} </span> </div>
 
   </div>
 
@@ -66,10 +68,11 @@
 
   <div class="icon-nbre"> <div class="icon-nbre_personn"></div> {{ page.nbre_personne | replace: "‘", '' | replace:  "’", ''}}</div>
   <br>
-  <br>
+
   {{ content }}
 
   {% include scripts.html %}
+  <br>
 
   </section>
 

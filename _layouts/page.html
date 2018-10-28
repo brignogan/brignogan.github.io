@@ -9,11 +9,19 @@
   <section class="page-text"  id="tag">
 
   <div class="page-title">
+
+  <div class="inner">
     <a href = "{{ site.url }}/#services" >
       <div class='icon-backbutton'> </div>
     </a>
+  </div>
+
+  <div class="inner">
     <span>{{ page.title }}</span>
   </div>
+
+  <br>
+  <br>
 
   {% assign sortedPosts = site.posts | sort: 'title' %}
   {% assign subcat_sortedPosts = sortedPosts | where: 'tag_category',page.titlePost %}
@@ -59,7 +67,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','platViande' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Plat de Viande </h2>
+    <h2 class="page-title"> Plat de Viande </h2> 
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
