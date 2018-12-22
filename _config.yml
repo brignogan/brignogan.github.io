@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://brignogan.github.io" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: brignogan
 
 # Permalinks
 permalink:        pretty

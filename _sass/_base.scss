@@ -421,7 +421,8 @@ header {
 // Contact
 #contact .fa {
     color: $theme-dark;
-    font-size: 4em;
+    font-size: 3em;
+    vertical-align: inherit;
 }
 
 // Extras
@@ -641,6 +642,16 @@ body {
       h2 {font-size: 20px}
       }
   }
+
+.video-ronan{
+  display: inline-block;
+  width: 768px;
+  vertical-align:middle;
+  @media (max-width: 768px) {
+    width: 100%; }
+  @media (max-width: 400px) {
+    width: 100%;}
+}
 
 .inner{
   display: inline-block;
