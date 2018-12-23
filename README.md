@@ -2,7 +2,7 @@
 Ce site est une adaptation du template jekyll [Creative Theme](http://startbootstrap.com/template-overviews/creative/)
 
 #comment ajouter une recette dans
-cree un fichier text avec extension '.md' avec le format suivant (format markdown) .
+cree un fichier text avec extension `.md` avec le format markdown (voir example ci-dessous ou [ici](https://help.github.com/articles/basic-writing-and-formatting-syntax/)). Le fichier doir ensuite etre place dans le repertoire `_post`. le nom du fichier doit inclure la date de creation. Le nom du fichier reporte ci-dessous est par exemple `2018-06-23-kaiserschmarren.md`
 
 ```
 ---
@@ -47,13 +47,15 @@ C’est un dessert typiquement autrichien.
 
 les entrees des variables de l entete du fichier sont:
 ```
-layout: post
+---
+layout: post                            ne pas changer
 title: le titre de la recette
-tag_category: autriche, famille, bretagne, maroc
-tag_plat: na, sauce,entree,platViande,platPoisson,dessert
-image: img/recette/...  le fichier de l'image doit etre dans ce repertoire
-temps_preparation:  temps en minute ou '-' si pas pertinent
-temps_cuisson:      temps en minute ou '-' si pas pertinent
-temps_repos:        temps en minute ou '-' si pas pertinent
-nbre_personne:      chaine de charactere entre '' example 'pour 4 personnes'
+tag_category:                          a choisir entre: autriche, famille, bretagne, ou maroc
+tag_plat:                              a choisir entre: na, sauce,entree,platViande,platPoisson,dessert
+image: img/recette/xx                  le fichier de l'image doit etre dans ce repertoire
+temps_preparation: xx                  temps en minute ou '-' si pas pertinent
+temps_cuisson:     xx                  temps en minute ou '-' si pas pertinent
+temps_repos:       xx                  temps en minute ou '-' si pas pertinent
+nbre_personne:     xx                  chaine de charactere entre '' example 'pour 4 personnes'
+---
 ```
