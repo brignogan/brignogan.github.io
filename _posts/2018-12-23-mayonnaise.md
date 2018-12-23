@@ -10,13 +10,15 @@ temps_repos: ‘-‘
 nbre_personne: ‘-’
 ---
 ### Ingredients
-* 4 œufs
+* 1 œuf
+* 1/2 c. à s. de moutarde
+*  ¼ L d’huile de tournesol (voir la video)
 
 ### Preparation
 {% include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
 
 ### Vin
-ce marie mieux avec du poisson ou des legumes
+se marie mieux avec du poisson, des legumes, ou de la viande froide.
 
 ### Note
 jeu d'acteur de guigui
