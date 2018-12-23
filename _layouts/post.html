@@ -20,8 +20,10 @@
 
   </div>
 
-  <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="pas encore d'image">
-  <br>
+  {% if  {{page.image}} != "pas d'image"%}
+    <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="pas encore d'image">
+    <br>
+  {% endif %}
   <br>
 
   <div class="icon-temps"> <div class="icon-temps_preparation"></div> temps preparation </div>
