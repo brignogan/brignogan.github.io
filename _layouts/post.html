@@ -19,8 +19,7 @@
     <div class="inner"> <span> {{ page.title }} </span> </div>
 
   </div>
-
-  {% if  {{page.image}} != "pas d'image"%}
+  {% if  page.image != "pas d'image" %}
     <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="pas encore d'image">
     <br>
   {% endif %}
