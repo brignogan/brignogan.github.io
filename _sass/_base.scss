@@ -653,6 +653,14 @@ body {
     width: 100%;}
 }
 
+.post-content{
+  margin-top: 20px;
+  li{margin-bottom: 8px}
+  max-width: 768px;
+  @media (max-width: 768px) {
+    margin-right: 40px; }
+}
+
 .inner{
   display: inline-block;
   max-width: 90%;
