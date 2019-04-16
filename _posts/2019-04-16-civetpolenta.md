@@ -40,9 +40,8 @@ Pendant ce temps :
 
 
 ### Vin
-Corbière : Château Romilhac
-
-Chateauneuf du Pape : Boisrenard ou Beaurenard
+- Corbière : Château Romilhac
+- Chateauneuf du Pape : Boisrenard ou Beaurenard
 
 
 ### Note
