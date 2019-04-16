@@ -33,6 +33,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * Laisser cuire doucement à couvert pendant 1h½ .
 
 Pendant ce temps :
+
 * Faire bouillir le lait salé.
 * Jeter en pluie la polenta dans le lait bouillant tout en remuant. Maintenir à feu doux pendant 5 mn, en mélangeant constamment, jusqu’à ce que la polenta se détache des parois.
 * Huiler un moule à baba, le remplir avec le gateau de polenta bien chaud. Déposer le moule dans une casserole d’eau frémissante pour garder la polenta au chaud.
