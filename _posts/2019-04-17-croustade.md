@@ -37,7 +37,7 @@ Cette recette vient de Babette (Montréal, Québec)
 
 ### Vins
 * Macvin du Jura blanc (Domaine de Savigny)
-* Gewurtztraminer (Léon Baur)
+* Gewurtztraminer (Léon Baur ou Wolfberger, Eiguisheim))
 
 
 ### Notes
