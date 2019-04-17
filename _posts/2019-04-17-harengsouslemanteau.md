@@ -2,7 +2,7 @@
 layout: post
 title: hareng sous le manteau
 tag_category: famille
-tag_plat: entrée
+tag_plat: entree
 image: img/recette/hareng.png
 temps_preparation: 90
 temps_cuisson: '-'
