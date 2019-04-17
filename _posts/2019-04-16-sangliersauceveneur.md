@@ -53,13 +53,11 @@ Cette recette vient de Renée.
 
 Servir le rôti avec des marrons et une purée de céleri.
 
-
-
-### Vin
+### Vins
 * Côtes Rôties : Guigal, Chateau d’Ampuis
 * Chateauneuf du Pape : Boirenard ou Beaurenard
 * Hermitage rouge : Cave de Tain
 
 
-### Note
+### Notes
 * Cette recette a été inaugurée avec un rôti de sanglier offert par les collègues chasseurs de Maëlle sur le barrage de Castillon dans les Alpes de Haute-Provence.  
