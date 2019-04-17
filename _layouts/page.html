@@ -55,7 +55,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','entree' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Entree </h2>
+    <h2 class="page-title"> Entrée </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
@@ -67,7 +67,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','platViande' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Plat de Viande </h2> 
+    <h2 class="page-title"> Plat de Viande </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>

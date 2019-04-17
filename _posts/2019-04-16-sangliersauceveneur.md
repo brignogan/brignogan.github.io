@@ -15,7 +15,7 @@ Cette recette vient de Renée.
 * 1 rôti de sanglier de 1,2 kg‬‬‬‬‬ (un cuissot de sanglier désossé et roulé)
 * les os du cuissot‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬ (des os de bœuf si le rôti est déjà préparé)
 
-Pour la marinade :
+#### Pour la marinade :
 * 1 litre de vin rouge de bordeaux
 * 1 bouquet garni
 * 1 petit oignon
@@ -24,7 +24,7 @@ Pour la marinade :
 * 2 carottes
 * poivre‬ (pas de sel)
 
-Pour la sauce :
+#### Pour la sauce :
 * huile d’olive‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 * sel
 * vinaigre de cidre
@@ -34,16 +34,16 @@ Pour la sauce :
 * crème fraîche épaisse‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 
 
-### Preparation
-Marinade :
+### Préparation
+#### Marinade :
 * Mélanger les ingrédients de la marinade. Mettre le rôti à mariner dans cette préparation pendant 24h.
 * Au bout de ce temps, égoutter le rôti
 
-Cuisson du rôti :
+#### Cuisson du rôti :
 * Pour un rôti d’1,2 kg, préchauffer le four à 160°.
 * Saler le rôti puis le faire cuire 2h en le retournant toutes les demi heures et en l’arrosant régulièrement.
 
-Sauce :
+#### Sauce :
 * Dans une sauteuse, faire revenir les os dans l’huile d’olive. Ajouter les légumes de la marinade et faire revenir pendant 10 minutes
 * Déglacer au vinaigre de cidre puis ajouter 50 cL de marinade et 50 cL de fond de volaille, saler.
 * Laisser mijoter pendant 1h30 à couvert.
