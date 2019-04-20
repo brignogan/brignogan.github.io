@@ -13,9 +13,9 @@ nbre_personne: ‘pour deux douzaines de crêpes’
 Cette recette vient de Berthe Riou (Ploudaniel)
 
 ### Ingrédients
-* 500 g de farine de froment 
+* 500 g de farine de froment
 * 1 c. à s. de farine de sarrasin
-* 4 œufs 
+* 4 œufs
 * 150 g de sucre
 * 125 g de beurre ½ sel
 * 1 L ¼  de lait entier
@@ -32,7 +32,7 @@ Cette recette vient de Berthe Riou (Ploudaniel)
 * Si on veut fourrer ces crêpes, en fin de cuisson, ajouter la garniture : confiture, sirop d’érable, fruits cuits (pomme, banane), amandes, glace,…
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug
+Cidre de Fouesnant brut : Séhédic ou Menez Brug.
 
 ### Note
 * Berthe Riou était une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée.

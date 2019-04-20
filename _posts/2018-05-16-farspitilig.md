@@ -11,17 +11,18 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Grand-Mère Ploudaniel.
 
-### Ingredients
+### Ingrédients
 * 125 g de farine de froment
 * 75 g de sucre
 * 4 œufs
 * ½ L de lait
 * Beurre ½ sel
 
-### Preparation
+### Préparation
 * Ajouter les oeufs et le sucre à la farine disposée en fontaine.
 * Bien mélanger puis ajouter petit à petit le lait.
-* Pour une galette :
+
+Pour une galette :
 * Faire fondre une noix de beurre dans la poêle.
 * Quand il commence à roussir, y verser une ou deux louchées de pâte (suivant l’épaisseur de galette que l’on désire) en agitant avec la cuillère en bois. Quand la pâte commence à bien se former en gros grumeaux, ramener la pâte au centre de la poêle et aplatir les boules.
 * Laisser “prendre”.

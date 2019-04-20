@@ -11,14 +11,14 @@ nbre_personne: ‘pour 6 personnes’
 ---
 Cette recette vient de Xavier et Bleuenn (Bénodet).
 
-### Ingredients
+### Ingrédients
 * 500 g de farine de froment
 * 30 g de levure de boulanger
 * 400 g d’eau tiède
 * 250 g de beurre ½ sel
 * 125 g de sucre
 
-### Preparation
+### Préparation
 * Sur une planche à pâtisserie verser la farine et faire une fontaine au milieu, verser l’eau tiède dans laquelle la levure a été dissoute, ajouter une pincée de sel.
 * Pétrir le tout. La pâte doit faire une boule et se détacher facilement des doigts. Suivant qu’elle est trop molle ou trop dure, ajouter de la farine ou de l’eau.
 * Laisser reposer 2h.
@@ -28,7 +28,7 @@ Cette recette vient de Xavier et Bleuenn (Bénodet).
 * Servir bien chaud saupoudré de sucre.
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug
+Cidre de Fouesnant brut : Séhédic ou Menez Brug.
 
 ### Note
 Le kouign amann est une gâteau originaire de Douarnenez et donc une spécialité du Finistère sud.

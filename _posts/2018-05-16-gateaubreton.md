@@ -11,7 +11,7 @@ nbre_personne: ‘pour 8 personnes’
 ---
 Cette recette vient de Jean Olivier (Concarneau).
 
-### Ingredients
+### Ingrédients
 * 200 g de beurre ½ sel mou
 * 4 ou 5 œufs
 * 250 g de sucre en poudre
@@ -19,7 +19,7 @@ Cette recette vient de Jean Olivier (Concarneau).
 * 1 verre de rhum
 * 1 sachet de sucre vanillé
 
-### Preparation
+### Préparation
 * Chauffer le four à 200°C.
 * Mélanger, dans un premier temps, le sucre, le rhum, les jaunes d’œuf.
 * A ce mélange jaunâtre, ajouter le beurre préalablement ramolli (en le laissant par exemple une nuit à température ambiante) et malaxer le tout pour obtenir un mélange homogène.
@@ -30,8 +30,8 @@ Cette recette vient de Jean Olivier (Concarneau).
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug
-ou lait ribot
+Cidre de Fouesnant brut : Séhédic ou Menez Brug.
+Plus typique : lait ribot.
 
 ### Note
 Les parents de Jean Ollivier tenaient une boulangerie à Penanguer, un quartier de Concarneau.
