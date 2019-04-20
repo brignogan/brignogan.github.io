@@ -27,6 +27,7 @@ Cette recette vient de Jacqueline (Bures-sur-Yvette)
 * 10 olives vertes dénoyautées
 * 1 c. à s. de câpres
 * 2 c. à s. d’œufs de lump
+
 Pour la sauce :
 * 1 jaune d’œuf
 * 1 c. à s. de moutarde
