@@ -30,8 +30,8 @@ Cette recette vient de Jean Olivier (Concarneau).
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug.
-Plus typique : lait ribot.
+Cidre de Fouesnant brut : Séhédic ou Menez Brug
+Plus typique : lait ribot
 
 ### Note
 Les parents de Jean Ollivier tenaient une boulangerie à Penanguer, un quartier de Concarneau.

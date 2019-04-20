@@ -28,7 +28,7 @@ Cette recette vient de Xavier et Bleuenn (Bénodet).
 * Servir bien chaud saupoudré de sucre.
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug.
+Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Note
 Le kouign amann est une gâteau originaire de Douarnenez et donc une spécialité du Finistère sud.

@@ -11,7 +11,7 @@ nbre_personne: ‘pour 5-6 personnes’
 ---
 Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. La cuisson du fars nécessite un sac en toile appelé « sac à fars ».
 
-### Ingredients
+### Ingrédients
 * 350 g de petit salé
 * 350 g de poitrine fumée
 * 1 jarret de porc ½ sel (800 g)
@@ -22,12 +22,12 @@ Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle d
 * 2 oignons
 * 1 petit chou (facultatif)
 * 6 pommes de terre (facultatif)
-* pour le fars noir : 350 g de farine de blé noir, 1 oeuf entier, 25 cL de crème fraîche liquide, 100 g de beurre ½ sel, 300-350 cc de lait 
+* pour le fars noir : 350 g de farine de blé noir, 1 oeuf entier, 25 cL de crème fraîche liquide, 100 g de beurre ½ sel, 300-350 cc de lait
 * pour le fars blanc (optionnel) : 250 g de farine de froment, 2 oeufs entiers, 30 g de sucre, 300 cc de lait, 2 ou 3 pruneaux (facultatif).
-* pour le lipig : 100 g de beurre ½ sel, 6 échalotes 
+* pour le lipig : 100 g de beurre ½ sel, 6 échalotes
 * sel, poivre
 
-### Preparation
+### Préparation
 * Dans la cocotte minute, mettre la viande de boeuf et l'os dans de l'eau froide légèrement salée (le petit salé ajouté ultérieurement peut rendre le bouillon trop salé). Faire bouillir. Eplucher les oignons et les ajouter à la viande. Fermer la cocotte et faire cuire 45 mn.
 * En même temps, mettre à bouillir de l'eau dans une grande casserole. Ne pas saler. Y plonger la poitrine fumée qui doit cuire 1h1/2 à petits bouillons et à couvert. Surveiller le niveau de l'eau qui doit toujours recouvrir la poitrine (pour éviter l’évaporation dans la casserole, verser de l’eau et en maintenir suffisamment sur le couvercle).
 * Eplucher les carottes, les panais et nettoyer les poireaux et éventuellement le chou et les pommes de terre.
@@ -45,4 +45,4 @@ Saint Emilion : Chateau Franc Patarabet
 * Le Kig ha fars est un plat typiquement léonard.
 * Grand Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
 * L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand Mère St Pierre. Elle y ajoutait le chou mais pas les pommes de terre. A St Pierre, on mangeait le fars noir en tranche (style béton armé !… pas du tout apprécié à Ploudaniel).
-* Le fars blanc était dans la recette de Mémé et donc originaire de Plouzané. 
+* Le fars blanc était dans la recette de Mémé et donc originaire de Plouzané.
