@@ -27,8 +27,7 @@ Cette recette vient de Jacqueline (Bures-sur-Yvette)
 * 10 olives vertes dénoyautées
 * 1 c. à s. de câpres
 * 2 c. à s. d’œufs de lump
-
-###Pour la sauce :
+Pour la sauce :
 * 1 jaune d’œuf
 * 1 c. à s. de moutarde
 * 75 mL d’huile
@@ -46,12 +45,9 @@ Cette recette vient de Jacqueline (Bures-sur-Yvette)
 * Presser un citron. Eplucher la pomme et l’avocat et les couper en dés. Les mélanger au jus de citron
 * Dans un saladier en verre, disposer en couches successives : la pomme, la moitié du poivron, les endives, l’avocat, l’orange, les raisins, le fenouil, les noix, la moitié du poivron, l’oignon, les câpres, les œufs de lump.
 * Décorer avec le saumon, les olives et les œufs. Verser sur la salade le jus de citron.
-
-####Préparer la sauce :
-Faire une mayonnaise salée puis y incorporer le yaourt, , le ketchup, la sauce Worcester, le whisky et un trait de tabasco.  
-
-#### Présenter le saladier et la sauce à part. Ajouter la sauce et mélanger le tout sur la table juste au moment de servir.
+* Préparer la sauce : faire une mayonnaise salée puis y incorporer le yaourt, , le ketchup, la sauce Worcester, le whisky et un trait de tabasco.  
+* Présenter le saladier et la sauce à part. Ajouter la sauce et mélanger le tout sur la table juste au moment de servir.
 
 
 ### Vin
-* 
+*
