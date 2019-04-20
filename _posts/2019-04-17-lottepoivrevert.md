@@ -2,7 +2,7 @@
 layout: post
 title: lotte au poivre vert
 tag_category: famille
-tag_plat: entree
+tag_plat: platPoisson
 image: img/recette/lotte.png
 temps_preparation: 20
 temps_cuisson: 40
@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Michelle (Penmarc'h)
 
-### Ingredients
+### Ingrédients
 * 600 g de lotte environ
 * 4 échalotes
 * 1 branche de céleri
@@ -26,7 +26,7 @@ Cette recette vient de Michelle (Penmarc'h)
 * Sel, poivre, persil
 
 
-### Preparation
+### Préparation
 * Couper la lotte en morceaux
 * Préparer les légumes: laver, et couper carottes, céleri et échalote en julienne (= fins bâtonnets)
 * Graisser le plat
