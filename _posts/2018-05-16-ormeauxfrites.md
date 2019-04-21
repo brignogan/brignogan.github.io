@@ -3,7 +3,7 @@ layout: post
 title: Ormeaux poêlés frites
 tag_category: bretagne
 tag_plat: platPoisson
-image: img/recette/ormeaux.png
+image: img/recette/ormeau2.png
 temps_preparation: 45
 temps_cuisson: 20
 temps_repos: 72 h
