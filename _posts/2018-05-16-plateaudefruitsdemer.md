@@ -2,7 +2,7 @@
 layout: post
 title: Plateau de fruits de mer
 tag_category: bretagne
-tag_plat: na
+tag_plat: platPoisson
 image: img/recette/fruits-de-mer.png
 temps_preparation: 60
 temps_cuisson: 45
@@ -11,7 +11,7 @@ nbre_personne: ‘pour 2 personnes’
 ---
 Cette recette vient de Renée (Coat Tanguy).
 
-### Ingredients
+### Ingrédients
 * 2 douzaines d'huîtres plates n°2
 * 12 langoustines
 * 150 g de bouquets
@@ -27,7 +27,7 @@ Cette recette vient de Renée (Coat Tanguy).
 * beurre ½ sel
 * sel fin, poivre
 
-### Preparation
+### Préparation
 * Cuisson des crevettes : Faire bouillir de l'eau peu salée. Y plonger les crevettes et compter 30 sec à 1 mn après le retour d'un bon frémissement. Egoutter aussitôt et étaler les crevettes sur un torchon pour refroidir. Saupoudrer de sel fin ½h avant de les servir.
 * Cuisson des bigorneaux : Laver les bigorneaux à l'eau froide. Les placer dans une casserole. Dissoudre une grosse cuillerée à café de gros sel dans un peu d’eau froide et verser sur les bigorneaux puis ajouter de l’eau pour les recouvrir. Ajouter l'échalote couper en 4, le persil, la feuille de laurier, une noix de beurre et poivrer largement. Mettre la casserole sur le feu et arrêter la cuisson quand le bouillon s'est bien installé. Egoutter aussitôt et laisser refroidir. Fournir des piques pour le décorticage.
 * Cuisson des langoustines : Faire bouillir une grande casserole d'eau bien salée. Y plonger les langoustines et compter 2 mn quand l'écume tend à déborder. Egoutter aussitôt et laisser refroidir. Fournir des curettes pour le décorticage. Servir avec de la mayonnaise.
@@ -35,9 +35,8 @@ Cette recette vient de Renée (Coat Tanguy).
 * Préparation des huîtres : Ouvrir les coquillages juste avant de les servir. Jeter leur eau (ils redonneront rapidement une nouvelle eau). Servir avec un citron couper en 4 et/ou une sauce préparée avec une échalote hachée et du vinaigre.
 
 ### Vin
-Vin blanc (Daumas Gassac, Jasnière, Menetou Salon)
+Vin blanc : Daumas Gassac, Jasnière, Menetou Salon
 
 ### Note
 * Le plateau de fruits de mer se sert accompagné de pain blanc et de pain noir (seigle ou blé noir) et du beurre salé avec des cristaux de sel de Guérande.
 * Il n'est pas question de décortiquer à l'avance ces fruits de mer. Chacun s'y colle, ça fait partie du plaisir… il ne faut donc pas oublier de fournir à table une poubelle et un rince-doigt (un saladier d'eau chaude avec un morceau de citron).
-

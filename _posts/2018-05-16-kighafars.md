@@ -2,7 +2,7 @@
 layout: post
 title: Kig ha fars
 tag_category: bretagne
-tag_plat: na
+tag_plat: platViande
 image: img/recette/kig-a-fars.png
 temps_preparation: 30
 temps_cuisson: 90
@@ -39,7 +39,7 @@ Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle d
 * Allonger le lipig avec un peu de bouillon.   
 
 ### Vin
-Saint Emilion : Chateau Franc Patarabet
+Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
 ### Note
 * Le Kig ha fars est un plat typiquement léonard.

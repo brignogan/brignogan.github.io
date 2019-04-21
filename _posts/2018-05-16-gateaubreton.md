@@ -2,7 +2,7 @@
 layout: post
 title: Gâteau breton
 tag_category: bretagne
-tag_plat: na
+tag_plat: dessert
 image: img/recette/gateau-breton.png
 temps_preparation: 30
 temps_cuisson: 30

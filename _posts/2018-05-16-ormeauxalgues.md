@@ -2,7 +2,7 @@
 layout: post
 title: Ormeaux sauce aux algues
 tag_category: bretagne
-tag_plat: na
+tag_plat: platPoisson
 image: img/recette/ormeaux.png
 temps_preparation: 45
 temps_cuisson: 40
@@ -37,7 +37,7 @@ Cette recette est inspirée de celle de Olivier Roellinger (Cancale) et simplifi
 * Servir les ormeaux, saupoudré de quelques cristaux de gros sel, avec le hachis de barbillons et d’algues et l’écrasé de pommes de terre. Napper de sauce.  
 
 ### Vin
-Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
+Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Note
 Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.

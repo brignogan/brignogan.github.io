@@ -2,7 +2,7 @@
 layout: post
 title: Fars pitilig
 tag_category: bretagne
-tag_plat: na
+tag_plat: dessert
 image: img/recette/fars-pitilig.png
 temps_preparation: 10
 temps_cuisson: 5
@@ -32,7 +32,7 @@ Pour une galette :
 
 ### Vin
 Cidre de Fouesnant brut : Séhédic ou Menez Brug
-ou lait ribot
+Plus typique : lait ribot
 
 ### Note
 * Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand Mère !

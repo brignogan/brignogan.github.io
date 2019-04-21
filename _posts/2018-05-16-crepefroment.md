@@ -2,7 +2,7 @@
 layout: post
 title: Crêpes de froment
 tag_category: bretagne
-tag_plat: na
+tag_plat: dessert
 image: img/recette/crepe-froment.png
 temps_preparation: 20
 temps_cuisson: 2

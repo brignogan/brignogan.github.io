@@ -2,7 +2,7 @@
 layout: post
 title: Crêpes de blé noir
 tag_category: bretagne
-tag_plat: na
+tag_plat: platViande
 image: img/recette/crepe-ble-noir.png
 temps_preparation: 10
 temps_cuisson: 2

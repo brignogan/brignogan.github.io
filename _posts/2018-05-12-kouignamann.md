@@ -2,7 +2,7 @@
 layout: post
 title: Kouign amann
 tag_category: bretagne
-tag_plat: na
+tag_plat: dessert
 image: img/recette/kouign-amann.png
 temps_preparation: 30
 temps_cuisson: 45

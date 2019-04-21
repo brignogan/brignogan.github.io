@@ -2,7 +2,7 @@
 layout: post
 title: Saint Jacques sauce agrumes
 tag_category: bretagne
-tag_plat: na
+tag_plat: platPoisson
 image: img/recette/saintjacques.png
 temps_preparation: 30
 temps_cuisson: 30
@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Renée et Ronan (Coat Tanguy).
 
-### Ingredients
+### Ingrédients
 * 16 noix de Saint Jacques
 * les barbes de Saint Jacques
 * 60 g de beurre ½ sel
@@ -28,7 +28,7 @@ Cette recette vient de Renée et Ronan (Coat Tanguy).
 * riz basmati
 * sel fin, poivre
 
-### Preparation
+### Préparation
 * Préparation du fumet : Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre , le rhum et le vin blanc. Verser alors le fond de volaille et le jus des agrumes puis laisser frémir pendant 1/2 heure. L’appareil doit réduire de moitié.
 * Faire blanchir 5 mn dans de l’eau bouillante la julienne d’écorce d’orange.
 * Faire cuire le riz.
@@ -39,9 +39,8 @@ Cette recette vient de Renée et Ronan (Coat Tanguy).
 * Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
 ### Vin
-Vin blanc (Daumas Gassac, Lirac-Domaine de la Mordorée)
+Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Note
 * Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
 * On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des Saint Jacques.
-

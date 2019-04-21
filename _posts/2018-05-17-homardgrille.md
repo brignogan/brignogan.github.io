@@ -2,7 +2,7 @@
 layout: post
 title: Homard grillé
 tag_category: bretagne
-tag_plat: na
+tag_plat: platPoisson
 image: img/recette/homardgrille.png
 temps_preparation: 60
 temps_cuisson: 17
@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de la « biblio ».
 
-### Ingredients
+### Ingrédients
 * 2 homards de 1,2 kg chacun (ou 4 homards de 600 g)
 * 5 cL de calvados
 * 40 cL de crème liquide
@@ -20,7 +20,7 @@ Cette recette vient de la « biblio ».
 * riz basmati
 * sel fin, poivre
 
-### Preparation
+### Préparation
 * Cuire les homards dans l’eau bouillante salée et bien poivrée pendant 5 mn.
 * Sur une planche, couper les homards en deux : commencer au couteau sur le dessus de la tête vers l’avant jusqu’au rostre, puis le dessous de la queue vers l’arrière, couper aux ciseaux la carapace de la queue en remontant vers la tête puis le dessous de la tête. Débarrasser les poches à sable. Récupérer le suc (et le corail vert si c’est une femelle).
 * Mélanger le suc et le corail au beurre, ajouter le calva.
@@ -33,7 +33,7 @@ Cette recette vient de la « biblio ».
 * Servir aussitôt avec le riz.
 
 ### Vin
-Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée)
+Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Note
 Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
