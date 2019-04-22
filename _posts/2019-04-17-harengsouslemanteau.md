@@ -45,7 +45,7 @@ Laisser reposer au frigo au moins deux heures.
 
 
 ### Vin
-* typiquement : un petit verre de vodka.
+* Typiquement : un petit verre de vodka.
 * Vin blanc : Jasnière ou Daumas Gassac.
 
 ### Note

@@ -51,4 +51,4 @@ Pour la sauce :
 
 
 ### Vin
-* vin blanc : Jasnière ou Daumas Gassac
+Vin blanc : Jasnière ou Daumas Gassac
