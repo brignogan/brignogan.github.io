@@ -4,7 +4,7 @@ title: salade hivernale
 tag_category: famille
 tag_plat: entree
 image: img/recette/saladehivernale.png
-temps_preparation: 40
+temps_preparation: 60
 temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
