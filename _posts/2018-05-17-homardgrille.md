@@ -13,7 +13,7 @@ Cette recette vient de la « biblio ».
 
 ### Ingrédients
 * 2 homards de 1,2 kg chacun (ou 4 homards de 600 g)
-* 5 cL de calvados
+* 1 "bonne" c. à s. de calvados (ou lambic)
 * 40 cL de crème liquide
 * 160 g de beurre ½ sel en pommade
 * 1 citron
@@ -27,7 +27,7 @@ Cette recette vient de la « biblio ».
 * Briser les pinces (recouvertes d’un torchon) d’un coup de maillet. Déposer les demi-homards sur la lèchefrite.
 * Faire chauffer le gril du four.
 * Porter la crème à ébullition. Retirer du feu et ajouter le beurre/corail au fouet pour faire monter. Ajouter le jus de citron petit à petit et ajuster la quantité au goût. Rectifier l’assaisonnement si nécessaire.
-* faire cuire le riz.
+* Faire cuire le riz.
 * Donner un tour de moulin à poivre sur les demi-homards. Napper la chair et les pinces avec la sauce (insister sur les cassures pour faire pénétrer la crème dans les pinces). Placer sous le gril.
 * Cuire pendant 12 mn jusqu’à ce que les homards prennent une bonne couleur, en arrosant souvent (toutes les 2 mn).
 * Servir aussitôt avec le riz.
@@ -36,4 +36,6 @@ Cette recette vient de la « biblio ».
 Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Note
-Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
+* Les homards (s'ils sont bien vivants) peuvent se garder, sans problème, 2-3 jours bien à plat dans un bac en bas du réfrigérateur, recouverts d'un torchon humide. Vérifier chaque jour qu'ils sont bien vivants, sinon les cuire aussitôt (point 1).
+* La préparation peut se faire en deux temps. La veille (par exemple), procéder aux 4 premiers points de la recette et recouvrir d'un film les homards dans la lèchefrite. Conserver au réfrigérateur. Garder le mélange beurre/corail à température ambiante pour que le beurre reste en pommade. Poursuivre la préparation le lendemain.   
+* Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
