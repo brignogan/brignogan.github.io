@@ -30,4 +30,4 @@ On doit obtenir à peu près le même volume de chaque légume.
 
 ### Vin
 Vin blanc : Jasnière ou Daumas Gassac
-Vin rosé : Cuvée Jacqueline
+Vin rosé : Côtes de Provence (Domaine Troin-Cuvée Jacqueline)
