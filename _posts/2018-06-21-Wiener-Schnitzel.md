@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wiener Schnitzel
+title: Wiener Schnitzel (escalope viennoise)
 tag_category: autriche
 tag_plat: na
 image: img/recette/Wiener-schnitzel.png
@@ -20,10 +20,10 @@ Cette recette vient de Maëlle (Vienne)
 * Les passer dans la farine, puis dans l’œuf entier battu, enfin dans la chapelure.
 * Dans une grande poêle à fond épais, faire revenir les escalopes dans un bon cm d'huile. Retourner l'escalope quand le premier coté est bien doré. Veiller à ce que l'huile ne soit pas trop chaude, et ne pas hésiter à changer l'huile régulièrement, si on fait plusieurs escalopes, pour éviter que les dernières escalopes ne noircissent.
 * Maintenir les escalopes au chaud dans le four à basse température, recouvert d'une feuille d'aluminium pour éviter qu'elles ne se dessèchent.
-* Servir avec un quartier de citron frais que chaque convive pressera dans son assiette à loisir. Accompagner avec une Erdäpfel Salat et de la mâche. 
+* Servir avec un quartier de citron frais que chaque convive pressera dans son assiette à loisir. Accompagner avec une Erdäpfel Salat et de la mâche.
 ### Vin
 * Bière
-* vin rosé :  
+* Vin rosé : Bandol (Domaine Guilhem Tournier-Cuvée La Malissone)
 
 ### Note
 C’est évidemment la recette typique de Vienne.  

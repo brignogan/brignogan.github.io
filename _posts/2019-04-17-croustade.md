@@ -1,6 +1,6 @@
 ---
 layout: post
-title: croustade à la rhubarbe, framboise et cassis
+title: Croustade à la rhubarbe, framboise et cassis
 tag_category: famille
 tag_plat: dessert
 image: img/recette/croustade.png

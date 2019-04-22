@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macédoine de légumes
+title: Macédoine de légumes
 tag_category: famille
 tag_plat: entree
 image: img/recette/saladehivernale.png

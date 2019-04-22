@@ -1,6 +1,6 @@
 ---
 layout: post
-title: salade hivernale
+title: Salade hivernale
 tag_category: famille
 tag_plat: entree
 image: img/recette/saladehivernale.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: civet de lapin à la polenta
+title: Civet de lapin à la polenta
 tag_category: famille
 tag_plat: platViande
 image: img/recette/civet.png

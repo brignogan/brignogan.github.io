@@ -1,6 +1,6 @@
 ---
 layout: post
-title: rôti de sanglier sauce grand veneur
+title: Rôti de sanglier sauce grand veneur
 tag_category: famille
 tag_plat: platViande
 image: img/recette/sanglierveneur.png

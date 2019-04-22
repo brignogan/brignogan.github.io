@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lotte au poivre vert
+title: Lotte au poivre vert
 tag_category: famille
 tag_plat: platPoisson
 image: img/recette/lotte.png
