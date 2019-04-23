@@ -3,7 +3,7 @@ layout: post
 title: Macédoine de légumes
 tag_category: famille
 tag_plat: entree
-image: img/recette/saladehivernale.png
+image: img/recette/macédoine.png
 temps_preparation: 40
 temps_cuisson: '-'
 temps_repos: '-'
