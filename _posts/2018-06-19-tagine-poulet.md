@@ -29,9 +29,9 @@ Cette recette vient de Rkia (Agadir)
 * Hacher très fin le coriandre, le persil et l’ail pour obtenir 2 c. à s. de mélange.
 * Mettre dans le tagine (ou un plat creux) un verre d’huile, le mélange précédent, le safran, le gingembre, le colorant, du sel et du poivre et le jus du 1/2 citron. Bien mélanger. En enduire le poulet entier intérieur et extérieur.
 * Faire rôtir le poulet au four (1h30 à 180°C).
-* Couper les abats et l'écorce de citron confit en petits morceaux. Faire revenir dans un peu d'huile, dans une petite casserole, puis cuire doucement.
+* Couper les abats et l'écorce de citron confit en petits morceaux. Faire revenir dans un peu d'huile, dans une petite casserole, et cuire doucement.
 * Cuire le riz.
-* Quand le poulet est cuit, le sortir du four, le découper et disposer les morceaux dans le tajine. A la garniture abats+foie+citron confit, ajouter le jus de cuisson du poulet et les olives. Réchauffer bien le tout et verser sur le poulet. Laisser mijoter à couvert jusqu'au service.
+* Quand le poulet est cuit, le sortir du four, le découper et disposer les morceaux dans le tajine. A la garniture abats+citron confit, ajouter le jus de cuisson du poulet et les olives. Réchauffer bien le tout et verser sur le poulet. Laisser mijoter à couvert jusqu'au service.
 Servir le tajine accompagné du riz.
 
 ### Vin
