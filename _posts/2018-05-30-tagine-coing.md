@@ -36,7 +36,7 @@ Cette recette vient de Rkia (Agadir)
 * Pendant la cuisson de la viande, couper les coings en quatre et ôter le coeur (ne pas les éplucher), les mettre à tremper dans de l’eau citronnée pour qu’ils ne s’oxydent pas.
 * Les faire cuire dans de l’eau bouillante. Bien surveiller la cuisson en piquant régulièrement chaque quartier avec une pointe de couteau. Sortir et réserver les quartiers dès qu’ils sont juste cuits. Attention : ils ne cuisent pas tous à la même vitesse.
 * Quand ils sont tous cuits, les remettre dans la casserole contenant à peu près 100 mL d’eau. Ajouter le sucre et la cannelle et faire cuire à feu doux pour que la sauce caramélise légèrement. Ajouter de l’eau si besoin et remuer délicatement les coings pour qu’ils soient bien enrobés de la sauce. Garder au chaud et si besoin ajouter encore de l'eau pour maintenir la consistance de la sauce.
-* Servir la viande dans le tagine. Disposer les coings au-dessus. Traditionnellement, le tagine se mange avec du kesra (pain plat marocain).
+* Au moment de servir, disposer les coings sur la viande. Traditionnellement, le tagine se mange avec du kesra (pain plat marocain).
 
 ### Vin
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)

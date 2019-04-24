@@ -32,7 +32,7 @@ Cette recette vient de Rkia (Agadir)
 * Couper les abats et l'écorce de citron confit en petits morceaux. Faire revenir dans un peu d'huile, dans une petite casserole, et cuire doucement.
 * Cuire le riz.
 * Quand le poulet est cuit, le sortir du four, le découper et disposer les morceaux dans le tajine. A la garniture abats+citron confit, ajouter le jus de cuisson du poulet et les olives. Réchauffer bien le tout et verser sur le poulet. Laisser mijoter à couvert jusqu'au service.
-Servir le tajine accompagné du riz.
+* Servir le tajine accompagné du riz.
 
 ### Vin
 Vin blanc sec : Graves (Pessac-Léonan-Domaine de La Solitude)
