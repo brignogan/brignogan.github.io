@@ -2,7 +2,7 @@
 layout: post
 title: Tagine d’agneau aux coings
 tag_category: maroc
-tag_plat: PlatViande
+tag_plat: platViande
 image: img/recette/tagine-coings.png
 temps_preparation: 30
 temps_cuisson: 60
