@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Renée
 
-### Ingredients
+### Ingrédients
 * 1 bar de 1,2 kg vidé mais non écaillé
 * 1 kg de gros sel de mer
 * 1 brin de romarin
@@ -23,7 +23,7 @@ Cette recette vient de Renée
 * sel, poivre
 
 
-### Preparation
+### Préparation
 * Faire bouillir de l’eau salée dans une grande casserole.
 * Y cuire les cocos de Paimpol ½ h. Egoutter.
 * Hacher 2 échalotes et les faire revenir dans un peu de beurre.
