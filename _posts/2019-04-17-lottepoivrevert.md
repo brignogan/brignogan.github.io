@@ -45,5 +45,5 @@ Pendant ce temps, préparer la sauce:
 * Remettre au four environ 10 mn à 200 °.
 
 ### Vin
-* Vin blanc : Jasnière ou Daumas Gassac
+* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
 * Plus original : vin jaune du Jura

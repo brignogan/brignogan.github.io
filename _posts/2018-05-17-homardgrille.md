@@ -33,7 +33,8 @@ Cette recette vient de la « biblio ».
 * Servir aussitôt avec le riz.
 
 ### Vin
-Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Champagne rosé : Louis de Sacy
 
 ### Note
 * Les homards (s'ils sont bien vivants) peuvent se garder, sans problème, 2-3 jours bien à plat dans un bac en bas du réfrigérateur, recouverts d'un torchon humide. Vérifier chaque jour qu'ils sont bien vivants, sinon les cuire aussitôt (point 1).

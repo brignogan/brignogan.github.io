@@ -31,7 +31,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 
 
 ### Vin
-Vin blanc : Jasnière ou Daumas Gassac.
+Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
 ### Note
 Cette recette a été rapportée d’Antibes par Grand-Mère Saint Pierre.

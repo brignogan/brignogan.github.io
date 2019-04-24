@@ -29,5 +29,5 @@ On doit obtenir à peu près le même volume de chaque légume.
 * Servir avec des oeufs durs ou à la russe, des quartiers de tomates, des feuilles de salade. On peut ajouter des morceaux de filets fumés de saumon ou de truite.
 
 ### Vin
-* Vin blanc : Jasnière ou Daumas Gassac
+* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
 * Vin rosé : Côtes de Provence (Domaine Troin-Cuvée Jacqueline)

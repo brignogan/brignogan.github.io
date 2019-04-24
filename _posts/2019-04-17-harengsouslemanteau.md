@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Natalya et Nina (Tomsk)
 
-### Ingredients
+### Ingrédients
 * 200 g de hareng doux fumé
 * 4 pommes de terre
 * 4 œufs
@@ -21,7 +21,7 @@ Cette recette vient de Natalya et Nina (Tomsk)
 * 10 cornichons
 
 
-### Preparation
+### Préparation
 * Cuire les œufs durs et les pommes de terre à l’eau salée.
 * Couper les harengs en petits morceaux.
 * Couper en petites lamelles les pommes de terre et la betterave.
@@ -46,7 +46,7 @@ Laisser reposer au frigo au moins deux heures.
 
 ### Vin
 * Typiquement : un petit verre de vodka.
-* Vin blanc : Jasnière ou Daumas Gassac.
+* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
 ### Note
 * Le nom russe de ce plat est : "seledka pod shuboy".

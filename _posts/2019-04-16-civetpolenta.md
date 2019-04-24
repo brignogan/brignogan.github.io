@@ -11,7 +11,7 @@ nbre_personne: ‘pour 5-6 personnes’
 ---
 Cette recette vient de Grand-Mère Saint Pierre.
 
-### Ingredients
+### Ingrédients
 * 1 lapin de 1kg½ coupé en morceaux
 * 125 g de poitrine demi sel
 * 125 g d’oignons
@@ -26,7 +26,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * sel, poivre
 
 
-### Preparation
+### Préparation
 * Faire revenir, dans le beurre chaud, les oignons et le lard coupé en dés. Les retirer.
 * Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés, remettre les oignons et le lard dans la coquelle .
 * Saupoudrer de farine, bien remuer et cuire 1-2 mn. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.

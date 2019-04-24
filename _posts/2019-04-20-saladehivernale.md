@@ -51,4 +51,4 @@ Pour la sauce :
 
 
 ### Vin
-Vin blanc : Jasnière ou Daumas Gassac
+Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
