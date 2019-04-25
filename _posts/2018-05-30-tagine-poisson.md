@@ -22,9 +22,9 @@ Cette recette vient de Rkia (Agadir)
 * huile d'olive, sel, poivre
 
 ### Préparation
-* Pré-couper les filets du poisson le long de la tête et de l'arête centrale des deux côtés.
+* Préparer le poisson en porte-feuille (pré-découper les filets du poisson le long de la tête et de l'arête centrale sur les deux côtés).
 * Préparer la marinade en mélangeant le jus de citron, le zeste du citron confit, la gousse d'ail pressée le coriandre, la demi-échalote hachée, le gingembre à de l'huile d'olive, du sel et du poivre.
-* En enduire le poisson et laisser reposer au moins 1/4 h.
+* En enduire le poisson des deux côtés et laisser reposer au moins 1/4 h.
 * Cuire le poisson 20 mn au four à 180°C. Vérifier la cuisson.
 * Servir avec du riz ou des pommes de terre vapeur et le jus de cuisson.
 
