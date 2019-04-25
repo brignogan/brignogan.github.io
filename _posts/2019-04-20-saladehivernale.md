@@ -49,4 +49,4 @@ Cette recette vient de Jacqueline (Bures-sur-Yvette)
 
 
 ### Vin
-Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
+* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac

@@ -29,7 +29,7 @@ Cette recette vient de Natalya et Nina (Tomsk)
 * Hacher séparément les jaunes et les blancs des œufs.
 * Hacher les cornichons.
 
-Préparer le « gâteau » en empilant successivement en couches et en aplatissant :
+#### Préparer le « gâteau » en empilant successivement en couches et en aplatissant :
 * la moitié des pommes de terre
 * les harengs
 * les échalotes
@@ -41,7 +41,7 @@ Préparer le « gâteau » en empilant successivement en couches et en aplatissa
 * le reste de mayonnaise
 * les blancs d’œufs
 
-Laisser reposer au frigo au moins deux heures.
+#### Laisser reposer au frigo au moins deux heures.
 
 
 ### Vin
