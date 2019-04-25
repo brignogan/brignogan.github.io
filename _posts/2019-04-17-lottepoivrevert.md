@@ -27,21 +27,16 @@ Cette recette vient de Michelle (Penmarc'h)
 
 
 ### Préparation
-* Couper la lotte en morceaux
-* Préparer les légumes: laver, et couper carottes, céleri et échalote en julienne (= fins bâtonnets)
-* Graisser le plat
-* Etaler les légumes, et ajouter l'ail écrasé
-* Poser les morceaux de lotte dessus
-* Arroser du vin blanc
-* Saler, poivrer
-* Répartir les petits morceaux de beurre
-* Cuire 30 mn environ à 220°
-
-Pendant ce temps, préparer la sauce:
-* Ecraser le poivre vert dans un bol et le mélanger à la crème.
-* Ajouter un filet de jus de citron et un peu de persil ciselé
-* Sortir le plat du four
-* Verser le mélange crèmeux sur le poisson
+* Couper la lotte en morceaux.
+* Préparer les légumes: laver, et couper carottes, céleri et échalote en julienne (= fins bâtonnets).
+* Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé.
+* Poser les morceaux de lotte dessus.
+* Arroser du vin blanc.
+* Saler, poivrer et répartir les petits morceaux de beurre.
+* Cuire 30 mn environ à 220°.
+* Pendant ce temps, préparer la sauce: écraser le poivre vert dans un bol et le mélanger à la crème, ajouter un filet de jus de citron et un peu de persil ciselé.
+* Sortir le plat du four.
+* Verser le mélange crèmeux sur le poisson.
 * Remettre au four environ 10 mn à 200 °.
 
 ### Vin
