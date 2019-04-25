@@ -32,8 +32,8 @@ Cette recette vient de Michelle (Penmac'h)
 * Pour un fourrage à l’oeuf miroir, cuire le blanc sur la crêpe et ajouter le jaune cru sur la crêpe après pliage.
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug
+* Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
-### Note
+### Notes
 * Cette recette a été donnée par Michelle qui est diplômée de l’Université de la Crêpe deSaint Jean Trolimon.
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.

@@ -32,8 +32,8 @@ Cette recette vient de Berthe Riou (Ploudaniel)
 * Si on veut fourrer ces crêpes, en fin de cuisson, ajouter la garniture : confiture, sirop d’érable, fruits cuits (pomme, banane), amandes, glace,…
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug
+* Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
-### Note
+### Notes
 * Berthe Riou était une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée.
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
