@@ -35,8 +35,8 @@ Cette recette vient du restaurant « La Clé » à Rabat (en 1976)
 * Servir aussitôt.
 
 ### Vin
-Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
+* Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
-### Note
+### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
 * Le restaurant « La Clé » était une des cantines des coopérants à Rabat.

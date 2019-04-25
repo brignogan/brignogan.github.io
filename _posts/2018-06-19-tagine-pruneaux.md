@@ -42,7 +42,7 @@ Cette recette vient de Halima (Rabat)
 * Frire rapidement les amandes dans un peu d’huile, elles doivent prendre une belle couleur dorée, les essuyer et les déposer sur la viande et ajouter les grains de sésame.
 
 ### Vin
-Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
+* Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
-### Note
-Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+### Notes
+* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

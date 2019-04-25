@@ -46,8 +46,8 @@ Cette recette vient de Halima et Rkia (Rabat, Agadir)
 * Servir les brochettes avec le jus de la marinade, les différentes salades et les oeufs. Ne pas oublier le pain (kesra ou à défaut baguette). Proposer sel, poivre et cumin.
 
 ### Vin
-Vin rouge : Saint Emilion (Chateau Franc Patarabet)
+* Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
-### Note
+### Notes
 * Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.

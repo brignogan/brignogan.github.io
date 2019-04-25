@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Grand-Mère Saint Pierre.
 
-### Ingredients
+### Ingrédients
 * 800 g de petits calamars
 * 4 gousses d’ail
 * 1 boîte de pulpe de tomate
@@ -21,7 +21,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * persil haché
 
 
-### Preparation
+### Préparation
 * Nettoyer les calamars, récupérer les pieds et couper les corps en lanières.
 * Faire revenir à feu moyen les gousses d’ail hachées dans l’huile d’olive.
 * Ajouter les calamars. Bien remuer le tout et laisser cuire 5 mn.
@@ -31,7 +31,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 
 
 ### Vin
-Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
+* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
-### Note
-Cette recette a été rapportée d’Antibes par Grand-Mère Saint Pierre.
+### Notes
+* Cette recette a été rapportée d’Antibes par Grand-Mère Saint Pierre.

@@ -29,7 +29,7 @@ Cette recette vient de Rkia (Agadir)
 * Servir avec du riz ou des pommes de terre vapeur et le jus de cuisson.
 
 ### Vin
-Vin blanc : Daumas Gassac ou Jasnière
+* Vin blanc : Daumas Gassac ou Jasnière (Domaine de Cézin)
 
-### Note
-On compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chaire par personne.
+### Notes
+* On compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chaire par personne.

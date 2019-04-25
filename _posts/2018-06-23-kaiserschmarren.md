@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Maëlle (Vienne)
 
-### Ingredients
+### Ingrédients
 * 4 œufs
 * 130 g de farine
 * 175 mL de lait
@@ -22,7 +22,7 @@ Cette recette vient de Maëlle (Vienne)
 * sucre glace (pour saupoudrer)
 * beurre (pour faire revenir à la poêle)
 
-### Preparation
+### Préparation
 * Séparer les blancs d’œufs. Mélanger les jaunes d’œufs, les sucres, la farine, la levure, le sel et le lait. Laisser reposer et pendant ce temps battre les blancs en neige très ferme. Les incorporer à la pâte. Rajouter les raisins secs.
 * Faire fondre le beurre dans une poêle à température moyenne. Verser la pâte pour remplir le fond de la poêle. Faire dorer, retourner, rajouter du beurre, quand le deuxième coté est doré, à l'aide d'une spatule, découper en morceaux de 3-4 cm de long et 1-2 cm de large.
 * Le temps de cuire toute la pâte, réserver au chaud recouvert d'une feuille d'aluminium dans le four à basse température.

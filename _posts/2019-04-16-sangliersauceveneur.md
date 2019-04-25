@@ -11,7 +11,7 @@ nbre_personne: ‘pour 6 personnes’
 ---
 Cette recette vient de Renée.
 
-### Ingredients
+### Ingrédients
 * 1 rôti de sanglier de 1,2 kg‬‬‬‬‬ (un cuissot de sanglier désossé et roulé)
 * les os du cuissot‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬ (des os de bœuf si le rôti est déjà préparé)
 

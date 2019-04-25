@@ -29,8 +29,8 @@ Cette recette vient de Mimie Le Gall (Coat Tanguy).
 * Servir les ormeaux saupoudrés du hachis d’ail et persil avec les frites.  
 
 ### Vin
-Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
-### Note
+### Notes
 * Mimie est une grande pécheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages.
 * Les ormeaux sont considérés comme les biftecks de la mer. Cette recette est donc l’équivalent du steak-frites.

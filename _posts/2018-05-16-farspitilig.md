@@ -31,9 +31,9 @@ Pour une galette :
 * Répéter l’opération jusqu’à épuisement de la pâte. On compte deux galettes par personne.
 
 ### Vin
-Cidre de Fouesnant brut : Séhédic ou Menez Brug
-Plus typique : lait ribot
+* Cidre de Fouesnant brut : Séhédic ou Menez Brug
+* Plus typique : lait ribot
 
-### Note
+### Notes
 * Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand Mère !
 * A Ploudaniel, on mangeait le fars pitilig comme le fars forn avec du jambon…

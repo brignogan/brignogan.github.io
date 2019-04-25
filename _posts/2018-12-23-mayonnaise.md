@@ -19,5 +19,5 @@ nbre_personne: ‘-’
 
 Accompagne du poisson, des legumes, ou de la viande froide.
 
-### Note
-jeu d'acteur de guigui
+### Notes
+* Jeu d'acteur de guigui

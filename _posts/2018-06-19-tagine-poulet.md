@@ -35,8 +35,8 @@ Cette recette vient de Rkia (Agadir)
 * Servir le tajine accompagné du riz.
 
 ### Vin
-Vin blanc sec : Graves (Pessac-Léonan-Domaine de La Solitude)
+* Vin blanc sec : Graves (Pessac-Léonan-Domaine de La Solitude)
 
-### Note
+### Notes
 * Le poulet peut être rôti à la cocotte.
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

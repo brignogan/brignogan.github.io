@@ -40,7 +40,7 @@ Cette recette vient de Renée
 
 
 ### Vin
-Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin)
+* Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin)
 
-### Note
-On peut présenter le bar entier sous sa croute de sel sur la table.
+### Notes
+* On peut présenter le bar entier sous sa croute de sel sur la table.

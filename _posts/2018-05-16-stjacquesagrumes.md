@@ -39,8 +39,8 @@ Cette recette vient de Renée et Ronan (Coat Tanguy).
 * Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
 ### Vin
-Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
-### Note
+### Notes
 * Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
 * On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des Saint Jacques.

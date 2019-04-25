@@ -48,6 +48,6 @@ Laisser reposer au frigo au moins deux heures.
 * Typiquement : un petit verre de vodka.
 * Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
-### Note
+### Notes
 * Le nom russe de ce plat est : "seledka pod shuboy".
 * La recette de cette entrée a été rapportée de Tomsk, en Sibérie, par Renée lors des missions de collaboration de l’Université Paris Sud avec l’Université Polytechnique de Tomsk.    

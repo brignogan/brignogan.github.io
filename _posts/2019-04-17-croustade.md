@@ -24,7 +24,6 @@ Cette recette vient de Babette (Montréal, Québec)
 * 500 g de glace vanille
 
 
-
 ### Préparation
 * Beurrer un plan allant au four.
 * Couper la rhubarbe et les pommes en gros dés, les déposer dans le fond du plat.

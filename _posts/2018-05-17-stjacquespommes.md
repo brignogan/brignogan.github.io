@@ -28,7 +28,7 @@ Cette recette vient de la « biblio ».
 * Servir avec le poireau.
 
 ### Vin
-Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
-### Note
+### Notes
 Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.

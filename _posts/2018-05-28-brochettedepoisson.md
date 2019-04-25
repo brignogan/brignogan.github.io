@@ -33,8 +33,8 @@ Cette recette vient de Halima (Rabat)
 * Servir les brochettes avec du riz ou des pommes de terre au beurre, une 1/2 tomate frites, quelques feuilles de verdure (roquette, sauge, pousses d'épinard) et la sauce.
 
 ### Vin
-Vin blanc : Daumas Gassac, Jasnière
+* Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin)
 
-### Note
+### Notes
 * Ne pas laisser mariner trop longtemps le poisson qui donnerait trop de son eau.
 * Halima et Rkia furent nos deux bonnes pendant notre séjour au Maroc. Elles étaient d’excellentes cuisinières.

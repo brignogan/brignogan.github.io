@@ -37,7 +37,7 @@ Cette recette est inspirée de celle de Olivier Roellinger (Cancale) et simplifi
 * Servir les ormeaux, saupoudré de quelques cristaux de gros sel, avec le hachis de barbillons et d’algues et l’écrasé de pommes de terre. Napper de sauce.  
 
 ### Vin
-Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
-### Note
-Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.
+### Notes
+* Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.

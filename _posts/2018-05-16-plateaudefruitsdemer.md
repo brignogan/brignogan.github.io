@@ -35,8 +35,8 @@ Cette recette vient de Renée (Coat Tanguy).
 * Préparation des huîtres : Ouvrir les coquillages juste avant de les servir. Jeter leur eau (ils redonneront rapidement une nouvelle eau). Servir avec un citron couper en 4 et/ou une sauce préparée avec une échalote hachée et du vinaigre.
 
 ### Vin
-Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin), Menetou Salon (classique)
+* Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin), Menetou Salon (classique)
 
-### Note
+### Notes
 * Le plateau de fruits de mer se sert accompagné de pain blanc et de pain noir (seigle ou blé noir) et du beurre salé avec des cristaux de sel de Guérande.
 * Il n'est pas question de décortiquer à l'avance ces fruits de mer. Chacun s'y colle, ça fait partie du plaisir… il ne faut donc pas oublier de fournir à table une poubelle et un rince-doigt (un saladier d'eau chaude avec un morceau de citron).

@@ -11,10 +11,10 @@ nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Maëlle (Vienne)
 
-### Ingredients
+### Ingrédients
 * 1 kg de pommes de terre
 * un bouquet de ciboulette
-* 1 bouquet de persil 
+* 1 bouquet de persil
 * quelques cornichons à la russe
 * 2 échalotes
 * 100 mL de bouillon de volaille
@@ -22,16 +22,16 @@ Cette recette vient de Maëlle (Vienne)
 * 3 c. à s. de vinaigre de cidre
 * sel, poivre, moutarde
 
-### Preparation
+### Préparation
 * Cuire les pommes de terre à l’eau salée avec leur peau.
 * Hacher la ciboulette, le persil et les échalotes.
 * Tiédir le bouillon et y ajouter le hachis, saler, poivrer et rajouter le vinaigre, l’huile et la moutarde.
 * Eplucher les pommes de terre cuites et les couper en rondelles.
 * Verser petit à petit le mélange de bouillon et bien mélanger. Attention : la salade ne doit être ni trop liquide, ni trop pâteuse.
-* Déguster la salade tiède avec des Frankfurter Wurstchen (saucisses de Francfort) et du raifort. 
+* Déguster la salade tiède avec des Frankfurter Wurstchen (saucisses de Francfort) et du raifort.
 
 ### Vin
-Cette salade s’accompagne de bière.
+* Bière
 
-### Note
-Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).  
+### Notes
+* Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).  

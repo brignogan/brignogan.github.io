@@ -40,7 +40,7 @@ Cette recette vient de Rkia (Agadir)
 
 ### Vin
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
-* (ou plus aventureux) Vin blanc doux : Sauterne (Haut-Bergeron), Loupiac (Château La Nère de Séraphon)
+* Plus aventureux, vin blanc doux : Sauterne (Haut-Bergeron), Loupiac (Château La Nère de Séraphon)
 
-### Note
-La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on mangeait ce tagine pour la Saint René le 19 octobre. Cette tradition s’est perpétuée depuis notre retour en France.
+### Notes
+* La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on mangeait ce tagine pour la Saint René le 19 octobre. Cette tradition s’est perpétuée depuis notre retour en France.

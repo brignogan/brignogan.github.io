@@ -44,6 +44,6 @@ Pendant ce temps :
 * Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
 
-### Note
+### Notes
 * La recette de la polenta a été ramenée d’Antibes par Grand-Mère Saint Pierre.
 * On peut remplacer la polenta par de la semoule fine de blé dur. Les proportions sont alors : 150 g de semoule pour 1 L ¼ de lait.  

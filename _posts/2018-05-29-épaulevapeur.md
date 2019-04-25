@@ -32,7 +32,7 @@ Cette recette vient de Rkia (Agadir)
 * Servir l’épaule avec du cumin et de la fleur de sel, accompagnée de pommes de terre cuite à l’eau.
 
 ### Vin
-Vin rouge : Bandol (Tournier, Chateau Roche Redonne, les Bartavelles ou la Malissonne).
+* Vin rouge : Bandol (Tournier, Chateau Roche Redonne, les Bartavelles ou la Malissonne).
 
-### Note
-Cette recette peut se faire traditionnellement dans le couscoussier, le temps de cuisson est alors d'au moins 2h.
+### Notes
+* Cette recette peut se faire traditionnellement dans le couscoussier, le temps de cuisson est alors d'au moins 2h.

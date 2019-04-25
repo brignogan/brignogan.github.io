@@ -26,5 +26,5 @@ Cette recette vient de Maëlle (Vienne)
 * Bière
 * Vin rosé : Bandol (Domaine Guilhem Tournier-Cuvée La Malissone)
 
-### Note
-C’est évidemment la recette typique de Vienne.  
+### Notes
+* C’est évidemment la recette typique de Vienne.  

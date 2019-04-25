@@ -39,9 +39,9 @@ Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle d
 * Allonger le lipig avec un peu de bouillon.   
 
 ### Vin
-Vin rouge : Saint Emilion (Chateau Franc Patarabet)
+* Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
-### Note
+### Notes
 * Le Kig ha fars est un plat typiquement léonard.
 * Grand Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
 * L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand Mère St Pierre. Elle y ajoutait le chou mais pas les pommes de terre. A St Pierre, on mangeait le fars noir en tranche (style béton armé !… pas du tout apprécié à Ploudaniel).

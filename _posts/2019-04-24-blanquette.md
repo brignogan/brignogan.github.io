@@ -39,8 +39,8 @@ Cette recette vient de Grand-Mère Saint Pierre.
 
 
 ### Vin
-Vin blanc : Jasnière (Domaine de Cézin), Saint Joseph (Guigal, Lieu-dit)
+* Vin blanc : Jasnière (Domaine de Cézin), Saint Joseph (Guigal, Lieu-dit)
 
 
-### Note
+### Notes
 * Ne surtout pas faire bouillir la sauce en fin de préparation, le jaune d'oeuf coagulerait et ferait tourner la sauce.
