@@ -2,7 +2,7 @@
 layout: post
 title: Wiener Schnitzel (escalope viennoise)
 tag_category: autriche
-tag_plat: na
+tag_plat: platViande
 image: img/recette/Wiener-schnitzel.png
 temps_preparation: 15
 temps_cuisson: 10

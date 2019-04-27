@@ -2,7 +2,7 @@
 layout: post
 title: Apfelstrudel
 tag_category: autriche
-tag_plat: na
+tag_plat: dessert
 image: img/recette/apfelstrudel.png
 temps_preparation: 30
 temps_cuisson: 30

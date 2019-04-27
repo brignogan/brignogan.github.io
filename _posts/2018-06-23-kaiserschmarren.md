@@ -2,7 +2,7 @@
 layout: post
 title: Kaiserschmarren
 tag_category: autriche
-tag_plat: na
+tag_plat: dessert
 image: img/recette/kaiserschmarren.png
 temps_preparation: 15
 temps_cuisson: 15
