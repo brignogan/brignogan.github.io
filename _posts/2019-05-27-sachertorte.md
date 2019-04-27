@@ -57,4 +57,4 @@ soit 1 pot de confiture d'abricots
 
 ### Notes
 * La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé au XIXème siècle par le pâtissier de l'hôtel Sacher à Vienne.
-* La décoration doit suivre les saisons : framboises au printemps et en été, mirabelles à l'automne et julienne d'oranges confites en hiver. 
+* La décoration doit suivre les saisons : framboises au printemps et en été, mirabelles à l'automne et julienne d'oranges confites en hiver.
