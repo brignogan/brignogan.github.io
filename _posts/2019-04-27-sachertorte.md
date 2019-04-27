@@ -50,7 +50,7 @@ Cette recette vient de Maëlle (Vienne)
 * Finir en incorporant la farine passée au tamis.
 * Beurrer et fariner un moule à manquer (diamètre 24 cm). Y verser la pâte. Cuire au four 45 min à 160°C à chaleur tournante.
 * Laisser refroidir le gâteau démoulé sur une grille.
-* Une fois froid, poser le gâteau sur un fond en carton (d'une circonférence légèrement plus petite) recouvert d'une feuille d'aluminium. Le couper en deux dans l'épaisseur.Recouvrir le dessous avec la préparation à l'abricot et reposer la deuxième moitié du gâteau par dessus. Recouvrir l'extérieur du gâteau (dessus et coté) avec une fine couche de marmelade.
+* Une fois froid, poser le gâteau sur un fond en carton (d'une circonférence légèrement plus petite) recouvert d'une feuille d'aluminium. Le couper en deux dans l'épaisseur. Recouvrir le dessous avec la préparation à l'abricot et reposer la deuxième moitié du gâteau par dessus. Recouvrir l'extérieur du gâteau (dessus et coté) avec une fine couche de marmelade.
 
 #### Préparation du glaçage :
 
