@@ -87,6 +87,7 @@ sub {
 img {
   border: 0;
 }
+
 svg:not(:root) {
   overflow: hidden;
 }
@@ -188,6 +189,8 @@ td,
 th {
   padding: 0;
 }
+
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
