@@ -23,8 +23,8 @@ Cette recette vient de Grand-Mère Ploudaniel.
 * Bien mélanger puis ajouter petit à petit le lait.
 * Faire fondre une noix de beurre dans la poêle.
 * Quand il commence à roussir, y verser une ou deux louchées de pâte (suivant l’épaisseur de galette que l’on désire) en agitant avec la cuillère en bois. Quand la pâte commence à bien se former en gros grumeaux, ramener la pâte au centre de la poêle et aplatir les boules.
-* Laisser “prendre”.
-* Retourner la galette (en la faisant sauter !), glisser des petits morceaux de beurre dessous et finir la cuisson.
+* Laisser “prendre” et dorer.
+* Retourner la galette (en la faisant sauter !), glisser des petits morceaux de beurre dessous et finir la cuisson. La galette doit être bien dorée des deux côtés.
 * Servir bien chaud et éventuellement saupoudrée de sucre.
 * Répéter l’opération jusqu’à épuisement de la pâte. On compte deux galettes par personne.
 
