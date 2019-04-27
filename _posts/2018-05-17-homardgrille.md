@@ -23,7 +23,7 @@ Cette recette vient de la « biblio ».
 ### Préparation
 * Cuire les homards dans l’eau bouillante salée et bien poivrée pendant 5 mn.
 * Sur une planche, couper les homards en deux : commencer au couteau sur le dessus de la tête vers l’avant jusqu’au rostre, puis le dessous de la queue vers l’arrière, couper aux ciseaux la carapace de la queue en remontant vers la tête puis le dessous de la tête. Débarrasser les poches à sable. Récupérer le suc (et le corail vert si c’est une femelle).
-* Mélanger le suc et le corail au beurre, ajouter le calva.
+* Mélanger le suc (et le corail) au beurre, ajouter le calva.
 * Briser les pinces (recouvertes d’un torchon) d’un coup de maillet. Déposer les demi-homards sur la lèchefrite.
 * Faire chauffer le gril du four.
 * Porter la crème à ébullition. Retirer du feu et ajouter le beurre/corail au fouet pour faire monter. Ajouter le jus de citron petit à petit et ajuster la quantité au goût. Rectifier l’assaisonnement si nécessaire.
