@@ -22,8 +22,8 @@ Cette recette vient de Maëlle (Vienne)
 * 130g de chocolat pâtissier
 
 #### pour la garniture aux abricots :
-soit 1 kg d'abricots mûrs et un peu de sucre (selon le goût), une branche de thym, à cuire en marmelade
-soit 1 pot de confiture d'abricots
+* soit 1 kg d'abricots mûrs et un peu de sucre (selon le goût), une branche de thym, à cuire en marmelade
+* soit 1 pot de confiture d'abricots
 
 #### pour le glaçage :
 * 140g de chocolat pâtissier
@@ -40,6 +40,7 @@ soit 1 pot de confiture d'abricots
 ### Préparation
 
 #### Idéalement préparer l'intégralité du gâteau (jusqu'au glaçage) 12 h avant.
+
 * Séparer les jaunes et les blancs d'oeuf.
 * Dans une terrine, mélanger le beurre ramolli avec le sucre glace jusqu'à ce que cela fasse une crème.
 * Y ajouter les jaunes d’œufs.
@@ -52,6 +53,7 @@ soit 1 pot de confiture d'abricots
 * Une fois froid, poser le gâteau sur un fond en carton recouvert d'une feuille d'aluminium. Le couper en deux dans l'épaisseur.Recouvrir le dessous avec la préparation à l'abricot et reposer la deuxième moitié du gâteau par dessus. Recouvrir l'extérieur du gâteau (dessus et coté) avec une fine couche de marmelade.
 
 #### Préparation du glaçage :
+
 * Faire fondre le beurre et le chocolat au bain-marie. Quand l'ensemble est bien fondu et homogène, ajouter la cuillère d'huile, mélanger puis sortir du feu et laisser refroidir. Réchauffer à nouveau pour re-liquéfier parfaitement le glaçage.
 * Déposer le gâteau avec son fond en carton sur la grille et poser l'ensemble sur un plat plus large que le gâteau (pour recueillir le glaçage qui va dégouliner).
 * Recouvrir le gâteau en versant le glaçage chaud à travers une passoire fine (chinois) en commençant par le centre du gâteau et en finissant par les bords.
