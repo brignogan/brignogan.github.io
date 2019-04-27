@@ -57,7 +57,12 @@ Cette recette vient de Maëlle (Vienne)
 * Faire fondre le beurre et le chocolat au bain-marie. Quand l'ensemble est bien fondu et homogène, ajouter la cuillère d'huile, mélanger puis sortir du feu et laisser refroidir. Réchauffer à nouveau pour re-liquéfier parfaitement le glaçage.
 * Déposer le gâteau avec son fond en carton sur la grille et poser l'ensemble sur un plat plus large que le gâteau (pour recueillir le glaçage qui va dégouliner).
 * Recouvrir le gâteau en versant le glaçage chaud à travers une passoire fine (chinois) en commençant par le centre du gâteau et en finissant par les bords.
-* Réserver le gâteau au frais (idéalement 12 h au frigo). Avant de servir, préparer la chantilly, un déposer un peu sur le dessus à l'aide d'une douille et y poser les fruits. * Proposer le reste de la Chantilly en accompagnement.
+* Réserver le gâteau au frais (idéalement 12 h au frigo).
+
+#### Finition
+
+* Avant de servir, préparer la chantilly, un déposer un peu sur le dessus à l'aide d'une douille et y poser les fruits.
+* Proposer le reste de la Chantilly en accompagnement.
 
 
 ### Vin
