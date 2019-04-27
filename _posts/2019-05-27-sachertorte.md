@@ -59,7 +59,7 @@ Cette recette vient de Maëlle (Vienne)
 * Recouvrir le gâteau en versant le glaçage chaud à travers une passoire fine (chinois) en commençant par le centre du gâteau et en finissant par les bords.
 * Réserver le gâteau au frais (idéalement 12 h au frigo).
 
-#### Finition
+#### Finition :
 
 * Avant de servir, préparer la chantilly, un déposer un peu sur le dessus à l'aide d'une douille et y poser les fruits.
 * Proposer le reste de la Chantilly en accompagnement.
