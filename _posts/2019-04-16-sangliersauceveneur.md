@@ -33,7 +33,6 @@ Cette recette vient de Renée.
 * 1 c.às. de maïzena
 * crème fraîche épaisse‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
 
-
 ### Préparation
 #### Marinade :
 * Mélanger les ingrédients de la marinade. Mettre le rôti à mariner dans cette préparation pendant 24h.

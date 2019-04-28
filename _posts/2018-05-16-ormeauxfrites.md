@@ -21,7 +21,12 @@ Cette recette vient de Mimie Le Gall (Coat Tanguy).
 * sel fin, poivre
 
 ### Préparation
-* Préparation des ormeaux : 3 jours à l’avance, mettre les ormeaux fraichement péchés et bien serrés en bourriche dans le bas du réfrigérateur et les y garder pendant 48 heures  afin qu’ils s’affaiblissent. La veille, décoquiller les ormeaux, éliminer la tête et les viscères. Les brosser sous l’eau courante pour enlever toute trace noirâtre. Couper les barbillons que l’on réserve pour la préparation de la sauce. Remettre les ormeaux 24h au frigo. Le jour où ils doivent être servis, les recouvrir d’un torchon et, pour les attendrir, les taper avec un maillet jusqu’à ce qu’ils soient bien tendres. A ce stade, les ormeaux peuvent être cuisinés ou congelés en attente de préparation.
+#### Préparation des ormeaux :
+* 3 jours à l’avance, mettre les ormeaux fraichement péchés et bien serrés en bourriche dans le bas du réfrigérateur et les y garder pendant 48 heures  afin qu’ils s’affaiblissent.
+* La veille, décoquiller les ormeaux, éliminer la tête et les viscères. Les brosser sous l’eau courante pour enlever toute trace noirâtre. Couper les barbillons que l’on réserve pour la préparation de la sauce. Remettre les ormeaux 24h au frigo.
+* Le jour où ils doivent être servis, les recouvrir d’un torchon et, pour les attendrir, les taper avec un maillet jusqu’à ce qu’ils soient bien tendres. A ce stade, les ormeaux peuvent être cuisinés ou congelés en attente de préparation.
+
+#### Réalisation de la recette :
 * Eplucher les pommes de terre et les couper en frites.
 * Hacher l’ail et le persil.
 * Cuire les frites.

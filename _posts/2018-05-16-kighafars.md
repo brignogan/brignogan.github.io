@@ -44,27 +44,27 @@ Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle d
 
 ### Préparation
 
-#### cuisson du boeuf et de la poitrine fumée :
+#### Cuisson du boeuf et de la poitrine fumée :
 * Dans la cocotte minute, mettre la viande de boeuf et l'os dans de l'eau froide légèrement salée (le petit salé ajouté ultérieurement peut rendre le bouillon trop salé). Faire bouillir. Eplucher les oignons et les ajouter à la viande. Fermer la cocotte et faire cuire 45 mn.
 * En même temps, mettre à bouillir de l'eau dans une grande casserole. Ne pas saler. Y plonger la poitrine fumée qui doit cuire 1h1/2 à petits bouillons et à couvert. Surveiller le niveau de l'eau qui doit toujours recouvrir la poitrine (pour éviter l’évaporation dans la casserole, verser de l’eau et en maintenir suffisamment sur le couvercle).
 * Eplucher les carottes, les panais et nettoyer les poireaux et éventuellement le chou et les pommes de terre.
 
-#### préparation du fars noir :
+#### Préparation du fars noir :
 * Faire juste fondre 100 g de beurre dans une petite casserole et laisser refroidir.
 * Mettre la farine de blé noir dans un saladier avec l’oeuf, ½ c. à c. de sel et un peu de crème et mélanger en rajoutant petit à petit le reste de crème.
 * Ajouter le beurre à la pâte (garder la casserole pour la préparation du lipig) et ajouter en dernier lieu et petit à petit le lait en ajustant la quantité pour obtenir une pâte qui fait un ruban.
 * Mettre le fars en sac.
 
-#### préparation du fars blanc (optionnel) :
+#### Préparation du fars blanc (optionnel) :
 * Mettre la farine de froment dans un saladier avec les oeufs et le sucre, mélanger en ajoutant petit à petit le lait, ajouter, si on le désir, quelques pruneaux, mettre le fars en sac.
 
-#### cuisson du petit salé, des légumes et des fars :
+#### Cuisson du petit salé, des légumes et des fars :
 * Au bout des 45 mn de cuisson de la viande de boeuf, ouvrir la cocotte et ajouter le petit salé, le jarret, le(s) sac(s) de fars, les carottes, les panais, les poireaux et éventuellement le chou. Refermer la cocotte et cuire à nouveau 45 mn. 10 mn avant la fin de la cuisson, ajouter éventuellement les pommes de terre.
 
-#### préparation du lipig :
+#### Préparation du lipig :
 * Eplucher et hacher les échalotes, mettre à fondre le reste de beurre (100 g) dans la petite casserole, ajouter les échalotes et cuire à feu doux, les échalotes doivent devenir translucides et légèrement dorées. Poivrer.
 
-#### finition :
+#### Finition :
 * En fin de cuisson, sortir le(s) sac(s) et le(s) laisser refroidir 5 bonnes minutes, pendant ce temps, sortir les viandes et les légumes. Pour un fars noir en "brujunes", enlever le lien du sac et le rouler sur la table pour émietter grossièrement le fars. Vider le sac dans un plat creux. Le fars blanc se mange en tranche.
 * Allonger le lipig avec un peu de bouillon.   
 

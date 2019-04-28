@@ -31,9 +31,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés, remettre les oignons et le lard dans la coquelle .
 * Saupoudrer de farine, bien remuer et cuire 1-2 mn. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.
 * Laisser cuire doucement à couvert pendant 1h½ .
-
-Pendant ce temps :
-* Faire bouillir le lait salé.
+* Pendant ce temps, faire bouillir le lait salé.
 * Jeter en pluie la polenta dans le lait bouillant tout en remuant. Maintenir à feu doux pendant 5 mn, en mélangeant constamment, jusqu’à ce que la polenta se détache des parois.
 * Huiler un moule à baba, le remplir avec le gateau de polenta bien chaud. Déposer le moule dans une casserole d’eau frémissante pour garder la polenta au chaud.
 * Démouler au moment de servir avec le civet de lapin.
