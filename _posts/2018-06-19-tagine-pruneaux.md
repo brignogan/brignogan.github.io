@@ -15,7 +15,7 @@ Cette recette vient de Halima (Rabat)
 * 1,5 kg d’agneau avec os (épaule)
 * 1 gros oignon
 * 400 g de pruneaux secs
-* 100 g d’amandes émondées
+* 100 g d’amandes émondées (voir note)
 * 1 bouquet de persil plat
 * 1 bouquet de coriandre
 * 1 grosse gousse d’ail
@@ -46,3 +46,4 @@ Cette recette vient de Halima (Rabat)
 
 ### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+* Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.
