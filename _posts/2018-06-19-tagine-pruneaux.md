@@ -46,4 +46,4 @@ Cette recette vient de Halima (Rabat)
 
 ### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
-* Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.
+* Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn, les égoutter puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.
