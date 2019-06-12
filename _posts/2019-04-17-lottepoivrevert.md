@@ -5,7 +5,7 @@ tag_category: famille
 tag_plat: platPoisson
 image: img/recette/lotte.png
 temps_preparation: 20
-temps_cuisson: 40
+temps_cuisson: 50
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
@@ -36,7 +36,7 @@ Cette recette vient de Michelle (Penmarc'h)
 * Saler, poivrer et répartir les petits morceaux de beurre.
 * Remettre au four 30 mn environ à 220°C.
 * Pendant ce temps, préparer la sauce: écraser le poivre vert dans un bol et le mélanger à la crème, ajouter un filet de jus de citron et un peu de persil ciselé.
-* Sortir le plat du four.
+* Sortir le plat du four. Baisser la température du four à 200°C.
 * Verser le mélange crèmeux sur le poisson.
 * Remettre au four environ 10 mn à 200°C.
 
