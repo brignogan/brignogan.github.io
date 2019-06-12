@@ -19,8 +19,8 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * 1 feuille de laurier
 * 2-3 brins de persil
 * 1 oignon
-* 50 g de beurre ½ sel
-* 50 g de farine
+* 40 g de beurre ½ sel
+* 40 g de farine
 * 300 g de champignons de Paris
 * 1 jaune d'oeuf
 * sel, poivre
