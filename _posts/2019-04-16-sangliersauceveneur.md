@@ -12,8 +12,8 @@ nbre_personne: ‘pour 6 personnes’
 Cette recette vient de Renée.
 
 ### Ingrédients
-* 1 rôti de sanglier de 1,2 kg‬‬‬‬‬ (un cuissot de sanglier désossé et roulé)
-* les os du cuissot‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬ (des os de bœuf si le rôti est déjà préparé)
+* 1 rôti de sanglier de 1,2 kg un cuissot de sanglier désossé et roulé)
+* les os du cuissot (des os de bœuf si le rôti est déjà préparé)
 
 #### Pour la marinade :
 * 1 litre de vin rouge de bordeaux
@@ -22,7 +22,7 @@ Cette recette vient de Renée.
 * 1 échalote
 * 1 gousse d’ail
 * 2 carottes
-* poivre‬ (pas de sel)
+* poivre (pas de sel)
 
 #### Pour la sauce :
 * huile d’olive‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
