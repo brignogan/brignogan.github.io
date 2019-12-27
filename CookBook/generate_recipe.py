@@ -7,7 +7,7 @@ sys.setdefaultencoding('utf-8')
 import io 
 import pdb 
 import operator 
-
+import subprocess
 
 def replace_name_plat(x):
     return x.replace('entree','Entree').replace('platPoisson', 'Plat de Poisson').replace('platViande','Plat de Viande').replace('dessert','Dessert').replace('sauce', 'Sauce')
@@ -292,6 +292,10 @@ f= io.open("cookbook.tex","w", encoding='utf-8')
 for line in final1_lines+final2_lines+final3_lines:
     f.write( line.decode('utf-8') )
 f.close()
+
+#run latex
+subprocess.call(['pdflatex', 'cookbook.tex'])
+subprocess.call(['pdflatex', 'cookbook.tex'])
 
 '''
 	 \columnbreak

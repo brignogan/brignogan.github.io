@@ -16,7 +16,6 @@ recipeMMinstruction
 
 \begin{vin}[recipeMMvin]
 \end{vin}
-\medskip
 
 \begin{note}[recipeMMnote]
 \end{note}

@@ -19,6 +19,14 @@
 \usepackage{xcolor}
 \usepackage{graphicx}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
 \let\Sectionmark\sectionmark
 \def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
 
@@ -99,10 +107,13 @@
 \newcommand{\plogo}{\fbox{$\mathcal{PL}$}} % Generic dummy publisher logo
 
 \newcommand{\showtime}[4]{
+	\noindent
+	\begin{minipage}[t]{\textwidth}
 	\preptime{ #1 }
 	\cooktime{ #2 }
 	\chilltime{ #3 }
 	\serve{ #4 }
+	\end{minipage}		
 }
 
 %% Optional argument is the width of the graphic, default = 1in
@@ -205,7 +216,7 @@
      \if###1##%
      \else
 		\bigskip
-		 \begin{minipage}{\textwidth}
+		\begin{minipage}{\textwidth}
 		\setcounter{stepnum}{0}
 		\noindent
 		{\color{orangecolor}\Large\textbf{Vin}}%
@@ -213,7 +224,8 @@
 		\medskip
 		\noindent
 		{#1}
-		 \end{minipage}
+		\medskip
+		\end{minipage}
 	 \fi
 }
 
@@ -319,6 +331,16 @@
 \tableofcontents
 
 \mainmatter
+
+\section*{Avant Propos}
+Nous avons rassemblé dans ces page toutes les recettes que nous avons mises en oeuvre pour garnir notre table au quotidien ou pour les jours de fête. Elles sont rangées dans les 4 rubriques: Famille, Bretagne, Maroc et Autriche. 
+
+Ces plats sont issus de notre tradition familiale faite de cuisine française et de cuisine bretonne. Certains ont été rapportés de nos séjours à l’étranger : 13 années au Maroc pour toute la famille, 2 années à Vienne pour Maëlle, 4 années à Londres pour Ronan.
+
+Pour chaque recette est indiqué le vin que Jean Paul a sorti de sa cave pour l’accompagner, cave constituée d’année en année avec l’aide d’amis fins gourmets.
+
+Enfin, pour soigner sa table, on se reportera au livre “la cuisine du siècle“ de Catherine Bonnechere. C’est un livre de cuisine trouvé dans le grenier de Ploudaniel édité en 1899. Les chapîtres sur “le savoir vivre” et “les élégances de la table” sont irrésistibles! Elles sont visibles sur cette page internet\footnote{\url{https://en.calameo.com/read/0046395075f44e3515927}}.
+
 
 XX
 
