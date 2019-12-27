@@ -1,0 +1,23 @@
+\recipe[recipeMMnewPage]{recipeMMtitle}
+
+\showtime{recipeMMtimeprep}{recipeMMtimecooking}{recipeMMtimechill}{recipeMMserve}
+
+\showit{recipeMMimg}{recipeMMintro}
+\medskip
+
+\begin{ingreds}
+	 recipeMMingredient 
+\end{ingreds}
+\medskip
+
+\methods
+recipeMMinstruction
+\medskip
+
+\begin{vin}[recipeMMvin]
+\end{vin}
+\medskip
+
+\begin{note}[recipeMMnote]
+\end{note}
+

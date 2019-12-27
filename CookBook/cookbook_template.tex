@@ -1,0 +1,325 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xfrac}    % Works better with other fonts
+\usepackage{ulem}
+\usepackage[french]{babel}
+\usepackage{wrapfig}
+\usepackage[%
+    %a5paper,
+    papersize={5.5in,8.5in},
+    margin=0.75in,
+    top=0.75in,
+    bottom=0.75in,
+    %twoside
+    ]{geometry}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\let\Sectionmark\sectionmark
+\def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
+
+\usepackage{sectsty}
+\subsubsectionfont{\large}
+
+
+\raggedcolumns
+%\setlength{\multicolsep}{0pt}
+%\setlength{\columnseprule}{1pt}
+
+\makeatletter
+
+\newif\if@mainmatter \@mainmattertrue
+
+%% Borrowed from book.cls
+\newcommand\frontmatter{%
+    \cleardoublepage
+  \@mainmatterfalse
+  \pagenumbering{roman}}
+\newcommand\mainmatter{%
+    \cleardoublepage
+  \@mainmattertrue
+  \pagenumbering{arabic}}
+\makeatother
+
+%% Vary the colors at will
+
+\definecolor{vegcolor}{rgb}{0,0.5,0.2}
+\definecolor{frzcolor}{rgb}{0,0,1}
+\definecolor{orangecolor}{rgb}{.83,.33,0}
+
+% Your "recipes.sty" package starts here:
+%% Thanks to alephzero for the excellent start:
+
+\newcommand{\recipe}[2][\newpage]{%
+	#1
+	\lhead{\leftmark}%
+    \chead{}%
+    \rhead{}%
+    \lfoot{}%
+    \rfoot{}%
+    \subsubsection{#2}%
+}
+%\newcommand{\serves}[2][Serves]{%
+%    \chead{#1 #2}}
+\newcommand{\vegetarian}{%
+    \rhead{\large\color{vegcolor}\textbf{V}}}
+\newcommand{\freeze}{%
+    \lhead{\large\color{frzcolor}\textbf{F}}}
+%% Optional arguments for alternate names for these:
+%\newcommand{\preptime}[2][Prep time]{%
+%    \lfoot{#1: #2}%
+%}
+%\newcommand{\cooktime}[2][Cook time]{%
+%    \rfoot{#1: #2}%
+%}
+\newcommand{\temp}[1]{%
+    $#1^\circ$C}
+
+\newcommand{\preptime}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}}
+				\parbox{\wd0}{\box0} temps preparation \quad {#1} \\ 
+    \endgroup}
+\newcommand{\cooktime}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_cuisson_orange.pdf}}
+				\parbox{\wd0}{\box0} temps cuisson \hspace{0.9cm} {#1} \\ 
+    \endgroup}
+\newcommand{\chilltime}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_repos_orange.pdf}}
+				\parbox{\wd0}{\box0} temps repos \hspace{1.2cm}   {#1} \\ 
+    \endgroup}
+\newcommand{\serve}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.035, trim= 0em -5em -5em -5em,]{people_281x281_orange.pdf}}
+				\parbox{\wd0}{\box0} {#1} \\ 
+    \endgroup}
+
+\newcommand{\plogo}{\fbox{$\mathcal{PL}$}} % Generic dummy publisher logo
+
+\newcommand{\showtime}[4]{
+	\preptime{ #1 }
+	\cooktime{ #2 }
+	\chilltime{ #3 }
+	\serve{ #4 }
+}
+
+%% Optional argument is the width of the graphic, default = 1in
+\newcommand{\showit}[2]{%
+    \noindent
+	\begin{minipage}[t]{.38\textwidth}
+	\vspace{0pt}
+	\noindent
+	\if###2##
+    \else
+    	#2
+	\fi
+  	\end{minipage}
+	\hspace{.02\textwidth}
+	\begin{minipage}[t]{.6\textwidth}
+	\vspace{0pt}
+	\includegraphics[width=\linewidth]{#1}%
+  	\end{minipage}
+}
+
+
+%% Optional argument for a  heading within the ingredients section
+\newcommand{\ingredients}[1][]{%
+    \if###1##%
+        {\Large\color{orangecolor}\textbf{Ingredients}}%
+    \else
+		\emph{#1} :%
+    \fi
+}
+
+
+%% Use \obeylines to minimize markup
+\newenvironment{ingreds}{%
+    \parindent0pt
+    \noindent
+    \ingredients
+    \par
+    \medskip
+
+	\setlength{\multicolsep}{0pt}
+	\setlength{\columnseprule}{0.5pt}
+
+    \begin{multicols}{2}
+    \leftskip0em
+    \rightskip0pt plus 3em
+    \parskip=0.3em
+    \obeylines
+    \everypar={\hangindent1em}
+	}{%
+    \end{multicols}%
+    \bigskip
+}
+
+\newcounter{stepnum}
+
+%% Optional argument for an italicized pre-step
+%% Also use obeylines to minimize markup here as well
+\newcommand{\methods}[1][]{%
+    \if###1##%
+        \parindent0pt
+    	\noindent
+		{\Large\color{orangecolor}\textbf{Instructions}}%
+		\par
+		\medskip
+    \else
+        \noindent
+     	\normalem
+        \emph{#1}%
+        \par
+	\fi
+}
+
+\newenvironment{method}[1][]{%
+    \setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+}{%
+    \par
+    \endgroup
+	
+}
+\newenvironment{method_noNumber}[1][]{%
+    \setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\hbox to2em{\hfill}}}
+}{%
+    \par
+    \endgroup
+	
+}
+
+%% Use \obeylines to minimize markup
+\newenvironment{vin}[1][]{%
+     \if###1##%
+     \else
+		\bigskip
+		 \begin{minipage}{\textwidth}
+		\setcounter{stepnum}{0}
+		\noindent
+		{\color{orangecolor}\Large\textbf{Vin}}%
+		\par
+		\medskip
+		\noindent
+		{#1}
+		 \end{minipage}
+	 \fi
+}
+
+
+%% Use \obeylines to minimize markup
+\newenvironment{note}[1][]{%
+     \if###1##%
+     \else
+		 \bigskip
+		 \begin{minipage}{\textwidth}
+		 \setcounter{stepnum}{0}
+		 \noindent
+		 {\color{orangecolor}\Large\textbf{Notes}}%
+		 \par
+		 \medskip
+		 \noindent
+		 {#1}
+		 \end{minipage}
+	 \fi
+}
+
+
+\pagestyle{fancy}
+% End of "recipes.sty"
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{titlepage} % Suppresses headers and footers on the title page
+	
+	\centering % Centre everything on the title page
+	
+	%------------------------------------------------
+	%	Top rules
+	%------------------------------------------------
+	
+	\rule{\textwidth}{1pt} % Thick horizontal rule
+	
+	\vspace{2pt}\vspace{-\baselineskip} % Whitespace between rules
+	
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{0.1\textheight} % Whitespace between the top rules and title
+	
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	\color{orangecolor}{	
+	{\Huge Les Recettes}\\[0.5\baselineskip] % Title line 1
+	{\Large de}\\[0.5\baselineskip] % Title line 2
+	{\Huge Coat Tanguy} % Title line 3
+	}
+	\color{black}	
+	\vspace{0.025\textheight} % Whitespace between the title and short horizontal rule
+	
+	\rule{0.3\textwidth}{0.4pt} % Short horizontal rule under the title
+	
+	\vspace{0.1\textheight} % Whitespace between the thin horizontal rule and the author name
+	
+	%------------------------------------------------
+	%	Author
+	%------------------------------------------------
+	
+	{\Large \textsc{Renee et Jean Paul Paugam}} % Author name
+	
+	\vfill % Whitespace between the author name and publisher
+	
+	%------------------------------------------------
+	%	Publisher
+	%------------------------------------------------
+	
+	{\large\color{orangecolor}{\plogo}}\\[0.5\baselineskip] % Publisher logo
+	
+	{\large\textsc{the publisher}} % Publisher
+	
+	\vspace{0.1\textheight} % Whitespace under the publisher text
+	
+	%------------------------------------------------
+	%	Bottom rules
+	%------------------------------------------------
+	\color{black}
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{2pt}\vspace{-\baselineskip} % Whitespace between rules
+	
+	\rule{\textwidth}{1pt} % Thick horizontal rule
+	
+\end{titlepage}
+
+\clearpage % end title page
+\begingroup
+  \pagestyle{empty}
+  \null
+  \newpage
+\endgroup
+
+\frontmatter
+\fancyhead{}
+\fancyhead[EL,OL]{\leftmark}
+\tableofcontents
+
+\mainmatter
+
+XX
+
+\end{document}
