@@ -26,10 +26,16 @@ def write_time(x):
     except: 
         return 'mauvais format de temps: {:s}'.format(x)
 
+
+def get_var_from_include_image(x):
+    return line_2.split(x+'=')[1].split('" ')[0].replace('"','').strip()
+
+
 #recipeDir = './recipeDir/'
 recipeDir = '/home/paugam/Website/brignogan.github.io/_posts/'
 recipeMMtitle_2skip = [u'mayonnaise', u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
 imageDir = '/home/paugam/Website/brignogan.github.io/'
+introCatDir = '/home/paugam/Website/brignogan.github.io/pages/'
 
 recipeFiles = glob.glob(recipeDir+'*.md')
 
@@ -86,6 +92,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     if recipeCat != recipeCat_prev: 
         final2_lines.append(u'\\newpage \section{{{:s}}}\n'.format(recipeCat.title()) )
+        #add introCat
+        lines_introCat_ = io.open(introCatDir+'{:s}.md'.format(recipeCat),"r", encoding='utf-8').readlines()
+        lines_introCat = []
+        count_mark = 0
+        for lines_ in lines_introCat_:
+            if count_mark >=2: lines_introCat.append(lines_)
+            if lines_[:3] == '---': count_mark += 1
+
+        for lines_ in lines_introCat: final2_lines.append(lines_)
+        if len(lines_introCat)>0: final2_lines.append('\\newpage')
         final2_lines.append(u'\subsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
         iPlat = 0
     
@@ -245,6 +261,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     elif  flag_method == 2: line2p.append( '\end{method_noNumber}\n')
                     else: pdb.set_trace()
                 elif (i==len(recipeMMinstruction)-1): 
+                    if line_.strip() != '\n': line2p.append(line_.replace('*','').strip())
                     if    flag_method == 1: line2p.append( '\end{method}\n')
                     elif  flag_method == 2: line2p.append( '\end{method_noNumber}\n')
                     else: pdb.set_trace()
@@ -268,11 +285,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             line2p_ = ''
             for line_ in recipeMMnote:
                 line_1 = line_.split('{%')[0].strip()
+                line_2 = ''
                 if len(line_.split('{%')) > 1: 
                     line_2 = line_.split('{%')[1].strip().split('%}')[0]
-                line2p_ += line_1.replace('*','').strip() + '\n' 
-                
-            line2p.append(line.replace('recipeMMnote', line2p_.rstrip()))   
+                    img_path    = get_var_from_include_image('file')
+                    img_caption = get_var_from_include_image('caption') 
+                line2p_ += line_1.replace('*','').strip() + '\n \\par ' 
+                if line_2 != '':
+                    line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center}'                     
+
+            line2p.append(line.replace('recipeMMnote', line2p_.split('\\par')[0].rstrip())) 
+            if len(line2p_.split('\\par'))>1:
+                line2p.append('\\par'.join(line2p_.split('\\par')[1:] ) )
             flag_modified = 1
        
         if 'recipeMMpreinstruction' in line:
