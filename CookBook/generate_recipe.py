@@ -33,7 +33,7 @@ def get_var_from_include_image(x):
 
 #recipeDir = './recipeDir/'
 recipeDir = '/home/paugam/Website/brignogan.github.io/_posts/'
-recipeMMtitle_2skip = [u'mayonnaise', u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
+recipeMMtitle_2skip = [u'mayonnaise',]# u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
 imageDir = '/home/paugam/Website/brignogan.github.io/'
 introCatDir = '/home/paugam/Website/brignogan.github.io/pages/'
 
