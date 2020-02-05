@@ -12,7 +12,7 @@ nbre_personne: ‘pour 6 personnes’
 Cette recette vient de Hanh Faucheu.
 
 ### Ingrédients
-* 1 Kg de poitrine fraiche et maigre de porc
+* 1 kg de poitrine fraîche et maigre de porc
 * 1 gros oignon
 * 6 oeufs
 * 10 morceaux de sucre
@@ -25,7 +25,7 @@ Cette recette vient de Hanh Faucheu.
 * Couper la poitrine de porc en cubes.
 * Faire un caramel doré dans la cocotte avec les morceaux de sucre et un peu d'eau.
 * Faire bouillir et jeter la viande. Bien mélanger.
-* Ajouter le nioc-mam, le sel et éventuellement un peu de sucre en poudre si le caramel est trop amer.
+* Ajouter le nioc-mam, le sel (à doser en fonction du nioc-mam) et éventuellement un peu de sucre en poudre si le caramel est trop amer.
 * Ajouter l'oignon haché, mélanger et verser de l'eau à niveau.
 * Couvrir et cuire à petit feu pendant 1 heure. La sauce doit réduire du 1/3.
 * Faire cuire les oeufs durs puis les écaler.
@@ -38,4 +38,4 @@ Cette recette vient de Hanh Faucheu.
 * Vin rouge : Lirac (La Reine des Bois, domaine de la Mordorée)
 
 ### Notes
-* Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Toutes les deux coopérantes à Rabat, nous avons beaucoup cuisiné ensemble pendant notre séjour marocain et pris beaucoup de plaisir à  découvrir nos plats traditionnels.
+* Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Toutes les deux coopérantes à Rabat, nous avons beaucoup cuisiné ensemble pendant notre séjour marocain et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.
