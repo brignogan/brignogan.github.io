@@ -12,7 +12,7 @@ nbre_personne: ‘pour 4 personnes’
 Cette recette vient de Mimie Le Gall (Coat Tanguy).
 
 ### Ingrédients
-* 12 ormeaux moyens (ou plus suivant leur taille)
+* 12 ormeaux moyens (ou plus suivant leur taille, voir note 1)
 * 20 g de beurre ½ sel
 * 1 gousse d’ail
 * 1 bouquet de persil
@@ -30,12 +30,13 @@ Cette recette vient de Mimie Le Gall (Coat Tanguy).
 * Eplucher les pommes de terre et les couper en frites.
 * Hacher l’ail et le persil.
 * Cuire les frites.
-* Faire bien dorer les ormeaux dans une poêle avec 20 g de beurre (1-2 mn sur chaque face).
+* Faire à peine fondre 20 g de beurre dans une poêle et, pour que les ormeaux restent tendres, les cuire doucement sur les deux faces jusqu'à ce qu'ils se colorent légèrement.
 * Servir les ormeaux saupoudrés du hachis d’ail et persil avec les frites.  
 
 ### Vin
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Notes
+* Il y a à peu près 9 ormeaux moyens au kilo.
 * Mimie est une grande pécheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages.
 * Les ormeaux sont considérés comme les biftecks de la mer. Cette recette est donc l’équivalent du steak-frites.
