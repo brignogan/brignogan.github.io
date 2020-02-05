@@ -23,7 +23,7 @@ Cette recette vient de la « biblio ».
 ### Préparation
 * Eplucher et laver le poireau, le couper en rondelle, le blanchir 30 secondes dans l’eau bouillante. Réserver.
 * Laver et couper les pommes en quartier, faites les sauter dans 30 g de beurre sur les deux faces jusqu’à légère coloration. Réserver.
-* Dans la même poêle et avec le reste de beurre, faites sauter rapidement les noix de Saint Jacques sur les deux faces jusqu’à coloration.
+* Dans la même poêle, faire à peine fondre le reste de beurre et y faire cuire doucement les noix de Saint Jacques sur les deux faces jusqu’à légère coloration.
 * Rassembler les pommes et les Saint Jacques dans le poêle, flamber au calvados, ajouter la crème, faire réduire, saler, poivrer.
 * Servir avec le poireau.
 
@@ -31,4 +31,4 @@ Cette recette vient de la « biblio ».
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Notes
-Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
+Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût. Leur cuisson doit être menée doucement pour qu'elles restent tendres.
