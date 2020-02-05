@@ -39,4 +39,4 @@ Cette recette vient de Renée (Coat Tanguy).
 
 ### Notes
 * Le plateau de fruits de mer se sert accompagné de pain blanc et de pain noir (seigle ou blé noir) et du beurre salé avec des cristaux de sel de Guérande.
-* Il n'est pas question de décortiquer à l'avance ces fruits de mer. Chacun s'y colle, ça fait partie du plaisir… il ne faut donc pas oublier de fournir à table une poubelle et un rince-doigt (un saladier d'eau chaude avec un morceau de citron).
+* Il n'est pas question de décortiquer à l'avance ces fruits de mer. Chacun s'y colle, ça fait partie du plaisir… il ne faut donc pas oublier de fournir à table une poubelle et un rince-doigt (un bol d'eau chaude avec un morceau de citron pour chaque convive).
