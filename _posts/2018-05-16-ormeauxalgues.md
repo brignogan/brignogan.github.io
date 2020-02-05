@@ -30,14 +30,14 @@ Cette recette est inspirée de celle de Olivier Roellinger (Cancale) et simplifi
 * Préparation du fumet : Une petite heure à l'avance, faire revenir les barbillons dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre et le Noilly. Verser alors le fond de volaille et laisser frémir pendant 1/2 heure.
 * Faire chauffer le four à 50°C.
 * Eplucher les pommes de terre et les faire cuire 15 bonnes minutes dans l’eau bouillante salée.
-* Faire bien dorer les ormeaux dans une poêle avec 20 g de beurre (1-2 mn sur chaque face). les réserver au chaud dans le four.
 * Ecraser les pommes de terre cuites et égouttées et ajouter 25 g de beurre. Les réserver au chaud dans le four.
-* Filtrer le fumet avec un chinois. Réserver le hachis au chaud dans le four.
-* Monter le filtrat avec 15 g de beurre.
+* Filtrer le fumet avec un chinois. Conserver le filtrat et réserver le hachis au chaud dans le four.
+* Faire à peine fondre 20 g de beurre dans une poêle et, pour que les ormeaux restent tendres, les cuire doucement sur les deux faces jusqu'à ce qu'ils se colorent légèrement. Les réserver au chaud dans le four.
+* Monter le filtrat du fumet avec 15 g de beurre.
 * Servir les ormeaux, saupoudré de quelques cristaux de gros sel, avec le hachis de barbillons et d’algues et l’écrasé de pommes de terre. Napper de sauce.  
 
 ### Vin
-* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Champagne : cuvée inédite ou grand cru de Louis de Sacy
 
 ### Notes
 * Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.
