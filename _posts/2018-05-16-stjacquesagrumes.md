@@ -3,7 +3,7 @@ layout: post
 title: Saint Jacques sauce agrumes
 tag_category: bretagne
 tag_plat: platPoisson
-image: img/recette/saintjacques.png
+image: img/recette/saintjacquesagrume.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
@@ -33,8 +33,8 @@ Cette recette vient de Renée et Ronan (Coat Tanguy).
 * Faire blanchir 5 mn dans de l’eau bouillante la julienne d’écorce d’orange.
 * Faire cuire le riz.
 * Faire chauffer le four à 50°C.
-* Faire dorer les Saint Jacques dans une poêle avec 20 g de beurre (1 mn sur chaque face). Saler et poivrer. Réserver au chaud dans le four.
-* Filtrer le fumet avec un chinois. Réserver le hachis de barbes et d’algues au chaud dans le four.
+* Filtrer le fumet avec un chinois. Conserver le filtrat et réserver le hachis de barbes et d’algues au chaud dans le four.
+* Faire à peine fondre le reste de beurre et y faire cuire doucement les noix de Saint Jacques sur les deux faces jusqu’à légère coloration. Réserver au chaud dans le four.
 * Monter le filtrat avec 20 g de beurre.
 * Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
@@ -44,3 +44,4 @@ Cette recette vient de Renée et Ronan (Coat Tanguy).
 ### Notes
 * Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
 * On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des Saint Jacques.
+* On peut aussi ajouter quelques brisures de crêpes de blé noir séchées à la poêle.
