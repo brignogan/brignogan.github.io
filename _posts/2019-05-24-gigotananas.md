@@ -42,4 +42,4 @@ Cette recette vient de Monique Salaün.
 * Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
 ### Notes
-*   
+* Cette recette exotique vient de Monique qui, faute de ne pas voyager autant qu'elle le souhaitait, voyageait dans sa cuisine.   
