@@ -20,6 +20,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 * 3 oeufs
 * 65 g de sucre
 * 75 g de beurre
+
 #### pour la sauce au rhum :
 * 1/2 L d'eau
 * 250 g de sucre
@@ -40,4 +41,4 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain,Léon Baur, Eguisheim).
+* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).

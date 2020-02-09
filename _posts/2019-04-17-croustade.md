@@ -36,7 +36,7 @@ Cette recette vient de Babette (Montréal, Québec)
 
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain,Léon Baur, Eguisheim).
+* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).
 
 
 ### Notes
