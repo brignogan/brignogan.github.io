@@ -12,7 +12,7 @@ nbre_personne: ‘pour 6 personnes’
 Cette recette vient de Babette (Montréal, Québec)
 
 ### Ingrédients
-* 500 g de rhubarbe (de préférence congelée : elle sera moins acide)
+* 500 g de rhubarbe (de préférence décongelée : elle sera moins acide)
 * quelques framboises
 * quelques cassis
 * 2 pommes
@@ -29,15 +29,14 @@ Cette recette vient de Babette (Montréal, Québec)
 * Couper la rhubarbe et les pommes en gros dés, les déposer dans le fond du plat.
 * Ajouter 3 c. à s. d’eau et saupoudrer du sucre.
 * Préparer la pâte en mélangeant du bout des doigts la farine, les flocons d’avoine, la cassonade et le beurre.
-* Mouiller légèrement la pâte sablée obtenue avec un peu d'eau pour en faire des gros grumeaux. 
+* Mouiller légèrement la pâte sablée obtenue avec un peu d'eau pour en faire des gros grumeaux.
 * Recouvrir les fruits de la pâte.
 * Cuire à four chaud (200°C) pendant au moins 45 mn en surveillant la cuisson jusqu’à ce que le caramel remonte par dessus le gâteau.
 * Servir chaud avec une boule glace.
 
 
 ### Vins
-* Macvin du Jura blanc (Domaine de Savigny)
-* Gewurtztraminer (Léon Baur ou Wolfberger, Eiguisheim))
+* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain,Léon Baur, Eguisheim).
 
 
 ### Notes
