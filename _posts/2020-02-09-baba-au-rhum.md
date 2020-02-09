@@ -14,14 +14,13 @@ Il est préférable de préparer le baba la veille du service.
 
 
 ### Ingrédients
-Préparation du gâteau
 * 1 verre d'eau tiède
 * 10 g de levure du boulanger
 * 250 g de farine
 * 3 oeufs
 * 65 g de sucre
 * 75 g de beurre
-Préparation de la sauce au rhum
+### pour la sauce au rhum
 * 1/2 L d'eau
 * 250 g de sucre
 * 200 mL de rhum
@@ -40,4 +39,4 @@ Préparation de la sauce au rhum
 * Décorer le gâteau avec des fruits frais ou au sirop suivant la saison et de la crème chantilly.
 
 ### Vins
-* 
+*
