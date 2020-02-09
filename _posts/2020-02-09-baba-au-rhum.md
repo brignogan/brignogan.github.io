@@ -19,7 +19,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 * 250 g de farine
 * 3 oeufs
 * 65 g de sucre
-* 75 g de beurre
+* 75 g de beurre demi-sel
 
 #### pour la sauce au rhum :
 * 1/2 L d'eau
