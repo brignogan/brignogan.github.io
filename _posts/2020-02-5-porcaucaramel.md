@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Hanh Faucheu.
+Cette recette vietnamienne vient de Hanh Faucheu.
 
 ### Ingrédients
 * 1 kg de poitrine fraîche et maigre de porc
