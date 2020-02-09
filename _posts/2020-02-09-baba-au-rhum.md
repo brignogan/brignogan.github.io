@@ -20,7 +20,8 @@ Il est préférable de préparer le baba la veille du service.
 * 3 oeufs
 * 65 g de sucre
 * 75 g de beurre
-pour la sauce au rhum :
+
+### pour la sauce au rhum
 * 1/2 L d'eau
 * 250 g de sucre
 * 200 mL de rhum
