@@ -30,11 +30,13 @@ Cette recette vient de Michelle (Penmac'h)
 * Graisser la bilig avec un chiffon imbiber d’huile. Y verser une louchée de pâte et l’étaler au rateau. Si la pâte glisse sous le rateau, la bilig est trop grasse, l’essuyer avec un chiffon sec. Cuire la première face 1 mn (les bords de la crêpe se décollent facilement).
 * Si on ne veut pas fourrer la crêpe, la retourner et cuire à nouveau 1 mn.
 * Si on veut la fourrer, y étaler un morceau de beurre et ajouter aussitôt la garniture : fromage râpé, oeuf battu, jambon, andouille, saumon fumé,…. Cuire une bonne minute. Plier la crêpe.
-* Pour un fourrage à l’oeuf miroir, cuire le blanc directement sur la crêpe, ajouter ensuite les autres éléments du fourrage (fromage rapé, jambon,...) puis déposer le jaune cru sur la crêpe après pliage.
+* Pour un fourrage à l’oeuf miroir, cuire le blanc directement sur la crêpe, ajouter ensuite les autres éléments du fourrage (fromage rapé, jambon,...) puis déposer le jaune cru sur la crêpe après pliage (voir la video plus bas).
 
 ### Vin
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Notes
-* Cette recette a été donnée par Michelle qui est diplômée de l’Université de la Crêpe deSaint Jean Trolimon.
+* Cette recette a été donnée par Michelle qui est diplômée de l’Université de la Crêpe de Saint Jean Trolimon.
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
+* Voici un exemple de complète (jambon-oeuf-fromage).
+{% include vimeoPlayer.html id="390606477" padding-bottom="56.25%" label="complète blé noir"%}
