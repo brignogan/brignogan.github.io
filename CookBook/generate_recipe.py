@@ -284,6 +284,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             line2p = []
             line2p_ = ''
             for line_ in recipeMMnote:
+                if 'jambon-oeuf-fromage' in line_: break
                 line_1 = line_.split('{%')[0].strip()
                 line_2 = ''
                 if len(line_.split('{%')) > 1: 
