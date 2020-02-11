@@ -10,7 +10,7 @@ import operator
 import subprocess
 
 def replace_name_plat(x):
-    return x.replace('entree','Entree').replace('platPoisson', 'Plat de Poisson').replace('platViande','Plat de Viande').replace('dessert','Dessert').replace('sauce', 'Sauce')
+    return x.replace('entree','Entr\\\'ee').replace('platPoisson', 'Plat de Poisson').replace('platViande','Plat de Viande').replace('dessert','Dessert').replace('sauce', 'Sauce')
 
 def timefloat2string(x):
     if x < 60: 
@@ -91,7 +91,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
 
     if recipeCat != recipeCat_prev: 
-        final2_lines.append(u'\\newpage \section{{{:s}}}\n'.format(recipeCat.title()) )
+        final2_lines.append(u'\\newpage \n \
+                \\fancyhead[LE]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+                \\fancyhead[RO]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+                \\fancyhead[LO]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+                \\fancyhead[RE]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+                \\section{{{:s}}}\n'.format(recipeCat.title()) )
         #add introCat
         lines_introCat_ = io.open(introCatDir+'{:s}.md'.format(recipeCat),"r", encoding='utf-8').readlines()
         lines_introCat = []

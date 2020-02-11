@@ -43,7 +43,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','sauce' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Sauce et Accompagnement </h2>
+    <h2 class="page-title"> Sauces et Condiments </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
@@ -55,7 +55,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','entree' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Entrée </h2>
+    <h2 class="page-title"> Entrées </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
@@ -67,7 +67,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','platViande' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Plat de Viande </h2>
+    <h2 class="page-title"> Plats de Viande </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
@@ -78,7 +78,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','platPoisson' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Plat de Poisson </h2>
+    <h2 class="page-title"> Plats de Poisson </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
@@ -89,7 +89,7 @@
   {% assign dish_sortedPosts =  subcat_sortedPosts | where: 'tag_plat','dessert' %}
   {% assign dish_length  = dish_sortedPosts | size %}
   {% if dish_length > 0 %}
-    <h2 class="page-title"> Dessert </h2>
+    <h2 class="page-title"> Desserts </h2>
     {% for post in dish_sortedPosts %}
         <p style="margin:0">
         <a class = "page-list" href="{{ post.url }}/#tag">{{ post.title }}</a>
