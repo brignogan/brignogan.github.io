@@ -89,15 +89,15 @@
 
 \newcommand{\preptime}[1]{
 	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}}
-				\parbox{\wd0}{\box0} temps preparation \quad {#1} \\ 
+				\parbox{\wd0}{\box0} {#1} \\ 
     \endgroup}
 \newcommand{\cooktime}[1]{
 	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_cuisson_orange.pdf}}
-				\parbox{\wd0}{\box0} temps cuisson \hspace{0.9cm} {#1} \\ 
+				\parbox{\wd0}{\box0} {#1} \\ 
     \endgroup}
 \newcommand{\chilltime}[1]{
 	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_repos_orange.pdf}}
-				\parbox{\wd0}{\box0} temps repos \hspace{1.2cm}   {#1} \\ 
+				\parbox{\wd0}{\box0} {#1} \\ 
     \endgroup}
 \newcommand{\serve}[1]{
 	\begingroup \setbox0=\hbox{\includegraphics[scale=0.035, trim= 0em -5em -5em -5em,]{people_281x281_orange.pdf}}
@@ -106,20 +106,27 @@
 
 \newcommand{\plogo}{\fbox{$\mathcal{PL}$}} % Generic dummy publisher logo
 
-\newcommand{\showtime}[4]{
+\newcommand{\showtime}[5]{
 	\noindent
-	\begin{minipage}[t]{\textwidth}
+	\begin{minipage}[t]{.38\textwidth}
+	\vspace{0pt}
 	\preptime{ #1 }
 	\cooktime{ #2 }
 	\chilltime{ #3 }
 	\serve{ #4 }
 	\end{minipage}		
+	\hspace{.02\textwidth}
+	\begin{minipage}[t]{.6\textwidth}
+	\vspace{0pt}
+	\includegraphics[width=\linewidth]{#5}%
+  	\end{minipage}
 }
 
 %% Optional argument is the width of the graphic, default = 1in
 \newcommand{\showit}[2]{%
     \noindent
-	\begin{minipage}[t]{.38\textwidth}
+	%\begin{minipage}[t]{.38\textwidth}
+	\begin{minipage}[t]{\textwidth}
 	\vspace{0pt}
 	\noindent
 	\if###2##
@@ -127,11 +134,11 @@
     	#2
 	\fi
   	\end{minipage}
-	\hspace{.02\textwidth}
-	\begin{minipage}[t]{.6\textwidth}
-	\vspace{0pt}
-	\includegraphics[width=\linewidth]{#1}%
-  	\end{minipage}
+	%\hspace{.02\textwidth}
+	%\begin{minipage}[t]{.6\textwidth}
+	%\vspace{0pt}
+	%\includegraphics[width=\linewidth]{#1}%
+  	%\end{minipage}
 }
 
 

@@ -13,7 +13,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 
 
 ### Ingrédients
-#### idéalement, préparer l'intégralité du baba la veille :
+#### pour la pâte :
 * 1 verre d'eau tiède
 * 10 g de levure du boulanger
 * 250 g de farine
@@ -28,6 +28,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 
 
 ### Préparation
+#### idéalement, préparer l'intégralité du baba la veille.
 * Mettre 80 g de farine dans une terrine et faire un puits, y mettre la levure et délayer avec un peu d'eau tiède.
 * Mélanger à la farine pour obtenir une pâte molle qui doit lever, à couvert, non loin d'une source de chaleur jusqu'à ce qu'elle ait triplé de volume.
 * Ajouter ensuite à cette pâte, et tout ensemble, le reste de la farine (170 g), les oeufs et le sucre. Travailler à la main en tapant la pâte jusqu'à ce qu'elle soit très souple et légère.
@@ -40,5 +41,5 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 * Décorer le gâteau avec des fruits frais ou au sirop suivant la saison et de la crème chantilly.
 
 
-### Vins
+### Vin
 * Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).

@@ -35,7 +35,7 @@ Cette recette vient de Babette (Montréal, Québec)
 * Servir chaud avec une boule glace.
 
 
-### Vins
+### Vin
 * Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).
 
 
