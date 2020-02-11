@@ -6,9 +6,10 @@ tag_plat: sauce
 image: pas d'image
 temps_preparation: 10
 temps_cuisson: '-'
-temps_repos: 'une nuit'
+temps_repos: 720
 nbre_personne: ‘-’
 ---
+
 ### Ingrédients
 * 2 c. à s. d'algues séchées (dulce, nori)
 * jus de citron

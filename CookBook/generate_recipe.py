@@ -10,7 +10,7 @@ import operator
 import subprocess
 
 def replace_name_plat(x):
-    return x.replace('entree','Entr\\\'ee').replace('platPoisson', 'Plat de Poisson').replace('platViande','Plat de Viande').replace('dessert','Dessert').replace('sauce', 'Sauce')
+    return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments')
 
 def timefloat2string(x):
     if x < 60: 
@@ -160,7 +160,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             continue
         lines_txt_per_cat[ii].append(line)
 
-    recipeMMintro = lines_txt_per_cat[0]
+    if len(lines_txt_per_cat[0])>0: 
+        recipeMMintro = lines_txt_per_cat[0]
+    else: 
+        lines_txt_per_cat.pop(0)
+        recipeMMintro = ['']
+
     recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []
     for i, cat in enumerate(lines_txt_per_cat):
         if cat[0] == '### Vin\n':
@@ -194,7 +199,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             if os.path.isfile(recipeMMimg): 
                 line = line.replace('recipeMMimg', recipeMMimg)                 ; flag_modified = 2
             else: 
-                continue
+                line = line.replace('recipeMMimg', '')                 ; flag_modified = 2
 
         if 'recipeMMingredient' in line: 
             line2p = []
@@ -296,9 +301,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line_2 = line_.split('{%')[1].strip().split('%}')[0]
                     img_path    = get_var_from_include_image('file')
                     img_caption = get_var_from_include_image('caption') 
-                line2p_ += line_1.replace('*','').strip() + '\n \\par ' 
+                line2p_ += line_1.replace('*','').strip() 
                 if line_2 != '':
                     line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center}'                     
+                else: 
+                    line2p_ += '\n \\par ' 
 
             line2p.append(line.replace('recipeMMnote', line2p_.split('\\par')[0].rstrip())) 
             if len(line2p_.split('\\par'))>1:

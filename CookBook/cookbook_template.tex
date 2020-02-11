@@ -121,11 +121,14 @@
 	\serve{ #4 }
 	\end{minipage}		
 	\hspace{.02\textwidth}
-	\begin{minipage}[t]{.6\textwidth}
-	\vspace{0pt}
-	\includegraphics[width=\linewidth]{#5}%
-  	\end{minipage}
-}
+	\if###5##
+    \else
+		\begin{minipage}[t]{.6\textwidth}
+		\vspace{0pt}
+		\includegraphics[width=\linewidth]{#5}%
+		\end{minipage}
+	\fi
+	}
 
 %% Optional argument is the width of the graphic, default = 1in
 \newcommand{\showit}[2]{%
@@ -352,7 +355,20 @@ Pour chaque recette est indiqué le vin que Jean Paul a sorti de sa cave pour l�
 
 Enfin, pour soigner sa table, on se reportera au livre “la cuisine du siècle“ de Catherine Bonnechere. C’est un livre de cuisine trouvé dans le grenier de Ploudaniel édité en 1899. Les chapîtres sur “le savoir vivre” et “les élégances de la table” sont irrésistibles! Elles sont visibles sur cette page internet\footnote{\url{https://en.calameo.com/read/0046395075f44e3515927}}.
 
-Ajouter la definition des icones.
+\section*{Les icones dans les Recettes}
+La signification des icones apparaissant dans les recettes est la suivante:
+
+\begin{tabular}{ l l }
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}} \parbox{\wd0}{\box0}  
+	& temps de pr\'eparation  \\ 
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_cuisson_orange.pdf}} \parbox{\wd0}{\box0}  
+	& temps de cuisson  \\ 
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_repos_orange.pdf}} \parbox{\wd0}{\box0}  
+	& temps de repos  \\ 
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{people_281x281_orange.pdf}} \parbox{\wd0}{\box0}  
+	& nombre de service  \\ 
+\end{tabular}
+
 
 \newpage
 \fancyhead{} % clear all header fields
