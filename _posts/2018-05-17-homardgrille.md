@@ -37,7 +37,7 @@ Cette recette vient de la « biblio ».
 * Champagne rosé : Louis de Sacy
 
 ### Notes
+* Voir le schéma ci-dessous si jamais couper un homard en deux ne vous parait pas évident. {% include image.html file="/img/recette/commentCoupeUnHomard.png" alt="comment couper un homard" caption= "Comment couper un homard en deux." %}
 * Les homards (s'ils sont bien vivants) peuvent se garder, sans problème, 2-3 jours bien à plat dans un bac en bas du réfrigérateur, recouverts d'un torchon humide. Vérifier chaque jour qu'ils sont bien vivants, sinon les cuire aussitôt (point 1).
 * La préparation peut se faire en deux temps. La veille (par exemple), procéder aux 4 premiers points de la recette et recouvrir d'un film les homards dans la lèchefrite. Conserver au réfrigérateur. Garder le mélange beurre/corail à température ambiante pour que le beurre reste en pommade. Poursuivre la préparation le lendemain.   
 * Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
-* Voir le schéma ci-dessous si jamais couper un homard en deux ne vous parait pas évident. {% include image.html file="/img/recette/commentCoupeUnHomard.png" alt="comment couper un homard" caption= "Comment couper un homard en deux." %}

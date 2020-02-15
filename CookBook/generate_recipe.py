@@ -107,11 +107,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         for lines_ in lines_introCat: final2_lines.append(lines_)
         if len(lines_introCat)>0: final2_lines.append('\\newpage')
-        final2_lines.append(u'\subsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
+        final2_lines.append(u'\\fakesubsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
         iPlat = 0
     
     elif recipePlat != recipePlat_prev: 
-        final2_lines.append(u'\\newpage \subsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
+        final2_lines.append(u'\\newpage \\fakesubsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
         iPlat = 0 
     
     recipeCat_prev = recipeCat
@@ -241,9 +241,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         else: break
                     if ii-ii_ori > 1: 
                         line2p.append( u'\\begin{method}\n')
+                        line2p.append(line_.replace('*','').strip())
                         flag_method = 1
                     else: 
                         line2p.append( u'\\begin{method_noNumber}\n')
+                        line2p.append(line_.replace('*','').strip())
                         flag_method = 2
 
                 elif (line_[:4] == '####') & (i==(len(recipeMMinstruction)-1)):
@@ -303,13 +305,14 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     img_caption = get_var_from_include_image('caption') 
                 line2p_ += line_1.replace('*','').strip() 
                 if line_2 != '':
-                    line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center}'                     
+                    line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center} \n \\par '                     
                 else: 
                     line2p_ += '\n \\par ' 
 
-            line2p.append(line.replace('recipeMMnote', line2p_.split('\\par')[0].rstrip())) 
-            if len(line2p_.split('\\par'))>1:
-                line2p.append('\\par'.join(line2p_.split('\\par')[1:] ) )
+            line2p.append(line.replace('recipeMMnote', ''.join(line2p_) ) ) #line2p_.split('\\par')[0].rstrip())) 
+            #if len(line2p_.split('\\par'))>1:
+            #    pdb.set_trace()
+            #    line2p.append('\\par \\parindent10pt'.join(line2p_.split('\\par')[1:] ) )
             flag_modified = 1
        
         if 'recipeMMpreinstruction' in line:

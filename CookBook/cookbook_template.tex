@@ -16,6 +16,7 @@
     %twoside
     ]{geometry}
 
+\usepackage[skins,breakable]{tcolorbox}
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{grffile}
@@ -92,6 +93,26 @@
 \newcommand{\temp}[1]{%
     $#1^\circ$C}
 
+
+\renewcommand{\thesection}{}
+\renewcommand{\thesubsection}{} 
+\renewcommand{\thesubsubsection}{} 
+\makeatletter
+\def\@seccntformat#1{\csname #1ignore\expandafter\endcsname\csname the#1\endcsname\quad}
+\let\sectionignore\@gobbletwo
+\let\subsectionignore\@gobbletwo
+\let\subsubsectionignore\@gobbletwo
+\let\latex@numberline\numberline
+\def\numberline#1{\if\relax#1\relax\else\latex@numberline{#1}\fi}
+\makeatother
+
+\newcommand{\fakesubsection}[1]{%
+  \par\refstepcounter{subsection}% Increase subsection counter
+  \subsectionmark{#1}% Add subsection mark (header)
+  \addcontentsline{toc}{subsection}{\protect\numberline{\thesubsection}#1}% Add subsection to ToC
+  % Add more content here, if needed.
+}
+
 \newcommand{\preptime}[1]{
 	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}}
 				\parbox{\wd0}{\box0} {#1} \\ 
@@ -148,7 +169,8 @@
 	%\includegraphics[width=\linewidth]{#1}%
   	%\end{minipage}
 }
-
+%\newcommand{\forceindent}{\leavevmode{\parindent=1em\indent}}
+%\newcommand{\forceindent}{\parindent=1em\indent\parindent=0pt\relax}
 
 %% Optional argument for a  heading within the ingredients section
 \newcommand{\ingredients}[1][]{%
@@ -162,7 +184,8 @@
 
 %% Use \obeylines to minimize markup
 \newenvironment{ingreds}{%
-    \parindent0pt
+	\begin{tcolorbox}[width=\textwidth, breakable,]
+ 	\parindent0pt
     \noindent
     \ingredients
     \par
@@ -179,7 +202,8 @@
     \everypar={\hangindent1em}
 	}{%
     \end{multicols}%
-    \bigskip
+	\end{tcolorbox}
+    \medskip
 }
 
 \newcounter{stepnum}
@@ -190,7 +214,7 @@
     \if###1##%
         \parindent0pt
     	\noindent
-		{\Large\color{orangecolor}\textbf{Instructions}}%
+		{\Large\color{orangecolor}\textbf{Pr\'eparation}}%
 		\par
 		\medskip
     \else
@@ -234,10 +258,10 @@
 		\begin{minipage}{\textwidth}
 		\setcounter{stepnum}{0}
 		\noindent
-		{\color{orangecolor}\Large\textbf{Vin}}%
+		{\color{orangecolor}\Large\textbf{Vins}}%
 		\par
 		\medskip
-		\noindent
+		\parindent10pt
 		{#1}
 		\medskip
 		\end{minipage}
@@ -249,17 +273,17 @@
 \newenvironment{note}[1][]{%
      \if###1##%
      \else
-		 \bigskip
-		 \begin{minipage}[!t]{\textwidth}
+		 \medskip
+		 \begin{tcolorbox}[blanker,width=\textwidth, breakable,]
 		 \setcounter{stepnum}{0}
 		 \noindent
 		 {\color{orangecolor}\Large\textbf{Notes}}%
 		 \par
 		 \medskip
-		 \noindent
+		 \parindent10pt
 		 {#1}
 	     \smallskip
-		 \end{minipage}
+		 \end{tcolorbox}
 	 \fi
 }
 
