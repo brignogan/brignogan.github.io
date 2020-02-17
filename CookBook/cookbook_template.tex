@@ -7,6 +7,7 @@
 \usepackage{ulem}
 \usepackage[french]{babel}
 \usepackage{wrapfig}
+\usepackage{ifoddpage}
 \usepackage[%
     %a5paper,
     papersize={5.5in,8.5in},
@@ -20,14 +21,34 @@
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{grffile}
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks,
-    citecolor=black,
-    filecolor=black,
-    linkcolor=black,
-    urlcolor=black
-}
+\usepackage[hidelinks]{hyperref}
+%\hypersetup{
+%    colorlinks,
+%    citecolor=black,
+%    filecolor=black,
+%    linkcolor=black,
+%    urlcolor=black
+%}
+\usepackage[thumblink=rule,
+			linefill=dots,
+			height={30pt},           % height of the marker
+			minheight={30pt},%
+            width={auto},
+			distance={2mm},
+			topthumbmargin={82pt},   % postion of the 1set marker
+			bottomthumbmargin={auto},%
+            eventxtindent={5pt},
+			oddtxtexdent={5pt},%
+            evenmarkindent={0pt},
+			oddmarkexdent={0pt},
+			evenprintvoffset={0pt},%
+            nophantomsection=false,
+			ignorehoffset=true,
+			ignorevoffset=true,
+			final=true,%
+            hidethumbs=false,
+			verbose=true]{thumbs}[2014/03/09]
+
 \let\Sectionmark\sectionmark
 \def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
 
@@ -40,6 +61,7 @@
 %\setlength{\columnseprule}{1pt}
 
 \makeatletter
+\newcommand*{\currentname}{\@currentlabelname}
 
 \newif\if@mainmatter \@mainmattertrue
 
@@ -59,7 +81,13 @@
 \definecolor{vegcolor}{rgb}{0,0.5,0.2}
 \definecolor{frzcolor}{rgb}{0,0,1}
 \definecolor{orangecolor}{rgb}{.83,.33,0}
-
+\definecolor{antiquebrass}{rgb}{0.8, 0.58, 0.46}
+\definecolor{bronze}{rgb}{0.8, 0.5, 0.2}
+\definecolor{frenchblue}{rgb}{0.0, 0.45, 0.73}
+\definecolor{glaucous}{rgb}{0.38, 0.51, 0.71}
+\definecolor{napiergreen}{rgb}{0.16, 0.5, 0.0}
+\definecolor{manatee}{rgb}{0.59, 0.6, 0.67}
+\definecolor{jade}{rgb}{0.0, 0.66, 0.42}
 % Your "recipes.sty" package starts here:
 %% Thanks to alephzero for the excellent start:
 
@@ -295,10 +323,121 @@
 \renewcommand{\subsectionmark}[1]{\markright{#1}{}}
 
 
+\newcommand*\iconEntree{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_entree_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-14,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_entree_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconPoisson{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-10.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{icon_poisson_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-15.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{icon_poisson_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconViande{
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-8.7,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{icon_viande_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{icon_viande_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconDessert{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-7.7,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{icon_dessert_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-13,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{icon_dessert_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconSauce{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_sauce_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_sauce_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\def\Entrees{ Entrées}
+\def\Poissons{ Plats de Poisson}
+\def\Viandes{ Plats de Viande}
+\def\Desserts{ Desserts}
+\def\Sauces{ Sauces et Condiments}
+
+\newcommand*{\subsectionnumber}{\arabic{subsection}}
+
+\makeatletter
+\newcommand\testCat[2]{%
+ %\texttt{\string\myoldvalue}: \myoldvalue\\
+ %ARG1: #1\\
+ \ifnum\pdf@strcmp{#2}{#1}=\z@
+   0%
+ \else
+   1%
+ \fi
+}
+\makeatother
+
+\newcommand*{\thumbsIcon}{
+	\ifnum0=\subsectionnumber\relax
+	%	
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Entrees}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconEntree
+	\fi
+	%\ifnum2=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Poissons}
+	\iconPoisson
+	\fi
+	%\ifnum3=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Viandes}
+	\iconViande
+	\fi
+	%\ifnum4=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Desserts}
+	\iconDessert
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Sauces}
+	%\ifnum5=\subsectionnumber\relax
+	\iconSauce
+	\fi
+	}
+
+\newcommand*{\currentSectionName}{
+	\ifnum0=\subsectionnumber\relax
+	%	
+	\else
+	\Subsectionname
+	\fi
+	}
+\let\Subsectionmark\subsectionmark
+\def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\pagenumbering{arabic}
 
 \begin{titlepage} % Suppresses headers and footers on the title page
 	
@@ -399,6 +538,10 @@ La signification des icones apparaissant dans les recettes est la suivante:
 \fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 \fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 \tableofcontents
+
+\newpage
+%\addthumbsoverviewtocontents{section}{Table des Marques de Couleurs}%
+\thumbsoverview{Table des Marques de Couleurs}
 
 \newpage
 \fancyhead{}

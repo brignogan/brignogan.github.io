@@ -9,6 +9,18 @@ import pdb
 import operator 
 import subprocess
 
+def color_section(x):
+    if x == 'maroc':
+        return 'antiquebrass'
+    elif x == 'bretagne':
+        return 'glaucous'
+    elif x == 'famille':
+        return 'jade'
+    elif x == 'autriche':
+        return 'manatee'
+    else: 
+        return 'gray'
+
 def replace_name_plat(x):
     return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments')
 
@@ -92,11 +104,14 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     if recipeCat != recipeCat_prev: 
         final2_lines.append(u'\\newpage \n \
-                \\fancyhead[LE]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
-                \\fancyhead[RO]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
-                \\fancyhead[LO]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
-                \\fancyhead[RE]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
-                \\section{{{:s}}}\n'.format(recipeCat.title()) )
+\\fancyhead[LE]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+\\fancyhead[RO]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+\\fancyhead[LO]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+\\fancyhead[RE]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+\\section{{{:s}}}\n                                          \
+\\addthumb{{{:s}}}{{\\thumbsIcon}}{{white}}{{{:s}}}'.format(recipeCat.title(), recipeCat.title(), color_section(recipeCat))
+                )
+
         #add introCat
         lines_introCat_ = io.open(introCatDir+'{:s}.md'.format(recipeCat),"r", encoding='utf-8').readlines()
         lines_introCat = []
