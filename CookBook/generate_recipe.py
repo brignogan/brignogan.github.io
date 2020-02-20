@@ -9,8 +9,20 @@ import pdb
 import operator 
 import subprocess
 
+def color_section(x):
+    if x == 'maroc':
+        return 'antiquebrass'
+    elif x == 'bretagne':
+        return 'glaucous'
+    elif x == 'famille':
+        return 'jade'
+    elif x == 'autriche':
+        return 'manatee'
+    else: 
+        return 'gray'
+
 def replace_name_plat(x):
-    return x.replace('entree','Entree').replace('platPoisson', 'Plat de Poisson').replace('platViande','Plat de Viande').replace('dessert','Dessert').replace('sauce', 'Sauce')
+    return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments')
 
 def timefloat2string(x):
     if x < 60: 
@@ -91,7 +103,15 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
 
     if recipeCat != recipeCat_prev: 
-        final2_lines.append(u'\\newpage \section{{{:s}}}\n'.format(recipeCat.title()) )
+        final2_lines.append(u'\\newpage \n \
+\\fancyhead[LE]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+\\fancyhead[RO]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+\\fancyhead[LO]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+\\fancyhead[RE]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+\\section{{{:s}}}\n                                          \
+\\addthumb{{{:s}}}{{\\thumbsIcon}}{{white}}{{{:s}}}'.format(recipeCat.title(), recipeCat.title(), color_section(recipeCat))
+                )
+
         #add introCat
         lines_introCat_ = io.open(introCatDir+'{:s}.md'.format(recipeCat),"r", encoding='utf-8').readlines()
         lines_introCat = []
@@ -102,11 +122,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         for lines_ in lines_introCat: final2_lines.append(lines_)
         if len(lines_introCat)>0: final2_lines.append('\\newpage')
-        final2_lines.append(u'\subsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
+        final2_lines.append(u'\\fakesubsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
         iPlat = 0
     
     elif recipePlat != recipePlat_prev: 
-        final2_lines.append(u'\\newpage \subsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
+        final2_lines.append(u'\\newpage \\fakesubsection{{{:s}}}\n'.format(replace_name_plat(recipePlat)))
         iPlat = 0 
     
     recipeCat_prev = recipeCat
@@ -155,7 +175,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             continue
         lines_txt_per_cat[ii].append(line)
 
-    recipeMMintro = lines_txt_per_cat[0]
+    if len(lines_txt_per_cat[0])>0: 
+        recipeMMintro = lines_txt_per_cat[0]
+    else: 
+        lines_txt_per_cat.pop(0)
+        recipeMMintro = ['']
+
     recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []
     for i, cat in enumerate(lines_txt_per_cat):
         if cat[0] == '### Vin\n':
@@ -189,7 +214,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             if os.path.isfile(recipeMMimg): 
                 line = line.replace('recipeMMimg', recipeMMimg)                 ; flag_modified = 2
             else: 
-                continue
+                line = line.replace('recipeMMimg', '')                 ; flag_modified = 2
 
         if 'recipeMMingredient' in line: 
             line2p = []
@@ -231,9 +256,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         else: break
                     if ii-ii_ori > 1: 
                         line2p.append( u'\\begin{method}\n')
+                        line2p.append(line_.replace('*','').strip())
                         flag_method = 1
                     else: 
                         line2p.append( u'\\begin{method_noNumber}\n')
+                        line2p.append(line_.replace('*','').strip())
                         flag_method = 2
 
                 elif (line_[:4] == '####') & (i==(len(recipeMMinstruction)-1)):
@@ -291,13 +318,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line_2 = line_.split('{%')[1].strip().split('%}')[0]
                     img_path    = get_var_from_include_image('file')
                     img_caption = get_var_from_include_image('caption') 
-                line2p_ += line_1.replace('*','').strip() + '\n \\par ' 
+                line2p_ += line_1.replace('*','').strip() 
                 if line_2 != '':
-                    line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center}'                     
+                    line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center} \n \\par '                     
+                else: 
+                    line2p_ += '\n \\par ' 
 
-            line2p.append(line.replace('recipeMMnote', line2p_.split('\\par')[0].rstrip())) 
-            if len(line2p_.split('\\par'))>1:
-                line2p.append('\\par'.join(line2p_.split('\\par')[1:] ) )
+            line2p.append(line.replace('recipeMMnote', ''.join(line2p_) ) ) #line2p_.split('\\par')[0].rstrip())) 
+            #if len(line2p_.split('\\par'))>1:
+            #    pdb.set_trace()
+            #    line2p.append('\\par \\parindent10pt'.join(line2p_.split('\\par')[1:] ) )
             flag_modified = 1
        
         if 'recipeMMpreinstruction' in line:

@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[twoside]{article}
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \usepackage[utf8]{inputenc}
@@ -7,6 +7,7 @@
 \usepackage{ulem}
 \usepackage[french]{babel}
 \usepackage{wrapfig}
+\usepackage{ifoddpage}
 \usepackage[%
     %a5paper,
     papersize={5.5in,8.5in},
@@ -16,17 +17,38 @@
     %twoside
     ]{geometry}
 
+\usepackage[skins,breakable]{tcolorbox}
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{grffile}
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks,
-    citecolor=black,
-    filecolor=black,
-    linkcolor=black,
-    urlcolor=black
-}
+\usepackage[hidelinks]{hyperref}
+%\hypersetup{
+%    colorlinks,
+%    citecolor=black,
+%    filecolor=black,
+%    linkcolor=black,
+%    urlcolor=black
+%}
+\usepackage[thumblink=rule,
+			linefill=dots,
+			height={30pt},           % height of the marker
+			minheight={30pt},%
+            width={auto},
+			distance={2mm},
+			topthumbmargin={82pt},   % postion of the 1set marker
+			bottomthumbmargin={auto},%
+            eventxtindent={5pt},
+			oddtxtexdent={5pt},%
+            evenmarkindent={0pt},
+			oddmarkexdent={0pt},
+			evenprintvoffset={0pt},%
+            nophantomsection=false,
+			ignorehoffset=true,
+			ignorevoffset=true,
+			final=true,%
+            hidethumbs=false,
+			verbose=true]{thumbs}[2014/03/09]
+
 \let\Sectionmark\sectionmark
 \def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
 
@@ -39,6 +61,7 @@
 %\setlength{\columnseprule}{1pt}
 
 \makeatletter
+\newcommand*{\currentname}{\@currentlabelname}
 
 \newif\if@mainmatter \@mainmattertrue
 
@@ -58,15 +81,26 @@
 \definecolor{vegcolor}{rgb}{0,0.5,0.2}
 \definecolor{frzcolor}{rgb}{0,0,1}
 \definecolor{orangecolor}{rgb}{.83,.33,0}
-
+\definecolor{antiquebrass}{rgb}{0.8, 0.58, 0.46}
+\definecolor{bronze}{rgb}{0.8, 0.5, 0.2}
+\definecolor{frenchblue}{rgb}{0.0, 0.45, 0.73}
+\definecolor{glaucous}{rgb}{0.38, 0.51, 0.71}
+\definecolor{napiergreen}{rgb}{0.16, 0.5, 0.0}
+\definecolor{manatee}{rgb}{0.59, 0.6, 0.67}
+\definecolor{jade}{rgb}{0.0, 0.66, 0.42}
 % Your "recipes.sty" package starts here:
 %% Thanks to alephzero for the excellent start:
 
+
 \newcommand{\recipe}[2][\newpage]{%
 	#1
-	\lhead{\leftmark}%
+	\fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+	\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+	\fancyhead[LO]{\bfseries\nouppercase{\rightmark}}      % Chapter in the right on even pages
+	\fancyhead[RE]{\bfseries\nouppercase{\rightmark}}      % Chapter in the right on even pages
+	%\lhead{\leftmark}%
     \chead{}%
-    \rhead{}%
+    %\rhead{\rightmark}%
     \lfoot{}%
     \rfoot{}%
     \subsubsection{#2}%
@@ -86,6 +120,26 @@
 %}
 \newcommand{\temp}[1]{%
     $#1^\circ$C}
+
+
+\renewcommand{\thesection}{}
+\renewcommand{\thesubsection}{} 
+\renewcommand{\thesubsubsection}{} 
+\makeatletter
+\def\@seccntformat#1{\csname #1ignore\expandafter\endcsname\csname the#1\endcsname\quad}
+\let\sectionignore\@gobbletwo
+\let\subsectionignore\@gobbletwo
+\let\subsubsectionignore\@gobbletwo
+\let\latex@numberline\numberline
+\def\numberline#1{\if\relax#1\relax\else\latex@numberline{#1}\fi}
+\makeatother
+
+\newcommand{\fakesubsection}[1]{%
+  \par\refstepcounter{subsection}% Increase subsection counter
+  \subsectionmark{#1}% Add subsection mark (header)
+  \addcontentsline{toc}{subsection}{\protect\numberline{\thesubsection}#1}% Add subsection to ToC
+  % Add more content here, if needed.
+}
 
 \newcommand{\preptime}[1]{
 	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}}
@@ -116,11 +170,14 @@
 	\serve{ #4 }
 	\end{minipage}		
 	\hspace{.02\textwidth}
-	\begin{minipage}[t]{.6\textwidth}
-	\vspace{0pt}
-	\includegraphics[width=\linewidth]{#5}%
-  	\end{minipage}
-}
+	\if###5##
+    \else
+		\begin{minipage}[t]{.6\textwidth}
+		\vspace{0pt}
+		\includegraphics[width=\linewidth]{#5}%
+		\end{minipage}
+	\fi
+	}
 
 %% Optional argument is the width of the graphic, default = 1in
 \newcommand{\showit}[2]{%
@@ -140,7 +197,8 @@
 	%\includegraphics[width=\linewidth]{#1}%
   	%\end{minipage}
 }
-
+%\newcommand{\forceindent}{\leavevmode{\parindent=1em\indent}}
+%\newcommand{\forceindent}{\parindent=1em\indent\parindent=0pt\relax}
 
 %% Optional argument for a  heading within the ingredients section
 \newcommand{\ingredients}[1][]{%
@@ -154,7 +212,8 @@
 
 %% Use \obeylines to minimize markup
 \newenvironment{ingreds}{%
-    \parindent0pt
+	\begin{tcolorbox}[width=\textwidth, breakable,]
+ 	\parindent0pt
     \noindent
     \ingredients
     \par
@@ -171,7 +230,8 @@
     \everypar={\hangindent1em}
 	}{%
     \end{multicols}%
-    \bigskip
+	\end{tcolorbox}
+    \medskip
 }
 
 \newcounter{stepnum}
@@ -182,7 +242,7 @@
     \if###1##%
         \parindent0pt
     	\noindent
-		{\Large\color{orangecolor}\textbf{Instructions}}%
+		{\Large\color{orangecolor}\textbf{Pr\'eparation}}%
 		\par
 		\medskip
     \else
@@ -226,10 +286,10 @@
 		\begin{minipage}{\textwidth}
 		\setcounter{stepnum}{0}
 		\noindent
-		{\color{orangecolor}\Large\textbf{Vin}}%
+		{\color{orangecolor}\Large\textbf{Vins}}%
 		\par
 		\medskip
-		\noindent
+		\parindent10pt
 		{#1}
 		\medskip
 		\end{minipage}
@@ -241,17 +301,17 @@
 \newenvironment{note}[1][]{%
      \if###1##%
      \else
-		 \bigskip
-		 \begin{minipage}[!t]{\textwidth}
+		 \medskip
+		 \begin{tcolorbox}[blanker,width=\textwidth, breakable,]
 		 \setcounter{stepnum}{0}
 		 \noindent
 		 {\color{orangecolor}\Large\textbf{Notes}}%
 		 \par
 		 \medskip
-		 \noindent
+		 \parindent10pt
 		 {#1}
 	     \smallskip
-		 \end{minipage}
+		 \end{tcolorbox}
 	 \fi
 }
 
@@ -259,11 +319,125 @@
 \pagestyle{fancy}
 % End of "recipes.sty"
 
+\renewcommand{\sectionmark}[1]{\markboth{\MakeUppercase{#1}}{}}
+\renewcommand{\subsectionmark}[1]{\markright{#1}{}}
+
+
+\newcommand*\iconEntree{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_entree_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-14,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_entree_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconPoisson{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-10.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{icon_poisson_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-15.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{icon_poisson_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconViande{
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-8.7,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{icon_viande_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{icon_viande_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconDessert{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-7.7,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{icon_dessert_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-13,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{icon_dessert_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconSauce{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_sauce_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{icon_sauce_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\def\Entrees{ Entrées}
+\def\Poissons{ Plats de Poisson}
+\def\Viandes{ Plats de Viande}
+\def\Desserts{ Desserts}
+\def\Sauces{ Sauces et Condiments}
+
+\newcommand*{\subsectionnumber}{\arabic{subsection}}
+
+\makeatletter
+\newcommand\testCat[2]{%
+ %\texttt{\string\myoldvalue}: \myoldvalue\\
+ %ARG1: #1\\
+ \ifnum\pdf@strcmp{#2}{#1}=\z@
+   0%
+ \else
+   1%
+ \fi
+}
+\makeatother
+
+\newcommand*{\thumbsIcon}{
+	\ifnum0=\subsectionnumber\relax
+	%	
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Entrees}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconEntree
+	\fi
+	%\ifnum2=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Poissons}
+	\iconPoisson
+	\fi
+	%\ifnum3=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Viandes}
+	\iconViande
+	\fi
+	%\ifnum4=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Desserts}
+	\iconDessert
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Sauces}
+	%\ifnum5=\subsectionnumber\relax
+	\iconSauce
+	\fi
+	}
+
+\newcommand*{\currentSectionName}{
+	\ifnum0=\subsectionnumber\relax
+	%	
+	\else
+	\Subsectionname
+	\fi
+	}
+\let\Subsectionmark\subsectionmark
+\def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\pagenumbering{arabic}
 
 \begin{titlepage} % Suppresses headers and footers on the title page
 	
@@ -344,11 +518,34 @@ Pour chaque recette est indiqué le vin que Jean Paul a sorti de sa cave pour l�
 
 Enfin, pour soigner sa table, on se reportera au livre “la cuisine du siècle“ de Catherine Bonnechere. C’est un livre de cuisine trouvé dans le grenier de Ploudaniel édité en 1899. Les chapîtres sur “le savoir vivre” et “les élégances de la table” sont irrésistibles! Elles sont visibles sur cette page internet\footnote{\url{https://en.calameo.com/read/0046395075f44e3515927}}.
 
-\newpage
+\section*{Les icones dans les Recettes}
+La signification des icones apparaissant dans les recettes est la suivante:
 
-\fancyhead{}
-\fancyhead[EL,OL]{\leftmark}
+\begin{tabular}{ l l }
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}} \parbox{\wd0}{\box0}  
+	& temps de pr\'eparation  \\ 
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_cuisson_orange.pdf}} \parbox{\wd0}{\box0}  
+	& temps de cuisson  \\ 
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{temps_repos_orange.pdf}} \parbox{\wd0}{\box0}  
+	& temps de repos  \\ 
+\setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{people_281x281_orange.pdf}} \parbox{\wd0}{\box0}  
+	& nombre de service  \\ 
+\end{tabular}
+
+
+\newpage
+\fancyhead{} % clear all header fields
+\fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 \tableofcontents
+
+\newpage
+%\addthumbsoverviewtocontents{section}{Table des Marques de Couleurs}%
+\thumbsoverview{Table des Marques de Couleurs}
+
+\newpage
+\fancyhead{}
+
 
 \mainmatter
 
