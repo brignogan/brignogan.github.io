@@ -40,6 +40,6 @@ Cette recette vient de Michelle (Penmarc'h)
 * Verser le mélange crémeux sur le poisson.
 * Remettre au four environ 10 mn à 200°C.
 
-### Vin
+### Vins
 * Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
 * Plus original : vin jaune du Jura

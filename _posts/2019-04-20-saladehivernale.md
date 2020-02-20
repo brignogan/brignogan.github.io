@@ -48,5 +48,5 @@ Cette recette vient de Jacqueline (Bures-sur-Yvette)
 * Présenter le saladier et la sauce à part. Ajouter la sauce et mélanger le tout sur la table juste au moment de servir.
 
 
-### Vin
+### Vins
 * Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac

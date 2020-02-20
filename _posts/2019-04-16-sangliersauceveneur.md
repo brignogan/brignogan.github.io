@@ -53,9 +53,7 @@ Cette recette vient de Renée.
 Servir le rôti avec des marrons et une purée de céleri.
 
 ### Vins
-* Côtes Rôties (Guigal, Chateau d’Ampuis)
-* Chateauneuf du Pape (Boirenard ou Beaurenard)
-* Hermitage rouge (Cave de Tain)
+* Vin rouge : Côtes Rôties (Guigal, Chateau d’Ampuis), Chateauneuf du Pape (Boirenard ou Beaurenard) ou Hermitage rouge (Cave de Tain).
 
 
 ### Notes

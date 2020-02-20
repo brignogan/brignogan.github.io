@@ -42,8 +42,8 @@ Cette recette vient de Grand-mère Saint Pierre
 * A la fin de la cuisson de la langue, l'égoutter et ôter la peau. La couper en tranches.
 * Servir la langue accompagnée de la sauce gribiche et de pommes de terre cuites à l'eau.
 
-### Vin
-* Vin blanc : Jasnière ou Daumas-Gassac
+### Vins
+* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
 ### Notes
 * En Bretagne, la langue de veau était considérée comme un mets délicat et systématiquement servie en entrée dans les repas de fête (mariage). Traditionnellement, elle était alors préparée à la sauce madère.

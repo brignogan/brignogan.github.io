@@ -38,7 +38,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * Servir avec du riz ou des pommes de terre vapeur.
 
 
-### Vin
+### Vins
 * Vin blanc : Jasnière (Domaine de Cézin), Saint Joseph (Guigal, Lieu-dit), Côtes du Jura (Domaine de Savagny).
 
 

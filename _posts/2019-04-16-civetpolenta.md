@@ -37,9 +37,8 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * Démouler au moment de servir avec le civet de lapin.
 
 
-### Vin
-* Corbière (Château Romilhac)
-* Chateauneuf du Pape (Boisrenard ou Beaurenard)
+### Vins
+* Vin rouge : Corbière (Château Romilhac) ou Chateauneuf du Pape (Boisrenard ou Beaurenard).
 
 
 ### Notes

@@ -30,7 +30,7 @@ Cette recette vient de Grand-Mère Saint Pierre.
 * Servir avec du riz.
 
 
-### Vin
+### Vins
 * Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
 ### Notes

@@ -37,9 +37,9 @@ Cette recette vient de Monique Salaün.
 * Servir avec les flageolets et de la fleur de sel (la viande n'est pas salée).    
 
 
-### Vin
-* Saint Emilion (Chateau Franc Patarabet)
-* Chateauneuf du Pape (Boisrenard ou Beaurenard)
+### Vins
+* Vin rouge : Saint Emilion (Chateau Franc Patarabet) ou Chateauneuf du Pape (Boisrenard ou Beaurenard)
+
 
 ### Notes
 * Cette recette exotique vient de Monique qui, faute de ne pas voyager autant qu'elle le souhaitait, voyageait dans sa cuisine.   

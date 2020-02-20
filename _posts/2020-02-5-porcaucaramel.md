@@ -33,9 +33,9 @@ Cette recette vietnamienne vient de Hanh Faucheu.
 * Servir avec du riz basmati.
 
 
-### Vin
+### Vins
 * Vin blanc : Gewurztraminer (Coeur de Grain, Léon Baur de Eguisheim)
 * Vin rouge : Lirac (La Reine des Bois, domaine de la Mordorée)
 
 ### Notes
-* Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Toutes les deux coopérantes à Rabat, nous avons beaucoup cuisiné ensemble pendant notre séjour marocain et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.
+* Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Pendant notre séjour commun à Rabat, nous avons beaucoup cuisiné ensemble et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.
