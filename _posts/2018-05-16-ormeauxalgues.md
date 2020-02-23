@@ -36,7 +36,7 @@ Cette recette est inspirée de celle de Olivier Roellinger (Cancale) et simplifi
 * Monter le filtrat du fumet avec 15 g de beurre.
 * Servir les ormeaux, saupoudré de quelques cristaux de gros sel, avec le hachis de barbillons et d’algues et l’écrasé de pommes de terre. Napper de sauce.  
 
-### Vin
+### Vins
 * Champagne : cuvée inédite ou grand cru de Louis de Sacy
 
 ### Notes

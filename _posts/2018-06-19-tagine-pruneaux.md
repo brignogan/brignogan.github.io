@@ -41,7 +41,7 @@ Cette recette vient de Halima (Rabat)
 * Au moment de servir, disposer les pruneaux sur la viande dans le tagine.
 * Frire rapidement les amandes dans un peu d’huile, elles doivent prendre une belle couleur dorée, les essuyer et les déposer sur la viande et ajouter les grains de sésame.
 
-### Vin
+### Vins
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
 ### Notes

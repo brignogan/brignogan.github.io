@@ -31,7 +31,7 @@ Cette recette vient de Rkia (Agadir)
 * Mettre au gril quelques minutes jusqu’à ce que le dessus de l’épaule soit grillé.
 * Servir l’épaule avec du cumin et de la fleur de sel, accompagnée de pommes de terre cuite à l’eau.
 
-### Vin
+### Vins
 * Vin rouge : Bandol (Tournier, Chateau Roche Redonne, les Bartavelles ou la Malissonne).
 
 ### Notes

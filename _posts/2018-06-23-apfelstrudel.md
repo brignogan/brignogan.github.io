@@ -32,7 +32,7 @@ Cette recette vient de Maëlle (Vienne)
 * Enfourner environ 30 min, jusqu'à ce que le strudel soit bien doré et que quelques très légère bulles sortes des fermetures des 2 bouts. Attention à ne pas laisser trop longtemps pour ne pas faire crever les cotés.
 * Servir tiède, saupoudré de sucre glace et accompagné de « Schlagobers » (crème chantilly)
 
-### Vin
+### Vins
 * Pas de vin mais un bon café.  
 
 ### Notes

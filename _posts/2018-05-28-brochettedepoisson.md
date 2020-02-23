@@ -32,7 +32,7 @@ Cette recette vient de Halima (Rabat)
 * Préparer la sauce avec la crème et le jus de citron.
 * Servir les brochettes avec du riz ou des pommes de terre au beurre, une 1/2 tomate frites, quelques feuilles de verdure (roquette, sauge, pousses d'épinard) et la sauce.
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin)
 
 ### Notes

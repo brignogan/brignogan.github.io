@@ -44,7 +44,7 @@ Cette recette vient de Natalya et Nina (Tomsk)
 #### Laisser reposer au frigo au moins deux heures.
 
 
-### Vin
+### Vins
 * Typiquement : un petit verre de vodka.
 * Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 

@@ -28,7 +28,7 @@ Cette recette vient de Maëlle (Vienne)
 * Le temps de cuire toute la pâte, réserver au chaud recouvert d'une feuille d'aluminium dans le four à basse température.
 * Juste avant de servir, saupoudrer de sucre glace. Les kaiserschmarren s’accompagnent de « Zwetschkenröster » (genre de marmelade de quetsches) et d'« Apfelmuss » (compote de pommes).
 
-### Vin
+### Vins
 * Pas de vin mais un bon café.  
 
 ### Note

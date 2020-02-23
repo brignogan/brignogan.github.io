@@ -39,7 +39,7 @@ Cette recette vient de Renée
 * Servir le bar en filet posé sur un lit de cocos et recouvert de sauce.
 
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin)
 
 ### Notes

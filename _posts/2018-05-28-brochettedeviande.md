@@ -45,7 +45,7 @@ Cette recette vient de Halima et Rkia (Rabat, Agadir)
 * Cuire 5 mn les brochettes sur le barbecue très chaud.
 * Servir les brochettes avec le jus de la marinade, les différentes salades et les oeufs. Ne pas oublier le pain (kesra ou à défaut baguette). Proposer sel, poivre et cumin.
 
-### Vin
+### Vins
 * Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
 ### Notes

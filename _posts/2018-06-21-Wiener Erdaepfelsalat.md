@@ -30,7 +30,7 @@ Cette recette vient de Maëlle (Vienne)
 * Verser petit à petit le mélange de bouillon et bien mélanger. Attention : la salade ne doit être ni trop liquide, ni trop pâteuse.
 * Déguster la salade tiède avec des Frankfurter Wurstchen (saucisses de Francfort) et du raifort.
 
-### Vin
+### Vins
 * Bière
 
 ### Notes

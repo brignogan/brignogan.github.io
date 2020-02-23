@@ -29,7 +29,7 @@ Cette recette vient de Jean Olivier (Concarneau).
 * Cuire au four environ ½ h.
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
-### Vin
+### Vins
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 * Plus typique : lait ribot
 

@@ -28,7 +28,7 @@ Cette recette vient de Grand-Mère Ploudaniel.
 * Servir bien chaud et éventuellement saupoudrée de sucre.
 * Répéter l’opération jusqu’à épuisement de la pâte. On compte deux galettes par personne.
 
-### Vin
+### Vins
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 * Plus typique : lait ribot
 

@@ -34,7 +34,7 @@ Cette recette vient du restaurant « La Clé » à Rabat (en 1976)
 * Pour finir, cassez les œufs par dessus et refermer le couvercle du tagine pour achever la cuisson pendant 3-4 mn (les oeufs doivent être juste pochés).
 * Servir aussitôt.
 
-### Vin
+### Vins
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
 ### Notes

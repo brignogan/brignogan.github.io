@@ -65,7 +65,7 @@ Cette recette vient de Maëlle (Vienne)
 * Proposer le reste de la Chantilly en accompagnement.
 
 
-### Vin
+### Vins
 * Café, pour être tout à fait dans l'esprit viennois !  
 
 ### Notes

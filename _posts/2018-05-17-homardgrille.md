@@ -32,7 +32,7 @@ Cette recette vient de la « biblio ».
 * Cuire pendant 12 mn jusqu’à ce que les homards prennent une bonne couleur, en arrosant souvent (toutes les 2 mn).
 * Servir aussitôt avec le riz.
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 * Champagne rosé : Louis de Sacy
 

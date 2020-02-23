@@ -34,7 +34,7 @@ Cette recette vient de Rkia (Agadir)
 * Quand le poulet est cuit, le sortir du four, le découper et disposer les morceaux dans le tajine. A la garniture abats+citron confit, ajouter le jus de cuisson du poulet et les olives. Réchauffer bien le tout et verser sur le poulet. Laisser mijoter à couvert jusqu'au service.
 * Servir le tajine accompagné du riz.
 
-### Vin
+### Vins
 * Vin blanc sec : Graves (Pessac-Léonan-Domaine de La Solitude)
 
 ### Notes

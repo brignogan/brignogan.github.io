@@ -27,7 +27,7 @@ Cette recette vient de la « biblio ».
 * Rassembler les pommes et les Saint Jacques dans le poêle, flamber au calvados, ajouter la crème, faire réduire, saler, poivrer.
 * Servir avec le poireau.
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Notes

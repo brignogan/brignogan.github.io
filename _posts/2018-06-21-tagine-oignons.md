@@ -41,7 +41,7 @@ Cette recette vient de Halima (Rabat)
 * Quand les raisins sont cuits, ajouter le sucre et si besoin un peu de cannelle. Bien remuer. Le mélange doit devenir marron. Laisser cuire toujours à couvert pendant encore 10 mn. Conserver au chaud.
 * Au moment de servir, disposer les oignons sur la viande dans le tajine.
 
-### Vin
+### Vins
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 
 ### Notes

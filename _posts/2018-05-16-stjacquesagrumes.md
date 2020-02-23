@@ -38,7 +38,7 @@ Cette recette vient de Renée et Ronan (Coat Tanguy).
 * Monter le filtrat avec 20 g de beurre.
 * Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Notes

@@ -29,7 +29,7 @@ Cette recette vient de Rkia (Agadir)
 * Cuire le poisson 15 mn au four à 200°C. Vérifier la cuisson.
 * Servir avec du riz ou des pommes de terre vapeur et le jus de cuisson.
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac ou Jasnière (Domaine de Cézin)
 
 ### Notes

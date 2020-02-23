@@ -48,7 +48,7 @@ Cette recette vient de la bibliographie
 * Servir avec un 1/2 toast grillé garni d'oeufs de truite et l'autre 1/2 toast garni de tartare d'algues.  
 
 
-### Vin
+### Vins
 * Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
 
 

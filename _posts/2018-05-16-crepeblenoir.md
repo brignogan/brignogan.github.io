@@ -32,7 +32,7 @@ Cette recette vient de Michelle (Penmac'h)
 * Si on veut la fourrer, y étaler un morceau de beurre et ajouter aussitôt la garniture : fromage râpé, oeuf battu, jambon, andouille, saumon fumé,…. Cuire une bonne minute. Plier la crêpe.
 * Pour un fourrage à l’oeuf miroir, cuire le blanc directement sur la crêpe, ajouter ensuite les autres éléments du fourrage (fromage rapé, jambon,...) puis déposer le jaune cru sur la crêpe après pliage (voir la video plus bas).
 
-### Vin
+### Vins
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Notes

@@ -27,7 +27,7 @@ Cette recette vient de Xavier et Bleuenn (Bénodet).
 * Beurrer largement un grand moule rond (la pâte doit arriver à la moitié de la hauteur). Arrondir la pâte à la forme du moule. Mettre au four ¾ h . Le gâteau doit être bien caramélisé.
 * Servir bien chaud saupoudré de sucre.
 
-### Vin
+### Vins
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Notes

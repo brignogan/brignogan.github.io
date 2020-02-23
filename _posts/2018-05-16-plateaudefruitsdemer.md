@@ -34,7 +34,7 @@ Cette recette vient de Renée (Coat Tanguy).
 * Cuisson de l'araignée ou du tourteau : Faire bouillir de l'eau bien salée à laquelle on a ajouté un filet de vinaigre. Y plonger le crabe et compter 20 mn pour l'araignée, ou 25 mn pour le tourteau, après le retour d'un bon frémissement. Egoutter aussitôt et laisser refroidir. Décortiquer le crabe, couper le corps en 4 morceaux et casser les pâtes et les pinces. Fournir des curettes et un casse-noix. Servir avec de la mayonnaise.
 * Préparation des huîtres : Ouvrir les coquillages juste avant de les servir. Jeter leur eau (ils redonneront rapidement une nouvelle eau). Servir avec un citron couper en 4 et/ou une sauce préparée avec une échalote hachée et du vinaigre.
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin), Menetou Salon (classique)
 
 ### Notes

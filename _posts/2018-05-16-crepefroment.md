@@ -31,7 +31,7 @@ Cette recette vient de Berthe Riou (Ploudaniel)
 * Cuire la première face 1 mn puis retourner la crêpe et prolonger la cuisson encore une minute.
 * Si on veut fourrer ces crêpes, en fin de cuisson, ajouter la garniture : confiture, sirop d’érable, fruits cuits (pomme, banane), amandes, glace,…
 
-### Vin
+### Vins
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Notes

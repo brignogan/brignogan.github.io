@@ -68,7 +68,7 @@ Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle d
 * En fin de cuisson, sortir le(s) sac(s) et le(s) laisser refroidir 5 bonnes minutes, pendant ce temps, sortir les viandes et les légumes. Pour un fars noir en "brujunes", enlever le lien du sac et le rouler sur la table pour émietter grossièrement le fars. Vider le sac dans un plat creux. Le fars blanc se mange en tranche.
 * Allonger le lipig avec un peu de bouillon.   
 
-### Vin
+### Vins
 * Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
 ### Notes

@@ -22,7 +22,7 @@ Cette recette vient de Maëlle (Vienne)
 * Maintenir les escalopes au chaud dans le four à basse température, recouvert d'une feuille d'aluminium pour éviter qu'elles ne se dessèchent.
 * Servir avec un quartier de citron frais que chaque convive pressera dans son assiette à loisir. Accompagner avec une Erdäpfel Salat et de la mâche.
 
-### Vin
+### Vins
 * Bière
 * Vin rosé : Bandol (Domaine Guilhem Tournier-Cuvée La Malissone)
 

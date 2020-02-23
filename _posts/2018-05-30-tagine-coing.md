@@ -38,7 +38,7 @@ Cette recette vient de Rkia (Agadir)
 * Quand ils sont tous cuits, les remettre dans la casserole contenant à peu près 100 mL d’eau. Ajouter le sucre et la cannelle et faire cuire à feu doux pour que la sauce caramélise légèrement. Ajouter de l’eau si besoin et remuer délicatement les coings pour qu’ils soient bien enrobés de la sauce. Garder au chaud et si besoin ajouter encore de l'eau pour maintenir la consistance de la sauce.
 * Au moment de servir, disposer les coings sur la viande. Traditionnellement, le tagine se mange avec du kesra (pain plat marocain).
 
-### Vin
+### Vins
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 * Plus aventureux, vin blanc doux : Sauterne (Haut-Bergeron), Loupiac (Château La Nère de Séraphon)
 

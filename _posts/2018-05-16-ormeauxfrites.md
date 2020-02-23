@@ -33,7 +33,7 @@ Cette recette vient de Mimie Le Gall (Coat Tanguy).
 * Faire à peine fondre 20 g de beurre dans une poêle et, pour que les ormeaux restent tendres, les cuire doucement sur les deux faces jusqu'à ce qu'ils se colorent légèrement.
 * Servir les ormeaux saupoudrés du hachis d’ail et persil avec les frites.  
 
-### Vin
+### Vins
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Notes
