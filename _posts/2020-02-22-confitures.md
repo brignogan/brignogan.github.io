@@ -12,13 +12,13 @@ nbre_personne: ‘pour 8 à 12 pots’
 Ces recettes viennent essentiellement de Grand Mère Ploudaniel.
 La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir).
 
-#### Confiture d'abricots
-### Ingrédients
+### Confiture d'abricots
+#### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
 * 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,1 kg
 
 
-### Préparation
+#### Préparation
 * Laver les fruits et les sécher en les étalant sur un torchon.
 * Les dénoyauter, les peser et les déposer dans la bassine à confiture (voir note).
 * Ajouter le sucre et le mélanger délicatement aux fruits avec une cuillère en bois à long manche.
@@ -37,24 +37,24 @@ La préparation-type est détaillée pour la recette de la confiture d'abricots 
 * Pour 1 kg de fruits dénoyautés, le temps de cuisson est de 15-17 mn.
 
 
-#### Confiture d'abricots au romarin
-### Ingrédients
+### Confiture d'abricots au romarin
+#### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
 * 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,100 kg
 * 1-2 branches de romarin/kg de fruits
 
-### Préparation
+#### Préparation
 * Suivre la préparation de la confiture d'abricots en ajoutant les branches de romarin avec le sucre avant la macération.
 * Retirer les branches à la fin de la cuisson avant la mise en pot.
 
 
-#### Confiture de rhubarbe et oranges
-### Ingrédients
+### Confiture de rhubarbe et oranges
+#### Ingrédients
 * 3,3 kg de côtes de rhubarbe soit 3 kg de rhubarbe nettoyée
 * 750 g de sucre cristallisé/kg de fruits nettoyé soit 2,250 kg
 * 2 oranges non traitées
 
-### Préparation
+#### Préparation
 * Nettoyer la rhubarbe et la couper en cubes
 * Presser les oranges et couper les écorces en petits dés.
 * Déposer la rhubarbe, les écorces et le jus d'orange dans la bassine puis ajouter le sucre.
@@ -62,15 +62,16 @@ La préparation-type est détaillée pour la recette de la confiture d'abricots 
 * Le lendemain, suivre les instructions données pour la confiture d'abricots.
 
 
-#### Confiture de rhubarbe et abricots
-### Préparation identique à la confiture de rhubarbe et oranges (ci-dessus) en remplaçant les 2 oranges par 250 g d'abricots secs que l'on coupe en petits dés.
+### Confiture de rhubarbe et abricots
+#### Préparation
+* Elle est identique à celle de la confiture de rhubarbe et oranges (ci-dessus) en remplaçant les 2 oranges par 250 g d'abricots secs que l'on coupe en petits dés.
 
 
-#### Confiture de poires au gingembre
-### Ingrédients
+### Confiture de poires au gingembre
+#### Ingrédients
 * 3,3 kg de poires (conférence) soit 3 kg de poires préparées
 * 550 g de sucre cristallisé/kg de fruits préparés soit 1,650 kg
 * 2 citrons
 * 60 g de gingembre confit
 
-### Préparation
+#### Préparation
