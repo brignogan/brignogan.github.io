@@ -25,13 +25,13 @@ Cette recette vient de Renée.
 * poivre (pas de sel)
 
 #### Pour la sauce :
-* huile d’olive‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+* huile d’olive
 * sel
 * vinaigre de cidre
-* 50  cL de bouillon de volaille‬
-* gelée de groseille‬
+* 50  cL de bouillon de volaille
+* gelée de groseille
 * 1 c.às. de maïzena
-* crème fraîche épaisse‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+* crème fraîche épaisse
 
 ### Préparation
 #### Marinade :

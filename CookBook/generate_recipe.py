@@ -28,7 +28,10 @@ def timefloat2string(x):
     if x < 60: 
         return '{:2d} min'.format(int(x))
     else:
-        return '{:.1f} h'.format(round(x/60,1))
+        if int(np.mod(x,60)) > 0: 
+            return '{:2d} h : {:2d} min'.format(int(x)/60, int(np.mod(x,60)))
+        else: 
+            return '{:2d} h'.format(int(x)/60)
 
 def write_time(x):
     if '-' in x: return '-'
@@ -183,7 +186,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []
     for i, cat in enumerate(lines_txt_per_cat):
-        if cat[0] == '### Vin\n':
+        if ('### Vin' in cat[0]) | ('### Vins' in cat[0]):
             recipeMMvin = cat[1:]
 
         if cat[0] == '### Notes\n':
@@ -223,6 +226,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             recipeMMingredient_per_cat_title = []
             ii =0
             for i, line_ in enumerate(recipeMMingredient):
+                if (i==0) & (line_[:4] != '####'):
+                    recipeMMingredient_per_cat_title.append('')
                 if (line_[:4] == '####'):
                     if (len(recipeMMingredient_per_cat[ii])!=0 ): 
                         recipeMMingredient_per_cat.append([])
@@ -257,10 +262,14 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     if ii-ii_ori > 1: 
                         line2p.append( u'\\begin{method}\n')
                         line2p.append(line_.replace('*','').strip())
+                        line2p.append('\n')
+                        line2p.append('\n')
                         flag_method = 1
                     else: 
                         line2p.append( u'\\begin{method_noNumber}\n')
                         line2p.append(line_.replace('*','').strip())
+                        line2p.append('\n')
+                        line2p.append('\n')
                         flag_method = 2
 
                 elif (line_[:4] == '####') & (i==(len(recipeMMinstruction)-1)):
@@ -302,8 +311,9 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMvin' in line: 
             line2p = []
             line2p_ = ''
-            for line_ in recipeMMvin:
+            for ii, line_ in enumerate(recipeMMvin):
                line2p_ += line_.replace('*','').strip() + '\n' 
+               if (len(recipeMMvin)>1) & (ii < len(recipeMMvin)-1): line2p_ += '\n'
             line2p.append(line.replace('recipeMMvin', line2p_.rstrip()))
             flag_modified = 1
         
@@ -341,6 +351,9 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         for line_ in line2p: 
             final2_lines.append(line_)
+
+
+    #if 'sangl' in recipName: sys.exit()        
 
 #save file
 f= io.open("cookbook.tex","w", encoding='utf-8')
