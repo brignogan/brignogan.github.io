@@ -41,7 +41,7 @@ La préparation-type est détaillée pour la recette de la confiture d'abricots 
 ### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
 * 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,100 kg
-* 2 branches de romarin
+* 1-2 branches de romarin/kg de fruits
 
 ### Préparation
 * Suivre la préparation de la confiture d'abricots en ajoutant les branches de romarin avec le sucre avant la macération.
