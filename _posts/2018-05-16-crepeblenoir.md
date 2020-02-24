@@ -24,7 +24,7 @@ Cette recette vient de Michelle (Penmac'h)
 
 ### Préparation
 * Délayer les farines, le sel, le poivre et les oeufs dans l’eau.
-* Diluer avec le lait.
+* Délayer avec le lait.
 * Laisser reposer.
 * Chauffer la bilig à 230-240°C. Utiliser la louche n°8 (diamètre en cm).
 * Graisser la bilig avec un chiffon imbiber d’huile. Y verser une louchée de pâte et l’étaler au rateau. Si la pâte glisse sous le rateau, la bilig est trop grasse, l’essuyer avec un chiffon sec. Cuire la première face 1 mn (les bords de la crêpe se décollent facilement).
