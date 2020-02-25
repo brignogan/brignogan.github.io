@@ -4,7 +4,7 @@ title: Moka de Mère
 tag_category: famille
 tag_plat: dessert
 image: img/recette/
-temps_preparation: 30
+temps_preparation: 40
 temps_cuisson: 35
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
