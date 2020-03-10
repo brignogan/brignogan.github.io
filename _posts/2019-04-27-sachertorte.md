@@ -66,7 +66,9 @@ Cette recette vient de Maëlle (Vienne)
 
 
 ### Vins
-* Café, pour être tout à fait dans l'esprit viennois !  
+* Pour être tout à fait dans l'esprit viennois, déguster ce gâteau avec un bon café.
+* Sinon, on peut servir un vin rouge de dessert : Maury rouge (Les vignes d'Elodie, Maury).
+
 
 ### Notes
 * La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé au XIXème siècle par le pâtissier de l'hôtel Sacher à Vienne.
