@@ -208,9 +208,37 @@
 		\emph{#1} :%
     \fi
 }
-
+\newcommand{\petitingredients}[1][]{%
+    \if###1##%
+        {\color{orangecolor}\textbf{Ingredients}}%
+    \else
+		\emph{#1} :%
+    \fi
+}
 
 %% Use \obeylines to minimize markup
+\newenvironment{petitingreds}{%
+	\begin{tcolorbox}[width=\textwidth, breakable,]
+ 	\parindent0pt
+    \noindent
+    \petitingredients
+    \par
+    \medskip
+
+	\setlength{\multicolsep}{0pt}
+	\setlength{\columnseprule}{0.5pt}
+
+    \begin{multicols}{2}
+    \leftskip0em
+    \rightskip0pt plus 3em
+    \parskip=0.3em
+    \obeylines
+    \everypar={\hangindent1em}
+	}{%
+    \end{multicols}%
+	\end{tcolorbox}
+}
+
 \newenvironment{ingreds}{%
 	\begin{tcolorbox}[width=\textwidth, breakable,]
  	\parindent0pt
@@ -276,6 +304,38 @@
     \par
     \endgroup
 	
+}
+
+\newenvironment{petitprep}[1][]{%
+    \noindent
+    {\color{orangecolor}\textbf{Pr\'eparation}}
+	\par
+	\setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+}{%
+    \par
+    \endgroup
+	
+}
+\newcommand{\extra}[1][]{%
+	\noindent
+	{\textbf{#1}}%
+}
+
+\newenvironment{petitprep_noNumber}[1][]{%
+    \setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\hbox to2em{\hfill}}}
+}{%
+    \par
+    \endgroup
 }
 
 %% Use \obeylines to minimize markup

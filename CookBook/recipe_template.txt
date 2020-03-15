@@ -20,3 +20,5 @@ recipeMMinstruction
 \begin{note}[recipeMMnote]
 \end{note}
 
+recipeMMextra
+
