@@ -8,6 +8,7 @@ import io
 import pdb 
 import operator 
 import subprocess
+import re 
 
 def color_section(x):
     if x == 'maroc':
@@ -418,8 +419,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         if flag_modified!=1: line2p = [line]
 
-        for line_ in line2p: 
-            final2_lines.append(line_)
+        for line_ in line2p:
+            if '/home/' in line_:
+                final2_lines.append(line_)
+            else:
+                final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
 
 
     #if 'sangl' in recipName: sys.exit()        

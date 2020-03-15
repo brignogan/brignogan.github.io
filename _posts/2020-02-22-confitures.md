@@ -9,8 +9,7 @@ temps_cuisson: 60
 temps_repos: 1200
 nbre_personne: ‘pour 8 à 12 pots’
 ---
-Ces recettes viennent essentiellement de Grand Mère Ploudaniel.
-La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir).
+Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir).
 
 ### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
@@ -24,8 +23,8 @@ La préparation-type est détaillée pour la recette de la confiture d'abricots 
 * Recouvrir d'un linge propre et laisser macérer toute une nuit.
 
 #### La Cuisson
-* Le lendemain, plonger les pots vides et leurs couvercles dans de l'eau très chaude pendant au moins 10 mn puis les retourner sur un torchon propre (prévoir plus de pots que théoriquement nécessaire).
-* Faire bouillir la confiture (cela peut prendre 20 mn). L'écume monte.
+* Le lendemain, plonger les pots vides et leurs couvercles dans de l'eau très chaude pendant au moins 10 mn puis les retourner sur un torchon propre (prévoir plus de pots que nécessaire).
+* Faire bouillir la confiture (~ 20 min). L'écume monte.
 * Maintenir un bon bouillon 30 à 35 mn en remuant souvent et en surveillant que la confiture n'attache pas au fond de la bassine. L'écume va se résorber petit à petit.
 * Lorsque les bouillons deviennent visqueux et projettent des gouttes de confiture, vérifier la consistance de la confiture en en versant une à deux gouttes sur une assiette froide. Elle ne doit pas couler en penchant l'assiette et doit également coller à votre doigt si vous le poser sur la goutte.
 * Lorsque la consistance souhaitée est obtenue, si il reste de l'écume, ajouter une noisette de beurre et bien remuer, elle doit disparaître.
