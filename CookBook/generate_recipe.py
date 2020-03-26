@@ -8,6 +8,7 @@ import io
 import pdb 
 import operator 
 import subprocess
+import re 
 
 def color_section(x):
     if x == 'maroc':
@@ -103,7 +104,9 @@ recipeCat_prev  = ''
 recipePlat_prev = ''
 iPlat = 0
 for recipeFile, recipName, recipeCat, recipePlat in data:
-
+    
+    # activate to debug on specific recipe
+    #if 'kardinalchnitten' not in recipName: continue
 
     if recipeCat != recipeCat_prev: 
         final2_lines.append(u'\\newpage \n \
@@ -184,7 +187,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         lines_txt_per_cat.pop(0)
         recipeMMintro = ['']
 
-    recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []
+    recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []; recipeMMextra = []
     for i, cat in enumerate(lines_txt_per_cat):
         if ('### Vin' in cat[0]) | ('### Vins' in cat[0]):
             recipeMMvin = cat[1:]
@@ -197,7 +200,10 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         if '### P' in cat[0]:
             recipeMMinstruction= cat[1:]
-
+        
+        if '### Autres' in cat[0]: 
+            recipeMMextra = cat[1:]
+        
         recipeMMpreinstruction = None
 
     #append to coockbook
@@ -271,7 +277,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         line2p.append('\n')
                         line2p.append('\n')
                         flag_method = 2
-
+                
+                    if (line_next[:4] == '####'):
+                        if    flag_method == 1: line2p.append( '\end{method}\n')
+                        elif  flag_method == 2: line2p.append( '\end{method_noNumber}\n')
+                        else: pdb.set_trace()
+                
                 elif (line_[:4] == '####') & (i==(len(recipeMMinstruction)-1)):
                     line2p.append( u'\\medskip') 
                     line2p.append( '\methods[{:s}]\n'.format(line_.replace('####','').replace(':','').rstrip().strip() ) )
@@ -320,7 +331,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMnote' in line: 
             line2p = []
             line2p_ = ''
-            for line_ in recipeMMnote:
+            for iline_, line_ in enumerate(recipeMMnote):
                 if 'jambon-oeuf-fromage' in line_: break
                 line_1 = line_.split('{%')[0].strip()
                 line_2 = ''
@@ -331,15 +342,74 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 line2p_ += line_1.replace('*','').strip() 
                 if line_2 != '':
                     line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center} \n \\par '                     
-                else: 
-                    line2p_ += '\n \\par ' 
+                else:
+                    if iline_ < len(recipeMMnote)-1:
+                        line2p_ += '\n \\par ' 
 
             line2p.append(line.replace('recipeMMnote', ''.join(line2p_) ) ) #line2p_.split('\\par')[0].rstrip())) 
             #if len(line2p_.split('\\par'))>1:
             #    pdb.set_trace()
             #    line2p.append('\\par \\parindent10pt'.join(line2p_.split('\\par')[1:] ) )
             flag_modified = 1
-       
+        
+        if ('recipeMMextra' in line): # for extra confiture ingredient and preparation
+            line2p = []
+            if (len(recipeMMextra)>0): 
+                line2p_ = ''
+                #split per recipe
+                extra_name = []; extra_ingredient = []; extra_prep = [] 
+                ii = -1
+                flag_ing = 0; flag_prep = 0
+                for line_ in recipeMMextra:
+                    
+                    if line_[:5] == '#### ': 
+                        extra_name.append(line_.replace('####','').rstrip())
+                        extra_ingredient.append([])
+                        extra_prep.append([])
+                        ii += 1
+                        flag_ing = 0; flag_prep = 0
+                    if ('##### Ingr' in  line_): 
+                        flag_ing = 1; flag_prep = 0
+                        continue
+                    if ('##### Pr' in  line_):
+                        flag_ing = 0; flag_prep = 1
+                        continue
+                    if (flag_ing == 1): 
+                        extra_ingredient[ii].append(line_.replace('*','').rstrip())
+                    if (flag_prep == 1):
+                        extra_prep[ii].append(line_.replace('*','').rstrip())
+                    
+                for ii, extra_name_ in enumerate(extra_name):
+                    line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                    line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
+                    if len(extra_ingredient[ii])> 0:
+                        line2p_ += '\\begin{petitingreds} \n'
+                        for line__ in extra_ingredient[ii]:
+                            line2p_ += line__ + '\n'
+                        line2p_ += '\\end{petitingreds} \n'
+                    else:
+                         line2p_ += '\\par \n'
+                    if len(extra_prep[ii]) > 1:
+                        line2p_ += '\\begin{petitprep} \n'
+                        for line__ in extra_prep[ii]:
+                            line2p_ += '\\par' + line__ + '\n'
+                        line2p_ += '\\end{petitprep} \n'
+                    elif len(extra_prep[ii]) == 1:
+                        line2p_ += '\\begin{petitprep_noNumber} \n'
+                        for line__ in extra_prep[ii]:
+                            line2p_ += '\\par' + line__ + '\n'
+                        line2p_ += '\\end{petitprep_noNumber} \n'
+                    
+                    line2p_ += '\\bigskip'
+                    line2p_ += '\\end{minipage}'
+                    if (len(recipeMMextra)>1) & (ii < len(recipeMMextra)-1): line2p_ += '\n'
+                    
+                 
+                line2p.append(line.replace('recipeMMextra', line2p_.rstrip()))
+                flag_modified = 1
+            else: 
+                flag_modified = 1
+
         if 'recipeMMpreinstruction' in line:
             if recipeMMpreinstruction is None:
                 line2p = [line.replace('recipeMMpreinstruction', '')]
@@ -349,8 +419,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         if flag_modified!=1: line2p = [line]
 
-        for line_ in line2p: 
-            final2_lines.append(line_)
+        for line_ in line2p:
+            if '/home/' in line_:
+                final2_lines.append(line_)
+            else:
+                final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
 
 
     #if 'sangl' in recipName: sys.exit()        

@@ -1,6 +1,7 @@
 \recipe[recipeMMnewPage]{recipeMMtitle}
 
-\showtime{recipeMMtimeprep}{recipeMMtimecooking}{recipeMMtimechill}{recipeMMserve}{recipeMMimg}
+\showtime{recipeMMtimeprep}{recipeMMtimecooking}{recipeMMtimechill}{recipeMMserve}
+{recipeMMimg}
 
 \showit{recipeMMimg}{recipeMMintro}
 \medskip
@@ -19,4 +20,6 @@ recipeMMinstruction
 
 \begin{note}[recipeMMnote]
 \end{note}
+
+recipeMMextra
 

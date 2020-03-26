@@ -3,7 +3,7 @@ layout: post
 title: Moka de Mère
 tag_category: famille
 tag_plat: dessert
-image: img/recette/
+image: img/recette/untitled.png
 temps_preparation: 40
 temps_cuisson: 35
 temps_repos: '-'
