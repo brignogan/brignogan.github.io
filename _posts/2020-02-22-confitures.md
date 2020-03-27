@@ -9,8 +9,8 @@ temps_cuisson: 60
 temps_repos: 1200
 nbre_personne: ‘pour 8 à 12 pots’
 ---
-Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir).
-
+Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir). A la suite, des précisions sont données pour la préparation d'autres confitures.
+#### **Confiture d'abricots**
 ### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
 * 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,1 kg
@@ -34,7 +34,6 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 ### Notes
 * Le récipient idéal pour préparer la confiture est une bassine en cuivre. Le cuivre n'est pas indispensable mais la forme du récipient est importante. La bassine avec son profil évasé permet une bonne évaporation de l'eau des fruits et minimise les projections de sirop inévitables pendant le bouillonnement de la confiture.
 * Le temps de cuisson dépend évidemment de la quantité de fruits. Si pour 3-3,5 kg de fruits préparés, il est d'environ 30-35 mn, pour 1 kg de fruits, il sera de 15-17 mn.
-* D'autres confitures sont proposés ci-dessous:
 
 ### Autres Confitures
 #### **Confiture d'abricots au romarin**
@@ -63,12 +62,12 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 
 #### **Confiture de rhubarbe et oranges**
 ##### Ingrédients
-* 3,3 kg de côtes de rhubarbe soit 3 kg de rhubarbe nettoyée
+* 3,3 kg de feuilles de rhubarbe soit 3 kg de rhubarbe nettoyée
 * 750 g de sucre cristallisé/kg de fruits nettoyé soit 2,250 kg
 * 2 oranges non traitées
 
 ##### Préparation
-* Nettoyer la rhubarbe et la couper en cubes. La peser et la déposer dans la bassine.
+* Nettoyer les côtes de rhubarbe et les couper en cubes. Les peser et leurs déposer dans la bassine.
 * Presser les oranges et couper les écorces en petits dés.
 * Ajouter les écorces et le jus d'orange à la rhubarbe puis ajouter le sucre.
 * Bien mélanger, recouvrir d'un linge propre et laisser macérer toute une nuit.
@@ -77,3 +76,21 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 #### **Confiture de rhubarbe et abricots**
 ##### Préparation
 * Elle est identique à celle de la confiture de rhubarbe et oranges (ci-dessus) en remplaçant les 2 oranges par 250 g d'abricots secs que l'on coupe en petits dés.
+
+#### **Confiture de fraises**
+##### Ingrédients
+* 3 kg de fraises soit 2,8 kg de fruits équeutés
+* 700 g de sucre cristallisé/kg soit 2 kg
+* 1 citron
+
+##### Préparation
+* Equeuter les fraises. Eviter de les laver sinon le faire rapidement et laisser sécher les fruits.
+* Déposer la moitié des fruits dans la bassine. Les recouvrir de la moitié du sucre. Verser le jus du citron sur le sucre. Rajouter le reste des fruits puis le reste du sucre. Ne pas mélanger. Laisser macérer toute une nuit.
+* Le lendemain, égoutter les fruits avec une écumoire et les réserver.
+* Faire bouillir le sirop pendant 20 mn. Il doit épaissir.
+* Ajouter les fruits et faire à nouveau bouillir. Ecumer et vérifier la consistance de la confiture.
+* Mettre en pots comme pour les autres confitures.
+
+#### **Confiture de fraises et menthe**
+##### Préparation
+* Elle est identique à celle de la confiture de fraises (ci-dessus) et à la fin de la cuisson on ajoute 10 feuilles de menthe par kg de fruits dans la bassine. On laisse infuser 2-3 mn. On retire les feuilles et on redonne un bouillon avant la mise en pot.
