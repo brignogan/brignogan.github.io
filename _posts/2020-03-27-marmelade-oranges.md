@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Marmelade et gelée
+title: Marmelade d'oranges amères
 tag_category: famille
 tag_plat: dessert
 image: img/recette/.png
 temps_preparation: 120
 temps_cuisson: 135
 temps_repos: 1200
-nbre_personne: ‘pour 6 à 10 pots’
+nbre_personne: ‘pour 10 pots’
 ---
-La marmelade d'oranges amères est inspirée de la recette originelle due à l'écossais James Keller de Dundee qui l'inventa au XVIème siècle. Il ne faut pas rater la saison des oranges amères en janvier-février. La gelée de pommes et oranges a été mise au point pour utiliser les pommes du jardin de Saint-Pierre.
-#### **Marmelade d'oranges amères**
+La marmelade d'oranges amères est inspirée de la recette originelle due à l'écossais James Keller de Dundee qui l'inventa au XVIème siècle. Il ne faut pas rater la saison des oranges amères en janvier-février.
+
 ### Ingrédients
 * 1 kg d'oranges amères
 * 2 L d'eau
@@ -36,23 +36,3 @@ La marmelade d'oranges amères est inspirée de la recette originelle due à l'�
 * Le sucre blanc, qui préserve la couleur et la transparence de la marmelade, est préférable au sucre roux qui lui donne une couleur foncée.
 * Il faut au moins 20 pépins bien formés pour assurer la prise de la marmelade. Le mieux est de tous les mettre dans le nouet.
 * On peut sans dommage laisser tremper davantage, jusqu'à 48 h.
-
-#### **Gelée de pommes et oranges**
-##### Ingrédients
-* 3 kg de pommes
-* 2 L d'eau
-* 4 oranges
-* 1,200 kg de sucre cristallisé
-* 4-5 pincées de cannelle
-
-##### Préparation
-* Laver les pommes, les couper en morceaux sans les peler ni les épépiner.
-* Les déposer dans la bassine et ajouter l'eau.
-* Faire bouillir puis cuire les pommes à petit feu pendant 1/2 h sans remuer.
-* Verser le tout dans un linge au-dessus de la bassine et laisser passer le jus pendant une nuit. Presser légèrement le linge en fin d'égouttage pour récupérer le plus de jus qui doit rester limpide.
-* On doit obtenir environ 2 kg de jus.
-* Ajouter le jus des 4 oranges
-* Couper les écorces en petits morceaux et les ajouter au jus de pommes.
-* Ajouter le sucre et la cannelle.
-* Cuire environ 30-40 mn en vérifiant la prise de la gelée.
-* Remplir les pots à chaud et les retourner pour laisser refroidir. On obtient 6 pots.
