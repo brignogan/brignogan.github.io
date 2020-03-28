@@ -23,7 +23,7 @@ def color_section(x):
         return 'gray'
 
 def replace_name_plat(x):
-    return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments')
+    return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments').replace('platLegume','Plats de L\\\'egume')
 
 def timefloat2string(x):
     if x < 60: 
@@ -81,7 +81,7 @@ for recipeFile in recipeFiles:
 
 
 category_def = [u'famille', u'bretagne', u'maroc', u'autriche']
-plat_def     = [u'entree', u'platPoisson', u'platViande', u'dessert', u'sauce']
+plat_def     = [u'entree', u'platLegume', u'platPoisson', u'platViande', u'dessert', u'sauce']
 
 data = zip(recipeFiles_all, tag_name, tag_category_all, tag_plat_all)
 data = sorted(data, key =  lambda x: ( category_def.index(x[2]), plat_def.index(x[3]), x[1]))

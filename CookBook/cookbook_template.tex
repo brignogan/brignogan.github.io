@@ -393,7 +393,16 @@
 	\parbox{\wd0}{\box0}
 \fi
 }
-
+\newcommand*\iconLegume{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-9.,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{icon_legume_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-14.5,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{icon_legume_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
 \newcommand*\iconPoisson{ 
 \checkoddpage
 \ifoddpage
@@ -436,6 +445,7 @@
 }
 
 \def\Entrees{ Entrées}
+\def\Legumes{ Plats de L\'egume}
 \def\Poissons{ Plats de Poisson}
 \def\Viandes{ Plats de Viande}
 \def\Desserts{ Desserts}
@@ -462,6 +472,9 @@
 	\ifnum0=\testCat{\currentSectionName}{\Entrees}
 	%\ifnum1=\subsectionnumber\relax 
 	\iconEntree
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Legumes}
+	\iconLegume
 	\fi
 	%\ifnum2=\subsectionnumber\relax
 	\ifnum0=\testCat{\currentSectionName}{\Poissons}
@@ -601,6 +614,9 @@ les rubriques par categories:
 \setbox0=\hbox{\put(0,0){\includegraphics[scale=0.013, trim= 0em -5em -5em -5em,]{icon_entree_black.pdf}}}
 	\parbox{\wd0}{\box0} 
 	& \quad Entrées  \\ 
+\setbox0=\hbox{\put(-3,0){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{icon_legume_black.pdf}}}
+	\parbox{\wd0}{\box0}
+	& \quad Plats de L\'egume  \\ 
 \setbox0=\hbox{\put(-4,0){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{icon_poisson_black.pdf}}}
 	\parbox{\wd0}{\box0}
 	& \quad Plats de Poisson  \\ 
