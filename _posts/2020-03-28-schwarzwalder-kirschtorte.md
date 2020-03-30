@@ -55,10 +55,10 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 #### Pour la garniture aux griottes ("Kirschmasse"):
 * Egoutter les griottes et conserver le jus. Réserver 7 griottes pour la décoration.
 * Verser 2 cuillers à soupe de jus dans un bol et chauffer le reste dans une casserole.
-* Mélanger 2 cuillers à soupe de maïzena au jus dans le bol puis verser le tout dans le jus chaud de la casserole. Faire bouillir quelques instants et ajouter les griottes. Si besoin, rajouter un peu de sucre roux et refaire cuire avec les griottes. Retirer du feu et aromatiser avec le kirsch. Laisser refroidir.
+* Mélanger 1 cuiller à café de Maïzena au jus dans le bol puis verser le tout dans le jus chaud de la casserole. Faire bouillir quelques instants et ajouter les griottes. Si besoin, rajouter un peu de sucre roux et refaire cuire avec les griottes. Retirer du feu et aromatiser avec le kirsch. Laisser refroidir.
 
 #### Pour la crème chantilly ("Sahnecreme"):
-* Battre la crème fraîche bien ferme avec le sachet de "chantifix". Ajouter 1/2 sachet de sucre vanillé et 20 g de sucre glace et finir de battre la crème.
+* Battre la crème fraîche bien ferme avec le sachet de "chantifix". Ajouter 1/2 sachet de sucre vanillé et 40 g de sucre glace et finir de battre la crème.
 
 #### Pour le montage :
 * Poser le biscuit du fond sur le plat à gâteau.
@@ -75,5 +75,5 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 * Pas de vin mais un bon café.  
 
 ### Notes
-* Si le biscuit du fond est un peu trop dur, l'humecter avec un peu de kirsch ou de jus de griotte. Attention de ne pas trop alcooliser le gâteau et en cacher le goût.
+* Si le biscuit du fond est un peu trop dur, l'humecter avec un peu de kirsch ou de jus de griotte. Attention de ne pas trop alcooliser le gâteau pour ne pas en cacher le goût.
 * On peut tartiner le biscuit de fond avec de la confiture de cerise avant de mettre la garniture.
