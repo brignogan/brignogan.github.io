@@ -9,7 +9,7 @@ temps_cuisson: 50
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique. La recette en a été rapporté de Vienne par Maëlle.
 
 ### Ingrédients
 * 110 g de farine
@@ -21,8 +21,8 @@ Cette recette vient de Maëlle (Vienne)
 * 30 g de beurre ramolli
 * 15 g de Maïzena
 * 1 pointe de couteau de cannelle
-* 60 cL de crème fraîche
-* 20 g de sucre glace
+* 100 cL de crème fraîche
+* 40 g de sucre glace
 * 1 sachet de chantifix
 * 60 mL de Kirsch
 * 250 g de griottes au sirop
@@ -63,10 +63,17 @@ Cette recette vient de Maëlle (Vienne)
 #### Pour le montage :
 * Poser le biscuit du fond sur le plat à gâteau.
 * Etaler la garniture aux griottes sur le biscuit en laissant quelques centimes sur le bord pour la crème.
-* Répartir 1/3 de la crème chantilly sur les griottes en allant de l'extérieur vers l'intérieur du gâteau.
+* Répartir un premier quart de la crème chantilly sur les griottes en allant de l'extérieur vers l'intérieur du gâteau.
+* Poser dessus le premier biscuit génoise et presser légèrement.
+* Répartir sur ce biscuit un deuxième quart de la crème chantilly.
+* Poser par-dessus le deuxième biscuit et, à nouveau, presser légèrement.
+* Utiliser un troisième quart de crème pour recouvrir le dessus du gâteau et, en en réservant un peu pour la décoration, recouvrir les côtés du gâteau avec le dernier quart de crème. .
+* Recouvrir le dessus du gâteau de chocolat en poudre et les côtés avec des copeaux de chocolat patissier.
+* Répartir sur le gâteau, avec une poche à douille, sept rosettes de crème chantilly et poser dessus chacune une griotte.  
 
 ### Vins
 * Pas de vin mais un bon café.  
 
 ### Notes
-* C’est un dessert typiquement autrichien.  
+* Si le biscuit du fond est un peu trop dur, l'humecter avec un peu de kirsch ou de jus de griotte. Attention de ne pas trop alcooliser le gâteau et en cacher le goût.
+* On peut tartiner le biscuit de fond avec de la confiture de cerise avant de mettre la garniture.
