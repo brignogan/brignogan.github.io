@@ -18,7 +18,7 @@ nbre_personne: ‘-’
 ### Préparation
 {% include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
 
-Accompagnement de poissons, de légumes ou de viandes froides.
+* Accompagnement de poissons, de légumes ou de viandes froides. Elle est aussi indispensable pour le plateau de fruits de mer.
 
 ### Notes
 * Jeu d'acteur de guigui
