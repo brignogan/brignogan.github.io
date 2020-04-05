@@ -9,7 +9,7 @@ temps_cuisson: 3
 temps_repos: 90
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de la bibliographie
+Cette entrée vient de la bibliographie et a été adaptée par Renée aux produits locaux; elle pourrait s'appeler "rouleaux de Brignogan".
 
 ### Ingrédients
 #### pour les rouleaux :

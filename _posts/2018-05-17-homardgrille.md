@@ -9,7 +9,7 @@ temps_cuisson: 17
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de la « biblio ».
+Cette recette a été mise au point par Renée.
 
 ### Ingrédients
 * 2 homards de 1,2 kg chacun (ou 4 homards de 600 g)

@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Renée et Ronan (Coat Tanguy).
+Coquillage d'hiver, la Saint-Jacques peut se préparer avec bonheur accompagnée d'agrumes. Cette recette a été mise au point par Renée et Ronan (Coat Tanguy).
 
 ### Ingrédients
 * 16 noix de Saint Jacques

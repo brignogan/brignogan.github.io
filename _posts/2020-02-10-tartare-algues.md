@@ -9,6 +9,7 @@ temps_cuisson: '-'
 temps_repos: 720
 nbre_personne: ‘-’
 ---
+Ce condiment se marie très bien avec les plats de poisson et permet de préparer des toasts pour accompagner un apéritif ou une entrée.
 
 ### Ingrédients
 * 2 c. à s. d'algues séchées (dulce, nori)

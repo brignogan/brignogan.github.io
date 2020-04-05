@@ -9,7 +9,7 @@ temps_cuisson: 20
 temps_repos: 72 h
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Mimie Le Gall (Coat Tanguy).
+Cette recette vient de Mimie Le Gall (Coat Tanguy). Mimie est une grande pécheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages.
 
 ### Ingrédients
 * 12 ormeaux moyens (ou plus suivant leur taille, voir note 1)
@@ -38,5 +38,4 @@ Cette recette vient de Mimie Le Gall (Coat Tanguy).
 
 ### Notes
 * Il y a à peu près 9 ormeaux moyens au kilo.
-* Mimie est une grande pécheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages.
 * Les ormeaux sont considérés comme les biftecks de la mer. Cette recette est donc l’équivalent du steak-frites.

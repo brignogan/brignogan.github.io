@@ -9,7 +9,7 @@ temps_cuisson: 90
 temps_repos: '-'
 nbre_personne: ‘pour 5-6 personnes’
 ---
-Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. La cuisson du fars nécessite un sac en toile appelé « sac à fars ».
+Le Kig ha fars est un plat typiquement léonard. Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. La cuisson du fars nécessite un sac en toile appelé « sac à fars ».
 
 ### Ingrédients
 * 350 g de petit salé
@@ -72,7 +72,6 @@ Cette recette est une synthèse de celle de Grand-Mère Ploudaniel et de celle d
 * Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
 ### Notes
-* Le Kig ha fars est un plat typiquement léonard.
 * Grand Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
 * L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand Mère St Pierre. Elle y ajoutait le chou mais pas les pommes de terre. A St Pierre, on mangeait le fars noir en tranche (style béton armé !… pas du tout apprécié à Ploudaniel).
 * Le fars blanc était dans la recette de Mémé et donc originaire de Plouzané.

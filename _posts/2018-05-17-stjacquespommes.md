@@ -9,7 +9,7 @@ temps_cuisson: 10
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de la « biblio ».
+La noix de coquille Saint-Jacques est la pépite des assiettes en hiver. Elle s'accommode très bien avec les fruits. Ici, elle est cuisinée avec des pommes par Renée.
 
 ### Ingrédients
 * 16 noix de Saint Jacques
@@ -31,4 +31,4 @@ Cette recette vient de la « biblio ».
 * Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
 
 ### Notes
-Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût. Leur cuisson doit être menée doucement pour qu'elles restent tendres.
+* Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût. Leur cuisson doit être menée doucement pour qu'elles restent tendres.

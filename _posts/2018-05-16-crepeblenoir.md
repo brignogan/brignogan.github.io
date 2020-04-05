@@ -10,7 +10,7 @@ temps_repos: 60
 nbre_personne: ‘pour deux douzaines de crêpes’
 ---
 
-Cette recette vient de Michelle (Penmac'h)
+La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penmarch) qui est diplômée de l’Université de la Crêpe de Saint Jean Trolimon. 
 
 ### Ingrédients
 * 500 g de farine de sarrazin
@@ -36,7 +36,6 @@ Cette recette vient de Michelle (Penmac'h)
 * Cidre de Fouesnant brut : Séhédic ou Menez Brug
 
 ### Notes
-* Cette recette a été donnée par Michelle qui est diplômée de l’Université de la Crêpe de Saint Jean Trolimon.
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
 * Voici un exemple de complète (jambon-oeuf-fromage).
 {% include vimeoPlayer.html id="390606477" padding-bottom="56.25%" label="complète blé noir"%}
