@@ -16,7 +16,7 @@ Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chim
 * 2 carottes
 * 2-3 oignons
 * 3 pommes fruits
-* 100 g de lardons fumés
+* 150 g de lardons fumés
 * 12 graines de genièvre
 * huile d'olive
 * sel, poivre
@@ -30,7 +30,7 @@ Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chim
 * faire cuire à feu doux et à couvert pendant au moins 1h.
 
 ### Vins
-* 
+*
 
 ### Notes
 * Cette potée peut accompagner avec bonheur rôti de porc ou saucisses.
