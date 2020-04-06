@@ -7,7 +7,7 @@ image: img/recette/.png
 temps_preparation: 20
 temps_cuisson: 30
 temps_repos: ‘-‘
-nbre_personne: ‘pour 6 personnes’
+nbre_personne: ‘pour 4 personnes’
 ---
 Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay et spécialiste des micro-ondes mais qui, dans sa cuisine, sait utiliser les bonnes vieilles cocottes.
 
