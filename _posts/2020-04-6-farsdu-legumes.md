@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fars du
+title: Fars-du aux légumes
 tag_category: bretagne
 tag_plat: platLegume
 image: img/recette/.png
