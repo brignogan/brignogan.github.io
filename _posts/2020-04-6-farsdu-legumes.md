@@ -2,15 +2,15 @@
 layout: post
 title: Fars du
 tag_category: bretagne
-tag_plat: platViande
-image: img/recette/fars-du.png
-temps_preparation: 30
+tag_plat: platLegume
+image: img/recette/.png
+temps_preparation: 40
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
 
-Cette recette est la version "blé noir" du fars-fourn. Elle peut être aussi considérer comme la version "four" du kig-ha-fars. Le "fars" devient alors plus facilement adaptable au nombre de convives. 
+Cette recette est la version végétarienne du "fars-du".
 
 ### Ingrédients
 * 150 g de farine de blé noir
@@ -19,16 +19,16 @@ Cette recette est la version "blé noir" du fars-fourn. Elle peut être aussi co
 * 1 oeuf
 * 20 g de beurre demi-sel
 * sel, poivre
-* 250 g de lard fumé cuit
+* 250 g de courge
 
 ### Préparation
 * Préchauffer le four à 180°C.
 * Déposer le beurre dans un plat et enfourner. Retirer le plat quand le beurre est noisette.
 * Faire bouillir l'eau. Délayer la farine en puits avec cette eau. Faire bouillir le lait et poursuivre le délayage de la farine.
 * Ajouter l'oeuf et bien mélanger puis battre la pâte. Saler et poivrer.
-* Faire 6 lamelles dans le lard et couper le reste en lardons.
-* Disposer les lardons dans le fond du plat.
-* Verser la pâte et poser les lamelles sur sa surface.
+* Eplucher et couper en gros dés la courge.
+* Disposer les dés de légumes dans le fond du plat.
+* Verser la pâte et poser quelques lamelles de courge sur la surface.
 * cuire 1h à 180°C.
 * Servir avec une salade verte.
 
@@ -36,4 +36,4 @@ Cette recette est la version "blé noir" du fars-fourn. Elle peut être aussi co
 
 
 ### Notes
-* On peut faire de cette recette un plat végétarien si on ne met pas de lardons. On peut aussi les remplacer par des légumes : courge, épinard, bettes,...
+* On peut préparer ce fars avec d'autres légumes : potimarron, butternut, carottes, épinard, bettes,...
