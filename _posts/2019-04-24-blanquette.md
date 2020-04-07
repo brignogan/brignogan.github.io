@@ -44,3 +44,4 @@ Cette recette vient de Grand-Mère Saint Pierre.
 
 ### Notes
 * Ne surtout pas faire bouillir la sauce en fin de préparation, le jaune d'oeuf coagulerait et ferait tourner la sauce.
+* Avec le boeuf bourguignon, la blanquette de veau est un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise.

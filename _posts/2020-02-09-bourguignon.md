@@ -47,4 +47,4 @@ Cette recette vient de Grand-mère Saint Pierre
 * Vin rouge : Bourgogne (Saint Aubin de Lamy), Chateauneuf du Pape (Beaurenard)
 
 ### Notes
-* Avec la blanquette de veau, le boeuf bourguignon est un plat emblématique de l'hiver : le blanc et le noir de la cuisine bourgeoise.
+* Avec la blanquette de veau, le boeuf bourguignon est un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise.
