@@ -3,7 +3,7 @@ layout: post
 title: Spinatstrudel
 tag_category: autriche
 tag_plat: platLegume
-image: img/recette/.png
+image: img/recette/spinatstrudel.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
@@ -13,10 +13,10 @@ Un plat végétarien typiquement autrichien.
 
 ### Ingrédients
 * 1 pâte feuilletée
-* 400 g d'épinards en branche
-* 200 g de feta
+* 500 g d'épinards frais soit 300 g "tombés"
+* 150 g de feta
 * muscade râpée
-* quelques olives noires dénoyautées
+* 12 olives noires dénoyautées
 * facultatif : des pignons de pin
 * beurre
 * chapelure
@@ -34,7 +34,7 @@ Un plat végétarien typiquement autrichien.
 * Enfourner environ 30 mn jusqu'à ce que le strudel soit bien doré et que quelques très légères bulles sortent des fermetures des 2 bouts. Attention à ne pas laisser trop longtemps pour ne pas faire crever les côtés.
 
 ### Vins
-* Bière 
+* Bière
 
 ### Notes
 * A la place de la pâte feuilletée, on peut utiliser des feuilles de pâte "filo" pour être au plus proche de la vraie "strudelteig".
