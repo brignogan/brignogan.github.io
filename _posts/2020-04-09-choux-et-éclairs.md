@@ -59,6 +59,7 @@ Maëlle qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rappo
 * Faire fondre, sans rien, le chocolat au bain-marie.
 * De même faire fondre le fondant et la moitié du sirop au bain-marie et maintenir la température à 37°C
 * Ajouter le chocolat fondu et plus ou moins de sirop toujours à 37°C.
+
 #### pour le fondant au café
 * Faire fondre le fondant et le sirop au bain-marie et ajouter le café soluble dissout dans le minimum d'eau. Maintenir la température à 37°C.
 
