@@ -55,14 +55,9 @@ Maëlle qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rappo
 * Verser ensuite sur le chocolat que l'on a fait fondre au bain-marie dans un saladier ou ajouter le café soluble dissout dans le minimum d'eau. Bien mélanger. Poser un film sur la surface de la crème et laisser refroidir avant de mettre au frigo.
 
 #### Préparation du fondant pour le glaçage :
-
-#### pour le fondant au chocolat :
-* Faire fondre, sans rien, le chocolat au bain-marie.
-* De même faire fondre le fondant et la moitié du sirop au bain-marie et maintenir la température à 37°C
-* Ajouter le chocolat fondu et plus ou moins de sirop toujours à 37°C.
-
-#### pour le fondant au café :
-* Faire fondre le fondant et le sirop au bain-marie et ajouter le café soluble dissout dans le minimum d'eau. Maintenir la température à 37°C.
+* Pour le fondant au chocolat : faire fondre, sans rien, le chocolat au bain-marie; de même faire fondre le fondant et la moitié du sirop au bain-marie et maintenir la température à 37°C; ajouter le chocolat fondu et plus ou moins de sirop toujours à 37°C.
+#### ou
+* Pour le fondant au café : faire fondre le fondant et le sirop au bain-marie et ajouter le café soluble dissout dans le minimum d'eau; maintenir la température à 37°C.
 
 #### Garnissage des choux ou des éclairs.
 * Faire 2 croix au couteau sur le fond du chou. Remplir avec la crème à l'aide d'une poche à douille.
