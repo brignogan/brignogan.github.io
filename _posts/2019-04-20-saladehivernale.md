@@ -9,7 +9,7 @@ temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette salade garnie agréablement la table en hiver. C'est une amie de Gif-sur-Yvette, Jacqueline Girard, qui nous l'a fait découvrir.
+Cette salade, pleine de vitamines, garnit agréablement la table en hiver. C'est une amie de Gif-sur-Yvette, Jacqueline Girard, qui nous l'a fait découvrir.
 
 ### Ingrédients
 * 1 c. à s. de raisins secs blonds
