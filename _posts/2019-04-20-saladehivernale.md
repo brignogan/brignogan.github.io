@@ -9,7 +9,7 @@ temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Jacqueline (Bures-sur-Yvette)
+Cette salade, pleine de vitamines, garnit agréablement la table en hiver. C'est une amie de Gif-sur-Yvette, Jacqueline Girard, qui nous l'a fait découvrir.
 
 ### Ingrédients
 * 1 c. à s. de raisins secs blonds
@@ -49,4 +49,4 @@ Cette recette vient de Jacqueline (Bures-sur-Yvette)
 
 
 ### Vins
-* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
+* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).

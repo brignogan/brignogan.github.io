@@ -9,7 +9,8 @@ temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Natalya et Nina (Tomsk)
+La recette de cette entrée a été rapportée de Tomsk, en Sibérie, par Renée lors des missions de collaboration de l’Université Paris Sud avec l’Université Polytechnique de Tomsk. Ses collègues russes Natalya Baranovskaya et Nina Osipova se faisaient un plaisir de faire découvrir les plats traditionnels sibériens.
+Le nom russe de ce plat est : "seledka pod shuboy".
 
 ### Ingrédients
 * 200 g de hareng doux fumé
@@ -19,7 +20,6 @@ Cette recette vient de Natalya et Nina (Tomsk)
 * 2 échalotes,
 * un bol de mayonnaise
 * 10 cornichons
-
 
 ### Préparation
 * Cuire les œufs durs et les pommes de terre à l’eau salée.
@@ -43,11 +43,6 @@ Cette recette vient de Natalya et Nina (Tomsk)
 
 #### Laisser reposer au frigo au moins deux heures.
 
-
 ### Vins
 * Typiquement : un petit verre de vodka.
-* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
-
-### Notes
-* Le nom russe de ce plat est : "seledka pod shuboy".
-* La recette de cette entrée a été rapportée de Tomsk, en Sibérie, par Renée lors des missions de collaboration de l’Université Paris Sud avec l’Université Polytechnique de Tomsk.    
+* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
