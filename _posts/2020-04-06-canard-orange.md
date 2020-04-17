@@ -51,8 +51,8 @@ Dans les années 80, il y avait une émission culinaire intitulée "Walima" à l
 * Servir le canard accompagné de pommes frites ou de pommes duchesse et du reste de sauce en saucière.
 
 ### Vins
-* Vin rouge : Corton (Domaine Philippe Girard)
-* Vin blanc : Gewurztraminer
+* Vin rouge : Cornas (Cave de Tain).
+* Vin blanc : Alsace Gewurztraminer (Domaine Léon Baur).
 
 
 ### Notes

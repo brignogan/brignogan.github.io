@@ -41,5 +41,5 @@ Cette recette a été découverte à Penmarc'h chez Michelle qui déborde d'idé
 * Remettre au four environ 10 mn à 200°C.
 
 ### Vins
-* Vin blanc : Jasnière (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
 * Plus original : Vin Jaune du Jura (recommandé avec les plats à la crème).
