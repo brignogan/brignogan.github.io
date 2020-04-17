@@ -67,7 +67,7 @@ for recipeFile in recipeFiles:
     lines_recipeFile = f.readlines()
     f.close()
         
-    tag_name.append(os.path.basename(recipeFile).split('-')[-1].split('.')[0])
+    tag_name.append( ' '.join(os.path.basename(recipeFile).split('-')[3:]).split('.')[0])
     
     if tag_name[-1] in recipeMMtitle_2skip : 
         tag_name.pop()
