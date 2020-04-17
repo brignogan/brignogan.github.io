@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Grand-Mère Saint Pierre.
+Cette recette pour préparer les calamars (ou encornets) a été rapportée par Grand-mère Saint-Pierre de son séjour à Antibes.
 
 ### Ingrédients
 * 800 g de petits calamars
@@ -31,7 +31,4 @@ Cette recette vient de Grand-Mère Saint Pierre.
 
 
 ### Vins
-* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
-
-### Notes
-* Cette recette a été rapportée d’Antibes par Grand-Mère Saint Pierre.
+* Vin blanc : Jasnière (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).

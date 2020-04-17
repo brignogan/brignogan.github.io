@@ -26,7 +26,7 @@ Cette entrée est un régal dès que commence la saison des haricots verts, des 
 * Eplucher les carottes et les pommes de terre.
 * Couper en petits dés les haricots verts, les carottes et les pommes de terre.
 * On doit obtenir le même volume de chaque légume (à peu près un bol).
-* Cuire successivement les légumes dans une même casserole d'eau salée bouillante en égouttant chacun avec une écumoire en fin de cuisson : en premier, les pommes de terre (8 mn), puis les petits pois (5mn),puis les carottes (8 mn) et enfin les haricots verts (5mn). Laisser refroidir.
+* Cuire successivement les légumes dans une même casserole d'eau salée bouillante en égouttant chacun avec une écumoire en fin de cuisson : en premier, les pommes de terre (8 mn), puis les petits pois (5 mn), puis les carottes (8 mn) et enfin les haricots verts (5 mn). Laisser refroidir.
 * Cuire les oeufs durs puis les écaler. Les couper en deux et séparer les jaunes des blancs. Ecraser les jaunes à la fourchette et y ajouter petit à petit 1 à 2 c. à s. de la mayonnaise que l'on aura bien relevée jusqu'à obtenir une bonne consistance.
 * Déposer un filet d'anchois dans chaque demi-blanc et le recouvrir du mélange jaune-mayonnaise.
 * Aux légumes refroidis, ajouter peu à peu le reste de la mayonnaise et mélanger délicatement. Ajuster la quantité de mayonnaise à son goût.

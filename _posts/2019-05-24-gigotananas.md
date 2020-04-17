@@ -6,10 +6,10 @@ tag_plat: platViande
 image: img/recette/untitled.png
 temps_preparation: 30
 temps_cuisson: 45
-temps_repos: 15
+temps_repos: 75
 nbre_personne: ‘pour 5-6 personnes’
 ---
-Cette recette vient de Monique Salaün.
+Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui faute de ne pas voyager autant qu'elle le souhaitait, vivait des aventures culinaires dans sa cuisine.
 
 ### Ingrédients
 * 1 gigot d'agneau raccourci de 1,5 kg
@@ -22,23 +22,24 @@ Cette recette vient de Monique Salaün.
 
 
 ### Préparation
-* Enduire le gigot d'huile d'olive et bien masser la pièce de viande. Poivrer mais ne pas saler. Laisser reposer au moins 1h.
+* Enduire le gigot d'huile d'olive et bien masser la pièce de viande. Poivrer mais ne pas saler. Laisser reposer au moins 1 h.
 * Préchauffer le four à 240°C.
 * Egoutter les tranches d'ananas et conserver le sirop.
 * Enfourner le gigot et cuire 15 mn.
 * Baisser la température à 200°C, retourner le gigot, ajouter les gousses d'ail non-épluchées et continuer la cuisson pendant encore 30 mn en retournant le gigot une fois (on compte 15 mn de cuisson totale par livre de gigot).
 * Faire dorer les tranches d'ananas dans une poêle avec un peu de beurre. Garder au chaud.
 * Réchauffer les flageolets à couvert et à petit feu dans une casserole.
-* A la fin de la cuisson du gigot, le sortir du four, le recouvrir d'une feuille d'aluminium et d'un torchon et le laisser reposer 15 mn.
+* Faire chauffer le plat de service.
+* A la fin de la cuisson du gigot, le sortir du four et le placer sur le plat chaud. Le recouvrir d'une feuille d'aluminium et d'un torchon et le laisser reposer 15 mn.
 * Récupérer le jus de cuisson.
 * Faire tiédir le whisky dans une petite casserole et flamber le gigot.
-* Découper le gigot, disposer les tranches de viande, les tranche d'ananas et les gousses d'ail sur le plat de service et garder au chaud dans le four.
+* Découper le gigot sur une planche puis disposer les tranches de viande, les tranche d'ananas et les gousses d'ail sur le plat de service et garder au chaud dans le four éteint.
 * Préparer la sauce en mélangeant au sang du gigot récupéré, le jus de cuisson et le sirop d'ananas en proportions adéquates pour obtenir une sauce ni trop grasse, ni trop sucrée. Saler et poivrer.
 * Servir avec les flageolets et de la fleur de sel (la viande n'est pas salée).    
 
 
 ### Vins
-* Vin rouge : Saint Emilion (Chateau Franc Patarabet) ou Chateauneuf du Pape (Boisrenard ou Beaurenard)
+* Vin rouge : Saint-Emilion (Château Franc-Patarabet) ou Chateauneuf-du-Pape (Domaine de Beaurenard)
 
 
 ### Notes

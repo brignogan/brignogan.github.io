@@ -31,7 +31,7 @@ Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chim
 * Faire cuire à feu doux et à couvert pendant au moins 1h (1/2h si on utilise une cocotte-minute).
 
 ### Vins
-* Vin blanc : Jasnières
+* Vin blanc : Jasnières (Domaine de Cézin).
 
 ### Notes
 * Cette potée peut accompagner avec bonheur rôti de porc ou saucisses.

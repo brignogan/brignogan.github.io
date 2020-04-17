@@ -9,7 +9,7 @@ temps_cuisson: 120
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Grand-mère Saint Pierre
+Avec la blanquette de veau, le boeuf bourguignon est un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise bien qu'issu de la cuisine traditionnelle de Bourgogne. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
 
 ### Ingrédients
 * 800 g de paleron
@@ -25,10 +25,10 @@ Cette recette vient de Grand-mère Saint Pierre
 * 1 c. à s. de farine
 * 1 bouteille de bourgogne ou de beaujolais
 * sel, poivre
-* Facultatif : une boîte de marron.
+* facultatif : une boîte de marron.
 
 ### Préparation
-* Couper la viande en gros cube (5 cm).
+* Couper la viande en gros cubes (5 cm).
 * Peler les carottes et les couper en bâtonnets.
 * Eplucher et émincer l'oignon.
 * Peler et hacher grossièrement la gousse d'ail.
@@ -44,7 +44,4 @@ Cette recette vient de Grand-mère Saint Pierre
 * Servir avec des pommes de terre cuites à l'eau.    
 
 ### Vins
-* Vin rouge : Bourgogne (Saint Aubin de Lamy), Chateauneuf du Pape (Beaurenard)
-
-### Notes
-* Avec la blanquette de veau, le boeuf bourguignon est un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise.
+* Vin rouge : Saint-Aubin (Domaine Hubert Lamy), Chateauneuf-du-Pape (Domaine de Beaurenard).

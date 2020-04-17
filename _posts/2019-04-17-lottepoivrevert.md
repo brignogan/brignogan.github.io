@@ -9,7 +9,7 @@ temps_cuisson: 50
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Michelle (Penmarc'h)
+Cette recette a été découverte à Penmarc'h chez Michelle qui déborde d'idées pour cuisiner les produits de la "godaille" de ses amis pécheurs.
 
 ### Ingrédients
 * 600 g de lotte environ
@@ -23,13 +23,13 @@ Cette recette vient de Michelle (Penmarc'h)
 * 2 c. à s. de poivre vert
 * 200 g de crème fraiche
 * 1 citron
-* Sel, poivre, persil
+* sel, poivre, persil
 
 
 ### Préparation
 * Préchauffer le four à 220°C.
 * Couper la lotte en morceaux.
-* Preparer les légumes: laver, et couper carottes, céleri et échalote en julienne (= fins bâtonnets).
+* Préparer les légumes: laver, et couper carottes, céleri et échalotes en julienne (= fins bâtonnets).
 * Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé. Faire cuire 10 mn au four.
 * Sortir le plat du four. Poser les morceaux de lotte dessus.
 * Arroser du vin blanc.
@@ -41,5 +41,5 @@ Cette recette vient de Michelle (Penmarc'h)
 * Remettre au four environ 10 mn à 200°C.
 
 ### Vins
-* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac
-* Plus original : vin jaune du Jura
+* Vin blanc : Jasnière (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Plus original : Vin Jaune du Jura (recommandé avec les plats à la crème).
