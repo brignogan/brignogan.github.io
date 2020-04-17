@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: 75
 nbre_personne: ‘pour 5-6 personnes’
 ---
-Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui faute de ne pas voyager autant qu'elle le souhaitait, vivait des aventures culinaires dans sa cuisine.
+Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui, faute de ne pas voyager autant qu'elle le souhaitait, vivait des aventures culinaires dans sa cuisine.
 
 ### Ingrédients
 * 1 gigot d'agneau raccourci de 1,5 kg
@@ -40,7 +40,4 @@ Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui faute de 
 
 ### Vins
 * Vin rouge : Saint-Emilion (Château Franc-Patarabet) ou Chateauneuf-du-Pape (Domaine de Beaurenard)
-
-
-### Notes
-* Cette recette exotique vient de Monique qui, faute de ne pas voyager autant qu'elle le souhaitait, voyageait dans sa cuisine.   
+  
