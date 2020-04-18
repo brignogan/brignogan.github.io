@@ -3,7 +3,7 @@ layout: post
 title: Canard à l'orange
 tag_category: famille
 tag_plat: platViande
-image: img/recette/.png
+image: img/recette/untitled.png
 temps_preparation: 30
 temps_cuisson: 60
 temps_repos: '-'
