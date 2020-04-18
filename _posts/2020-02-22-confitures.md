@@ -36,6 +36,8 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 * Le récipient idéal pour préparer la confiture est une bassine en cuivre. Le cuivre n'est pas indispensable mais la forme du récipient est importante. La bassine avec son profil évasé permet une bonne évaporation de l'eau des fruits et minimise les projections de sirop inévitables pendant le bouillonnement de la confiture.
 * Le temps de cuisson dépend évidemment de la quantité de fruits. Si pour 3-3,5 kg de fruits préparés, il est d'environ 30-35 mn, pour 1 kg de fruits, il sera de 15-17 mn.
 
+### Autres confitures
+
 #### **Confiture d'abricots au romarin**
 ##### Préparation
 * Elle est identique à celle de la confiture d'abricots (ci-dessus) avec l'ajout de 1-2 branches de romarin/kg de fruits dans le sucre avant la macération.

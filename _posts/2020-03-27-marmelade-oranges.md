@@ -3,7 +3,7 @@ layout: post
 title: Marmelade d'oranges amères
 tag_category: famille
 tag_plat: dessert
-image: img/recette/.png
+image: img/recette/untitled.png
 temps_preparation: 120
 temps_cuisson: 135
 temps_repos: 1200
