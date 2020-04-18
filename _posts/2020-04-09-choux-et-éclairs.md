@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 15-16 pièces de 12 cm’
 ---
-Maëlle qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rapporté la recette de la pâte à choux, la base de la préparation des choux, des éclairs ou du Saint-Honoré.
+Maëlle, qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rapporté la recette de la pâte à choux, la base de la préparation des choux, des éclairs ou du Saint-Honoré.
 
 ### Ingrédients
 #### pour la pâte à choux :
@@ -20,27 +20,24 @@ Maëlle qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rappo
 * 4 g de sucre semoule
 * 110 g de farine (type 55)
 * 4 oeufs + 1 oeuf
+* sucre glace
 
 #### pour la crème pâtissière au chocolat ou au café (à préparer la veille) :
 * 500 g de lait entier
 * 90 g de sucre semoule
 * 30 g de "poudre à flan" = 15 g de farine + 15 g de maîzéna
 * 65 g de jaunes d'oeufs (4 gros oeufs)
-* 130 g de chocolat à 55%
-#### ou
-* 10 g de café soluble
+* 130 g de chocolat à 55% ou 10 g de café soluble
 
 #### pour le fondant au chocolat ou au café :
 * 250 g de fondant blanc
 * 75 g de "sirop de base" = 43 g de sucre + 32 g d'eau
-* 75 g de chocolat noir 50%
-#### ou
-* 12 g de café soluble
+* 75 g de chocolat noir 50% ou 12 g de café soluble
 
 ### Préparation
 #### Préparation des choux ou éclairs.
 * Faire bouillir le lait, l'eau, le beurre, le sel et le sucre dans une casserole.
-* Tamiser la farine et battre légèrement les 4 oeufs dans un bol.
+* Tamiser la farine et battre légèrement 4 oeufs dans un bol.
 * Hors du feu, ajouter la farine au liquide bouillant, tout d'un coup et remuer.
 * Faire dessécher l'appareil en remettant sur le feu pour former une pâte et permettre à celle-ci de se décoller des parois de la casserole (formation d'une petite pellicule au fond qui crépite).
 * Transvaser la pâte dans un bol puis, incorporer les 4 oeufs battus en 2 ou 3 fois. Si la texture de la pâte n'est pas assez souple, battre l'oeuf supplémentaire et en rajouter une quantité suffisante.
@@ -56,7 +53,6 @@ Maëlle qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rappo
 
 #### Préparation du fondant pour le glaçage :
 * Pour le fondant au chocolat : faire fondre, sans rien, le chocolat au bain-marie; de même faire fondre le fondant et la moitié du sirop au bain-marie et maintenir la température à 37°C; ajouter le chocolat fondu et plus ou moins de sirop toujours à 37°C.
-#### ou
 * Pour le fondant au café : faire fondre le fondant et le sirop au bain-marie et ajouter le café soluble dissout dans le minimum d'eau; maintenir la température à 37°C.
 
 #### Garnissage des choux ou des éclairs.
@@ -65,7 +61,7 @@ Maëlle qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rappo
 * Plonger le dessus du chou dans le fondant. Egoutter et laisser refroidir. Conserver au frigo.
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).
+* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (CDomaine Léon Baur).
 * Un bon café.
 
 ### Notes

@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Babette (Montréal, Québec)
+La croustade (le crumble en anglais) est un dessert typiquement québécois. Cette recette vient de Babette qui est partie, depuis les années 80, exercer son métier de sage-femme sur les rives du Saint-Laurent.
 
 ### Ingrédients
 * 500 g de rhubarbe (de préférence décongelée : elle sera moins acide)
@@ -26,7 +26,7 @@ Cette recette vient de Babette (Montréal, Québec)
 
 ### Préparation
 * Beurrer un plan allant au four.
-* Couper la rhubarbe et les pommes en gros dés, les déposer dans le fond du plat.
+* Eplucher et couper la rhubarbe et les pommes en gros dés, les déposer dans le fond du plat.
 * Ajouter 3 c. à s. d’eau et saupoudrer du sucre.
 * Préparer la pâte en mélangeant du bout des doigts la farine, les flocons d’avoine, la cassonade et le beurre.
 * Mouiller légèrement la pâte sablée obtenue avec un peu d'eau pour en faire des gros grumeaux.
@@ -36,7 +36,7 @@ Cette recette vient de Babette (Montréal, Québec)
 
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).
+* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Domaine Léon Baur).
 
 
 ### Notes

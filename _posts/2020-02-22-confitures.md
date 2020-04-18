@@ -10,19 +10,20 @@ temps_repos: 1200
 nbre_personne: ‘pour 8 à 12 pots’
 ---
 Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir). A la suite, des précisions sont données pour la préparation d'autres confitures.
-### Confiture d'abricots
+
+#### **Confiture d'abricots**
 ### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
 * 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,1 kg
 
 ### Préparation
-#### la Massération
+#### La macération
 * Laver les fruits et les sécher en les étalant sur un torchon.
 * Les dénoyauter, les peser et les déposer dans la bassine à confiture (voir note).
 * Ajouter le sucre et le mélanger délicatement aux fruits avec une cuillère en bois à long manche.
 * Recouvrir d'un linge propre et laisser macérer toute une nuit.
 
-#### La Cuisson
+#### La cuisson
 * Le lendemain, plonger les pots vides et leurs couvercles dans de l'eau très chaude pendant au moins 10 mn puis les retourner sur un torchon propre (prévoir plus de pots que nécessaire).
 * Faire bouillir la confiture (~ 20 min). L'écume monte.
 * Maintenir un bon bouillon 30 à 35 mn en remuant souvent et en surveillant que la confiture n'attache pas au fond de la bassine. L'écume va se résorber petit à petit.
@@ -35,15 +36,9 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 * Le récipient idéal pour préparer la confiture est une bassine en cuivre. Le cuivre n'est pas indispensable mais la forme du récipient est importante. La bassine avec son profil évasé permet une bonne évaporation de l'eau des fruits et minimise les projections de sirop inévitables pendant le bouillonnement de la confiture.
 * Le temps de cuisson dépend évidemment de la quantité de fruits. Si pour 3-3,5 kg de fruits préparés, il est d'environ 30-35 mn, pour 1 kg de fruits, il sera de 15-17 mn.
 
-### Autres Confitures
 #### **Confiture d'abricots au romarin**
-##### Ingrédients
-* 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
-* 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,100 kg
-* 1-2 branches de romarin/kg de fruits
-
 ##### Préparation
-* Suivre la préparation et la cuisson de la confiture d'abricots en ajoutant les branches de romarin avec le sucre avant la macération.
+* Elle est identique à celle de la confiture d'abricots (ci-dessus) avec l'ajout de 1-2 branches de romarin/kg de fruits dans le sucre avant la macération.
 * Retirer les branches à la fin de la cuisson avant la mise en pot.
 
 #### **Confiture de poires au gingembre**
@@ -93,4 +88,4 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 
 #### **Confiture de fraises et menthe**
 ##### Préparation
-* Elle est identique à celle de la confiture de fraises (ci-dessus) et à la fin de la cuisson on ajoute 10 feuilles de menthe par kg de fruits dans la bassine. On laisse infuser 2-3 mn. On retire les feuilles et on redonne un bouillon avant la mise en pot.
+* Elle est identique à celle de la confiture de fraises (ci-dessus) et à la fin de la cuisson on ajoute 10 feuilles de menthe par kg de fruits dans la bassine. On mélange et on laisse infuser 2-3 mn. On retire les feuilles et on redonne un bouillon avant la mise en pot.

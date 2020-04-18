@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vietnamienne vient de Hanh Faucheu.
+Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Pendant notre séjour commun à Rabat, nous avons beaucoup cuisiné ensemble et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.
 
 ### Ingrédients
 * 1 kg de poitrine fraîche et maigre de porc
@@ -36,6 +36,3 @@ Cette recette vietnamienne vient de Hanh Faucheu.
 ### Vins
 * Vin blanc : Gewurztraminer (Coeur de Grain, Léon Baur de Eguisheim)
 * Vin rouge : Lirac (La Reine des Bois, domaine de la Mordorée)
-
-### Notes
-* Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Pendant notre séjour commun à Rabat, nous avons beaucoup cuisiné ensemble et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.

@@ -17,7 +17,7 @@ La marmelade d'oranges amères est inspirée de la recette originelle due à l'�
 * 2,5 kg de sucre blanc cristallisé
 
 ### Préparation
-#### la Massération
+#### La macération
 * Laver les oranges, ôter le reste de la fleur.
 * Eplucher les oranges, réserver les peaux entières avec toute leur épaisseur.
 * Couper chaque tranche de chair en deux. Récupérer les pépins et les enfermer dans un nouet de gaze.
@@ -25,7 +25,7 @@ La marmelade d'oranges amères est inspirée de la recette originelle due à l'�
 * Mettre à macérer ensemble écorses, chair, eau et le nouet de pépins (pas le sucre !)
 * Laisser tremper une nuit
 
-#### La Cuisson
+#### La cuisson
 * Le lendemain, faire "bouilloter" le tout pendant 2 h en couvrant à moitié, attention à ce que ça ne déborde pas. Remuer uniquement à la cuiller en bois, ne pas écumer.
 * Si on a fait bouillir trop fort et qu'il semble que l'eau se soit trop évaporée, en ajouter mais pas plus d'un demi verre.
 * Ajouter alors le sucre d'un coup et ramener à ébullition. Faire bouillir alors à découvert et à gros bouillons 15 mn.

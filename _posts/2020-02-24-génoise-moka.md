@@ -9,7 +9,7 @@ temps_cuisson: 35
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Mère, la grand-mère de Jean Paul
+Les réunions de famille, d'amis ou de voisins se faisaient le plus souvent au tour d'un goûter plutôt qu'un grand repas. Après un plat de charcuterie bien arrosé et avant les crêpes et le gâteau breton qui accompagnaient le café et le "pousse-café", le gâteau à la crème était le fleuron du service... Mère, la grand-mère de Jean Paul, était reconnue comme la spécialiste du moka.   
 
 
 ### Ingrédients
@@ -44,7 +44,7 @@ Cette recette vient de Mère, la grand-mère de Jean Paul
 * Préparer l'arôme de café en délayant le café en poudre dans l'eau et l'ajouter peu à peu au mélange précédent en ajustant la quantité au goût souhaité.
 
 #### Montage du gâteau.
-* Couper le gâteau en deux. Etaler une bonne couche de crème sur l'étage inférieur. Reformer le gâteau et le recouvrir sur toute sa surface avec la crème. Finir en le décorant avec le reste de crème à l'aide d'une poche à douille. Répartir quelques grains de café.
+* Couper le gâteau en deux. Etaler une bonne couche de crème sur l'étage inférieur. Reformer le gâteau et le recouvrir sur toute sa surface avec la crème. Finir en le décorant avec le reste de crème à l'aide d'une poche à douille. On peut répartir des pépites de chocolat ou quelques grains de raisin enrobés de chocolat.
 
 ### Vins
-* Vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).
+* Vin blanc doux : Macvin du Jura (Domaine de Savigny), Gewurztraminer (Domaine Léon Baur).

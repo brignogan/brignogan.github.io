@@ -9,7 +9,7 @@ temps_cuisson: 40
 temps_repos: 300
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de Ginette Mathiot.
+Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de Ginette Mathiot. Indéniablement plus compliquée que celle du baba express de Grand-mère Ploudaniel, elle donne quand même un meilleur résultat.
 
 
 ### Ingrédients
@@ -30,16 +30,16 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 ### Préparation
 #### Idéalement, préparer l'intégralité du baba la veille.
 * Mettre 80 g de farine dans une terrine et faire un puits, y mettre la levure et délayer avec un peu d'eau tiède.
-* Mélanger à la farine pour obtenir une pâte molle qui doit lever, à couvert, non loin d'une source de chaleur jusqu'à ce qu'elle ait triplé de volume.
+* Mélanger à la farine pour obtenir une pâte molle qui doit lever, à couvert, non loin d'une source de chaleur jusqu'à ce qu'elle ait triplé de volume (2-3 h).
 * Ajouter ensuite à cette pâte, et tout ensemble, le reste de la farine (170 g), les oeufs et le sucre. Travailler à la main en tapant la pâte jusqu'à ce qu'elle soit très souple et légère.
-* Finir en incorporant le beurre tiède et laisser gonfler à nouveau la pâte, à couvert, non loin de la chaleur. Lorsqu'elle a doublé de volume, on peut l'utiliser.
+* Finir en incorporant le beurre tiède et laisser gonfler à nouveau la pâte, à couvert, non loin de la chaleur. Lorsqu'elle a doublé de volume, on peut l'utiliser (2-3 h).
 * Chauffer le four à 200°C.
 * Beurrer largement un moule à baba et y verser la pâte à mi-hauteur.
 * Cuire au four 40 mn.
-* Préparer la sauce au rhum : Faire chauffer l'eau, le sucre et le rhum. Retirer du feu dès le début d'ébullition.
+* Préparer la sauce au rhum : faire chauffer l'eau, le sucre et le rhum. Retirer du feu dès le début d'ébullition.
 * Démouler le baba et le déposer à l'envers dans un plat creux et arroser aussitôt avec la sauce au rhum chaude : la verser petit à petit sur toute la surface du gâteau pour bien l'imbiber puis verser tout le reste et laisser reposer dans un endroit frais jusqu'à l'absorption complète (pendant une nuit).  
 * Décorer le gâteau avec des fruits frais ou au sirop suivant la saison et de la crème chantilly.
 
 
 ### Vins
-* Vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).
+* Vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Domaine Léon Baur).
