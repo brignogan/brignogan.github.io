@@ -12,20 +12,19 @@ nbre_personne: ‘pour 4 personnes’
 Ce plat fait partie de la cuisine traditionnelle de Picardie. C'est Grand-mère Saint-Pierre qui en a rapporté la recette de son séjour à Amiens.
 
 ### Ingrédients
-
-#### pour les crêpes
+#### pour les crêpes :
 * 250 g de farine
 * 2 oeufs
 * 1 pincée de sel
 * 1/2 L de lait
 * 1 c. à s. d'huile de tournesol
 
-#### pour la farce
+#### pour la farce :
 * 4 tranches de jambon blanc
 * 4 tranches de lard fumé cuit
 * 250 g de champignons de Paris
 
-#### pour le gratin
+#### pour le gratin :
 * 50 g de farine
 * 50 g de beurre demi-sel
 * 600 mL de lait
