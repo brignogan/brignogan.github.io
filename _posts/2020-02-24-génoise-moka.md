@@ -9,7 +9,7 @@ temps_cuisson: 35
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Les réunions de famille, d'amis ou de voisins se faisaient le plus souvent au tour d'un goûter plutôt qu'un grand repas. Après un plat de charcuterie bien arrosé et avant les crêpes et le gâteau breton qui accompagnaient le café et le "pousse-café", le gâteau à la crème était le fleuron du service... Mère, la grand-mère de Jean Paul, était reconnue comme la spécialiste du moka.   
+A Ploudaniel (comme à Saint-Pierre-Quilignon), les réunions de famille, d'amis ou de voisins se faisaient le plus souvent au tour d'un goûter plutôt qu'un grand repas. Après un plat de charcuterie bien arrosé et avant les crêpes et le gâteau breton qui accompagnaient le café et le "pousse-café", le gâteau à la crème était le fleuron du service... Mère, la grand-mère de Jean Paul, était reconnue comme une spécialiste du moka.   
 
 
 ### Ingrédients

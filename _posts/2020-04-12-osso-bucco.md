@@ -3,7 +3,7 @@ layout: post
 title: Osso-bucco
 tag_category: famille
 tag_plat: platViande
-image: img/recette/.png
+image: img/recette/untitled.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
@@ -36,7 +36,7 @@ Cette recette est extraite du livre de cuisine fourni par SEB avec la super-coco
 * Faire gratiner au gril pendant quelques minutes.
 
 ### Vins
-* vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny) ou Jasnières (Domaine de Cézin).
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny) ou Jasnières (Domaine de Cézin).
 
 
 ### Notes

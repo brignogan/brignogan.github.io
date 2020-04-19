@@ -11,14 +11,14 @@ nbre_personne: ‘pour 6 pots’
 ---
 La gelée de pommes et oranges a été mise au point pour utiliser les pommes du jardin de Saint-Pierre qui tapissaient la pelouse à la fin de l'été. Elle a ensuite été préparée avec les pommes du jardin de notre voisin, Jop Malgorn, qui nous en faisait cadeau chaque fin d'été.
 
-#### Ingrédients
+### Ingrédients
 * 3 kg de pommes
 * 2 L d'eau
 * 4 oranges
 * 1,200 kg de sucre cristallisé
 * 4-5 pincées de cannelle
 
-#### Préparation
+### Préparation
 * Laver les pommes, les couper en morceaux sans les peler ni les épépiner.
 * Les déposer dans la bassine et ajouter l'eau.
 * Faire bouillir puis cuire les pommes à petit feu pendant 1/2 h sans remuer.
