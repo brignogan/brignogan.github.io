@@ -2,7 +2,7 @@
 layout: post
 title: Gelée de pommes-oranges-cannelle
 tag_category: famille
-tag_plat: dessert
+tag_plat: sauce
 image: img/recette/untitled.png
 temps_preparation: 45
 temps_cuisson: 75

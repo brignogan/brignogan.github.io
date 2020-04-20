@@ -2,7 +2,7 @@
 layout: post
 title: Confitures
 tag_category: famille
-tag_plat: dessert
+tag_plat: sauce
 image: img/recette/confitures.png
 temps_preparation: 30
 temps_cuisson: 60
