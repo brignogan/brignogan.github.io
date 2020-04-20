@@ -23,7 +23,8 @@ Cette recette vient de Grand-mère Ploudaniel car la pomme de terre est la base 
 * Disposer les pommes de terre à plat sur le fond d’une sauteuse, ajouter les échalotes.
 * Verser de l’eau jusqu’à mi-hauteur et éparpiller le beurre en petits morceaux sur les pommes de terre. Saler, poivrer.
 * Couvrir et faire bouillir puis faire cuire à petits bouillons jusqu’à l’évaporation de l’eau. Retourner les pommes de terre qui ont dû griller et finir la cuisson à feu doux.  
-* Ces pommes de terre accompagnent généreusement toutes les viandes grillées ou rôties comme des tournedos ou une côte de bœuf.
+* Ces pommes de terre peuvent se déguster seules mais elles accompagnent généreusement toutes les viandes grillées ou rôties comme des tournedos ou une côte de bœuf.
 
 ### Vins
-* Vin rouge :
+* Vin blanc : Alsace grand cru Rangen-Pinot gris (Domaine de Wolfberger), Bourgogne-Auxey-Duresnes (Les Caves de l'Orangerie).
+* Vin rouge : Pineau d'Aunis (Domaine de Cézin).
