@@ -9,7 +9,7 @@ temps_cuisson: 90
 temps_repos: '-'
 nbre_personne: ‘pour 5-6 personnes’
 ---
-Le civet de lapin était un plat classique de la campagne ou des bourgs comme Saint-Pierre-Quilbignon ou Ploudaniel. Tous les jardins, en effet, abritaient quelques clapiers. La recette de la polenta a été rapportée d'Antibes par Grand-mère Saint-Pierre.
+Le civet de lapin était un plat classique de la campagne ou des bourgs comme Saint-Pierre-Quilbignon ou Ploudaniel. Tous les jardins, en effet, abritaient quelques clapiers. Le civet de Grand-mère Ploudaniel était particulièrement savoureux. La recette de la polenta n'a, par contre, rien de breton, elle a été rapportée d'Antibes par Grand-mère Saint-Pierre... une belle association.
 
 ### Ingrédients
 * 1 lapin de 1 kg ½ coupé en morceaux
