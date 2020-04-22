@@ -55,6 +55,8 @@
 \usepackage{sectsty}
 \subsubsectionfont{\large}
 
+\usepackage{ellipsis}
+\setlength{\ellipsisgap}{0.02em}
 
 \raggedcolumns
 %\setlength{\multicolsep}{0pt}
@@ -582,16 +584,7 @@
 
 \frontmatter
 
-\section*{Avant Propos}
-Nous avons rassemblé dans ces page toutes les recettes que nous avons mises en oeuvre pour garnir notre table au quotidien ou pour les jours de fête. Elles sont rangées dans les $4$ rubriques: Famille, Bretagne, Maroc et Autriche. 
-
-Ces plats sont issus de notre tradition familiale faite de cuisine française et de cuisine bretonne. Certains ont été rapportés de nos séjours à l’étranger : $13$ années au Maroc pour toute la famille, $2$ années à Vienne pour Maëlle, $4$ années à Londres pour Ronan.
-
-Pour chaque recette est indiqué le vin que Jean Paul a sorti de sa cave pour l’accompagner, cave constituée d’année en année avec l’aide d’amis fins gourmets.
-
-Enfin, pour soigner sa table, on se reportera au livre “la cuisine du siècle“ de Catherine Bonnechere. C’est un livre de cuisine trouvé dans le grenier de Ploudaniel édité en $1899$. Les chapîtres sur “le savoir vivre” et “les élégances de la table” sont irrésistibles! Elles sont visibles sur cette page internet\footnote{\url{https://en.calameo.com/read/0046395075f44e3515927}}.
-
-
+\input{avantPropos}
 
 \newpage
 \fancyhead{} % clear all header fields
@@ -605,9 +598,11 @@ Enfin, pour soigner sa table, on se reportera au livre “la cuisine du siècle�
 \fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 
 \section*{Les Marques de Chapitres}
-A droite se trouve le code couleur des marques de chapitres presentes sur
-le côté des pages et référent aux $4$ rubriques: Famille, Bretagne, Maroc et Autriche. Les icônes suivantes, elles, organisent
-les rubriques par categories:
+A droite ou à gauche de chaque page selon qu’elle soit paire ou impaire, se trouve une marque de couleur se référant 
+à chaque chapitre : Famille, Bretagne, Maroc et Autriche.
+
+Le code couleur est défini sur la page de droite.
+Chaque chapitre, les recettes sont réunies dans différentes rubriques symbolisées par une icônes qui apparait dans la marque de couleur :
 
 {\renewcommand{\arraystretch}{1.7}
 \begin{tabular}{ l l }
@@ -633,7 +628,7 @@ les rubriques par categories:
 }
 
 \section*{Les Icônes dans les Recettes}
-La signification des icônes apparaissant dans les recettes est la suivante:
+Dans chaque recette, sont données des informations de temps et de service. Elles sont indiquées par les icônes ci-dessous :
 \vskip 2mm
 \begin{tabular}{ l l }
 \setbox0=\hbox{\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{temps_preparation_orange.pdf}} \parbox{\wd0}{\box0}  
@@ -652,8 +647,8 @@ La signification des icônes apparaissant dans les recettes est la suivante:
 \newpage
 \fancyhead{}
 
-
 \mainmatter
+\setcounter{page}{1}
 
 XX
 
