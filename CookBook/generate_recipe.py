@@ -49,7 +49,7 @@ def get_var_from_include_image(x):
 
 #recipeDir = './recipeDir/'
 recipeDir = '/home/paugam/Website/brignogan.github.io/_posts/'
-recipeMMtitle_2skip = [u'mayonnaise',]# u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
+recipeMMtitle_2skip = [] #[u'mayonnaise',]# u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
 imageDir = '/home/paugam/Website/brignogan.github.io/'
 introCatDir = '/home/paugam/Website/brignogan.github.io/pages/'
 
@@ -68,17 +68,18 @@ for recipeFile in recipeFiles:
     f.close()
         
     tag_name.append( ' '.join(os.path.basename(recipeFile).split('-')[3:]).split('.')[0])
-    
+    #tag_name.append(os.path.basename(recipeFile).split('-')[-1].split('.')[0])
+
     if tag_name[-1] in recipeMMtitle_2skip : 
         tag_name.pop()
         continue
+    
     recipeFiles_all.append(recipeFile)
     for i, line in enumerate(lines_recipeFile):
         if i == 0: continue
         
         if 'tag_category:' in line: tag_category_all.append(line.split('_category:')[1].strip())
         if 'tag_plat:'     in line: tag_plat_all.append(line.split('_plat:')[1].strip())
-
 
 category_def = [u'famille', u'bretagne', u'maroc', u'autriche']
 plat_def     = [u'entree', u'platLegume', u'platPoisson', u'platViande', u'dessert', u'sauce']

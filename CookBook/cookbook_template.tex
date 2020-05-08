@@ -90,6 +90,8 @@
 \definecolor{napiergreen}{rgb}{0.16, 0.5, 0.0}
 \definecolor{manatee}{rgb}{0.59, 0.6, 0.67}
 \definecolor{jade}{rgb}{0.0, 0.66, 0.42}
+\definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
+\definecolor{darkraspberry}{rgb}{0.53, 0.15, 0.34}
 % Your "recipes.sty" package starts here:
 %% Thanks to alephzero for the excellent start:
 
@@ -446,12 +448,26 @@
 \fi
 }
 
+\newcommand*\iconBordeaux{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,7){\includegraphics[scale=0.038, trim= 0em -5em -5em -5em,]{icon_bordeaux_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(1,7){\includegraphics[scale=0.038, trim= 0em -5em -5em -5em,]{icon_bordeaux_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
 \def\Entrees{ Entrées}
 \def\Legumes{ Plats de L\'egume}
 \def\Poissons{ Plats de Poisson}
 \def\Viandes{ Plats de Viande}
 \def\Desserts{ Desserts}
 \def\Sauces{ Sauces et Condiments}
+
+\def\Bordeaux{ Bordeaux}
+
 
 \newcommand*{\subsectionnumber}{\arabic{subsection}}
 
@@ -494,6 +510,12 @@
 	%\ifnum5=\subsectionnumber\relax
 	\iconSauce
 	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Bordeaux}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconBordeaux
+	\fi
+
 	}
 
 \newcommand*{\currentSectionName}{
@@ -638,7 +660,7 @@ Dans chaque recette, sont données des informations de temps et de service. Elle
 \setbox0=\hbox{\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{temps_repos_orange.pdf}} \parbox{\wd0}{\box0}  
 	& temps de repos  \\ 
 \setbox0=\hbox{\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{people_281x281_orange.pdf}} \parbox{\wd0}{\box0}  
-	& nombre de service  \\ 
+	& nombre de services  \\ 
 \end{tabular}
 
 %\addthumbsoverviewtocontents{section}{Table des Marques de Couleurs}%
@@ -651,5 +673,7 @@ Dans chaque recette, sont données des informations de temps et de service. Elle
 \setcounter{page}{1}
 
 XX
+
+\input{vin}
 
 \end{document}
