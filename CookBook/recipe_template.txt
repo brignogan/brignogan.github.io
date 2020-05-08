@@ -18,7 +18,7 @@ recipeMMinstruction
 \begin{vin}[recipeMMvin]
 \end{vin}
 
-\begin{note}[recipeMMnote]
+\begin{note}[recipeMMnote]{recipeMM11note}
 \end{note}
 
 recipeMMextra

@@ -38,5 +38,4 @@ La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penm
 
 ### Notes
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
-* Voici un exemple de complète (jambon-oeuf-fromage).
-{% include vimeoPlayer.html id="390606477" padding-bottom="56.25%" label="complète blé noir"%}
+* Voici un exemple de complète (jambon-oeuf-fromage).{% include vimeoPlayer.html id="390606477" padding-bottom="56.25%" label="complète blé noir"%}

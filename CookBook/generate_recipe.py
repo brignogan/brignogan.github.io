@@ -266,7 +266,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     while (ii<len(recipeMMinstruction)):
                         if recipeMMinstruction[ii][:4] != '####': ii += 1
                         else: break
-                    if ii-ii_ori > 1: 
+                    if ii-ii_ori >= 1: 
                         line2p.append( u'\\begin{method}\n')
                         line2p.append(line_.replace('*','').strip())
                         line2p.append('\n')
@@ -331,26 +331,29 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         
         if 'recipeMMnote' in line: 
             line2p = []
+            line2p_intro_ = ''
             line2p_ = ''
             for iline_, line_ in enumerate(recipeMMnote):
-                if 'jambon-oeuf-fromage' in line_: break
+                if 'vimeoPlayer' in line_: 
+                    continue
                 line_1 = line_.split('{%')[0].strip()
                 line_2 = ''
                 if len(line_.split('{%')) > 1: 
                     line_2 = line_.split('{%')[1].strip().split('%}')[0]
                     img_path    = get_var_from_include_image('file')
                     img_caption = get_var_from_include_image('caption') 
-                line2p_ += line_1.replace('*','').strip() 
-                if line_2 != '':
-                    line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center} \n \\par '                     
+                if ('*' not in line_) | (len(recipeMMnote)==1):
+                    line2p_intro_ += line_1.replace('*','').strip() 
                 else:
-                    if iline_ < len(recipeMMnote)-1:
-                        line2p_ += '\n \\par ' 
+                    line2p_ += line_1.replace('*','').strip() 
+                    if line_2 != '':
+                        line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center} \n \\par '                     
+                    else:
+                        if iline_ < len(recipeMMnote)-1:
+                            line2p_ += '\n \\par ' 
 
-            line2p.append(line.replace('recipeMMnote', ''.join(line2p_) ) ) #line2p_.split('\\par')[0].rstrip())) 
-            #if len(line2p_.split('\\par'))>1:
-            #    pdb.set_trace()
-            #    line2p.append('\\par \\parindent10pt'.join(line2p_.split('\\par')[1:] ) )
+            line2p.append(line.replace('recipeMMnote',      ''.join(line2p_) ).replace('recipeMM11note', ''.join(line2p_intro_) ) ) 
+            
             flag_modified = 1
         
         if ('recipeMMextra' in line): # for extra confiture ingredient and preparation

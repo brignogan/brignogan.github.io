@@ -35,4 +35,4 @@ La marmelade d'oranges amères est inspirée de la recette originelle due à l'�
 ### Notes
 * Le sucre blanc, qui préserve la couleur et la transparence de la marmelade, est préférable au sucre roux qui lui donne une couleur foncée.
 * Il faut au moins 20 pépins bien formés pour assurer la prise de la marmelade. Le mieux est de tous les mettre dans le nouet.
-* On peut sans dommage laisser tremper davantage, jusqu'à 48 h.
+* On peut sans dommage laisser tremper davantage, jusqu'à 48h.

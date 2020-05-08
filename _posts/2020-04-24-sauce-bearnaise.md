@@ -37,7 +37,7 @@ La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les 
 * Vin rouge : Saint-Emilion (Château Franc Patarabet, Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côte-du-Rhone (Château La Borie).
 
 ### Notes
-#### Préparation des viandes grillées que l'on accompagnera de cette sauce béarnaise :
+Préparation des viandes grillées que l'on accompagnera de cette sauce béarnaise :
 * Cuisson de la côte de boeuf : Huiler la côte sur les deux faces et cuire au gril (240°C) 12 mn sur la première face et 8 mn sur la seconde. Servir avec poivre et fleur de sel.
 * Cuisson des tournedos (tranches de filet de boeuf de 2 à 3 cm d'épaisseur) : Cuire sur une poêle anti-adhésive chaude. Le temps de cuisson sur chaque face dépend du goût de chaque convive (bleu : 1,5 mn; saignant : 2 mn; à point : 3 mn; bien cuit : 4 mn).
 * La pièce de viande et la sauce béarnaise se servent avec des frites, des pommes de terre sautées ou des haricots verts poêlés.  

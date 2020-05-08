@@ -353,7 +353,7 @@
 		{\color{orangecolor}\Large\textbf{Vins}}%
 		\par
 		\medskip
-		\parindent10pt
+		\parindent20pt
 		{#1}
 		\medskip
 		\end{minipage}
@@ -362,9 +362,24 @@
 
 
 %% Use \obeylines to minimize markup
-\newenvironment{note}[1][]{%
+\newenvironment{note}[2][]{%
      \if###1##%
-     \else
+     	\if###2##%
+     	\else
+			 \medskip
+			 \begin{tcolorbox}[blanker,width=\textwidth, breakable,]
+			 \setcounter{stepnum}{0}
+			 \noindent
+			 {\color{orangecolor}\Large\textbf{Notes}}%
+			 \par
+			 \medskip
+			 \parindent10pt
+			 {#2}
+			 \par
+			 \smallskip
+			 \end{tcolorbox}
+		 \fi
+	 \else
 		 \medskip
 		 \begin{tcolorbox}[blanker,width=\textwidth, breakable,]
 		 \setcounter{stepnum}{0}
@@ -372,7 +387,13 @@
 		 {\color{orangecolor}\Large\textbf{Notes}}%
 		 \par
 		 \medskip
-		 \parindent10pt
+		 \if if###2##%
+	     \else
+			 \parindent0pt
+			 {#2}
+			 \par
+		 \fi
+		 \parindent20pt
 		 {#1}
 	     \smallskip
 		 \end{tcolorbox}

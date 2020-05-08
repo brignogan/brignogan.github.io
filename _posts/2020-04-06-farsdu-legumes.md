@@ -3,7 +3,7 @@ layout: post
 title: Fars-du aux légumes
 tag_category: bretagne
 tag_plat: platLegume
-image: img/recette/.png
+image: img/recette/untitled.png
 temps_preparation: 40
 temps_cuisson: 60
 temps_repos: ‘-‘
