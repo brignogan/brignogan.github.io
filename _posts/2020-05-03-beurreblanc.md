@@ -9,7 +9,7 @@ temps_cuisson: 10
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Le beurre blanc est la sauce idéale pour accompagner les poissons grillés.
+Le beurre blanc est la sauce idéale pour accompagner les poissons rôtis.
 
 ### Ingrédients
 * 4 échalotes
