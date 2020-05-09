@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beurre blanc
+title: Sauce au beurre blanc
 tag_category: famille
 tag_plat: sauce
 image: img/recette/untitled.png

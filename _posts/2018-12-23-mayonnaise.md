@@ -3,23 +3,25 @@ layout: post
 title: Mayonnaise
 tag_category: famille
 tag_plat: sauce
-image: pas d'image
+image: img/recette/mayonnaise.png
 temps_preparation: 15
 temps_cuisson: '-'
 temps_repos: ‘-‘
 nbre_personne: ‘-’
 ---
+La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes, langoustines, homards), les poissons, les oeufs durs, les légumes et les viandes froides.
 
 ### Ingrédients
-* 1 œuf
+* 1 jaune d'œuf
 * 1/2 c. à s. de moutarde
-* ¼ L d’huile de tournesol (voir la video)
+* ¼ L d’huile de tournesol
 * sel et poivre
 
-### Préparation
-* ajouter qq chose ici
-* ajouter qq chose ici
+### Préparation (voir la video en note)
+* Placer le jaune d'oeuf dans un bol avec la moutarde et bien mélanger.
+* Faire monter la mayonnaise en versant par petites quantité l'huile et en remuant constamment.
+* Il faut verser au moins 200 mL d'huile pour avoir une bonne consistance. Au-delà de 250 mL, on risque de faite tomber la mayonnaise (l'émulsion se casse et l'huile et l'oeuf se dissocient).
 
 ### Notes
-* Accompagnement de poissons, de légumes ou de viandes froides. Elle est aussi indispensable pour le plateau de fruits de mer.
-* Une demonstration de la prépartation de la mayonnaise est presentée ici par guigui.{%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%} 
+* Une demonstration de la prépartation de la mayonnaise est presentée ici par guigui.{%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
+* Un plat traditionnel pour les repas maigres du vendredi est le lieu jaune-mayonnaise : préparer un court-bouillon (une grande casserole d'eau salée bouillante à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil et un brin de romarin); y cuire un beau morceau de lieu jaune pendant 20 mn; servir avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
