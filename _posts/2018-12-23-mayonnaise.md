@@ -24,4 +24,5 @@ La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes
 
 ### Notes
 * Une demonstration de la prépartation de la mayonnaise est presentée ici par guigui.{%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
+
 * Un plat traditionnel pour les repas maigres du vendredi est le lieu jaune-mayonnaise : préparer un court-bouillon (une grande casserole d'eau salée bouillante à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil et un brin de romarin); y cuire un beau morceau de lieu jaune pendant 20 mn; servir avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
