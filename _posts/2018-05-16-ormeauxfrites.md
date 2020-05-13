@@ -9,7 +9,7 @@ temps_cuisson: 20
 temps_repos: 72 h
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Mimie Le Gall (Coat Tanguy). Mimie est une grande pécheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages.
+Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages. Elle les accommode très simplement suivant la recette qui est, en fait, l’équivalent du steak-frites. Les ormeaux sont, en effet, considérés comme les biftecks de la mer.
 
 ### Ingrédients
 * 12 ormeaux moyens (ou plus suivant leur taille, voir note 1)
@@ -34,8 +34,7 @@ Cette recette vient de Mimie Le Gall (Coat Tanguy). Mimie est une grande pécheu
 * Servir les ormeaux saupoudrés du hachis d’ail et persil avec les frites.  
 
 ### Vins
-* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée.
 
 ### Notes
 * Il y a à peu près 9 ormeaux moyens au kilo.
-* Les ormeaux sont considérés comme les biftecks de la mer. Cette recette est donc l’équivalent du steak-frites.

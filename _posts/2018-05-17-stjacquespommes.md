@@ -9,13 +9,13 @@ temps_cuisson: 10
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-La noix de coquille Saint-Jacques est la pépite des assiettes en hiver. Elle s'accommode très bien avec les fruits. Ici, elle est cuisinée avec des pommes par Renée.
+La noix de coquille Saint-Jacques est la pépite des assiettes en hiver. Elle s'accommode très bien avec les fruits. Ici, elle est cuisinée avec des pommes et flambée au lambic.
 
 ### Ingrédients
 * 16 noix de Saint Jacques
 * 4 pommes
 * 1 poireau
-* 5 cL de calvados
+* 5 cL de lambic ou calvados
 * 10 cL de crème liquide
 * 60 g de beurre ½ sel
 * sel fin, poivre
