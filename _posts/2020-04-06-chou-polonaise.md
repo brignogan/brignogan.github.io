@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay et spécialiste des micro-ondes mais qui, dans sa cuisine, sait utiliser les bonnes vieilles cocottes.
+Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay et spécialiste des micro-ondes mais qui, dans sa cuisine, sait utiliser les bonnes vieilles cocottes. Cette potée peut accompagner avec bonheur rôti de porc ou saucisses.
 
 ### Ingrédients
 * 1/2 chou
@@ -34,5 +34,4 @@ Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chim
 * Vin blanc : Jasnières (Domaine de Cézin).
 
 ### Notes
-* Cette potée peut accompagner avec bonheur rôti de porc ou saucisses.
-* Dans un autre registre, cette recette devient végétarienne si on supprime les lardons.
+* Cette recette devient végétarienne si on supprime les lardons.

@@ -9,7 +9,7 @@ temps_cuisson: 20
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).
 
 ### Ingrédients
 * 1 kg de pommes de terre
@@ -31,7 +31,4 @@ Cette recette vient de Maëlle (Vienne)
 * Déguster la salade tiède avec des Frankfurter Wurstchen (saucisses de Francfort) et du raifort.
 
 ### Vins
-* Bière
-
-### Notes
-* Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).  
+* Bière.  

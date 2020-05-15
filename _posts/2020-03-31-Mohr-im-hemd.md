@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson à la vapeur lui donne une consistance tout à fait particulière. 
 
 ### Ingrédients
 * 100 g de beurre en pommade
@@ -34,12 +34,9 @@ Cette recette vient de Maëlle (Vienne)
 * Placer le moule dans une casserole (ou le rice-cooker) avec de l'eau à mi-hauteur du moule. Couvrir avec un papier sopalin (qui va absorber la vapeur d'eau) et un couvercle pas trop étanche.
 * Faire cuire 25-30 mn au bain-marie (l'eau doit bouillir gentillement).
 * Préparer le glaçage au chocolat : faire fondre 50 g de chocolat et 50 g de beurre au bain-marie. Quand tout est fondu et bien mélangé, hors du feu, ajouter l'huile, mélanger et laisser refroidir.
-* Quand le gâteau est cuit et refroidi, réchauffer le glaçage pour le reliquéfier et en recouvrir le gâteau.
+* Quand le gâteau est cuit et refroidi, réchauffer le glaçage pour le re-liquéfier et en recouvrir le gâteau.
 * Servir le Mohr-im-Hemd avec de la crème chantilly.
 
 ### Vins
 * Pour déguster le gâteau à la mode autrichienne, le servir avec un bon café.
 * Sinon, servir un vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).  
-
-### Notes
-* Le nom du gâteau se traduit en français par "le Maure en chemise".

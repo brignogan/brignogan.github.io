@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette soupe d'automne est, tous les ans, au menu du repas d'anniversaire de Maëlle. Comme la tarte au citron en dessert, c'est l'entrée incontournable.
+Cette soupe d'automne est, tous les ans, au menu du repas d'anniversaire de Maëlle. Elle est à l'entrée ce qu'est la tarte au citron est au dessert : incontournable.
 
 ### Ingrédients
 * 500 g de potiron
@@ -29,7 +29,7 @@ Cette soupe d'automne est, tous les ans, au menu du repas d'anniversaire de Maë
 * Redonner un bouillon au velouté de potiron, puis ajouter le mélange crémeux. Ne pas faire bouillir après cette opération. Servir aussitôt avec, au choix, du persil haché, des croutons grillés et fromage râpé ou une pincée de poivre de Cayenne.
 
 ### Vins
-* Vin blanc : Alsace grand cru Rangen-Pinot gris (Domaine de Wolfberger), Bourgogne-Auxey-Duresnes (Les Caves de l'Orangerie).
+* Vin blanc : A-Alsace grand cru Rangen-Pinot gris (Wolfberger), Alsace grand cru Furstentum-Pinot gris (Domaine René Fleith);  L-Jasnières (Domaine de Cézin); J-Côte-du-Jura Vin Jaune (Domaine de Savagny).
 
 ### Notes
 * Cette soupe peut être préparée avec du potimarron qu'il n'est pas d'éplucher.

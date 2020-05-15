@@ -33,8 +33,8 @@ Cette entrée est un régal dès que commence la saison des haricots verts, des 
 * Servir la macédoine avec les oeufs à la russe, des quartiers de tomates, des feuilles de salade. On peut ajouter des morceaux de filets fumés de saumon ou de truite.
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
-* Vin rosé : Côtes de Provence (Domaine de Saint Victorin).
+* Vin blanc : L-Jasnières (Domaine de Cézin) ou Menetou-Salon (Domaine de Châtenoy); Bx-Graves Pessac-Léognan (Domaine de la Solitude).
+* Vin rosé : P-Côte de Provence cuvée Jacqueline (Domaine de Saint Victorin).
 
 ### Notes
 * La préparation de la mayonnaise est décrite en vidéo dans la rubrique "Sauces et Condiments".

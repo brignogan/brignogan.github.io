@@ -9,7 +9,7 @@ temps_cuisson: 5
 temps_repos: 360
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Halima et Rkia (Rabat, Agadir)
+Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 
 ### Ingrédients
 * 1,2 kg de boeuf (aiguillette)
@@ -49,5 +49,4 @@ Cette recette vient de Halima et Rkia (Rabat, Agadir)
 * Vin rouge : Saint Emilion (Chateau Franc Patarabet)
 
 ### Notes
-* Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.

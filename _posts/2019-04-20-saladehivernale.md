@@ -49,4 +49,4 @@ Cette salade, pleine de vitamines, garnit agréablement la table en hiver. C'est
 
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc :  A-Alsace Grand Cru Rangen-Riesling (Wolfberger), A-Alsace Riesling Steinberg (Domaine René Fleith); Bx-Graves Pessac-Léognan (Domaine de la Solitude); Bg-Côte-de-Beaune Auxey-Duresses (Les Caves de l'Orangerie).

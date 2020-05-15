@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: 720
 nbre_personne: ‘pour 12 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé au XIXème siècle par le pâtissier de l'hôtel Sacher à Vienne.
 
 ### Ingrédients
 
@@ -71,6 +71,5 @@ Cette recette vient de Maëlle (Vienne)
 
 
 ### Notes
-* La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé au XIXème siècle par le pâtissier de l'hôtel Sacher à Vienne.
 * La décoration doit suivre les saisons : framboises au printemps et en été, mirabelles à l'automne et julienne d'oranges confites en hiver.
 * Ci-dessous, le schéma de l'appareilage pour le glaçage :{% include image.html file="/img/recette/sachertorteglacage.png" alt="appareillage pour le glaçage" caption= "Comment réaliser un glaçage" %}

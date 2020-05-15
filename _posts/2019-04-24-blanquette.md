@@ -9,7 +9,7 @@ temps_cuisson: 105
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Avec le boeuf bourguignon, la blanquette de veau est un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise. Elle avait régulièrement sa place au menu de Grand-mère Saint Pierre.
+La blanquette de veau est un plat emblématique de l'hiver. Avec le boeuf bourguignon, elle forme le blanc et le noir, le yin et le yang de la cuisine bourgeoise. Elle avait régulièrement sa place au menu de Grand-mère Saint Pierre.
 
 ### Ingrédients
 * 500 g de tendron de veau coupé en morceaux

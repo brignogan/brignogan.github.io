@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Un plat végétarien typiquement autrichien.
+C'est la version salée de l'apfelstrudel. Comme pour ce dernier, la finesse de la pâte est le secret de la réussite.
 
 ### Ingrédients
 * 1 pâte feuilletée

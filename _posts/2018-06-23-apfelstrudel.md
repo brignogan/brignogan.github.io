@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+Ce dessert est une recette autrichienne mythique dont la réussite tient à la qualité de la pâte utilisée. 
 
 ### Ingrédients
 * 3-4 pommes
@@ -33,7 +33,4 @@ Cette recette vient de Maëlle (Vienne)
 * Servir tiède, saupoudré de sucre glace et accompagné de « Schlagobers » (crème chantilly)
 
 ### Vins
-* Pas de vin mais un bon café.  
-
-### Notes
-* C’est un dessert typiquement autrichien.  
+* Pas de vin mais un bon café.   

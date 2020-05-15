@@ -40,7 +40,7 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin), Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc : A-Alsace Grand Cru Rangen-Riesling (Wolfberger), A-Alsace Riesling Steinberg (Domaine René Fleith); Bx-Graves Pessac-Léognan (Domaine de la Solitude); R-Lirac (Domaine de la Mordorée); LR-Pays de l'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
 * On peut réaliser une vraie croûte de sel en mélangeant le sel avec 2 blancs d'oeuf et 50 g de farine.

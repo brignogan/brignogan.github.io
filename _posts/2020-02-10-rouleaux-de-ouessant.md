@@ -9,7 +9,7 @@ temps_cuisson: 3
 temps_repos: 90
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette entrée vient de la bibliographie et a été adaptée par Renée aux produits locaux; elle pourrait s'appeler "rouleaux de Brignogan".
+Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. L'excellence de ce produit de notre terroir est mis à profit dans cette entrée. 
 
 ### Ingrédients
 #### pour les rouleaux :

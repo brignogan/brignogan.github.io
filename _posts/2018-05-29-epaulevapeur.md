@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Rkia (Agadir)
+Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier mais Halima comme Rkia avait adopté la cocotte minute pour réaliser cette recette.
 
 ### Ingrédients
 * 1 épaule d’agneau
@@ -35,4 +35,4 @@ Cette recette vient de Rkia (Agadir)
 * Vin rouge : Bandol (Tournier, Chateau Roche Redonne, les Bartavelles ou la Malissonne).
 
 ### Notes
-* Cette recette peut se faire traditionnellement dans le couscoussier, le temps de cuisson est alors d'au moins 2h.
+* Si la recette se fait traditionnellement dans le couscoussier, le temps de cuisson doit être d'au moins 2h.

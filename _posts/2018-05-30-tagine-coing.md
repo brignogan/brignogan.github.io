@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Rkia (Agadir)
+La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on mangeait ce tagine pour la Saint René le 19 octobre. Cette tradition s’est perpétuée depuis notre retour en France.
 
 ### Ingrédients
 * 1,5 kg d’agneau avec os (épaule)
@@ -41,6 +41,3 @@ Cette recette vient de Rkia (Agadir)
 ### Vins
 * Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
 * Plus aventureux, vin blanc doux : Sauterne (Haut-Bergeron), Loupiac (Château La Nère de Séraphon)
-
-### Notes
-* La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on mangeait ce tagine pour la Saint René le 19 octobre. Cette tradition s’est perpétuée depuis notre retour en France.

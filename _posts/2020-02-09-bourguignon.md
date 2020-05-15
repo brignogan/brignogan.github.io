@@ -9,7 +9,7 @@ temps_cuisson: 120
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Avec la blanquette de veau, le boeuf bourguignon est un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise bien qu'issu de la cuisine traditionnelle de Bourgogne. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
+Le boeuf bourguignon est, avec la blanquette de veau, un plat emblématique de l'hiver : le blanc et le noir, le yin et le yang de la cuisine bourgeoise bien qu'issu de la cuisine traditionnelle de Bourgogne. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
 
 ### Ingrédients
 * 800 g de paleron
