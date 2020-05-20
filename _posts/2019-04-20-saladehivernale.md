@@ -49,4 +49,4 @@ Cette salade, pleine de vitamines, garnit agréablement la table en hiver. C'est
 
 
 ### Vins
-* Vin blanc :  A-Alsace Grand Cru Rangen-Riesling (Wolfberger), A-Alsace Riesling Steinberg (Domaine René Fleith); Bx-Graves Pessac-Léognan (Domaine de la Solitude); Bg-Côte-de-Beaune Auxey-Duresses (Les Caves de l'Orangerie).
+* Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Pessac-Léognan (Domaine de la Solitude), Côte-de-Beaune Auxey-Duresses (Les Caves de l'Orangerie, Le Val).

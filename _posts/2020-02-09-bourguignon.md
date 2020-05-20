@@ -44,4 +44,4 @@ Le boeuf bourguignon est, avec la blanquette de veau, un plat emblématique de l
 * Servir avec des pommes de terre cuites à l'eau.    
 
 ### Vins
-* Vin rouge : Saint-Aubin (Domaine Hubert Lamy), Chateauneuf-du-Pape (Domaine de Beaurenard).
+* Vin rouge : Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Pommard (Domaine Philippe Girard, Vieilles Vignes), Château-neuf-du-Pape (Domaine de Beaurenard, Beaurenard ou Boisrenard), Volnay (Domaine Philippe Girard, La Gigotte), Santenay (Domaine Hubert Lamy, Clos des Gravières).

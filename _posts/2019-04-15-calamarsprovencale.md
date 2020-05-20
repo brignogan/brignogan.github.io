@@ -31,4 +31,5 @@ Cette recette pour préparer les calamars (ou encornets) a été rapportée par 
 
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique), Pessac-Léognan (Domaine de la Solitude).
+* Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).

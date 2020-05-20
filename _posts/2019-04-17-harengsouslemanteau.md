@@ -44,4 +44,4 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 
 ### Vins
 * Typiquement : un petit verre de vodka.
-* Vin blanc : A-Alsace Grand Cru Rangen-Riesling (Wolfberger), A-Alsace Riesling Steinberg (Domaine René Fleith); R-Lirac (Domaine de la Mordorée); Bx-Graves Pessac-Léognan (Domaine de la Solitude).
+* Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Lirac (Domaine de la Mordorée, La Reine des Bois); Pessac-Léognan (Domaine de la Solitude).

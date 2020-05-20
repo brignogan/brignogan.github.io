@@ -41,5 +41,8 @@ Cette recette a été découverte à Penmarc'h chez Michelle qui déborde d'idé
 * Remettre au four environ 10 mn à 200°C.
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
-* Plus original : Vin Jaune du Jura (recommandé avec les plats à la crème).
+* Vin blanc : Bandol (Château Pibarnon), Côte-du-Jura (Domaine de Savagny, Vin Jaune).
+* Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
+
+### Notes
+* Le Vin Jaune du Jura est recommandé avec les plats à base de crème).

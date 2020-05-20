@@ -29,7 +29,7 @@ Cette soupe d'automne est, tous les ans, au menu du repas d'anniversaire de Maë
 * Redonner un bouillon au velouté de potiron, puis ajouter le mélange crémeux. Ne pas faire bouillir après cette opération. Servir aussitôt avec, au choix, du persil haché, des croutons grillés et fromage râpé ou une pincée de poivre de Cayenne.
 
 ### Vins
-* Vin blanc : A-Alsace grand cru Rangen-Pinot gris (Wolfberger), Alsace grand cru Furstentum-Pinot gris (Domaine René Fleith);  L-Jasnières (Domaine de Cézin); J-Côte-du-Jura Vin Jaune (Domaine de Savagny).
+* Vin blanc : Alsace grand cru Rangen (Wolfberger, Pinot gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot gris); Jasnières (Domaine de Cézin, Origine), Côte-du-Jura (Domaine de Savagny, Vin Jaune).
 
 ### Notes
 * Cette soupe peut être préparée avec du potimarron qu'il n'est pas d'éplucher.
