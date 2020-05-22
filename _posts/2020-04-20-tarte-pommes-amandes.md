@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tarte au pommes et amandes
+title: Tarte aux pommes et amandes
 tag_category: famille
 tag_plat: dessert
 image: img/recette/untitled.png
@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-La tarte aux pommes et amandes est la tarte de l'hiver quand la tarte aux abricots est celle de l'été.
+La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table. 
 
 ### Ingrédients
 * 4 ou 5 pommes (reinettes)
