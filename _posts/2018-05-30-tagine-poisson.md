@@ -9,7 +9,7 @@ temps_cuisson: 15
 temps_repos: 15
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Rkia (Agadir)
+Tous les poissons blancs peuvent être préparés en tagine, le citron confit et le coriandre leur donnant des saveurs marocaines, mais la recette s'applique particulièrement bien aux poissons plats (barbue, turbot, saint pierre).
 
 ### Ingrédients
 * 1 poisson plat (barbue, turbot ou Saint Pierre) de 1,7 kg
@@ -34,3 +34,4 @@ Cette recette vient de Rkia (Agadir)
 
 ### Notes
 * On compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chair par personne.
+* Si on souhaite cuisiner ce tagine avec des poissons ronds (cabillaud, bar, lotte), les préparer en gros tronçons de filet pour les faire mariner.  

@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+Ce gâteau est un fleuron de la pâtisserie viennoise. Il a une place de choix sur la table des goûters pantagruéliques chez les parents de Mélanie, la grande amie autrichienne de Maëlle.
 
 ### Ingrédients
 * 6 oeufs
@@ -51,5 +51,4 @@ Cette recette vient de Maëlle (Vienne)
 * Sinon, servir un vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).  
 
 ### Notes
-* Ce gâteau traditionnel viennois est le fleuron des pâtisseries servies pour les goûters pantagruéliques chez les parents de Mélanie, l'amie autrichienne de Maëlle.
 * Ci-dessous le schéma pour la préparation du gâteau.{% include image.html file="/img/recette/kardinalschnittenSchema.png" alt="Préparation du Kardinalschnitten" caption= "Schéma de la préparation du Kardinalschnitten"%}

@@ -9,7 +9,7 @@ temps_cuisson: 5
 temps_repos: 120
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Halima (Rabat)
+Le kanoun est un fourneau bas en terre ou en métal utilisé traditionnellement au Maroc pour le chauffage et la cuisson des aliments. Equipé d'une grille, il permet la cuisson des grillades. Halima et Rkia étaient des expertes en gestion du kanoun. Depuis notre retour en France, il a été troqué contre un barbecue électrique pour une préparation plus cool des brochettes.  
 
 ### Ingrédients
 * 900 g de poissons fermes : lotte, saumon
@@ -37,4 +37,3 @@ Cette recette vient de Halima (Rabat)
 
 ### Notes
 * Ne pas laisser mariner trop longtemps le poisson qui donnerait trop de son eau.
-* Halima et Rkia furent nos deux bonnes pendant notre séjour au Maroc. Elles étaient d’excellentes cuisinières.

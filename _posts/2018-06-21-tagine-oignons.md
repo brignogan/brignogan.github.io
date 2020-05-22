@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Halima (Rabat)
+Certains tagines sont saisonniers parce que préparés avec des légumes ou des fruits qui ne font leur apparition sur le marché qu'à une certaine époque de l'année. L'avantage du tagine aux oignons, c'est qu'il peut être préparé en toutes saisons.
 
 ### Ingrédients
 * 1,5 kg d’agneau avec os (épaule)

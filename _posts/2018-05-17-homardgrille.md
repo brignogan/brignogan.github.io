@@ -9,7 +9,7 @@ temps_cuisson: 17
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette a été mise au point par Renée.
+Le homard foisonne sur notre côte pendant l'été et c'est un régal de la déguster grillé avec une sauce au lambic comme dans cette recette liée à notre terroir. Une fois que l'on a vaincu sa peur de la bête... tout va bien.
 
 ### Ingrédients
 * 2 homards de 1,2 kg chacun (ou 4 homards de 600 g)

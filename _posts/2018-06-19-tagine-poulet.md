@@ -9,7 +9,7 @@ temps_cuisson: 90
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Rkia (Agadir)
+Cette recette est un grand classique de la cuisine marocaine et le meilleur que nous n'ayons jamais mangé était servi dans le petit restaurant à l'entrée des ruines de Volubilis.
 
 ### Ingrédients
 * 1 poulet d'1,7 kg avec son foie et son gésier

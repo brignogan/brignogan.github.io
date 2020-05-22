@@ -9,7 +9,7 @@ temps_cuisson: 10
 temps_repos: ‘-‘
 nbre_personne: ‘pour 2 personnes’
 ---
-Cette recette vient de Maëlle (Vienne)
+Pour être qualifiée de "viennoise", cette escalope panée doit être préparée avec de la viande de veau coupée très fine. C'est évidemment le plat typique de Vienne. 
 
 ### Ingrédients
 * 2 escalopes de veau (ou de porc) (1 par personne)* 2 c. à s. de farine (1 par escalope)* 1 œuf (pour 2 escalopes)* chapelure (idéalement Semmel Brösel ou de la baguette séchée au four et broyée)* sel, poivre* 1 citron bio* huile d'arachide
@@ -25,6 +25,3 @@ Cette recette vient de Maëlle (Vienne)
 ### Vins
 * Bière
 * Vin rosé : Bandol (Domaine Guilhem Tournier-Cuvée La Malissone)
-
-### Notes
-* C’est évidemment la recette typique de Vienne.  

@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: 120
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Xavier et Bleuenn (Bénodet).
+Le kouign amann est une gâteau originaire de Douarnenez et donc une spécialité du Finistère sud. Xavier, léonard exilé à Bénodet, s'est essayé, avec Bleuenn et avec bonheur, à cette recette pour le régal de la famille.
 
 ### Ingrédients
 * 500 g de farine de froment
@@ -28,7 +28,5 @@ Cette recette vient de Xavier et Bleuenn (Bénodet).
 * Servir bien chaud saupoudré de sucre.
 
 ### Vins
-* Cidre de Fouesnant brut : Séhédic ou Menez Brug
-
-### Notes
-* Le kouign amann est une gâteau originaire de Douarnenez et donc une spécialité du Finistère sud.
+* Cidre de Fouesnant brut : Séhédic ou Menez Brug.
+* Vin blanc doux : Alsace Gewurztraminer (Grand Cru Kaefferkopf-Domaine Léon Baur), Roussillon (Maury blanc-Les vignes d'Elodie).

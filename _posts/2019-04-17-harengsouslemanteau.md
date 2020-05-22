@@ -9,8 +9,7 @@ temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-La recette de cette entrée a été rapportée de Tomsk, en Sibérie, par Renée lors des missions de collaboration de l’Université Paris Sud avec l’Université Polytechnique de Tomsk. Ses collègues russes Natalya Baranovskaya et Nina Osipova se faisaient un plaisir de faire découvrir les plats traditionnels sibériens.
-Le nom russe de ce plat est : "seledka pod shuboy".
+Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencontrées au cours de missions de coopérations entre l'Université Polytechnique de Tomsk et l'Université Paris Sud. A chacune de nos visites en Sibérie, elles se faisaient un plaisir de nous faire découvrir leur tradition culinaire dont cette recette de hareng est un fleuron. Le nom russe de ce plat est : "seledka pod shuboy".
 
 ### Ingrédients
 * 200 g de hareng doux fumé
@@ -45,4 +44,4 @@ Le nom russe de ce plat est : "seledka pod shuboy".
 
 ### Vins
 * Typiquement : un petit verre de vodka.
-* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Lirac (Domaine de la Mordorée, La Reine des Bois); Pessac-Léognan (Domaine de la Solitude).

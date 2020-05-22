@@ -9,7 +9,7 @@ temps_cuisson: 5
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Grand-Mère Ploudaniel.
+Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand Mère Ploudaniel !
 
 ### Ingrédients
 * 125 g de farine de froment
@@ -29,9 +29,8 @@ Cette recette vient de Grand-Mère Ploudaniel.
 * Répéter l’opération jusqu’à épuisement de la pâte. On compte deux galettes par personne.
 
 ### Vins
-* Cidre de Fouesnant brut : Séhédic ou Menez Brug
+* Cidre brut : Cornouaille (Séhédic ou Menez Brug)
 * Plus typique : lait ribot
 
 ### Notes
-* Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand Mère !
 * A Ploudaniel, on mangeait le fars pitilig comme le fars forn avec du jambon…

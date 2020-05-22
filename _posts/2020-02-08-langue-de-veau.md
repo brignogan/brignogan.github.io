@@ -9,7 +9,7 @@ temps_cuisson: 120
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-En Bretagne, la langue de veau était considérée comme un mets délicat et systématiquement servie en entrée dans les repas de fête (mariage). Traditionnellement, elle était alors préparée à la sauce madère. servie avec une sauce Gribiche, elle était souvent au menu de Grand-mère Saint-Pierre.
+En Bretagne, la langue de veau était considérée comme un mets délicat et systématiquement servie en entrée dans les repas de fête (mariage) et traditionnellement, elle était alors préparée à la sauce madère. Plus légèrement, elle est servie avec une sauce Gribiche et était souvent au menu de Grand-mère Saint-Pierre.
 
 ### Ingrédients
 * 1 langue de veau

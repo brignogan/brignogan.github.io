@@ -27,7 +27,8 @@ Cette recette est excellente pour préparer les bettes. Elles peuvent être blan
 * On peut servir la poêlée, comme accompagnement, à ce stade mais pour un plat plus riche, on peut y ajouter, en même temps que les lanières de feuilles, les poires que l'on aura épluchées et taillées également en petits dés. A la fin de la cuisson, ajouter le fromage blanc et les pignons. Réchauffer le tout.  
 
 ### Vins
-* Vin blanc : Gewurztraminer-Grand Cru Kaefferkopf (Domaine Léon Baur) ou Pinot gris-Grand Cru Rangen (Domaine Wolfberger) ou Chateauneuf-du-Pape (Domaine de Beaurenard).
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Côte-de-Provence (Domaine Saint Victorin, Jacqueline).
+.
 
 ### Notes
 * Si le fromage blanc ne fait pas envie, on peut le remplacer par de la crème fraîche mais le goût acidulé du fromage se marie bien avec les bettes.

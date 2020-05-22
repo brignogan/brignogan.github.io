@@ -9,7 +9,7 @@ temps_cuisson: 40
 temps_repos: 72 h
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette est inspirée de celle de Olivier Roellinger (Cancale) et simplifiée par Renée (Coat Tanguy).
+L'ormeau est un coquillage muni d’un pied très puissant pour s’accrocher sur les supports qu’il rencontre, comme les rochers sous lesquels il se dissimule en colonies. Il fréquente nos côtes mais il n'est pas aisé de le pêcher. Aussi, avoir des voisins experts en la matière est un bienfait. Pour les accommoder, cette recette a été inspirée de celle de Olivier Roellinger (Cancale).
 
 ### Ingrédients
 * 12 ormeaux moyens (ou plus suivant leur taille)
@@ -41,3 +41,4 @@ Cette recette est inspirée de celle de Olivier Roellinger (Cancale) et simplifi
 
 ### Notes
 * Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.
+* Il faut aussi noter que l'intérieur de la coquille est recouvert de nacre aux reflets changeant coquille est parfois récupérée pour faire des bijoux ou des incrustations par les ébénistes et luthiers. 

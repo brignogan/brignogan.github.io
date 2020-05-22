@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient de Halima (Rabat)
+Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être réalisé de la même manière avec du jarret de veau.
 
 ### Ingrédients
 * 1,5 kg d’agneau avec os (épaule)

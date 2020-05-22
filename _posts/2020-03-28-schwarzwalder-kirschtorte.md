@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schwarzwälder Kirschtorte
+title: Schwarzwälder Kirschtorte (La Forêt Noire)
 tag_category: autriche
 tag_plat: dessert
 image: img/recette/foret-noire.png
@@ -9,7 +9,7 @@ temps_cuisson: 50
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique. La recette en a été rapporté de Vienne par Maëlle.
+Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique particulièrement apprécié aux fêtes de fin d'année.
 
 ### Ingrédients
 * 110 g de farine

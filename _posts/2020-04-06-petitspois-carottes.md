@@ -30,7 +30,7 @@ Quand les petits pois et les carottes nouvelles arrivent sur les étales du marc
 * Cuire à couvert 20 mn.  
 
 ### Vins
-* Vin blanc : Auxey-Duresnes (Les Caves de l'Orangerie) ou Riesling-Grand Cru Rangen (Domaine Wolfberger).
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Côte-de-Provence (Domaine Saint Victorin, Jacqueline).
 
 ### Notes
 * Si les petits pois ou les carottes ne sont pas suffisamment sucrés, on ajoute 1 ou 2 pierres de sucre selon le goût.

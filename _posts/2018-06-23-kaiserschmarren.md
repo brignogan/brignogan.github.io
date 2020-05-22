@@ -9,7 +9,7 @@ temps_cuisson: 15
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Veronika, une amie autrichienne de Maëlle : "Kaiserschmarren nach Veronika art !"
+C'est un dessert typiquement autrichien et cette recette vient de Veronika, une amie autrichienne de Maëlle : "Kaiserschmarren nach Veronika art !"
 
 ### Ingrédients
 * 5 œufs
@@ -31,6 +31,3 @@ Cette recette vient de Veronika, une amie autrichienne de Maëlle : "Kaiserschma
 
 ### Vins
 * Pas de vin mais un bon café.
-
-### Note
-C’est un dessert typiquement autrichien.  

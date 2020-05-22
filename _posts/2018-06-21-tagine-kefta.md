@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Cette recette vient du restaurant « La Clé » à Rabat (en 1976)
+Les keftas sont à la base de nombreuses recettes marocaines. On peut par exemple en faire des brochettes. Préparées en tagine, cette recette vient du restaurant « La Clé » qui était la cantine des coopérants à Rabat dans les années 70-80.
 
 ### Ingrédients
 * 500 g de viande d’agneau hachée* 500 g de petits pois écossés
@@ -39,4 +39,3 @@ Cette recette vient du restaurant « La Clé » à Rabat (en 1976)
 
 ### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
-* Le restaurant « La Clé » était une des cantines des coopérants à Rabat.

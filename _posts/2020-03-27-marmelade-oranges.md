@@ -9,7 +9,7 @@ temps_cuisson: 135
 temps_repos: 1200
 nbre_personne: ‘pour 10 pots’
 ---
-La marmelade d'oranges amères est inspirée de la recette originelle due à l'écossais James Keller de Dundee qui l'inventa au XVIème siècle. Il ne faut pas rater la saison des oranges amères en janvier-février.
+La marmelade d'oranges amères est inspirée de la recette originelle due à l'écossais James Keller de Dundee qui l'inventa au XVIème siècle. Il ne faut pas rater la saison assez courte des oranges amères en janvier-février.
 
 ### Ingrédients
 * 1 kg d'oranges amères

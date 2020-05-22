@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: 30
 nbre_personne: ‘pour 8 personnes’
 ---
-Cette recette vient de Jean Olivier (Concarneau).
+Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau.
 
 ### Ingrédients
 * 200 g de beurre ½ sel mou
@@ -30,8 +30,5 @@ Cette recette vient de Jean Olivier (Concarneau).
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
 ### Vins
-* Cidre de Fouesnant brut : Séhédic ou Menez Brug
-* Plus typique : lait ribot
-
-### Notes
-* Les parents de Jean Ollivier tenaient une boulangerie à Penanguer, un quartier de Concarneau.
+* Cidre de Fouesnant brut : Séhédic ou Menez Brug.
+* Vin blanc doux : Alsace Gewurztraminer (Grand Cru Kaefferkopf-Domaine Léon Baur), Roussillon (Maury blanc-Les vignes d'Elodie).

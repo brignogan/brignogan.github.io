@@ -33,4 +33,4 @@ Le rouget barbet est un poisson au goût très fin. On le trouve facilement de t
 
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin), Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois), Bandol (Château Pibernon), Châteauneuf-du-Pape (Domaine de Beaurenard), Côte-de-Provence (Domaine de Saint-Victorin, Jacqueline).

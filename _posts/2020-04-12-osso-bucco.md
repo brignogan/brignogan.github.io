@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette est extraite du livre de cuisine fourni par SEB avec la super-cocotte que grand-mère Ploudaniel avait reçue en cadeau de fête des mères dans le début des années 60. L'osso-bucco était devenu un de ses plats préférés qu'elle avait grand plaisir à nous préparer.
+Cette recette est extraite du livre de cuisine fourni par SEB avec la super-cocotte que Grand-mère Ploudaniel avait reçue en cadeau de fête des mères dans le début des années 60. L'osso-bucco était devenu un de ses plats préférés qu'elle avait grand plaisir à nous préparer.
 
 ### Ingrédients
 * 800 g de jarret de veau coupé en tranches.
