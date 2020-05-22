@@ -62,6 +62,8 @@
 %\setlength{\multicolsep}{0pt}
 %\setlength{\columnseprule}{1pt}
 
+\usepackage{ragged2e}
+
 \makeatletter
 \newcommand*{\currentname}{\@currentlabelname}
 
@@ -747,8 +749,29 @@
 \mainmatter
 \setcounter{page}{1}
 
-XX
+%XX
+\section{Famille}                                          
+\addthumb{Famille}{\thumbsIcon}{white}{jade}
+\input{famille}
+\newpage
 
-\input{vin}
+\section{bretagne}                                          
+\addthumb{Bretagne}{\thumbsIcon}{white}{glaucous}
+\input{bretagne}
+\newpage
+
+\section{Maroc}                                          
+\addthumb{Maroc}{\thumbsIcon}{white}{antiquebrass}
+\input{maroc}
+\newpage
+
+\section{Autriche}                                          
+\addthumb{Autriche}{\thumbsIcon}{white}{manatee}
+\input{autriche}
+\newpage
+
+
+\input{vin_template}
+%############
 
 \end{document}
