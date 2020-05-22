@@ -52,6 +52,8 @@ recipeDir = '/home/paugam/Website/brignogan.github.io/_posts/'
 recipeMMtitle_2skip = [] #[u'mayonnaise',]# u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
 imageDir = '/home/paugam/Website/brignogan.github.io/'
 introCatDir = '/home/paugam/Website/brignogan.github.io/pages/'
+introCatDir2 = '/home/paugam/Website/brignogan.github.io/CookBook/'
+flag_use_Section_Intro_Website = False
 
 recipeFiles = glob.glob(recipeDir+'*.md')
 
@@ -119,13 +121,17 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 \\addthumb{{{:s}}}{{\\thumbsIcon}}{{white}}{{{:s}}}'.format(recipeCat.title(), recipeCat.title(), color_section(recipeCat))
                 )
 
-        #add introCat
-        lines_introCat_ = io.open(introCatDir+'{:s}.md'.format(recipeCat),"r", encoding='utf-8').readlines()
-        lines_introCat = []
-        count_mark = 0
-        for lines_ in lines_introCat_:
-            if count_mark >=2: lines_introCat.append(lines_)
-            if lines_[:3] == '---': count_mark += 1
+        if flag_use_Section_Intro_Website:
+            #add introCat
+            lines_introCat_ = io.open(introCatDir+'{:s}.md'.format(recipeCat),"r", encoding='utf-8').readlines()
+            lines_introCat = []
+            count_mark = 0
+            for lines_ in lines_introCat_:
+                if count_mark >=2: lines_introCat.append(lines_)
+                if lines_[:3] == '---': count_mark += 1
+        else: 
+            with open(introCatDir2+'{:s}.tex'.format(recipeCat),'r') as f:
+                lines_introCat = f.readlines() 
 
         for lines_ in lines_introCat: final2_lines.append(lines_)
         if len(lines_introCat)>0: final2_lines.append('\\newpage')
@@ -211,9 +217,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     for line in lines_recipe_template:
         
         flag_modified = 0
-
-        if 'recipeMMtitle' in line:       line = line.replace('recipeMMtitle', recipeMMtitle)             ; flag_modified = 2                  
-        if 'recipeMMnewPage' in line:       line = line.replace('recipeMMnewPage', recipeMMnewPage)       ; flag_modified = 2                  
+        
+        if 'recipeMMtitle' in line:       line = '%###########\n' +\
+                                                 line.replace('recipeMMtitle', recipeMMtitle) + \
+                                                 '%###########\n'             ; flag_modified = 2                  
+        if 'recipeMMnewPage' in line:     line = line.replace('recipeMMnewPage', recipeMMnewPage)       ; flag_modified = 2                  
         if 'recipeMMtimeprep' in line:    line = line.replace('recipeMMtimeprep', recipeMMtimeprep)       ; flag_modified = 2           
         if 'recipeMMtimecooking' in line: line = line.replace('recipeMMtimecooking', recipeMMtimecooking) ; flag_modified = 2
         if 'recipeMMtimechill' in line:   line = line.replace('recipeMMtimechill', recipeMMtimechill)     ; flag_modified = 2
@@ -285,11 +293,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         else: pdb.set_trace()
                 
                 elif (line_[:4] == '####') & (i==(len(recipeMMinstruction)-1)):
-                    line2p.append( u'\\medskip') 
+                    line2p.append( u'\\vskip 0.5em') 
                     line2p.append( '\methods[{:s}]\n'.format(line_.replace('####','').replace(':','').rstrip().strip() ) )
                 
                 elif (line_[:4] == '####'): 
-                    line2p.append( u'\\medskip') 
+                    line2p.append( u'\\vskip 0.5em') 
                     line2p.append( '\methods[{:s}]\n'.format(line_.replace('####','').replace(':','').rstrip().strip() ) )
                     ii = i+1
                     ii_ori = ii
@@ -425,6 +433,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         for line_ in line2p:
             if '/home/' in line_:
+                final2_lines.append(line_)
+            elif 'vskip' in line_:
                 final2_lines.append(line_)
             else:
                 final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format

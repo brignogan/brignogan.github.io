@@ -4,22 +4,24 @@
 {recipeMMimg}
 
 \showit{recipeMMimg}{recipeMMintro}
-\medskip
+\vskip 3mm
 
 \begin{ingreds}
 	 recipeMMingredient 
 \end{ingreds}
-\medskip
+\vskip 3mm
 
 \methods
 recipeMMinstruction
-\medskip
+\vskip 4mm
 
 \begin{vin}[recipeMMvin]
 \end{vin}
+\vskip 3mm
 
 \begin{note}[recipeMMnote]{recipeMM11note}
 \end{note}
+\vskip 2mm
 
 recipeMMextra
 
