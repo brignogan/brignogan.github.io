@@ -21,7 +21,8 @@ Ce dessert est une recette autrichienne mythique dont la réussite tient à la q
 * 1 pâte feuilletée (ou éventuellement des feuilles de pâte « filo », plus proche de la vraie « strudelteig »)
 * beurre
 * chapelure
-* 1 jaune d’œuf
+* 1 jaune d’œuf
+
 
 ### Préparation
 * Éplucher les pommes en les gardant entières. Les râper avec une mandoline. Ajouter du jus du citron, du sucre roux, de la poudre d'amande (pour absorber le jus des pommes), de la cannelle, selon votre goût.
