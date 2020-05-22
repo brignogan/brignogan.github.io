@@ -39,7 +39,7 @@ La blanquette de veau est un plat emblématique de l'hiver. Avec le boeuf bourgu
 
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Alsace grand cru Rangen (Wolfberger, Pinot gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot gris), Côtes-du-Jura (Domaine de Savagny, savagnin).  
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Alsace grand cru Rangen (Wolfberger, Pinot gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot gris), Chassagne-Montrachet (Domaine Gilles Bouton, Les Voillenots Dessus), Côtes-du-Jura (Domaine de Savagny, savagnin).  
 
 
 ### Notes
