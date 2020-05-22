@@ -9,8 +9,8 @@
 \usepackage{wrapfig}
 \usepackage{ifoddpage}
 \usepackage[%
-    %a5paper,
-    papersize={5.5in,8.5in},
+    a5paper,
+    %papersize={5.5in,8.5in},
     margin=0.75in,
     top=0.75in,
     bottom=0.75in,
@@ -55,8 +55,12 @@
 \usepackage{sectsty}
 \subsubsectionfont{\large}
 
-\usepackage{ellipsis}
-\setlength{\ellipsisgap}{0.02em}
+%\usepackage{ellipsis}
+%\setlength{\ellipsisgap}{0.02em}
+\usepackage{amsmath}
+\renewcommand*{\mathellipsis}{%
+  \mathinner{{\ldotp}{\ldotp}{\ldotp}}%
+}
 
 \raggedcolumns
 %\setlength{\multicolsep}{0pt}
@@ -407,7 +411,7 @@
 \newcommand*\iconEntree{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
+	\setbox0=\hbox{\put(-11,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
 	\setbox0=\hbox{\put(-14,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
@@ -417,7 +421,7 @@
 \newcommand*\iconLegume{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-9.,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
+	\setbox0=\hbox{\put(-12.,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
 	\setbox0=\hbox{\put(-14.5,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
@@ -427,7 +431,7 @@
 \newcommand*\iconPoisson{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-10.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
+	\setbox0=\hbox{\put(-13.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
 	\setbox0=\hbox{\put(-15.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
@@ -437,7 +441,7 @@
 \newcommand*\iconViande{
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-8.7,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
+	\setbox0=\hbox{\put(-11.7,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
 	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
@@ -447,7 +451,7 @@
 \newcommand*\iconDessert{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-7.7,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
+	\setbox0=\hbox{\put(-10.7,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
 	\setbox0=\hbox{\put(-13,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
@@ -457,7 +461,7 @@
 \newcommand*\iconSauce{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
+	\setbox0=\hbox{\put(-11,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
 	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
