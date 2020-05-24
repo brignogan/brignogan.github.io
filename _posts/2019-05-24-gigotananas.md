@@ -39,5 +39,4 @@ Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui, faute de
 
 
 ### Vins
-* Vin rouge : Saint-Emilion (Château Franc-Patarabet) ou Chateauneuf-du-Pape (Domaine de Beaurenard)
-  
+* Vin rouge : Châteauneuf-du-Pape	(Domaine de Beaurenard,	Beaurenard ou Boisrenard), Saint-Joseph (Domaine Château d'Ampuis,	Lieu-dit) ou (Domaine Louis Chèze, Les Anges), Pommard	(Domaine Philippe Girard,	Vieilles Vignes).

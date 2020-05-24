@@ -34,5 +34,5 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 
 
 ### Vins
-* Vin blanc : Gewurztraminer (Coeur de Grain, Léon Baur de Eguisheim)
-* Vin rouge : Lirac (La Reine des Bois, domaine de la Mordorée)
+* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain).
+* Vin rouge : Lirac	(Domaine de la Mordorée, La Reine des Bois), Mont-Caume (Domaine La Roche Redonne, Abondance), Côtes-du-Rhône (Domaine de Beaurenard, Rasteau).

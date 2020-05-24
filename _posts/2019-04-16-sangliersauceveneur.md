@@ -52,4 +52,4 @@ Cette recette a été inaugurée avec un rôti de sanglier offert par les collè
 * Servir le rôti avec des marrons et une purée de céleri.
 
 ### Vins
-* Vin rouge : Côte-Rôtie (Domaine Château d’Ampuis), Chateauneuf-du-Pape (Domaine de Beaurenard) ou Hermitage (Cave de Tain).
+* Vin rouge : Bandol (Château de Pibarnon) ou (Château Guilhem Tournier, La Malissonne), Côte-Rôtie (Domaine Château d'Ampuis, Château d'Ampuis), Hermitage (Cave de Tain, Gambert de Loche).

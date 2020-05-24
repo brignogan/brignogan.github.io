@@ -39,5 +39,5 @@ Ce tiramitsu est une recette de Monique Salaün, une amie d'Orsay, qui, ne voyag
 
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (CDomaine Léon Baur).
-* Un bon café.
+* Vins blanc doux : Macvin du Jura (Domaine de Savigny).
+* Vins rouge doux : Maury Tuilé	(Les Vignes d'Elodie).

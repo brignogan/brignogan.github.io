@@ -9,7 +9,7 @@ temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table. 
+La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table.
 
 ### Ingrédients
 * 4 ou 5 pommes (reinettes)
@@ -32,8 +32,7 @@ La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'autom
 
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (CDomaine Léon Baur).
-* Un bon café.
+* Vins blanc doux : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Tokay (Domaine Diznoko, Tokaji Aozu).
 
 ### Notes
 * Le fond de tarte peut se faire avec une fine pâte brisée suivant la recette de Hahn Faucheu. Celle-ci est décrite pour la tarte au citron.

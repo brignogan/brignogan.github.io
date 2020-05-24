@@ -43,7 +43,8 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * Servir la langue accompagnée de la sauce gribiche et de pommes de terre cuites à l'eau.
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin) ou Vin du Pays de l'Hérault (Mas de Daumas Gassac).
+* Vin blanc : Jasnières	(Domaine de Cézin, Origine), Pays d'Hérault IGP	(Mas de Daumas-Gassac).
+* Vin rosé : Côtes-de-Provence	(Domaine Saint-Victorin,	Jacqueline).
 
 ### Notes
 * Cette recette peut-être réalisée avec des langues de porc au goût un peu moins fin. On compte alors une langue par convive et le mode de cuisson est le même que pour la langue de veau.

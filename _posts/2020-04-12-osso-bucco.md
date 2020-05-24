@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette est extraite du livre de cuisine fourni par SEB avec la super-cocotte que Grand-mère Ploudaniel avait reçue en cadeau de fête des mères dans le début des années 60. L'osso-bucco était devenu un de ses plats préférés qu'elle avait grand plaisir à nous préparer.
+L'osso-bucco était un de ses plats préférés de Grand-Mère Ploudaniel et elle avait grand plaisir à nous le préparer. Dans sa recette, trouvée dans le livre de sa cocotte SEB, il n'y avait pas de citron. C'est une amie, Jacqueline Girard de Gif-sur-Yvette dont le beau-fils est italien, qui nous a fait déguster cette variante citronnée plus proche du plat traditionnel.
 
 ### Ingrédients
 * 800 g de jarret de veau coupé en tranches.
@@ -22,8 +22,8 @@ Cette recette est extraite du livre de cuisine fourni par SEB avec la super-coco
 * 50 g de gruyère ou parmesan râpé
 * sel, poivre
 * 1 cube de bouillon de volaille
-* 1 citron
 * 2 verres de riz (ou 320 g de spaghetti)
+* facultatif : 1 citron
 
 ### Préparation
 * Eplucher et hacher les échalotes et l'ail.
@@ -31,13 +31,12 @@ Cette recette est extraite du livre de cuisine fourni par SEB avec la super-coco
 * Ajouter un demi-litre d'eau bouillante, le cube de bouillon, le concentré de tomate, le bouquet garni, l'ail, le sel et le poivre. Fermer la cocotte et cuire 30 mn
 * Cuire le riz (ou les spaghetti) puis le(s) disposer au fond d'un plat (pour le four) beurré.
 * Râper le zeste du citron.
-* A la fin de la cuisson de la viande, ajouter le zeste et laisser mijoter encore 5 mn.
+* A la fin de la cuisson de la viande, si on préfère la version citronnée, ajouter le zeste et laisser mijoter encore 5 mn.
 * Déposer les tranches de viande sur le riz (ou les spaghetti) et arroser avec la sauce. Saupoudrer de gruyère (ou de parmesan).
 * Faire gratiner au gril pendant quelques minutes.
 
 ### Vins
-* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny) ou Jasnières (Domaine de Cézin).
-
-
-### Notes
-* Le zeste de citron n'était pas dans la recette de grand-mère. C'est une amie, Jacqueline Girard de Gif-sur-Yvette, dont le beau-fils est italien, qui a donnée cette variante plus proche du plat traditionnel.
+#### pour la version citronnée
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny) ou Jasnières (Domaine de Cézin, Origine).
+#### pour la version non-citronnée
+* Vin rouge : Volnay	(Domaine Philippe Girard,	La Gigotte) ou (Les Caves de l'Orangerie,	Les Caillerets), Santenay	(Domaine Hubert Lamy, Clos les Gravières), Chambolle-Musigny (Domaine Gille, 1er cru), Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Saint-Emilion	(Château Franc Patarabet), Pessac-Léognan	(Domaine de la Solitude).

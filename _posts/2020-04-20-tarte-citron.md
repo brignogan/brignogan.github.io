@@ -40,5 +40,4 @@ La tarte au citron est, chaque année avec la soupe de potiron, un incontournabl
 * Recouvrir la tarte de l'appareil à meringue. Passer la au gril (four chaud) une petite minute.
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (CDomaine Léon Baur).
-* Un bon café.
+* Vins blanc doux : Macvin du Jura (Domaine de Savigny), Maury (Les Vignes d'Elodie).

@@ -42,4 +42,4 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 
 
 ### Vins
-* Vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Domaine Léon Baur).
+* Vin blanc doux : Macvin du Jura (Domaine de Savigny).
