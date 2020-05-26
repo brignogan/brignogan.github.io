@@ -19,7 +19,7 @@ Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pe
 
 ### Préparation
 * Mixer les fruits puis filtrer la purée obtenue au chinois pour éliminer les pépins.
-* Battre la crème en chantilly et y mélanger le sucre tout en en le tamisant. 
+* Battre la crème en chantilly et y mélanger le sucre tout en en le tamisant.
 * Ajouter ensuite le coulis de fruits à la crème.
 * Mélanger d abord à la fourchette pour homogénéiser puis battre le tout au batteur pendant 10 min.
  * Verser le mélange dans un récipient hermétique puis placer au congélateur bien à plat.
@@ -27,4 +27,4 @@ Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pe
 * Répéter cette opération 3 fois pour obtenir une glace bien crémeuse.
 
 ### Vins
-* Vins
+* Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).

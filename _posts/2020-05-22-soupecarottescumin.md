@@ -35,7 +35,7 @@ Bien que l'association carotte et cumin soit un principe de base de l'art culina
 
 
 ### Vins
-* Vin
+* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
 
 ### Notes
 * On peut ajouter dans l’assiette une pincée de cumin et quelques graines de coriandre concassées.

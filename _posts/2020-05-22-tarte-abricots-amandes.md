@@ -30,8 +30,7 @@ Dès que les fruits d'été ré-apparaissent, la tarte aux abricots et amandes v
 * Cuire au four pendant 30 mn.
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (CDomaine Léon Baur).
-* Un bon café.
+* Vins blancs : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron), Tokay (Domaine Diznoko, Tokaji Aozu).
 
 ### Notes
 * Le fond de tarte peut se faire avec une fine pâte brisée suivant la recette de Hahn Faucheu. Celle-ci est décrite pour la tarte au citron.

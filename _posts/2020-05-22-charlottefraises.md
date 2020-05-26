@@ -49,5 +49,5 @@ Ce gâteau de l’été a souvent été, chez nous, le gâteau d’anniversaire 
 
 
 ### Vins
-* Vins blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (CDomaine Léon Baur).
-* Un bon café.
+* Vin rouge doux : Maury Tuilé (Les Vignes d'Elodie).
+* Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).
