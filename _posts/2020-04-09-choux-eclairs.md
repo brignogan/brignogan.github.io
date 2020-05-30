@@ -62,8 +62,10 @@ Maëlle, qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rapp
 
 ### Vins
 * Un bon café ou :
+
 #### pour les éclairs et les choux au café ou à la vanille
 * Vins blanc doux : Macvin du Jura (Domaine de Savigny), Maury (Les Vignes d'Elodie), Sauternes (Château Haut-Bergeron).
+
 #### pour les éclairs et les choux au chocolat
 * Vins rouge doux : Maury Tuilé (Les Vignes d'Elodie).
 
