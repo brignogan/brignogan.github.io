@@ -6,6 +6,8 @@
 \showit{recipeMMimg}{recipeMMintro}
 \vskip 3mm
 
+recipeMMSubTitle
+
 \begin{ingreds}
 	 recipeMMingredient 
 \end{ingreds}
@@ -13,11 +15,9 @@
 
 \methods
 recipeMMinstruction
-\vskip 4mm
+\vskip 5mm
 
-\begin{vin}[recipeMMvin]
-\end{vin}
-\vskip 3mm
+recipeMMvin
 
 \begin{note}[recipeMMnote]{recipeMM11note}
 \end{note}

@@ -332,6 +332,7 @@
 \newcommand{\extra}[1][]{%
 	\noindent
 	{\textbf{#1}}%
+	\vskip .25em 
 }
 
 \newenvironment{petitprep_noNumber}[1][]{%
@@ -347,21 +348,41 @@
 }
 
 %% Use \obeylines to minimize markup
+%\newenvironment{vin}[1][]{%
+%     \if###1##%
+%     \else
+%		\begin{minipage}{\textwidth}
+%		\setcounter{stepnum}{0}
+%		\noindent
+%		{\color{orangecolor}\Large\textbf{Vins}}%
+%		\par
+%		\medskip
+%		\parindent20pt
+%		{#1}
+%		\end{minipage}
+%	 \fi
+%}
 \newenvironment{vin}[1][]{%
-     \if###1##%
-     \else
-		\begin{minipage}{\textwidth}
-		\setcounter{stepnum}{0}
-		\noindent
-		{\color{orangecolor}\Large\textbf{Vins}}%
-		\par
-		\medskip
-		\parindent20pt
-		{#1}
-		\end{minipage}
-	 \fi
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
 }
 
+\newcommand{\vins}[1][]{%
+    \if###1##%
+		\parindent0pt
+		\noindent
+		{\color{orangecolor}\Large\textbf{Vins}}%    \parindent0pt
+		\par
+		\vskip 1mm 
+    \else
+		\noindent
+		\normalem
+		#1%
+		\par
+		\vskip 0.5mm 
+	\fi
+}
 
 %% Use \obeylines to minimize markup
 \newenvironment{note}[2][]{%
@@ -753,6 +774,6 @@
 
 XX
 
-\input{vin}
+%\input{vin}
 
 \end{document}

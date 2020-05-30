@@ -109,7 +109,7 @@ iPlat = 0
 for recipeFile, recipName, recipeCat, recipePlat in data:
     
     # activate to debug on specific recipe
-    #if 'kardinalchnitten' not in recipName: continue
+    #if 'confitures' not in recipName: continue
 
     if recipeCat != recipeCat_prev: 
         final2_lines.append(u'\\newpage \n \
@@ -213,6 +213,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         
         recipeMMpreinstruction = None
 
+    #check if subtitle for the main recipy is present
+    subtitle_mainRecipy = None
+    if '####' in lines_txt_per_cat[0][-1]:
+        subtitle_mainRecipy =  lines_txt_per_cat[0][-1].replace('**','').replace('####','')
+
     #append to coockbook
     for line in lines_recipe_template:
         
@@ -234,6 +239,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             else: 
                 line = line.replace('recipeMMimg', '')                 ; flag_modified = 2
 
+        if 'recipeMMSubTitle' in line:
+            line2p = []
+            if subtitle_mainRecipy != None:
+                line2p.append('\extra[{:s}] \n'.format(subtitle_mainRecipy))
+            flag_modified = 1
+            
+        
         if 'recipeMMingredient' in line: 
             line2p = []
 
@@ -261,6 +273,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line2p.append('\n')
             
             flag_modified = 1
+
+
 
         if 'recipeMMinstruction' in line: 
             line2p = []
@@ -328,15 +342,49 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line2p.append('\n')
             flag_modified = 1
 
+
+
         if 'recipeMMvin' in line: 
             line2p = []
             line2p_ = ''
+            flag_envVin = False
             for ii, line_ in enumerate(recipeMMvin):
-               line2p_ += line_.replace('*','').strip() + '\n' 
-               if (len(recipeMMvin)>1) & (ii < len(recipeMMvin)-1): line2p_ += '\n'
+                line_tmp = line_.replace('*','').strip()
+                
+                if ii == 0: line2p_ += u'\\vins \n'
+                if line_tmp[:4] == '####': 
+                    if (flag_envVin):
+                        flag_envVin = False
+                        line2p_ += '\\end{vin}\n'
+                    if  u'end' in line2p_.strip().split('\n')[-1] : 
+                        line2p_ += u'\\vskip 0.5em '
+                    line2p_ += u'\\vins[{:s}]\n'.format(line_tmp.replace('####',''))
+                    if not(flag_envVin):
+                        flag_envVin = True
+                        line2p_ += '\\begin{vin}\n'
+
+                else:
+                    if not(flag_envVin):
+                        flag_envVin = True
+                        line2p_ += '\\begin{vin}\n'
+                    #this is here that we ll have to parse the wine list to access page number of corresponding wine
+                    line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\emph{Vin Rouge: }')\
+                            .replace(u'Vin rouge doux : ',u'\\emph{Vin rouge doux: }')\
+                            .replace(u'Vin blanc : ',u'\\emph{Vin blanc: }')\
+                            .replace(u'Vin blanc doux : ',u'\\emph{Vin blanc doux: }')\
+                            .replace(u'Vin ros\xe9 :',u'\\emph{Vin ros\xe9: }') + '\n \\par \n' 
+            
+                    
+
+            if flag_envVin: line2p_ += '\\end{vin}\n'
+            
+            if line2p_ != '' : line2p_ += u'\\vskip 3mm \n'
+            
             line2p.append(line.replace('recipeMMvin', line2p_.rstrip()))
             flag_modified = 1
-        
+       
+
+
         if 'recipeMMnote' in line: 
             line2p = []
             line2p_intro_ = ''

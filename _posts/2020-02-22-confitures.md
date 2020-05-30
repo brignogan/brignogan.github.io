@@ -12,6 +12,7 @@ nbre_personne: ‘pour 8 à 12 pots’
 Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir). A la suite, des précisions sont données pour la préparation d'autres confitures.
 
 #### **Confiture d'abricots**
+
 ### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
 * 700 g de sucre cristallisé/kg de fruits dénoyautés soit 2,1 kg
