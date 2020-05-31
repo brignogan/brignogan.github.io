@@ -1,4 +1,5 @@
 \recipe[recipeMMnewPage]{recipeMMtitle}
+\label{sec:recipeMMTag}
 
 \showtime{recipeMMtimeprep}{recipeMMtimecooking}{recipeMMtimechill}{recipeMMserve}
 {recipeMMimg}

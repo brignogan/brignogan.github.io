@@ -29,5 +29,5 @@ Pour être qualifiée de "viennoise", cette escalope panée doit être préparé
 * Servir avec un quartier de citron frais que chaque convive pressera dans son assiette à loisir. Accompagner avec une Erdäpfel Salat et de la mâche.
 
 ### Vins
-* Bière
+#### Servir avec une bière blonde légère ou alors avec 
 * Vin rosé : Bandol (Domaine Guilhem Tournier-Cuvée La Malissone)

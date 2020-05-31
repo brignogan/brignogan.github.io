@@ -9,6 +9,16 @@ import pdb
 import operator 
 import subprocess
 import re 
+import pickle 
+import argparse
+
+################################################
+def string_2_bool(string):
+    if  string in ['true', 'TRUE' , 'True' , '1', 't', 'y', 'yes', 'yeah', 'yup', 'certainly', 'uh-huh']:
+        return  True
+    else:
+        return False
+
 
 def color_section(x):
     if x == 'maroc':
@@ -22,8 +32,10 @@ def color_section(x):
     else: 
         return 'gray'
 
+
 def replace_name_plat(x):
     return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments').replace('platLegume','Plats de L\\\'egume')
+
 
 def timefloat2string(x):
     if x < 60: 
@@ -33,6 +45,7 @@ def timefloat2string(x):
             return '{:2d} h : {:2d} min'.format(int(x)/60, int(np.mod(x,60)))
         else: 
             return '{:2d} h'.format(int(x)/60)
+
 
 def write_time(x):
     if '-' in x: return '-'
@@ -46,6 +59,52 @@ def write_time(x):
 def get_var_from_include_image(x):
     return line_2.split(x+'=')[1].split('" ')[0].replace('"','').strip()
 
+
+def parseVinList(string):
+    
+    if string[:3] != 'Vin': return []
+   
+    couleur = string.split(':')[0].split(' ')[1].lower().strip()
+    vins = re.findall(r'\(([^()]+)\)',string)
+    
+    try:
+        string = string.split(':')[1].strip().replace('.','')
+    except: 
+        pdb.set_trace()
+    if len(vins)>0:
+        for vin in vins:
+            string = string.replace(vin,'')
+
+        appellations = string.split('()')[:-1]
+   
+        for ii, appellation in enumerate(appellations): 
+            appellations[ii] = appellation.replace(',','').strip()
+            if appellations[ii] == 'ou': appellations[ii] = appellations[-1]
+
+        out = []
+        for domCuv,appellation in zip(vins,appellations):
+            if len(domCuv.split(',')) == 1:
+                domain=domCuv.strip()
+                cuvee = '-'
+            else:
+                domain=domCuv.split(',')[0].strip()
+                cuvee=domCuv.split(',')[1].strip()
+
+            out.append([couleur,appellation,domain,cuvee])     
+
+    else:
+        out = []
+
+
+    return out 
+    
+parser = argparse.ArgumentParser(description='generate cookboo.tex and run latex')
+parser.add_argument('-l','--flag_latex',required=False)
+args = parser.parse_args()
+if args.flag_latex is None:
+    flag_latex = True
+else:
+    flag_latex = string_2_bool(args.flag_latex)
 
 #recipeDir = './recipeDir/'
 recipeDir = '/home/paugam/Website/brignogan.github.io/_posts/'
@@ -102,6 +161,12 @@ final3_lines = lines_ori[lineXX+1:]
 f= io.open("recipe_template.txt","r", encoding='utf-8')
 lines_recipe_template = f.readlines()
 f.close()
+
+#load vinDictionary: key=appellation+domain+cuvee
+vinDictionary = pickle.load(open('./vinDictionary_fromExcelFile.pickle', 'r'))
+
+recetteDictionary = {}
+recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'r'))
 
 recipeCat_prev  = ''
 recipePlat_prev = ''
@@ -174,6 +239,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             lineTxt = i
             break
     
+    recetteDictionary[recipName] = recipeMMtitle
         
     lines_txt = lines_recipeFile[lineTxt+1:]
     lines_txt_per_cat = [[]]
@@ -226,6 +292,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMtitle' in line:       line = '%###########\n' +\
                                                  line.replace('recipeMMtitle', recipeMMtitle) + \
                                                  '%###########\n'             ; flag_modified = 2                  
+        if 'recipeMMTag' in line:     line = line.replace('recipeMMTag',recipName.replace(' ','').lower() )       ; flag_modified = 2                  
+        
         if 'recipeMMnewPage' in line:     line = line.replace('recipeMMnewPage', recipeMMnewPage)       ; flag_modified = 2                  
         if 'recipeMMtimeprep' in line:    line = line.replace('recipeMMtimeprep', recipeMMtimeprep)       ; flag_modified = 2           
         if 'recipeMMtimecooking' in line: line = line.replace('recipeMMtimecooking', recipeMMtimecooking) ; flag_modified = 2
@@ -368,6 +436,27 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         flag_envVin = True
                         line2p_ += '\\begin{vin}\n'
                     #this is here that we ll have to parse the wine list to access page number of corresponding wine
+                   
+                    recipeListVins = parseVinList(line_tmp) #appellation,domain,cuvee
+                    
+                    if len(recipeListVins)>0:
+                        for vin in recipeListVins:
+                            #add page to cookook
+                            if vin[3] == '-':
+                                vin_ = '{:s}'.format(vin[2])
+                            else:
+                                vin_ = '{:s}, {:s}'.format(vin[2],vin[3])
+                            line_tmp = line_tmp.replace( vin_, vin_+\
+                                                         ', p. \pageref{{{:s}}}'.format('sec:'+vin[2].replace(' ','').lower()))
+                            
+                            #add recipe to wine lookuptable
+                            key = vin[0].replace(' ','').lower()+vin[1].replace(' ','').lower()+vin[2].replace(' ','').lower()+vin[3].replace(' ','').lower()
+                            if key in vinDictionary.keys():
+                                if recipName in recetteDictionary2.keys():
+                                    vinDictionary[key].append( '{:s} (p. \pageref{{{:s}}})'.format(recetteDictionary2[recipName],'sec:'+recipName.replace(' ','').lower() ) ) 
+                            else: 
+                                print line_tmp
+                    
                     line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\emph{Vin Rouge: }')\
                             .replace(u'Vin rouge doux : ',u'\\emph{Vin rouge doux: }')\
                             .replace(u'Vin blanc : ',u'\\emph{Vin blanc: }')\
@@ -403,7 +492,10 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 else:
                     line2p_ += line_1.replace('*','').strip() 
                     if line_2 != '':
-                        line2p_ += '\\begin{center}' + ' {{\includegraphics[width=\\textwidth]{{{:s}}} }}'.format(imageDir+img_path) +  '\\end{center} \n \\par '                     
+                        width_ = 1.
+                        if recipName == 'sauce mousseline': width_ = .35
+                        line2p_ += '\\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
+                                                     +  '\\end{center} \n \\par '                     
                     else:
                         if iline_ < len(recipeMMnote)-1:
                             line2p_ += '\n \\par ' 
@@ -496,9 +588,13 @@ for line in final1_lines+final2_lines+final3_lines:
     f.write( line.decode('utf-8') )
 f.close()
 
+pickle.dump(vinDictionary,open('./vinDictionary_fromWebSiteParsing.pickle','wb')) 
+pickle.dump(recetteDictionary,open('./recetteDictionary.pickle','wb')) 
+
+if flag_latex:
 #run latex
-subprocess.call(['pdflatex', 'cookbook.tex'])
-subprocess.call(['pdflatex', 'cookbook.tex'])
+    subprocess.call(['pdflatex', 'cookbook.tex'])
+    subprocess.call(['pdflatex', 'cookbook.tex'])
 
 '''
 	 \columnbreak

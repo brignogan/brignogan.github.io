@@ -34,7 +34,7 @@ La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les 
 * Rectifier l'assaisonnement.
 
 ### Vins
-* Vin rouge : Saint-Emilion (Château Franc Patarabet, Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côte-du-Rhone (Château La Borie).
+* Vin rouge : Saint-Emilion (Château Franc Patarabet, Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côtes-du-Rhône Villages (Château La Borie).
 
 ### Notes
 Préparation des viandes grillées que l'on accompagnera de cette sauce béarnaise :

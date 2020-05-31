@@ -15,7 +15,7 @@
 
 \newcommand{\vinShowInfoDomain}[3]{
 	\noindent
-	\begin{minipage}[t]{\textwidth}
+	\begin{minipage}{\textwidth}
 	\vspace{0pt}
 		\begin{tabular}{l p{7.5cm} }
 		Producteur:     & {#1}\\
@@ -28,6 +28,7 @@
 	\begin{figure}[!h]
 		\includegraphics[width=\textwidth]{#3}
 	\end{figure}
+	\par
 	}
 \newcommand{\vinShowCouleur}[1]{
 	\noindent
@@ -40,17 +41,18 @@
 	\vspace{6pt}
 	}
 
-\newcommand{\vinShowInfoAppellation}[3]{
+\newcommand{\vinShowInfoAppellation}[4]{
 	\noindent
 	\begin{minipage}[t]{\textwidth}
 	{\textbf{#1}}%
 	\vspace{1pt}
 	\end{minipage}		
 	\begin{minipage}[t]{\textwidth}
-		\begin{tabular}{l p{7.5cm} }
-		Cuv\'ee :    & {#2}\\ 
-		C\'epage:    & {#3}\\
-	\end{tabular}
+		\begin{tabular}{l p{8cm} }
+		Cuv\'ee :  &{#2}\\ 
+		C\'epage : &{#3}\\
+		Recette:   &{#4}\\
+		\end{tabular}
 	\end{minipage}		
 	}
 
