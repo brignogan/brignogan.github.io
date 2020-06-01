@@ -31,7 +31,7 @@ Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chim
 * Faire cuire à feu doux et à couvert pendant au moins 1h (1/2h si on utilise une cocotte-minute).
 
 ### Vins
-* Vin blanc : Alsace grand cru Rangen (Wolfberger, Pinot gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot gris), Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique).
+* Vin blanc : Alsace grand cru Rangen (Wolfberger, Pinot Gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot Gris), Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique).
 
 ### Notes
 * Cette recette devient végétarienne si on supprime les lardons.
