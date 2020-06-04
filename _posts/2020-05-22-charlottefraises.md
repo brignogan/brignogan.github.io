@@ -49,5 +49,5 @@ Ce gâteau de l’été a souvent été, chez nous, le gâteau d’anniversaire 
 
 
 ### Vins
-* Vin rouge doux : Maury Tuilé (Les Vignes d'Elodie).
+* Vin rouge : Maury Tuilé (Les Vignes d'Elodie).
 * Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).

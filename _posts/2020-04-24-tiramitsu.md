@@ -39,5 +39,5 @@ Ce tiramitsu est une recette de Monique Salaün, une amie d'Orsay, qui, ne voyag
 
 
 ### Vins
-* Vin blanc doux : Macvin du Jura (Domaine de Savigny).
-* Vin rouge doux : Maury Tuilé	(Les Vignes d'Elodie).
+* Vin blanc : Macvin du Jura (Domaine de Savagny).
+* Vin rouge : Maury Tuilé	(Les Vignes d'Elodie).

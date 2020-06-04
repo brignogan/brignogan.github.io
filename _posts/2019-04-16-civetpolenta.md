@@ -39,7 +39,7 @@ Le civet de lapin était un plat classique de la campagne ou des bourgs comme Sa
 
 ### Vins
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling).
-* Vin rouge : Volnay (Domaine Philippe Girard, La Gigotte) ou (Les Caves de l'Orangerie, Les Caillerets), Alsace Pinot Noir (Domaine René Fleith, "F"), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes).
+* Vin rouge : Volnay (Domaine Philippe Girard, La Gigotte), Volnay (Les Caves de l'Orangerie, Les Caillerets), Alsace Pinot Noir (Domaine René Fleith, "F"), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes).
 
 
 ### Notes
