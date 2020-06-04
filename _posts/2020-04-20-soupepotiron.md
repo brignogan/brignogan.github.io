@@ -32,4 +32,4 @@ Cette soupe d'automne est, tous les ans, au menu du repas d'anniversaire de Maë
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot Gris); Jasnières (Domaine de Cézin, Origine), Côte-du-Jura (Domaine de Savagny, Vin Jaune).
 
 ### Notes
-* Cette soupe peut être préparée avec du potimarron qu'il n'est pas d'éplucher.
+* Cette soupe peut être préparée avec du potimarron qu'il n'est pas nécessaire d'éplucher.
