@@ -9,4 +9,7 @@ CookBook/*.toc
 CookBook/*.tmb 
 CookBook/*.out
 CookBook/*.pickle
+CookBook/maps/
+CookBook/*.log
+CookBook/*.pdf
 
