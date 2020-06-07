@@ -107,11 +107,11 @@ else:
     flag_latex = string_2_bool(args.flag_latex)
 
 #recipeDir = './recipeDir/'
-recipeDir = '/home/paugam/Website/brignogan.github.io/_posts/'
+recipeDir = '../_posts/'
 recipeMMtitle_2skip = [] #[u'mayonnaise',]# u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
-imageDir = '/home/paugam/Website/brignogan.github.io/'
-introCatDir = '/home/paugam/Website/brignogan.github.io/pages/'
-introCatDir2 = '/home/paugam/Website/brignogan.github.io/CookBook/'
+imageDir = '../'
+introCatDir = '../pages/'
+introCatDir2 = './'
 flag_use_Section_Intro_Website = False
 
 recipeFiles = glob.glob(recipeDir+'*.md')
@@ -494,7 +494,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     if line_2 != '':
                         width_ = 1.
                         if recipName == 'sauce mousseline': width_ = .35
-                        line2p_ += '\\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
+                        line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
                                                      +  '\\end{center} \n \\par '                     
                     else:
                         if iline_ < len(recipeMMnote)-1:
@@ -572,9 +572,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if flag_modified!=1: line2p = [line]
 
         for line_ in line2p:
-            if '/home/' in line_:
+            if '../img/recette/' in line_:
                 final2_lines.append(line_)
             elif 'vskip' in line_:
+                final2_lines.append(line_)
+            elif 'includegraphics' in line_:
                 final2_lines.append(line_)
             else:
                 final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
