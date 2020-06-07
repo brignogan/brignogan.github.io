@@ -2,4 +2,11 @@ _site/
 .sass-cache/
 *.xcf
 *.swp
-.DS_Store
+*.DS_Store
+CookBook/VinData/
+CookBook/*.aux
+CookBook/*.toc
+CookBook/*.tmb 
+CookBook/*.out
+CookBook/*.pickle
+
