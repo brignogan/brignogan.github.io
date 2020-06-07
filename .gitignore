@@ -1,3 +1,8 @@
+Gemfile
+Gemfile.lock
+Videos/
+
+.jekyll-cache/
 _site/
 .sass-cache/
 *.xcf
@@ -12,4 +17,6 @@ CookBook/*.pickle
 CookBook/maps/
 CookBook/*.log
 CookBook/*.pdf
-
+CookBook/cookbook.tex
+CookBook/vin.tex
+CookBook/calque-seul-1.eps
