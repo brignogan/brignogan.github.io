@@ -597,6 +597,7 @@ if flag_latex:
 #run latex
     subprocess.call(['pdflatex', 'cookbook.tex'])
     subprocess.call(['pdflatex', 'cookbook.tex'])
+    subprocess.call(['pdflatex', 'cookbook.tex'])
 
 '''
 	 \columnbreak
