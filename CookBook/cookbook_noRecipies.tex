@@ -1,0 +1,778 @@
+\documentclass[twoside]{article}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xfrac}    % Works better with other fonts
+\usepackage{ulem}
+\usepackage[french]{babel}
+\usepackage{wrapfig}
+\usepackage{ifoddpage}
+\usepackage[%
+    a5paper,
+    %papersize={5.5in,8.5in},
+    margin=0.75in,
+    top=0.75in,
+    bottom=0.75in,
+    %twoside
+    ]{geometry}
+
+\usepackage[skins,breakable]{tcolorbox}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage[hidelinks]{hyperref}
+%\hypersetup{
+%    colorlinks,
+%    citecolor=black,
+%    filecolor=black,
+%    linkcolor=black,
+%    urlcolor=black
+%}
+\usepackage[thumblink=rule,
+			linefill=dots,
+			height={30pt},           % height of the marker
+			minheight={30pt},%
+            width={auto},
+			distance={2mm},
+			topthumbmargin={82pt},   % postion of the 1set marker
+			bottomthumbmargin={auto},%
+            eventxtindent={5pt},
+			oddtxtexdent={5pt},%
+            evenmarkindent={0pt},
+			oddmarkexdent={0pt},
+			evenprintvoffset={0pt},%
+            nophantomsection=false,
+			ignorehoffset=true,
+			ignorevoffset=true,
+			final=true,%
+            hidethumbs=false,
+			verbose=true]{thumbs}[2014/03/09]
+
+\let\Sectionmark\sectionmark
+\def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
+
+\usepackage{sectsty}
+\subsubsectionfont{\large}
+
+%\usepackage{ellipsis}
+%\setlength{\ellipsisgap}{0.02em}
+\usepackage{amsmath}
+\renewcommand*{\mathellipsis}{%
+  \mathinner{{\ldotp}{\ldotp}{\ldotp}}%
+}
+
+\raggedcolumns
+%\setlength{\multicolsep}{0pt}
+%\setlength{\columnseprule}{1pt}
+
+\makeatletter
+\newcommand*{\currentname}{\@currentlabelname}
+
+\newif\if@mainmatter \@mainmattertrue
+
+%% Borrowed from book.cls
+\newcommand\frontmatter{%
+    \cleardoublepage
+  \@mainmatterfalse
+  \pagenumbering{roman}}
+\newcommand\mainmatter{%
+    \cleardoublepage
+  \@mainmattertrue
+  \pagenumbering{arabic}}
+\makeatother
+
+%% Vary the colors at will
+
+\definecolor{vegcolor}{rgb}{0,0.5,0.2}
+\definecolor{frzcolor}{rgb}{0,0,1}
+\definecolor{orangecolor}{rgb}{.83,.33,0}
+\definecolor{antiquebrass}{rgb}{0.8, 0.58, 0.46}
+\definecolor{bronze}{rgb}{0.8, 0.5, 0.2}
+\definecolor{frenchblue}{rgb}{0.0, 0.45, 0.73}
+\definecolor{glaucous}{rgb}{0.38, 0.51, 0.71}
+\definecolor{napiergreen}{rgb}{0.16, 0.5, 0.0}
+\definecolor{manatee}{rgb}{0.59, 0.6, 0.67}
+\definecolor{jade}{rgb}{0.0, 0.66, 0.42}
+\definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
+\definecolor{darkraspberry}{rgb}{0.53, 0.15, 0.34}
+% Your "recipes.sty" package starts here:
+%% Thanks to alephzero for the excellent start:
+
+
+\newcommand{\recipe}[2][\newpage]{%
+	#1
+	\fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+	\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+	\fancyhead[LO]{\bfseries\nouppercase{\rightmark}}      % Chapter in the right on even pages
+	\fancyhead[RE]{\bfseries\nouppercase{\rightmark}}      % Chapter in the right on even pages
+	%\lhead{\leftmark}%
+    \chead{}%
+    %\rhead{\rightmark}%
+    \lfoot{}%
+    \rfoot{}%
+    \subsubsection{#2}%
+}
+%\newcommand{\serves}[2][Serves]{%
+%    \chead{#1 #2}}
+\newcommand{\vegetarian}{%
+    \rhead{\large\color{vegcolor}\textbf{V}}}
+\newcommand{\freeze}{%
+    \lhead{\large\color{frzcolor}\textbf{F}}}
+%% Optional arguments for alternate names for these:
+%\newcommand{\preptime}[2][Prep time]{%
+%    \lfoot{#1: #2}%
+%}
+%\newcommand{\cooktime}[2][Cook time]{%
+%    \rfoot{#1: #2}%
+%}
+\newcommand{\temp}[1]{%
+    $#1^\circ$C}
+
+
+\renewcommand{\thesection}{}
+\renewcommand{\thesubsection}{} 
+\renewcommand{\thesubsubsection}{} 
+\makeatletter
+\def\@seccntformat#1{\csname #1ignore\expandafter\endcsname\csname the#1\endcsname\quad}
+\let\sectionignore\@gobbletwo
+\let\subsectionignore\@gobbletwo
+\let\subsubsectionignore\@gobbletwo
+\let\latex@numberline\numberline
+\def\numberline#1{\if\relax#1\relax\else\latex@numberline{#1}\fi}
+\makeatother
+
+\newcommand{\fakesubsection}[1]{%
+  \par\refstepcounter{subsection}% Increase subsection counter
+  \subsectionmark{#1}% Add subsection mark (header)
+  \addcontentsline{toc}{subsection}{\protect\numberline{\thesubsection}#1}% Add subsection to ToC
+  % Add more content here, if needed.
+}
+
+\newcommand{\preptime}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{Icones/temps_preparation_orange.pdf}}
+				\parbox{\wd0}{\box0} {#1} \\ 
+    \endgroup}
+\newcommand{\cooktime}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{Icones/temps_cuisson_orange.pdf}}
+				\parbox{\wd0}{\box0} {#1} \\ 
+    \endgroup}
+\newcommand{\chilltime}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.04, trim= 0em -5em -5em -5em,]{Icones/temps_repos_orange.pdf}}
+				\parbox{\wd0}{\box0} {#1} \\ 
+    \endgroup}
+\newcommand{\serve}[1]{
+	\begingroup \setbox0=\hbox{\includegraphics[scale=0.035, trim= 0em -5em -5em -5em,]{Icones/people_281x281_orange.pdf}}
+				\parbox{\wd0}{\box0} {#1} \\ 
+    \endgroup}
+
+\newcommand{\plogo}{\fbox{$\mathcal{PL}$}} % Generic dummy publisher logo
+
+\newcommand{\showtime}[5]{
+	\noindent
+	\begin{minipage}[t]{.38\textwidth}
+	\vspace{0pt}
+	\preptime{ #1 }
+	\cooktime{ #2 }
+	\chilltime{ #3 }
+	\serve{ #4 }
+	\end{minipage}		
+	\hspace{.02\textwidth}
+	\if###5##
+    \else
+		\begin{minipage}[t]{.6\textwidth}
+		\vspace{0pt}
+		\includegraphics[width=\linewidth]{#5}%
+		\end{minipage}
+	\fi
+	}
+
+%% Optional argument is the width of the graphic, default = 1in
+\newcommand{\showit}[2]{%
+    \noindent
+	%\begin{minipage}[t]{.38\textwidth}
+	\begin{minipage}[t]{\textwidth}
+	\vspace{0pt}
+	\noindent
+	\if###2##
+    \else
+    	#2
+	\fi
+  	\end{minipage}
+	%\hspace{.02\textwidth}
+	%\begin{minipage}[t]{.6\textwidth}
+	%\vspace{0pt}
+	%\includegraphics[width=\linewidth]{#1}%
+  	%\end{minipage}
+}
+%\newcommand{\forceindent}{\leavevmode{\parindent=1em\indent}}
+%\newcommand{\forceindent}{\parindent=1em\indent\parindent=0pt\relax}
+
+%% Optional argument for a  heading within the ingredients section
+\newcommand{\ingredients}[1][]{%
+    \if###1##%
+        {\Large\color{orangecolor}\textbf{Ingredients}}%
+    \else
+		\emph{#1} :%
+    \fi
+}
+\newcommand{\petitingredients}[1][]{%
+    \if###1##%
+        {\color{orangecolor}\textbf{Ingredients}}%
+    \else
+		\emph{#1} :%
+    \fi
+}
+
+%% Use \obeylines to minimize markup
+\newenvironment{petitingreds}{%
+	\begin{tcolorbox}[width=\textwidth, breakable,]
+ 	\parindent0pt
+    \noindent
+    \petitingredients
+    \par
+    \medskip
+
+	\setlength{\multicolsep}{0pt}
+	\setlength{\columnseprule}{0.5pt}
+
+    \begin{multicols}{2}
+    \leftskip0em
+    \rightskip0pt plus 3em
+    \parskip=0.3em
+    \obeylines
+    \everypar={\hangindent1em}
+	}{%
+    \end{multicols}%
+	\end{tcolorbox}
+}
+
+\newenvironment{ingreds}{%
+	\begin{tcolorbox}[width=\textwidth, breakable,]
+ 	\parindent0pt
+    \noindent
+    \ingredients
+    \par
+    \medskip
+
+	\setlength{\multicolsep}{0pt}
+	\setlength{\columnseprule}{0.5pt}
+
+    \begin{multicols}{2}
+    \leftskip0em
+    \rightskip0pt plus 3em
+    \parskip=0.3em
+    \obeylines
+    \everypar={\hangindent1em}
+	}{%
+    \end{multicols}%
+	\end{tcolorbox}
+}
+
+\newcounter{stepnum}
+
+%% Optional argument for an italicized pre-step
+%% Also use obeylines to minimize markup here as well
+\newcommand{\methods}[1][]{%
+    \if###1##%
+        \parindent0pt
+    	\noindent
+		{\Large\color{orangecolor}\textbf{Pr\'eparation}}%
+		\par
+		\vskip 1mm
+    \else
+        \noindent
+     	\normalem
+        \emph{#1}%
+        \par
+	\fi
+}
+
+\newenvironment{method}[1][]{%
+    \setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+}{%
+    \parskip0.25em
+	\par
+	\endgroup
+	
+}
+\newenvironment{method_noNumber}[1][]{%
+    \setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\hbox to2em{\hfill}}}
+}{%
+    \par
+    \endgroup
+	
+}
+
+\newenvironment{petitprep}[1][]{%
+    \noindent
+    {\color{orangecolor}\textbf{Pr\'eparation}}
+	\par
+	\setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\stepcounter{stepnum}\hbox to2em{\thestepnum.\hfill}}}
+}{%
+    \par
+    \endgroup
+	
+}
+\newcommand{\extra}[1][]{%
+	\noindent
+	{\textbf{#1}}%
+}
+
+\newenvironment{petitprep_noNumber}[1][]{%
+    \setcounter{stepnum}{0}
+    \begingroup
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
+    \everypar={\llap{\hbox to2em{\hfill}}}
+}{%
+    \par
+    \endgroup
+}
+
+%% Use \obeylines to minimize markup
+\newenvironment{vin}[1][]{%
+     \if###1##%
+     \else
+		\begin{minipage}{\textwidth}
+		\setcounter{stepnum}{0}
+		\noindent
+		{\color{orangecolor}\Large\textbf{Vins}}%
+		\par
+		\medskip
+		\parindent20pt
+		{#1}
+		\end{minipage}
+	 \fi
+}
+
+
+%% Use \obeylines to minimize markup
+\newenvironment{note}[2][]{%
+     \if###1##%
+     	\if###2##%
+     	\else
+			 \begin{tcolorbox}[blanker,width=\textwidth, breakable,]
+			 \setcounter{stepnum}{0}
+			 \noindent
+			 {\color{orangecolor}\Large\textbf{Notes}}%
+			 \par
+			 \medskip
+			 \parindent10pt
+			 {#2}
+			 \par
+			 \smallskip
+			 \end{tcolorbox}
+		 \fi
+	 \else
+		 \begin{tcolorbox}[blanker,width=\textwidth, breakable,]
+		 \setcounter{stepnum}{0}
+		 \noindent
+		 {\color{orangecolor}\Large\textbf{Notes}}%
+		 \par
+		 \medskip
+		 \if if###2##%
+	     \else
+			 \parindent0pt
+			 {#2}
+			 \par
+		 \fi
+		 \parindent20pt
+		 {#1}
+	     \smallskip
+		 \end{tcolorbox}
+	 \fi
+}
+
+
+\pagestyle{fancy}
+% End of "recipes.sty"
+
+\renewcommand{\sectionmark}[1]{\markboth{\MakeUppercase{#1}}{}}
+\renewcommand{\subsectionmark}[1]{\markright{#1}{}}
+
+
+\newcommand*\iconEntree{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-11,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-14,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconLegume{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-12.,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-14.5,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconPoisson{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-13.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-15.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconViande{
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-11.7,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconDessert{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-10.7,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-13,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+\newcommand*\iconSauce{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(-11,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconBordeaux{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bordeaux_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bordeaux_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconAlsace{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_alsace_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_alsace_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconBourgogne{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bourgogne_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bourgogne_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconChampagne{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_champagne_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_champagne_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconJura{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_jura_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_jura_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconLanguedoc{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_languedoc_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_languedoc_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconProvence{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_provence_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_provence_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconSudOuest{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_sudouest_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_sudouest_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconLoire{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_loire_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_loire_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\newcommand*\iconRhone{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_rhone_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_rhone_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
+\def\Entrees{ Entrées}
+\def\Legumes{ Plats de L\'egume}
+\def\Poissons{ Plats de Poisson}
+\def\Viandes{ Plats de Viande}
+\def\Desserts{ Desserts}
+\def\Sauces{ Sauces et Condiments}
+
+\def\Bordeaux{ Bordeaux}
+\def\Alsace{ Alsace}
+\def\Bourgogne{ Bourgogne}
+\def\Champagne{ Champagne}
+\def\Jura{ Jura}
+\def\Languedoc{ Languedoc-Roussillon}
+\def\Provence{ Provence}
+\def\SudOuest{ Sud-Ouest}
+\def\Loire{ Vall\'ee de la Loire}
+\def\Rhone{ Vall\'ee du Rhône}
+
+
+
+\newcommand*{\subsectionnumber}{\arabic{subsection}}
+
+\makeatletter
+\newcommand\testCat[2]{%
+ %\texttt{\string\myoldvalue}: \myoldvalue\\
+ %ARG1: #1\\
+ \ifnum\pdf@strcmp{#2}{#1}=\z@
+   0%
+ \else
+   1%
+ \fi
+}
+\makeatother
+
+\newcommand*{\thumbsIcon}{
+	\ifnum0=\subsectionnumber\relax
+	%	
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Entrees}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconEntree
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Legumes}
+	\iconLegume
+	\fi
+	%\ifnum2=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Poissons}
+	\iconPoisson
+	\fi
+	%\ifnum3=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Viandes}
+	\iconViande
+	\fi
+	%\ifnum4=\subsectionnumber\relax
+	\ifnum0=\testCat{\currentSectionName}{\Desserts}
+	\iconDessert
+	\fi
+	\ifnum0=\testCat{\currentSectionName}{\Sauces}
+	%\ifnum5=\subsectionnumber\relax
+	\iconSauce
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Bordeaux}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconBordeaux
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Alsace}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconAlsace
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Bourgogne}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconBourgogne
+	\fi
+	
+	
+	\ifnum0=\testCat{\currentSectionName}{\Champagne}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconChampagne
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Jura}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconJura
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Languedoc}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconLanguedoc
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Provence}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconProvence
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\SudOuest}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconSudOuest
+	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\Loire}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconLoire
+	\fi
+
+	\ifnum0=\testCat{\currentSectionName}{\Rhone}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconRhone
+	\fi
+
+	}
+
+\newcommand*{\currentSectionName}{
+	\ifnum0=\subsectionnumber\relax
+	%	
+	\else
+	\Subsectionname
+	\fi
+	}
+\let\Subsectionmark\subsectionmark
+\def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagenumbering{arabic}
+
+\input{./InputTex/frontPage}
+%############
+
+\clearpage % end title page
+\begingroup
+  \pagestyle{empty}
+  \null
+  \newpage
+\endgroup
+
+\frontmatter
+
+\input{./InputTex/avantPropos}
+%############
+
+\newpage
+\fancyhead{} % clear all header fields
+\fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+\tableofcontents
+
+\newpage
+\fancyhead{}
+\fancyhead[LE]{\bfseries\nouppercase{Tables des Icônes}}      % Chapter in the right on even pages
+\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+
+
+\input{./InputTex/index}
+%############
+
+%\addthumbsoverviewtocontents{section}{Table des Marques de Couleurs}%
+\thumbsoverview{Les Marques de Chapitres}
+
+\newpage
+\fancyhead{}
+
+\mainmatter
+\setcounter{page}{1}
+
+%XX
+\section{Famille}                                          
+\addthumb{Famille}{\thumbsIcon}{white}{jade}
+\input{./InputTex/famille}
+\newpage
+
+\section{Bretagne}                                          
+\addthumb{Bretagne}{\thumbsIcon}{white}{glaucous}
+\input{./InputTex/bretagne}
+\newpage
+
+\section{Maroc}                                          
+\addthumb{Maroc}{\thumbsIcon}{white}{antiquebrass}
+\input{./InputTex/maroc}
+\newpage
+
+\section{Autriche}                                          
+\addthumb{Autriche}{\thumbsIcon}{white}{manatee}
+\input{./InputTex/autriche}
+\newpage
+
+\input{./InputTex/vin_template}
+%############
+
+\end{document}

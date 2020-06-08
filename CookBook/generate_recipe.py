@@ -111,7 +111,7 @@ recipeDir = '../_posts/'
 recipeMMtitle_2skip = [] #[u'mayonnaise',]# u'lottepoivrevert'] # u'Sacher Torte',  u'R\xf4ti de sanglier sauce grand veneur', u'Hareng sous le manteau',   ]
 imageDir = '../'
 introCatDir = '../pages/'
-introCatDir2 = './'
+introCatDir2 = './InputTex/'
 flag_use_Section_Intro_Website = False
 
 recipeFiles = glob.glob(recipeDir+'*.md')
@@ -148,7 +148,7 @@ plat_def     = [u'entree', u'platLegume', u'platPoisson', u'platViande', u'desse
 data = zip(recipeFiles_all, tag_name, tag_category_all, tag_plat_all)
 data = sorted(data, key =  lambda x: ( category_def.index(x[2]), plat_def.index(x[3]), x[1]))
 
-f= io.open("cookbook_template.tex","r", encoding='utf-8')
+f= io.open("./InputTex/cookbook_template.tex","r", encoding='utf-8')
 lines_ori = f.readlines()
 f.close()
 

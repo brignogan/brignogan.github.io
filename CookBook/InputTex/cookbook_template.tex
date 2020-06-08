@@ -332,6 +332,7 @@
 \newcommand{\extra}[1][]{%
 	\noindent
 	{\textbf{#1}}%
+	\vskip .25em 
 }
 
 \newenvironment{petitprep_noNumber}[1][]{%
@@ -347,21 +348,41 @@
 }
 
 %% Use \obeylines to minimize markup
+%\newenvironment{vin}[1][]{%
+%     \if###1##%
+%     \else
+%		\begin{minipage}{\textwidth}
+%		\setcounter{stepnum}{0}
+%		\noindent
+%		{\color{orangecolor}\Large\textbf{Vins}}%
+%		\par
+%		\medskip
+%		\parindent20pt
+%		{#1}
+%		\end{minipage}
+%	 \fi
+%}
 \newenvironment{vin}[1][]{%
-     \if###1##%
-     \else
-		\begin{minipage}{\textwidth}
-		\setcounter{stepnum}{0}
-		\noindent
-		{\color{orangecolor}\Large\textbf{Vins}}%
-		\par
-		\medskip
-		\parindent20pt
-		{#1}
-		\end{minipage}
-	 \fi
+    \parindent0pt
+    \parskip0.25em
+	\leftskip2em
 }
 
+\newcommand{\vins}[1][]{%
+    \if###1##%
+		\parindent0pt
+		\noindent
+		{\color{orangecolor}\Large\textbf{Vins}}%    \parindent0pt
+		\par
+		\vskip 1mm 
+    \else
+		\noindent
+		\normalem
+		#1%
+		\par
+		\vskip 0.5mm 
+	\fi
+}
 
 %% Use \obeylines to minimize markup
 \newenvironment{note}[2][]{%
@@ -712,7 +733,7 @@
 
 \pagenumbering{arabic}
 
-\input{frontPage}
+\input{./InputTex/frontPage}
 %############
 
 \clearpage % end title page
@@ -724,7 +745,7 @@
 
 \frontmatter
 
-\input{avantPropos}
+\input{./InputTex/avantPropos}
 %############
 
 \newpage
@@ -739,7 +760,7 @@
 \fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 
 
-\input{index}
+\input{./InputTex/index}
 %############
 
 %\addthumbsoverviewtocontents{section}{Table des Marques de Couleurs}%
@@ -751,28 +772,8 @@
 \mainmatter
 \setcounter{page}{1}
 
-%XX
-\section{Famille}                                          
-\addthumb{Famille}{\thumbsIcon}{white}{jade}
-\input{famille}
-\newpage
+XX
 
-\section{Bretagne}                                          
-\addthumb{Bretagne}{\thumbsIcon}{white}{glaucous}
-\input{bretagne}
-\newpage
-
-\section{Maroc}                                          
-\addthumb{Maroc}{\thumbsIcon}{white}{antiquebrass}
-\input{maroc}
-\newpage
-
-\section{Autriche}                                          
-\addthumb{Autriche}{\thumbsIcon}{white}{manatee}
-\input{autriche}
-\newpage
-
-\input{vin_template}
-%############
+\input{vin}
 
 \end{document}

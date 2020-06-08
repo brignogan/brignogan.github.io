@@ -389,7 +389,7 @@ if __name__ == '__main__':
     coasts_borders = gpd.read_file(dir_in+'Borders/neighbourgCountries.shp')
     coasts_borders = coasts_borders.to_crs(epsg=3395)
 
-    dir_maps = dir_out + 'maps/' 
+    dir_maps = dir_out + 'VinMaps/' 
     ensure_dir(dir_maps)
 
     ######################
@@ -458,7 +458,7 @@ if __name__ == '__main__':
     rivers_hydroFrance = rivers_hydroFrance.to_crs(epsg=3395)
     
     #load template
-    f = open(dir_out+'vin_template.tex','r')
+    f = open(dir_out+'InputTex/vin_template.tex','r')
     lines_ori = f.readlines()
     f.close()
 
