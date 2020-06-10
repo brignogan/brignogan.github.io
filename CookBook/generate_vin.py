@@ -18,6 +18,7 @@ from matplotlib.lines import Line2D
 import glob 
 import pickle 
 from os.path import expanduser
+import pdb 
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -139,12 +140,10 @@ if __name__ == '__main__':
     else:
         flag_vin = string_2_bool(args.flag_vin)
 
-    print '********  TEST  = ', not(os.path.isfile(wkdir+"metropole.shp")), not(flag_restart), not(flag_restart) | (not(os.path.isfile(wkdir+"metropole.shp")))
-
     ######################
     # france border contour
     ######################
-    if (not(flag_restart) | (not(os.path.isfile(wkdir+"metropole.shp")))):
+    if (not(flag_restart) or (not(os.path.isfile(wkdir+"metropole.shp")))):
         print 'france bordel contour ...'
         fp = dir_in+'communes-20150101-5m-shp/communes-20150101-5m.shp'
         map_dfCommune = gpd.read_file(fp)
@@ -180,7 +179,7 @@ if __name__ == '__main__':
     ######################
     #load vines list
     ######################
-    if ((flag_vin) | (not(flag_restart)) | (not(os.path.isfile(wkdir+"listVins.gpkg")))):
+    if ((flag_vin) or (not(flag_restart)) or (not(os.path.isfile(wkdir+"listVins.gpkg")))):
         print 'list vins de la cave ...'
         listVins = pd.read_excel(file_listDesVins)
         #clean data
@@ -243,7 +242,7 @@ if __name__ == '__main__':
     ######################
     # Merge geo commune info and appellation
     ######################
-    if ((not(flag_restart)) | (not(os.path.isfile(wkdir+"map_df_communes_appellation_bassin.shp")))):
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"map_df_communes_appellation_bassin.shp")))):
     
         #load appelation par communes
         allAppellation_per_communes = pd.read_csv(dir_in+'2020-02-26-comagri-communes-aires-ao_ronan.csv')
@@ -285,7 +284,7 @@ if __name__ == '__main__':
     ######################
     # bassins shapefile
     ######################
-    if ((not(flag_restart)) | (not(os.path.isfile(wkdir+"bassins.shp")))):
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"bassins.shp")))):
         print 'bassins ...'
         bassins =  map_df[['Bassin','geometry']].dissolve(by='Bassin').reset_index()
         bassins = bassins.merge(listBassinColor,on='Bassin')
@@ -303,7 +302,7 @@ if __name__ == '__main__':
     ######################
     # appellations shapefile
     ######################
-    if ((not(flag_restart)) | (not(os.path.isfile(wkdir+"appellations.shp")))):
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations.shp")))):
         print 'appellations ...'
         appellations =  map_df[['Appellation','geometry','Bassin']].dissolve(by='Appellation').reset_index()
         appellations = appellations.rename(columns={'Bassin':'bassin'})
@@ -321,7 +320,7 @@ if __name__ == '__main__':
     ########################################
     #Add IGP stored locally in appellations:
     ########################################
-    if ((not(flag_restart)) | (not(os.path.isfile(wkdir+"appellations_igp.shp")))):
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_igp.shp")))):
         dir_igp = dir_in+'IGP/'
         appellations_igp = []
         for csvFile in glob.glob(dir_igp+'*.csv'):
@@ -354,7 +353,7 @@ if __name__ == '__main__':
     ########################################
     #Add IGP stored locally in appellations:
     ########################################
-    if ((not(flag_restart)) | (not(os.path.isfile(wkdir+"appellations_grandCruAlsace.shp")))):
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_grandCruAlsace.shp")))):
         '''
         load wine production zone
         '''
@@ -405,7 +404,7 @@ if __name__ == '__main__':
     bassins.at[bassins[bassins['nom']=='Lyonnais'].index[0],'add_to_name_position'] = shapely.geometry.Point(-60.e3,-20.e3) #Lyonnais
     bassins.at[bassins[bassins['nom']=='Alsace'].index[0],'add_to_name_position'] = shapely.geometry.Point(-50.e3,0.) #Alsace
     
-    if ((not(flag_restart)) | (not(os.path.isfile(dir_maps+"bassinViticoleFrance.png")))):
+    if ((not(flag_restart)) or (not(os.path.isfile(dir_maps+"bassinViticoleFrance.png")))):
         print 'plot large map'
         xmin, ymin, xmax, ymax =  metropole.geometry.total_bounds
         xx = xmax-xmin;  yy = ymax-ymin
@@ -531,7 +530,7 @@ if __name__ == '__main__':
             
             #plot
             if (section_domain != 'mm'):
-                if ((not(flag_restart)) | (not(os.path.isfile(map_domain)))): 
+                if ((not(flag_restart)) or (not(os.path.isfile(map_domain)))): 
                     saveplot(appellations_domain, vin_prev)
             
             section_domain = vin.DomaineChateau
@@ -544,7 +543,7 @@ if __name__ == '__main__':
             newDomain = 1
             section_couleur = 'mm' 
             
-            if (((not(flag_restart)) | (not(os.path.isfile(map_domain))))):
+            if (((not(flag_restart)) or (not(os.path.isfile(map_domain))))):
                 ratio= 1. 
                 x_image = 8
                 mpl.rcdefaults()
@@ -658,7 +657,7 @@ if __name__ == '__main__':
         #create_dictionary
         vinDictionary[key] = []
 
-        if (((not(flag_restart)) | (not(os.path.isfile(map_domain))))):
+        if (((not(flag_restart)) or (not(os.path.isfile(map_domain))))):
             if len(appellation_) != 0:
                 hash_patterns = ('//', '..', 'o', '\\\\', 'O', '*', '-')
                 if appellation_.reset_index().nom[0] not in appellations_domainName:
@@ -674,7 +673,7 @@ if __name__ == '__main__':
     
     
     #for the last plot
-    if (((not(flag_restart)) | (not(os.path.isfile(map_domain)))) & (section_domain != 'mm')): 
+    if (((not(flag_restart)) or (not(os.path.isfile(map_domain)))) & (section_domain != 'mm')): 
         saveplot(appellations_domain, vin_prev)
 
     #save file
