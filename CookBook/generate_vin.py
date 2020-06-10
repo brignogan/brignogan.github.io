@@ -144,7 +144,7 @@ if __name__ == '__main__':
     # france border contour
     ######################
     if (not(flag_restart) or (not(os.path.isfile(wkdir+"metropole.shp")))):
-        print 'france bordel contour ...'
+        print 'france border contour ...'
         fp = dir_in+'communes-20150101-5m-shp/communes-20150101-5m.shp'
         map_dfCommune = gpd.read_file(fp)
         map_dfCommune = map_dfCommune.rename(columns={'nom':'Commune'})
