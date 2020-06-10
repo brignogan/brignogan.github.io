@@ -139,7 +139,7 @@ if __name__ == '__main__':
     else:
         flag_vin = string_2_bool(args.flag_vin)
 
-    print '********  TEST  = ', os.path.isfile(wkdir+"metropole.shp")
+    print '********  TEST  = ', os.path.isfile(wkdir+"metropole.shp"), flag_restart
 
     ######################
     # france border contour
