@@ -181,6 +181,7 @@ if __name__ == '__main__':
     ######################
     if ((flag_vin) or (not(flag_restart)) or (not(os.path.isfile(wkdir+"listVins.gpkg")))):
         print 'list vins de la cave ...'
+        print 'le fichier est ici : ', file_listDesVins
         listVins = pd.read_excel(file_listDesVins)
         #clean data
         listVins = listVins.loc[ (listVins['Couleur']=='Blanc') |
