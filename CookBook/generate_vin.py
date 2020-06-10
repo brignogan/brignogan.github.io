@@ -474,8 +474,10 @@ if __name__ == '__main__':
     section_domain = 'mm'
     section_couleur = 'mm'
     vinDictionary = {}
-    vinDictionary2 = pickle.load(open(dir_out+'vinDictionary_fromWebSiteParsing.pickle', 'r'))
-    
+    try: 
+        vinDictionary2 = pickle.load(open(dir_out+'vinDictionary_fromWebSiteParsing.pickle', 'r'))
+    except: 
+        vinDictionary2 = {}
     for index, vin in listVins.iterrows():
         
         flag_igp = 0
