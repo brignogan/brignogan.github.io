@@ -110,7 +110,7 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser(description='draw wine map')
     parser.add_argument('-s','--flag_start', help='False if input files needed to be reloaded',required=False)
-    parser.add_argument('-v','--flag_vin',   help='False if only wine list need to be reloaded',required=False)
+    parser.add_argument('-v','--flag_vin',   help='True if only wine list need to be reloaded',required=False)
     args = parser.parse_args()
 
     home = expanduser("~")
@@ -135,7 +135,7 @@ if __name__ == '__main__':
         flag_restart = string_2_bool(args.flag_start)
 
     if args.flag_vin is None:
-        flag_vin =  True
+        flag_vin =  False
     else:
         flag_vin = string_2_bool(args.flag_vin)
 
@@ -178,7 +178,7 @@ if __name__ == '__main__':
     ######################
     #load vines list
     ######################
-    if (not(flag_vin)) | (not(flag_restart)) | (not(os.path.isfile(wkdir+"listVins.gpkg"))):
+    if (flag_vin) | (not(flag_restart)) | (not(os.path.isfile(wkdir+"listVins.gpkg"))):
         print 'list vins de la cave ...'
         listVins = pd.read_excel(file_listDesVins)
         #clean data

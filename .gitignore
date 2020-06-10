@@ -14,7 +14,7 @@ CookBook/*.toc
 CookBook/*.tmb 
 CookBook/*.out
 CookBook/*.pickle
-CookBook/maps/
+CookBook/VinMaps/
 CookBook/*.log
 CookBook/*.pdf
 CookBook/cookbook.tex
