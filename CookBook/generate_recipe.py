@@ -171,6 +171,7 @@ recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) els
 recipeCat_prev  = ''
 recipePlat_prev = ''
 iPlat = 0
+lineVin_error = ['recette, couleur, appelation, domaine, cuvee']
 for recipeFile, recipName, recipeCat, recipePlat in data:
     
     # activate to debug on specific recipe
@@ -411,7 +412,6 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             flag_modified = 1
 
 
-
         if 'recipeMMvin' in line: 
             line2p = []
             line2p_ = ''
@@ -455,8 +455,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                                 if recipName in recetteDictionary2.keys():
                                     vinDictionary[key].append( '{:s} (p. \pageref{{{:s}}})'.format(recetteDictionary2[recipName],'sec:'+recipName.replace(' ','').lower() ) ) 
                             else: 
-                                print line_tmp
-                    
+                                lineVin_error.append( '{:s}, {:s}, {:s}, {:s}, {:s}'.format(recipName, 
+                                                          vin[0].replace(' ',''),
+                                                          vin[1].replace(' ',''),
+                                                          vin[2].replace(' ',''),
+                                                          vin[3].replace(' ','') ) )
+
                     line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\emph{Vin Rouge: }')\
                             .replace(u'Vin rouge doux : ',u'\\emph{Vin rouge doux: }')\
                             .replace(u'Vin blanc : ',u'\\emph{Vin blanc: }')\
@@ -583,6 +587,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
 
     #if 'sangl' in recipName: sys.exit()        
+
+#save error in matching wine
+f = io.open("errorVinDansRecette.csv","w", encoding='utf-8')
+for line in lineVin_error:
+    print line
+    f.writelines((line+'\n').decode('utf-8'))
+f.close()
 
 #save file
 f= io.open("cookbook.tex","w", encoding='utf-8')
