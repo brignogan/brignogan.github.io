@@ -11,6 +11,7 @@ import subprocess
 import re 
 import pickle 
 import argparse
+import json 
 
 ################################################
 def string_2_bool(string):
@@ -612,6 +613,9 @@ f.close()
 
 pickle.dump(vinDictionary,open('./vinDictionary_fromWebSiteParsing.pickle','wb')) 
 pickle.dump(recetteDictionary,open('./recetteDictionary.pickle','wb')) 
+
+#with open('vinDictionary_fromExcelFile.json', 'w') as fp:
+#    json.dump(vinDictionary, fp) 
 
 if flag_latex:
 #run latex
