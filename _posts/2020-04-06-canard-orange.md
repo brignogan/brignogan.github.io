@@ -52,7 +52,7 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 
 ### Vins
 * Vin rouge : Cornas (Cave de Tain, Arènes Sauvages), Pommard (Domaine Philippe Girard, Vieilles Vignes), Saint-Emilion (Château Franc Patarabet), Hermitage (Cave de Tain, Gambert de Loche)
-* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Gewurztraminer), Sauternes (Château Haut-Bergeron).
+* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron).
 
 
 ### Notes

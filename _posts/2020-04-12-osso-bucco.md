@@ -37,7 +37,7 @@ L'osso-bucco était un de ses plats préférés de Grand-Mère Ploudaniel et ell
 
 ### Vins
 #### pour la version citronnée
-* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny) ou Jasnières (Domaine de Cézin, Origine).
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny), Jasnières (Domaine de Cézin, Origine).
 
 #### pour la version non-citronnée
 * Vin rouge : Volnay (Domaine Philippe Girard, La Gigotte), Volnay (Les Caves de l'Orangerie, Les Caillerets), Santenay	(Domaine Hubert Lamy, Clos les Gravières), Chambolle-Musigny (Domaine Gille, 1er cru), Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Saint-Emilion	(Château Franc Patarabet), Pessac-Léognan	(Domaine de la Solitude).

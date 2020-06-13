@@ -41,7 +41,7 @@ Cette recette a été découverte à Penmarc'h chez Michelle qui déborde d'idé
 * Remettre au four environ 10 mn à 200°C.
 
 ### Vins
-* Vin blanc : Bandol (Château de Pibarnon), Côte-du-Jura (Domaine de Savagny, Vin Jaune).
+* Vin blanc : Bandol (Château de Pibarnon), Côtes-du-Jura (Domaine de Savagny, Vin Jaune).
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
 
 ### Notes

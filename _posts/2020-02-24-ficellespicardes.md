@@ -43,7 +43,7 @@ Ce plat fait partie de la cuisine traditionnelle de Picardie. C'est Grand-mère 
 * Servir avec une salade verte.
 
 ### Vins
-* Vin rouge : Alsace Pinot Noir (Domaine René Fleith, "F"), Côtes-du-Rhône Village (Château La Borie, Emile Borie).
+* Vin rouge : Alsace Pinot Noir (Domaine René Fleith, "F"), Côtes-du-Rhône Villages	(Château La Borie, Emile Borie).
 
 ### Notes
 * On utilise du lard fumé cuit qui est plus facile à couper en petits morceaux que le lard fumé cru. On peut cependant utiliser ce dernier dans la farce et, dans ce cas, il faut cuire le lard avec les champignons avant d'ajouter le jambon.
