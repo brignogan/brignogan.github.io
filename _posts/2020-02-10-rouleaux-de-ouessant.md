@@ -9,7 +9,7 @@ temps_cuisson: 3
 temps_repos: 90
 nbre_personne: ‘pour 6 personnes’
 ---
-Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. L'excellence de ce produit de notre terroir est mis à profit dans cette entrée. 
+Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. L'excellence de ce produit de notre terroir est mis à profit dans cette entrée.
 
 ### Ingrédients
 #### pour les rouleaux :
@@ -49,7 +49,7 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 
 
 ### Vins
-* Vin blanc : Jasnière (Domaine de Cézin) ou Daumas Gassac.
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Pays d'Hérault (Mas de Daumas-Gassac). 
 
 
 ### Notes

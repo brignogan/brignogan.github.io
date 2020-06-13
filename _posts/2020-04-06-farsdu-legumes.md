@@ -33,7 +33,7 @@ Cette recette est la version végétarienne du "fars-du".
 * Servir avec une salade verte.
 
 ### Vins
-* Vin rouge : Saint Emilion (Chateau Franc Patarabet)
+* Vin rouge : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Saint-Emilion (Château Franc Patarabet), Pessac-Léognan (Domaine de la Solitude).
 
 ### Notes
 * On peut préparer ce fars avec d'autres légumes : potimarron, butternut, carottes, épinard, bettes,...
