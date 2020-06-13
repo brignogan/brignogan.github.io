@@ -39,7 +39,7 @@ Coquillage d'hiver, la Saint-Jacques peut se préparer avec bonheur accompagnée
 * Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
 ### Vins
-* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Gewurztraminer (Domaine René Fleith, Letzenberg), Menetou-Salon (Domaine de Châtenoy, Classique), Pays d'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
 * Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.

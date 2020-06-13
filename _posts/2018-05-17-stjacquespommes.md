@@ -28,7 +28,7 @@ La noix de coquille Saint-Jacques est la pépite des assiettes en hiver. Elle s'
 * Servir avec le poireau.
 
 ### Vins
-* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Jasnières (Domaine de Cézin, Origine), Hermitage (Cave de Tain, Au Cœur des Siècles), Hermitage (Cave de Tain, Grand Classique), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard).
 
 ### Notes
 * Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût. Leur cuisson doit être menée doucement pour qu'elles restent tendres.

@@ -33,8 +33,8 @@ Le homard foisonne sur notre côte pendant l'été et c'est un régal de la dég
 * Servir aussitôt avec le riz.
 
 ### Vins
-* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée
-* Champagne rosé : Louis de Sacy
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Condrieu (Domaine Louis Chèze, Brèze), Condrieu (Domaine Louis Chèze, Pagus Luminis), Hermitage (Cave de Tain, Au Cœur des Siècles)
+* Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).
 
 ### Notes
 * Voir le schéma ci-dessous si jamais couper un homard en deux ne vous parait pas évident. {% include image.html file="/img/recette/commentCoupeUnHomard.png" alt="comment couper un homard" caption= "Comment couper un homard en deux." %}

@@ -37,8 +37,8 @@ L'ormeau est un coquillage muni d’un pied très puissant pour s’accrocher su
 * Servir les ormeaux, saupoudré de quelques cristaux de gros sel, avec le hachis de barbillons et d’algues et l’écrasé de pommes de terre. Napper de sauce.  
 
 ### Vins
-* Champagne : cuvée inédite ou grand cru de Louis de Sacy
+* Vin blanc : Menetou-Salon (Domaine de Châtenoy, Classique), Champagne (Louis de Sacy, Grand Cru).
 
 ### Notes
 * Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.
-* Il faut aussi noter que l'intérieur de la coquille est recouvert de nacre aux reflets changeant coquille est parfois récupérée pour faire des bijoux ou des incrustations par les ébénistes et luthiers. 
+* Il faut aussi noter que l'intérieur de la coquille est recouvert de nacre aux reflets changeant coquille est parfois récupérée pour faire des bijoux ou des incrustations par les ébénistes et luthiers.

@@ -35,7 +35,7 @@ Le plateau de fruits de mer est le plat convivial par excellence en Bretagne. To
 * Préparation des huîtres : Ouvrir les coquillages juste avant de les servir. Jeter leur eau (ils redonneront rapidement une nouvelle eau). Servir avec un citron couper en 4 et/ou une sauce préparée avec une échalote hachée et du vinaigre.
 
 ### Vins
-* Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin), Menetou Salon (classique)
+* Vin blanc : Menetou-Salon (Domaine de Châtenoy, Classique), Alsace Grand Cru Rangen (Wolfberger, Riesling), Lirac (Domaine de la Mordorée, La Reine des Bois), Champagne (Louis de Sacy, Grand Cru).
 
 ### Notes
 * Le plateau de fruits de mer se sert accompagné de pain blanc et de pain noir (seigle ou blé noir) et du beurre salé avec des cristaux de sel de Guérande.

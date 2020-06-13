@@ -34,7 +34,7 @@ Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d�
 * Servir les ormeaux saupoudrés du hachis d’ail et persil avec les frites.  
 
 ### Vins
-* Vin blanc : Daumas Gassac, Lirac-Domaine de la Mordorée.
+* Vin blanc : Pays d'Hérault (Mas de Daumas-Gassac), Lirac (Domaine de la Mordorée, La Reine des Bois), Pessac-Léognan (Domaine de la Solitude).
 
 ### Notes
 * Il y a à peu près 9 ormeaux moyens au kilo.
