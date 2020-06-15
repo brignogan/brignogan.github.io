@@ -184,10 +184,10 @@ if __name__ == '__main__':
         print 'le fichier est ici : ', file_listDesVins
         listVins = pd.read_excel(file_listDesVins)
         #clean data
-        listVins = listVins.loc[ (listVins['Couleur']=='Blanc') |
-                                 (listVins['Couleur']==u'Blanc p\xe9tillant') |
-                                 (listVins['Couleur']=='Rouge') |
-                                 (listVins['Couleur']==u'Ros\xe9') ]
+        listVins = listVins.loc[ (listVins['Couleur'].str.strip()=='Blanc') |
+                                 (listVins['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
+                                 (listVins['Couleur'].str.strip()=='Rouge') |
+                                 (listVins['Couleur'].str.strip()==u'Ros\xe9') ]
         geocoder = geopy.geocoders.BANFrance()
         cave = geocoder.geocode('4 rue Coat Tanguy 29890 Brignogan-Plages')
         listVins['latlong'] = [cave.point]*listVins.shape[0]
@@ -217,7 +217,7 @@ if __name__ == '__main__':
         listVins = pd.merge(listVins, legendParam, how='left', on='DomaineChateau')
         listVins.loc[listVins['legend_nbreColumn'].isnull(),'legend_nbreColumn'] = np.int(1)
         listVins.loc[listVins['legend_loc'].isnull(),'legend_loc'] = 'upper right'
-        
+        print  '{:d} vins ont ete charge'.format(listVins.shape[0])
         listVins.to_file(wkdir+"listVins.gpkg", driver="GPKG")
 
     else:

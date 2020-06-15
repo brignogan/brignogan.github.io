@@ -11,6 +11,7 @@ import subprocess
 import re 
 import pickle 
 import argparse
+import json 
 
 ################################################
 def string_2_bool(string):
@@ -475,7 +476,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             
             line2p.append(line.replace('recipeMMvin', line2p_.rstrip()))
             flag_modified = 1
-       
+      
+        def add_graphics(line2p_,imageDir,img_path):
+            width_ = 1.
+            if recipName == 'sauce mousseline': width_ = .35
+            line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
+                                         +  '\\end{center} \n \\par '                     
+            return line2p_
 
 
         if 'recipeMMnote' in line: 
@@ -493,13 +500,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     img_caption = get_var_from_include_image('caption') 
                 if ('*' not in line_) | (len(recipeMMnote)==1):
                     line2p_intro_ += line_1.replace('*','').strip() 
+                    if line_2 != '':
+                        line2p_intro_ = add_graphics(line2p_intro_,imageDir,img_path)
                 else:
                     line2p_ += line_1.replace('*','').strip() 
                     if line_2 != '':
-                        width_ = 1.
-                        if recipName == 'sauce mousseline': width_ = .35
-                        line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
-                                                     +  '\\end{center} \n \\par '                     
+                        line2p_ = add_graphics(line2p_,imageDir,img_path)
+                        #width_ = 1.
+                        #if recipName == 'sauce mousseline': width_ = .35
+                        #line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
+                        #                             +  '\\end{center} \n \\par '                     
                     else:
                         if iline_ < len(recipeMMnote)-1:
                             line2p_ += '\n \\par ' 
@@ -603,6 +613,9 @@ f.close()
 
 pickle.dump(vinDictionary,open('./vinDictionary_fromWebSiteParsing.pickle','wb')) 
 pickle.dump(recetteDictionary,open('./recetteDictionary.pickle','wb')) 
+
+#with open('vinDictionary_fromExcelFile.json', 'w') as fp:
+#    json.dump(vinDictionary, fp) 
 
 if flag_latex:
 #run latex

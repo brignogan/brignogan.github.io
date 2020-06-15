@@ -51,4 +51,4 @@ Ce gâteau est un fleuron de la pâtisserie viennoise. Il a une place de choix s
 * Sinon, servir un vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).  
 
 ### Notes
-* Ci-dessous le schéma pour la préparation du gâteau.{% include image.html file="/img/recette/kardinalschnittenSchema.png" alt="Préparation du Kardinalschnitten" caption= "Schéma de la préparation du Kardinalschnitten"%}
+* Ci-dessous le schéma pour la préparation du gâteau: {% include image.html file="/img/recette/kardinalschnittenSchema.png" alt="Préparation du Kardinalschnitten" caption= "Schéma de la préparation du Kardinalschnitten" %}
