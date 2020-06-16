@@ -27,6 +27,7 @@ Cette recette est la version végétarienne du "fars-du".
 * Faire bouillir l'eau. Délayer la farine en puits avec cette eau. Faire bouillir le lait et poursuivre le délayage de la farine.
 * Ajouter l'oeuf et bien mélanger puis battre la pâte. Saler et poivrer.
 * Eplucher et couper en gros dés la courge.
+* Dans une poêle avec un peu d'huile, faire revenir les légumes pendant 10 mn.
 * Disposer les dés de légumes dans le fond du plat.
 * Verser la pâte et poser quelques lamelles de courge sur la surface.
 * cuire 1h à 180°C.
