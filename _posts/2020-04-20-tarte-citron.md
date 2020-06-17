@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tarte au citron
+title: Tarte au citron meringuée
 tag_category: famille
 tag_plat: dessert
 image: img/recette/tarte-citron.png
@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-La tarte au citron est, chaque année avec la soupe de potiron, un incontournable du menu du repas d'anniversaire de Maëlle. La pâte brisée est réalisée avec la recette de notre amie Hahn Faucheu qui est tout aussi bonne pâtissière que bonne cuisinière.
+La tarte au citron est, chaque année, le dessert incontournable du menu du repas d'anniversaire de Maëlle. La pâte brisée est réalisée avec la recette de notre amie Hahn Faucheu qui est tout aussi bonne pâtissière que bonne cuisinière.
 
 ### Ingrédients
 #### pour la pâte brisée :
