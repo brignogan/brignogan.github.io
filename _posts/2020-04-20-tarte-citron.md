@@ -3,7 +3,7 @@ layout: post
 title: Tarte au citron
 tag_category: famille
 tag_plat: dessert
-image: img/recette/untitled.png
+image: img/recette/tarte-citron.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
