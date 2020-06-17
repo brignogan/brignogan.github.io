@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette vient de Erika, une amie polonaise, chimiste à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay et spécialiste des micro-ondes mais qui, dans sa cuisine, sait utiliser les bonnes vieilles cocottes. Cette potée peut accompagner avec bonheur rôti de porc ou saucisses.
+Erika Guibé, est une amie polonaise, chimiste à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Bien que spécialiste des micro-ondes, dans sa cuisine, elle sait utiliser les bonnes vieilles cocottes. C'est elle qui nous a donné la recette de cette potée qui peut accompagner avec bonheur rôti de porc ou saucisses.
 
 ### Ingrédients
 * 1/2 chou

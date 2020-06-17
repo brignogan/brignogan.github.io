@@ -9,7 +9,7 @@ temps_cuisson: 50
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Cette recette a été découverte à Penmarc'h chez Michelle qui déborde d'idées pour cuisiner les produits de la "godaille" de ses amis pécheurs.
+C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat de lotte.  Pour cuisiner les produits de la "godaille" de ses amis pécheurs, Michelle déborde, en effet, d'idées.
 
 ### Ingrédients
 * 600 g de lotte environ
