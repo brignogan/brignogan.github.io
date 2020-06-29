@@ -3,13 +3,13 @@ layout: post
 title: Osso-bucco
 tag_category: famille
 tag_plat: platViande
-image: img/recette/untitled.png
+image: img/recette/osso-bucco.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-L'osso-bucco était un de ses plats préférés de Grand-Mère Ploudaniel et elle avait grand plaisir à nous le préparer. Dans sa recette, trouvée dans le livre de sa cocotte SEB, il n'y avait pas de citron. C'est une amie, Jacqueline Girard de Gif-sur-Yvette dont le beau-fils est italien, qui nous a fait déguster cette variante citronnée plus proche du plat traditionnel.
+L'osso-bucco était un des plats préférés de Grand-Mère Ploudaniel et elle avait grand plaisir à nous le préparer. Dans sa recette, trouvée dans le livre de sa cocotte SEB, il n'y avait pas de citron. C'est une amie, Jacqueline Girard de Gif-sur-Yvette dont le beau-fils est italien, qui nous a fait déguster cette variante citronnée plus proche du plat traditionnel.
 
 ### Ingrédients
 * 800 g de jarret de veau coupé en tranches.
@@ -23,16 +23,16 @@ L'osso-bucco était un de ses plats préférés de Grand-Mère Ploudaniel et ell
 * sel, poivre
 * 1 cube de bouillon de volaille
 * 2 verres de riz (ou 320 g de spaghetti)
-* facultatif : 1 citron
+* facultatif : 1/2 citron
 
 ### Préparation
 * Eplucher et hacher les échalotes et l'ail.
 * Saler, poivrer et fariner les tranches de jarret avec une c. à s. de farine. Les mettre à dorer dans la cocotte-minute avec le beurre ou l'huile. Ajouter les échalotes hachées et faire bien revenir le tout. Saupoudrer de la deuxième c. à s. de farine et bien mélanger. Laisser cuire doucement 5 mn.
-* Ajouter un demi-litre d'eau bouillante, le cube de bouillon, le concentré de tomate, le bouquet garni, l'ail, le sel et le poivre. Fermer la cocotte et cuire 30 mn
+* Ajouter de l'eau à hauteur, le cube de bouillon, le concentré de tomate, le bouquet garni, l'ail. Fermer la cocotte et cuire 30 mn.
 * Cuire le riz (ou les spaghetti) puis le(s) disposer au fond d'un plat (pour le four) beurré.
-* Râper le zeste du citron.
-* A la fin de la cuisson de la viande, si on préfère la version citronnée, ajouter le zeste et laisser mijoter encore 5 mn.
-* Déposer les tranches de viande sur le riz (ou les spaghetti) et arroser avec la sauce. Saupoudrer de gruyère (ou de parmesan).
+* A la fin de la cuisson de la viande, si on préfère la version citronnée, râper le zeste du demi-citron et l'ajouter à la préparation. Laisser mijoter encore 5 mn.
+* Vérifier et éventuellement rectifier l'assaisonnement.
+* Déposer les tranches de viande sur le riz (ou les spaghetti) et vérifier la consistance de la sauce. Si besoin laisser la mijoter encore quelques minutes pour la faire épaissir puis en arroser copieusement la viande. Saupoudrer de gruyère (ou de parmesan).
 * Faire gratiner au gril pendant quelques minutes.
 
 ### Vins
