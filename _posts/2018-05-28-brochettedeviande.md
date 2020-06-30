@@ -46,7 +46,7 @@ Les brochettes servies avec ces accompagnements sont une recette typiquement mar
 * Servir les brochettes avec le jus de la marinade, les différentes salades et les oeufs. Ne pas oublier le pain (kesra ou à défaut baguette). Proposer sel, poivre et cumin.
 
 ### Vins
-* Vin rouge : Saint Emilion (Chateau Franc Patarabet)
+* Vin rouge : Lirac (Domaine de la Mordorée, La Reine des Bois), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de la Mordorée, La Dame Voyageuse).
 
 ### Notes
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.

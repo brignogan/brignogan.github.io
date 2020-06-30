@@ -30,7 +30,7 @@ Tous les poissons blancs peuvent être préparés en tagine, le citron confit et
 * Servir avec du riz ou des pommes de terre vapeur et le jus de cuisson.
 
 ### Vins
-* Vin blanc : Daumas Gassac ou Jasnière (Domaine de Cézin)
+* Vin blanc : Pays d'Hérault (Mas de Daumas-Gassac), Pessac-Léognan (Domaine de la Solitude), Auxey-Duresses (Les Caves de l'Orangerie, Le Val), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches), Côtes-du-Jura (Domaine de Savagny, Vin Jaune).
 
 ### Notes
 * On compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chair par personne.

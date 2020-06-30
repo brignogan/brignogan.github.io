@@ -33,7 +33,8 @@ La recette de la pâte à crêpe de froment vient de Berthe Riou, une amie de Gr
 * Le fourrage de ces crêpes peut se faire sur la bilig après la cuisson de la première face. Bien beurrer la crêpe (pour que la garniture ne la traverse pas et endommage la bilig). Ajouter alors :fruits cuits (pomme, banane), amandes, chocolat, etc... Plier et déposer dans l'assiette.On peut alors les arroser de jus de citron ou d'alcool (rhum, lambig,...) que l'on fait flamber. Une boule de glace ou de sorbet peut aussi accompagner la préparation.
 
 ### Vins
-* Cidre brut : Cornouaille (Séhédic ou Menez Brug)
+* Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
+* Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
 
 ### Notes
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.

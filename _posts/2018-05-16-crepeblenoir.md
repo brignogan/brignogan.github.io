@@ -32,7 +32,9 @@ La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penm
 * La crêpe de blé noir peut aussi devenir un excellent dessert. Sur la bilig, il faut bien la beurrer puis la fourrer de miel et la plier. Dans l'assiette, l'arroser de lambig et flamber.
 
 ### Vins
-* Cidre brut : Cornouaille (Séhédic ou Menez Brug)
+* Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio).
+* Vin blanc : Jasnières (Domaine de Cézin, Origine).
+* Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois), Bandol (Château Guilhem Tournier, La Malissonne).
 
 ### Notes
 * La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.

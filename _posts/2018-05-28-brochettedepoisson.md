@@ -33,7 +33,7 @@ Le kanoun est un fourneau bas en terre ou en métal utilisé traditionnellement 
 * Servir les brochettes avec du riz ou des pommes de terre au beurre, une 1/2 tomate frites, quelques feuilles de verdure (roquette, sauge, pousses d'épinard) et la sauce.
 
 ### Vins
-* Vin blanc : Daumas Gassac, Jasnière (Domaine de Cézin)
+* Vin blanc : Hermitage (Cave de Tain, Au Cœur des Siècles), Saint-Joseph (Domaine Louis Chèze, Ro-Rée), Saint-Joseph (Domaine Château d'Ampuis, Lieu-dit), Lirac (Domaine de la Mordorée, La Reine des Bois), Alsace Grand Cru Furstentum (Domaine René Fleith, Pinot Gris).
 
 ### Notes
 * Ne pas laisser mariner trop longtemps le poisson qui donnerait trop de son eau.

@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: 30
 nbre_personne: ‘pour 8 personnes’
 ---
-Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau.
+Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau. Le gâteau breton est souvent servi au goûter avec un thé ou un café.
 
 ### Ingrédients
 * 200 g de beurre ½ sel mou
@@ -30,5 +30,6 @@ Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopér
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
 ### Vins
-* Cidre de Fouesnant brut : Séhédic ou Menez Brug.
-* Vin blanc doux : Alsace Gewurztraminer (Grand Cru Kaefferkopf-Domaine Léon Baur), Roussillon (Maury blanc-Les vignes d'Elodie).
+* Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
+* Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
+* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie). 
