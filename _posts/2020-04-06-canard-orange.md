@@ -51,7 +51,7 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 * Servir le canard accompagné de pommes frites ou de pommes duchesse et du reste de sauce en saucière.
 
 ### Vins
-* Vin rouge : Cornas (Cave de Tain, Arènes Sauvages), Pommard (Domaine Philippe Girard, Vieilles Vignes), Saint-Emilion (Château Franc Patarabet), Hermitage (Cave de Tain, Gambert de Loche).
+* Vin rouge : Cornas (Cave de Tain, Arènes Sauvages), Pommard (Domaine Philippe Girard, Vieilles Vignes), Hermitage (Cave de Tain, Gambert de Loche), Corton	(Domaine Philippe Girard, Les Perrières).
 * Vin blanc : Sauternes (Château Haut-Bergeron).
 
 
