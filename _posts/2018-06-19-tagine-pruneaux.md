@@ -42,7 +42,9 @@ Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être 
 * Frire rapidement les amandes dans un peu d’huile, elles doivent prendre une belle couleur dorée, les essuyer et les déposer sur la viande et ajouter les grains de sésame.
 
 ### Vins
-* Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
+* Vin rouge : Pomerol (Clos René), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pessac-Léognan (Domaine de la Solitude), Brulhois (Domaine du Bois de Simon, Louis Camille), Bandol (Château de Pibarnon), Cornas (Cave de Tain, Arènes Sauvages).
+####et typiquement :
+* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

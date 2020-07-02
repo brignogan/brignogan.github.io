@@ -44,4 +44,4 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 * Servir avec des pommes de terre cuites à l'eau.    
 
 ### Vins
-* Vin rouge : Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Volnay (Domaine Philippe Girard, La Gigotte), Santenay (Domaine Hubert Lamy, Clos les Gravières).
+* Vin rouge : Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Volnay (Domaine Philippe Girard, La Gigotte), Santenay (Domaine Hubert Lamy, Clos les Gravières), Savigny-lès-Beaune (Domaine Philippe Girard, Les Narbantons), Savigny-lès-Beaune (Domaine Philippe Girard, Les Godeaux).

@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
-Ce dessert est une recette autrichienne mythique dont la réussite tient à la qualité de la pâte utilisée. 
+Ce dessert est une recette autrichienne mythique dont la réussite tient à la qualité de la pâte utilisée.
 
 ### Ingrédients
 * 3-4 pommes
@@ -34,4 +34,7 @@ Ce dessert est une recette autrichienne mythique dont la réussite tient à la q
 * Servir tiède, saupoudré de sucre glace et accompagné de « Schlagobers » (crème chantilly)
 
 ### Vins
-* Pas de vin mais un bon café.   
+* Vin blanc : Alsace Grand Cru Kaefferkopf-Gewurztraminer (Domaine Léon Baur, Cœur de Grain).
+* Pommeau : Pommeau de Bretagne (Distillerie des Menhirs).
+####et typiquement :
+* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).

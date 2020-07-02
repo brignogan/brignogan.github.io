@@ -35,7 +35,9 @@ C'est la version salée de l'apfelstrudel. Comme pour ce dernier, la finesse de 
 * On peut servir le spinatstrudel avec un oeuf mollé (cuisson 6mn à l'eau bouillante) pour un plat plus complet.
 
 ### Vins
-* Bière
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches).
+####et typiquement :
+* Bière blonde légère.
 
 ### Notes
 * A la place de la pâte feuilletée, on peut utiliser des feuilles de pâte "filo" pour être au plus proche de la vraie "strudelteig".

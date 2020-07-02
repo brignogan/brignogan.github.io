@@ -29,9 +29,10 @@ Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que 
 * Répéter l’opération jusqu’à épuisement de la pâte. On compte deux galettes par personne.
 
 ### Vins
-* * Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
+* Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
-* Plus typique : lait ribot.
+####et typiquement :
+* Lait ribot.
 
 ### Notes
 * A Ploudaniel, on mangeait le fars pitilig comme le fars forn avec du jambon…

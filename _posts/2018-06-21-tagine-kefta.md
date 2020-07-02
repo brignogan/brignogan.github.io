@@ -36,7 +36,8 @@ Les keftas sont à la base de nombreuses recettes marocaines. On peut par exempl
 * Servir aussitôt.
 
 ### Vins
-* Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
+* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline).
+* Vin rouge : Côtes-de-Provence (Domaine Saint-Victorin, Cuivre), Côtes-de-Provence (Domaine Saint-Victorin, Damien), Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Minervois (Château Le Bouchat-Alaux, Fontaine de Santé), Côtes-du-Rhône Villages (Château La Borie, Emile Borie).
 
 ### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

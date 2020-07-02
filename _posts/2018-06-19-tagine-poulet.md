@@ -35,7 +35,9 @@ Cette recette est un grand classique de la cuisine marocaine et le meilleur que 
 * Servir le tajine accompagné du riz.
 
 ### Vins
-* Vin blanc sec : Graves (Pessac-Léonan-Domaine de La Solitude)
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Hermitage (Cave de Tain, Au Cœur des Siècles), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard).
+####et typiquement :
+* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
 * Le poulet peut être rôti à la cocotte.

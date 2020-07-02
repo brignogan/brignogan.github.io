@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 ---
-Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson à la vapeur lui donne une consistance tout à fait particulière. 
+Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson à la vapeur lui donne une consistance tout à fait particulière.
 
 ### Ingrédients
 * 100 g de beurre en pommade
@@ -38,5 +38,6 @@ Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson
 * Servir le Mohr-im-Hemd avec de la crème chantilly.
 
 ### Vins
-* Pour déguster le gâteau à la mode autrichienne, le servir avec un bon café.
-* Sinon, servir un vin blanc doux : Macvin du Jura blanc (Domaine de Savigny), Gewurztraminer (Coeur de grain, Léon Baur, Eguisheim).  
+* Vin rouge doux : Maury Tuilé (Les Vignes d'Elodie).
+####et typiquement :
+* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).

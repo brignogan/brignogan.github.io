@@ -9,7 +9,7 @@ temps_cuisson: 10
 temps_repos: ‘-‘
 nbre_personne: ‘pour 2 personnes’
 ---
-Pour être qualifiée de "viennoise", cette escalope panée doit être préparée avec de la viande de veau coupée très fine. C'est évidemment le plat typique de Vienne. 
+Pour être qualifiée de "viennoise", cette escalope panée doit être préparée avec de la viande de veau coupée très fine. C'est évidemment le plat typique de Vienne.
 
 ### Ingrédients
 * 2 escalopes de veau (ou de porc) (1 par personne)
@@ -29,5 +29,8 @@ Pour être qualifiée de "viennoise", cette escalope panée doit être préparé
 * Servir avec un quartier de citron frais que chaque convive pressera dans son assiette à loisir. Accompagner avec une Erdäpfel Salat et de la mâche.
 
 ### Vins
-#### Servir avec une bière blonde légère ou alors avec 
-* Vin rosé : Bandol (Domaine Guilhem Tournier-Cuvée La Malissone)
+* Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois), Bandol (Château de Pibarnon).
+* Vin rosé : Bandol (Château Guilhem Tournier, La Malissonne).
+* Vin rouge : Alsace Pinot Noir (Domaine René Fleith, "F").
+####et typiquement :
+* Bière blonde légère.

@@ -39,6 +39,10 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 * Au moment de servir, disposer les coings sur la viande. Traditionnellement, le tagine se mange avec du kesra (pain plat marocain).
 
 ### Vins
-* Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
-####Plus aventureux, 
-* Vin blanc doux : Sauterne (Haut-Bergeron), Loupiac (Château La Nère de Séraphon)
+* Vin blanc : Condrieu (Domaine Louis Chèze, Brèze), Condrieu (Domaine Louis Chèze, Pagus Luminis).
+* Vin rouge : Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Côtes-du-Roussillon (Domaine Sol Payré, Ater Noir).
+####Plus aventureux :
+* Vin blanc doux : Alsace Grand Cru Kaefferkopf-Gewurztraminer (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron).
+* Vin rouge doux : Maury (Les Vignes d'Elodie).
+####et typiquement :
+* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).

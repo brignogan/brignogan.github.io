@@ -42,7 +42,11 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * Au moment de servir, disposer les oignons sur la viande dans le tajine.
 
 ### Vins
-* Vin rouge : Chateauneuf du Pape (Boisrenard ou Beaurenard)
+* Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois).
+* Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
+* Vin rouge : Côtes-du-Roussillon (Domaine Sol Payré, Ater Noir).
+####et typiquement :
+* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

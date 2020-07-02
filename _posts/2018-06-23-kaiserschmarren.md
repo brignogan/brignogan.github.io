@@ -32,4 +32,6 @@ C'est un dessert typiquement autrichien et cette recette vient de Veronika, une 
 
 
 ### Vins
-* Pas de vin mais un bon café.
+* Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
+####et typiquement :
+* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
