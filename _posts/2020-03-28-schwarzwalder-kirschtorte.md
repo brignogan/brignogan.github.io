@@ -72,7 +72,9 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 * Répartir sur le gâteau, avec une poche à douille, sept rosettes de crème chantilly et poser dessus chacune une griotte.  
 
 ### Vins
-* Pas de vin mais un bon café.  
+* Vin rouge : Maury Tuilé (Les Vignes d'Elodie), Côtes-du-Rhône (Domaine de Beaurenard, Rasteau).
+####et typiquement :
+* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).  
 
 ### Notes
 * Si le biscuit du fond est un peu trop dur, l'humecter avec un peu de kirsch ou de jus de griotte. Attention de ne pas trop alcooliser le gâteau pour ne pas en cacher le goût.

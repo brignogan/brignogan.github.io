@@ -67,8 +67,9 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 
 
 ### Vins
-* Pour être tout à fait dans l'esprit viennois, déguster ce gâteau avec un bon café.
-* Sinon, on peut servir un vin rouge de dessert : Maury rouge (Les vignes d'Elodie, Maury).
+* Vin blanc : Sauternes (Château Haut-Bergeron), Macvin du Jura (Domaine de Savagny).
+####et typiquement :
+* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
 
 
 ### Notes
