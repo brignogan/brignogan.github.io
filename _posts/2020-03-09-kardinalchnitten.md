@@ -47,7 +47,7 @@ Ce gâteau est un fleuron de la pâtisserie viennoise. Il a une place de choix s
 * Réserver au moins 1 heure au frais avant de servir. Saupoudrer de café ou de chocolat en poudre.
 
 ### Vins
-* Vin blanc : Alsace Grand Cru Kaefferkopf-Gewurztraminer (Domaine Léon Baur, Cœur de Grain), Macvin du Jura (Domaine de Savagny).
+* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Macvin du Jura (Domaine de Savagny).
 ####et typiquement :
 * Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).  
 

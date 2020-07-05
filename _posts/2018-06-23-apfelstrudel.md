@@ -34,7 +34,7 @@ Ce dessert est une recette autrichienne mythique dont la réussite tient à la q
 * Servir tiède, saupoudré de sucre glace et accompagné de « Schlagobers » (crème chantilly)
 
 ### Vins
-* Vin blanc : Alsace Grand Cru Kaefferkopf-Gewurztraminer (Domaine Léon Baur, Cœur de Grain).
+* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain).
 * Pommeau : Pommeau de Bretagne (Distillerie des Menhirs).
 ####et typiquement :
 * Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
