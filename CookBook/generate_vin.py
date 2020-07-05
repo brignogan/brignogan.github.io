@@ -206,7 +206,7 @@ if __name__ == '__main__':
                 sys.exit()
         lats = [pt.latitude for pt in listVins['latlong']]
         lons = [pt.longitude for pt in listVins['latlong']]
-        listVins = gpd.GeoDataFrame( listVins.loc[:,listVins.columns!='latlong'] ,geometry= gpd.points_from_xy(x=lons,y=lats), crs={u'init': u'epsg:4326'})
+        listVins = gpd.GeoDataFrame( listVins.loc[:,listVins.columns!='latlong'] ,geometry= gpd.points_from_xy(x=lons,y=lats), crs={'init': 'epsg:4326'})
         listVins = listVins.to_crs(epsg=3395)
         listVins['DomaineChateau'] = [ unicode(xx) for xx in  listVins['DomaineChateau'] ]
 
@@ -236,7 +236,7 @@ if __name__ == '__main__':
     ######################
     prefectures = pd.read_csv(dir_in+'hotels-de-prefectures-fr.csv')
     prefectures = gpd.GeoDataFrame( prefectures.loc[:,(prefectures.columns!='LonDD')&(prefectures.columns!='LatDD')] ,
-                                   geometry= gpd.points_from_xy(x=prefectures['LonDD'],y=prefectures['LatDD']), crs={u'init': u'epsg:4326'})
+                                   geometry= gpd.points_from_xy(x=prefectures['LonDD'],y=prefectures['LatDD']), crs={'init': 'epsg:4326'})
     prefectures = prefectures.to_crs(epsg=3395)
     prefectures['add_to_name_position'] = shapely.geometry.Point(0,0)
 
@@ -330,6 +330,7 @@ if __name__ == '__main__':
             igp_.Appellation = igp_.Appellation.str.lower().str.replace(' ','-')
             igp_ = igp_.rename(columns={'CI':'insee'})
             igp_.insee = [str(xx) for xx in igp_.insee]
+            igp_.Bassin = [ unicode(xx) for xx in igp_.Bassin]
 
             map_df_ = map_dfCommune.merge(igp_, on='insee') 
             map_df_.Bassin = [ unicode(xx) for xx in map_df_.Bassin]
@@ -621,6 +622,10 @@ if __name__ == '__main__':
         
         #add appellation to plot
         print '      ', vin.Appelation
+
+        #if 'alsace grand cru' in vin.Appelation.lower():
+        #    pdb.set_trace() 
+        
         appellation_ = appellations.loc[appellations.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
         vin_prev = vin # to get right name in the saveplot fct
         if len(appellation_) == 0:
