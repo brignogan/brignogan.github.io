@@ -40,4 +40,4 @@ La tarte au citron est, chaque année, le dessert incontournable du menu du repa
 * Recouvrir la tarte de l'appareil à meringue. Passer la au gril (four chaud) une petite minute.
 
 ### Vins
-* Vins blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie).
+* Vin blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie).

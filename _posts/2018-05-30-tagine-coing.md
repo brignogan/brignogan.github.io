@@ -44,5 +44,7 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 ####Plus aventureux :
 * Vin blanc doux : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron).
 * Vin rouge doux : Maury (Les Vignes d'Elodie).
-####et typiquement :
-* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
+
+### Notes
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
+* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

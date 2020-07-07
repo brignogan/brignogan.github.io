@@ -32,4 +32,6 @@ Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopér
 ### Vins
 * Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie). 
+
+### Notes
+* Pour accompagner ce gâteau, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie). 

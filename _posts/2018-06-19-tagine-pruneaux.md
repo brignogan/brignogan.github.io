@@ -43,9 +43,8 @@ Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être 
 
 ### Vins
 * Vin rouge : Pomerol (Clos René), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pessac-Léognan (Domaine de la Solitude), Brulhois (Domaine du Bois de Simon, Louis Camille), Bandol (Château de Pibarnon), Cornas (Cave de Tain, Arènes Sauvages).
-####et typiquement :
-* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
-* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
 * Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn, les égoutter puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
+* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

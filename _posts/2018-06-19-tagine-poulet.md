@@ -36,9 +36,8 @@ Cette recette est un grand classique de la cuisine marocaine et le meilleur que 
 
 ### Vins
 * Vin blanc : Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Hermitage (Cave de Tain, Au Cœur des Siècles), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard).
-####et typiquement :
-* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
 * Le poulet peut être rôti à la cocotte.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

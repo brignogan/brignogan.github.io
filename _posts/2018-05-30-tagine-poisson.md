@@ -33,5 +33,7 @@ Tous les poissons blancs peuvent être préparés en tagine, le citron confit et
 * Vin blanc : Pays d'Hérault (Mas de Daumas-Gassac), Pessac-Léognan (Domaine de la Solitude), Auxey-Duresses (Les Caves de l'Orangerie, Le Val), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches), Côtes-du-Jura (Domaine de Savagny, Vin Jaune).
 
 ### Notes
-* On compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chair par personne.
-* Si on souhaite cuisiner ce tagine avec des poissons ronds (cabillaud, bar, lotte), les préparer en gros tronçons de filet pour les faire mariner.  
+* Pour évaluer la taille du poisson, on compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chair par personne.
+* Si on souhaite cuisiner ce tagine avec des poissons ronds (cabillaud, bar, lotte), les préparer en gros tronçons de filet pour les faire mariner.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
+* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

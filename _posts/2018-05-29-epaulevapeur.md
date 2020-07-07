@@ -33,8 +33,7 @@ Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier m
 
 ### Vins
 * Vin rouge : Bandol (Domaine La Roche Redonne, Les Bartavelles), Bandol (Château Guilhem Tournier, La Malissonne), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Cornas (Cave de Tain, Arènes Sauvages).
-####et typiquement :
-* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
 * Si la recette se fait traditionnellement dans le couscoussier, le temps de cuisson doit être d'au moins 2h.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).

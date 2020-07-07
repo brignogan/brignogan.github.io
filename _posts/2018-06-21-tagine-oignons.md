@@ -49,4 +49,5 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.

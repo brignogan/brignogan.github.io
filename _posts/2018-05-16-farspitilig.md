@@ -31,8 +31,7 @@ Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que 
 ### Vins
 * Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
-####et typiquement :
-* Lait ribot.
 
 ### Notes
 * A Ploudaniel, on mangeait le fars pitilig comme le fars forn avec du jambon…
+* Pour une boisson d'accompagnement plus typique, on peut servir du lait ribot.

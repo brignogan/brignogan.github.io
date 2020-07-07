@@ -61,13 +61,11 @@ Maëlle, qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rapp
 * Plonger le dessus du chou dans le fondant. Egoutter et laisser refroidir. Conserver au frigo.
 
 ### Vins
-* Un bon café ou :
-
 #### pour les éclairs et les choux au café ou à la vanille
-* Vins blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie), Sauternes (Château Haut-Bergeron).
-
+* Vin blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie), Sauternes (Château Haut-Bergeron).
 #### pour les éclairs et les choux au chocolat
-* Vins rouge : Maury Tuilé (Les Vignes d'Elodie).
+* Vin rouge : Maury Tuilé (Les Vignes d'Elodie).
 
 ### Notes
 * On compte 50 g pour 1 oeuf, soit 15 g de jaune et 35 g de blanc.
+* Pour la boisson d'accompagnement, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou un Moka Yrga Cheffe d'Ethiopie).

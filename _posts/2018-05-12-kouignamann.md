@@ -29,4 +29,6 @@ Le kouign amann est une gâteau originaire de Douarnenez et donc une spécialit�
 
 ### Vins
 * Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Jasnières (Domaine de Cézin, Clos des Fleuries), Macvin du Jura (Domaine de Savagny).
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
+
+### Notes
+* Pour la boisson d'accompagnement, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
