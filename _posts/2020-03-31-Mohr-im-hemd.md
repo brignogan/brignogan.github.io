@@ -39,5 +39,6 @@ Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson
 
 ### Vins
 * Vin rouge doux : Maury Tuilé (Les Vignes d'Elodie).
-####et typiquement :
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
+
+### Notes
+* Un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie), sera un boisson idéale pour accompagner typiquement ce gâteau.

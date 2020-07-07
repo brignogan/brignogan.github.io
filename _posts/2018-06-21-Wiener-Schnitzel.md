@@ -32,5 +32,6 @@ Pour être qualifiée de "viennoise", cette escalope panée doit être préparé
 * Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois), Bandol (Château de Pibarnon).
 * Vin rosé : Bandol (Château Guilhem Tournier, La Malissonne).
 * Vin rouge : Alsace Pinot Noir (Domaine René Fleith, "F").
-####et typiquement :
-* Bière blonde légère.
+
+### Notes
+* Pour déguster typiquement cette spécialité autrichienne, il convient de l'accompagner d'une bière blonde légère.

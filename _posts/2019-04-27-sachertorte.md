@@ -68,10 +68,8 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 
 ### Vins
 * Vin blanc : Sauternes (Château Haut-Bergeron), Macvin du Jura (Domaine de Savagny).
-####et typiquement :
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
-
 
 ### Notes
+*  La boisson typique pour accompagner ce gâteau emblématique de la ville de Vienne est un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
 * La décoration doit suivre les saisons : framboises au printemps et en été, mirabelles à l'automne et julienne d'oranges confites en hiver.
 * Ci-dessous, le schéma de l'appareilage pour le glaçage :{% include image.html file="/img/recette/sachertorteglacage.png" alt="appareillage pour le glaçage" caption= "Comment réaliser un glaçage" %}

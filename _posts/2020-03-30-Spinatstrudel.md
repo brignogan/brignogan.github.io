@@ -36,8 +36,7 @@ C'est la version salée de l'apfelstrudel. Comme pour ce dernier, la finesse de 
 
 ### Vins
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches).
-####et typiquement :
-* Bière blonde légère.
 
 ### Notes
 * A la place de la pâte feuilletée, on peut utiliser des feuilles de pâte "filo" pour être au plus proche de la vraie "strudelteig".
+* Une bière blonde légère sera une boisson idéale pour déguster ce feuilleté d'épinard à la mode autrichienne. 

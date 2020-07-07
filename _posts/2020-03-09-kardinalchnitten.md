@@ -47,9 +47,8 @@ Ce gâteau est un fleuron de la pâtisserie viennoise. Il a une place de choix s
 * Réserver au moins 1 heure au frais avant de servir. Saupoudrer de café ou de chocolat en poudre.
 
 ### Vins
-* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Macvin du Jura (Domaine de Savagny).
-####et typiquement :
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).  
+* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Macvin du Jura (Domaine de Savagny).  
 
 ### Notes
 * Ci-dessous le schéma pour la préparation du gâteau: {% include image.html file="/img/recette/kardinalschnittenSchema.png" alt="Préparation du Kardinalschnitten" caption= "Schéma de la préparation du Kardinalschnitten" %}
+* A la mode autrichienne, ce gâteau sera accompagné d'un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).

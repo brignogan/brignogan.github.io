@@ -32,5 +32,6 @@ Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle s
 
 ### Vins
 * Alsace Pinot Noir (Domaine René Fleith, "F"), Coteaux-du-Loir (Domaine de Cézin, Génération IV).
-####et typiquement :
-* Bière blonde légère.  
+
+### Notes
+* Pour déguster cette salade à la mode autrichienne, il convient de l'accompagner d'une bière blonde légère.
