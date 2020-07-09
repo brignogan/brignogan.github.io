@@ -16,6 +16,7 @@ La tarte au citron est, chaque année, le dessert incontournable du menu du repa
 * 200 g de farine
 * 80-90 g de beurre
 * une pincée de sel si le beurre est doux
+* un demi verre d'eau
 
 #### pour la crème au citron :
 * 125 g de sucre
@@ -30,7 +31,7 @@ La tarte au citron est, chaque année, le dessert incontournable du menu du repa
 * 50 g de sucre fin
 
 ### Préparation
-* Préparer la pâte brisée en incorporant, du bout des doigts, la farine et le beurre de sorte à obtenir un mélange « sableux ». Verser petit à petit de l'eau et manier rapidement pour obtenir une pâte homogène et souple et qui ne colle plus aux mains. Arrêter de pétrir dès que la bonne consistance est atteinte. En faire une boule, saupoudrer de farine. Laisser reposer ¼ h.
+* Préparer la pâte brisée en incorporant, du bout des doigts, la farine et le beurre de sorte à obtenir un mélange « sableux ». Verser petit à petit de l'eau en maniant rapidement. Ajuster la quantité d'eau pour obtenir une pâte homogène et souple et qui ne colle plus aux mains. Arrêter de pétrir dès que la bonne consistance est atteinte. En faire une boule, saupoudrer de farine. Laisser reposer ¼ h.
 * Préchauffer le four à 180°C.
 * Etaler la pâte au rouleau à la dimension du moule. Déposer sur une feuille de papier sulfurisé et foncer le moule. Déposer sur la pâte des haricots (ou autres substituts) pour l'empêcher de gonfler. Pré-cuire le fond de tarte pendant 15 mn.
 * Préparer, pendant ce temps, la crème en mélangeant, dans une casserole, le sucre, le sachet de sucre vanillé, la maïzéna et l'oeuf entier. Ajouter en remuant le jus du citron et un demi verre d'eau. Placer la casserole sur le feu et porter à ébullition en remuant sans cesse. Retirer du feu aux premiers bouillons et ajouter la noix de beurre.
