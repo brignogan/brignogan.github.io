@@ -68,4 +68,4 @@ Maëlle, qui a participé à un atelier de pâtisserie chez Le Nôtre, en a rapp
 
 ### Notes
 * On compte 50 g pour 1 oeuf, soit 15 g de jaune et 35 g de blanc.
-* Pour la boisson d'accompagnement, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou un Moka Yrga Cheffe d'Ethiopie).
+* Pour la boisson d'accompagnement, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).

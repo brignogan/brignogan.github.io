@@ -36,5 +36,6 @@ Ce dessert est une recette autrichienne mythique dont la réussite tient à la q
 ### Vins
 * Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain).
 * Pommeau : Pommeau de Bretagne (Distillerie des Menhirs).
-####et typiquement :
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
+
+### Notes
+* A la mode autrichienne, ce gâteau sera accompagné d'un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).

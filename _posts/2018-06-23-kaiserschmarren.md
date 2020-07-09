@@ -33,5 +33,6 @@ C'est un dessert typiquement autrichien et cette recette vient de Veronika, une 
 
 ### Vins
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
-####et typiquement :
-* Café : Arabica (Soleil Matinal, Mélange d'Amérique du Sud), Arabica (Soleil Matinal, Huehuetenango du Guatemala), Arabica (Soleil Matinal, Moka Yrga Cheffe d'Ethiopie).
+
+### Notes
+* A la mode autrichienne, ce gâteau sera accompagné d'un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).

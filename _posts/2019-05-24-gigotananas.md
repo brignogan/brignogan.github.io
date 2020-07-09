@@ -13,7 +13,7 @@ Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui, faute de
 
 ### Ingrédients
 * 1 gigot d'agneau raccourci de 1,5 kg
-* 5-6 gousses d'taille
+* 5-6 gousses d'ail
 * 1 boîte d'ananas au sirop en tranche (10 tranches)
 * 1 boîte de flageolets de 500 g
 * 3 c.à s. de whisky
