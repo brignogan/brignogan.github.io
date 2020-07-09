@@ -24,11 +24,13 @@ Ce plat fait partie de la cuisine traditionnelle de Picardie. C'est Grand-mère 
 * 4 tranches de lard fumé cuit
 * 250 g de champignons de Paris
 
-#### pour le gratin :
+#### pour la sauce béchamel :
 * 50 g de farine
 * 50 g de beurre demi-sel
 * 600 mL de lait
 * sel, poivre
+
+#### pour le gratin :
 * gruyère râpé
 
 ### Préparation
@@ -37,7 +39,7 @@ Ce plat fait partie de la cuisine traditionnelle de Picardie. C'est Grand-mère 
 * Couper, au couteau et séparément, le jambon, le lard et les champignons en morceaux les plus petits possible.
 * Dans une poêle, faire suer les champignons à sec puis ajouter le jambon et le lard. Bien mélanger.
 * Fourrer 8 crêpes avec cette farce et les déposer dans un plat (pour le four) beurré.
-* Préparer la sauce béchamel : faire fondre le beurre puis y cuire la farine pendant quelques minutes sans la faire prendre de la couleur; délayer petit à petit avec le lait en lissant bien le mélange avant chaque ajout pour éviter les grumeaux. Saler et poivrer.
+* Préparer la sauce béchamel (voir recette p ?).
 * Verser la sauce sur les crêpes et recouvrir d'une généreuse couche de gruyère râpé.
 * Faire gratiner au turbo-gril.
 * Servir avec une salade verte.

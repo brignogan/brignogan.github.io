@@ -17,7 +17,7 @@ La tarte au citron est, chaque année, le dessert incontournable du menu du repa
 * 80-90 g de beurre
 * une pincée de sel si le beurre est doux
 
-#### pour la crème :
+#### pour la crème au citron :
 * 125 g de sucre
 * 1 sachet de sucre vanillé
 * 20 g de maïzena

@@ -19,21 +19,17 @@ L'osso-bucco était un des plats préférés de Grand-Mère Ploudaniel et elle a
 * un bouquet garni
 * 2 échalotes
 * 1 gousse d'ail
-* 50 g de gruyère ou parmesan râpé
 * sel, poivre
 * 1 cube de bouillon de volaille
-* 2 verres de riz (ou 320 g de spaghetti)
 * facultatif : 1/2 citron
 
 ### Préparation
 * Eplucher et hacher les échalotes et l'ail.
 * Saler, poivrer et fariner les tranches de jarret avec une c. à s. de farine. Les mettre à dorer dans la cocotte-minute avec le beurre ou l'huile. Ajouter les échalotes hachées et faire bien revenir le tout. Saupoudrer de la deuxième c. à s. de farine et bien mélanger. Laisser cuire doucement 5 mn.
 * Ajouter de l'eau à hauteur, le cube de bouillon, le concentré de tomate, le bouquet garni, l'ail. Fermer la cocotte et cuire 30 mn.
-* Cuire le riz (ou les spaghetti) puis le(s) disposer au fond d'un plat (pour le four) beurré.
 * A la fin de la cuisson de la viande, si on préfère la version citronnée, râper le zeste du demi-citron et l'ajouter à la préparation. Laisser mijoter encore 5 mn.
-* Vérifier et éventuellement rectifier l'assaisonnement.
-* Déposer les tranches de viande sur le riz (ou les spaghetti) et vérifier la consistance de la sauce. Si besoin laisser la mijoter encore quelques minutes pour la faire épaissir puis en arroser copieusement la viande. Saupoudrer de gruyère (ou de parmesan).
-* Faire gratiner au gril pendant quelques minutes.
+* Vérifier et éventuellement rectifier l'assaisonnement et si la sauce est trop liquide, laisser encore mijoter quelques minutes.
+* Servir la viande avec du riz (2 verres) ou des spaghettis (320 g).
 
 ### Vins
 #### pour la version citronnée
@@ -41,3 +37,6 @@ L'osso-bucco était un des plats préférés de Grand-Mère Ploudaniel et elle a
 
 #### pour la version non-citronnée
 * Vin rouge : Volnay (Domaine Philippe Girard, La Gigotte), Volnay (Les Caves de l'Orangerie, Les Caillerets), Santenay	(Domaine Hubert Lamy, Clos les Gravières), Chambolle-Musigny (Domaine Gille, 1er cru), Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Saint-Emilion	(Château Franc Patarabet), Pessac-Léognan	(Domaine de la Solitude).
+
+### Notes
+* Grand-mère Ploudaniel finissait la préparation de son osso-bucco en disposant le riz ou les spaghettis dans le fond d'un plat beurré et en le recouvrant des tranches de viande. Elle arrosait copieusement la viande de sauce, saupoudrait le tout de gruyère ou de parmesan râpé (50 g) et faisait gratiner au gril pendant quelques minutes. 

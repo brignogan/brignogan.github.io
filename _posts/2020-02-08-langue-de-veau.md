@@ -17,6 +17,9 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * 2 carottes
 * 1 bouillon cube
 * 1 branche de cèleri
+* sel, poivre
+
+#### pour la sauce gribiche
 * 3 oeufs
 * 200 mL d'huile de tournesol
 * 40 g de câpres
@@ -32,13 +35,7 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * Peler les carottes et laver la branche de cèleri. Les couper en gros bâtonnets.
 * Déposer la langue dans une cocotte, la couvrir d'eau froide. Faire bouillir l'eau puis, à couvert, faire cuire 1 heures en écumant régulièrement.
 * Ajouter le bouillon cube, les carottes, le cèleri et le bouquet garni. Faire cuire à nouveau 1h à couvert.
-* Pendant ce temps, préparer la sauce gribiche.
-* Cuire les oeufs durs. Les écaler et séparer les jaunes des blancs.
-* Hacher les câpres et les cornichons.
-* Effeuiller le cerfeuil et l'estragon. Hacher les feuilles et ciseler la ciboulette.
-* Hacher les blancs d'oeuf.
-* Dans un bol, écraser les jaunes d'oeuf à la fourchette. Incorporer intimement la moutarde et verser petit à petit le vinaigre puis faire monter en mayonnaise en versant l'huile. Saler et poivrer.
-* Ajouter les herbes, le hachis de câpres et de cornichons et les blancs d'oeuf.
+* Pendant ce temps, préparer la sauce gribiche (voir la recette p?).
 * A la fin de la cuisson de la langue, l'égoutter et ôter la peau. La couper en tranches.
 * Servir la langue accompagnée de la sauce gribiche et de pommes de terre cuites à l'eau.
 

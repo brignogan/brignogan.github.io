@@ -13,7 +13,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 
 
 ### Ingrédients
-#### pour la pâte :
+#### pour le baba :
 * 1 verre d'eau tiède
 * 10 g de levure du boulanger
 * 250 g de farine

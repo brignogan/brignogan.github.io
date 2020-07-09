@@ -12,7 +12,7 @@ nbre_personne: ‘pour 6 personnes’
 Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pella, était planté de rhubarbe, fraisiers, framboisiers et cassissiers. La pleine récolte avait lieu en juin et juillet juste quand on arrivait en vacances. Grand-Mère faisait de la confiture de rhubarbe et de la confiture de fraise mais aussi une glace aux fruits rouges. Si elle n'aimait pas beaucoup la confiture, elle se serait damnée pour de la glace.
 
 ### Ingrédients
-* 5OO g de fruits rouges (fraises, framboises, cassis)
+* 500 g de fruits rouges (fraises, framboises, cassis)
 * 250 g de crème fraîche liquide
 * 250 g de sucre glace
 * facultatif : le jus d'un citron

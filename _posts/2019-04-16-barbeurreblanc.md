@@ -16,12 +16,14 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 * 1 kg de gros sel de mer
 * 1 brin de romarin
 * 500 g de cocos de Paimpol
-* 6 échalotes
+* 2 échalotes
 * 1 boîte de pulpe de tomate
+
+#### pour le beurre blanc
+* 4 échalotes
 * 1 petit verre de vinaigre de cidre
 * 150 g de beurre ½ sel
 * sel, poivre
-
 
 ### Préparation
 * Faire bouillir de l’eau salée dans une grande casserole.
@@ -31,12 +33,8 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 * Mettre une couche de gros sel dans le fond d’un plat en terre tapissé d’une feuille de papier cuisson.
 * Poser le bar sur le sel et mettre le brin de romarin dans l’entaille du poisson puis recouvrir le tout d’une bonne couche de gros sel.
 * Cuire 20 mn à 210°C.
-* Préparer le beurre blanc :
-	 Hacher finement les 4 échalotes restantes.
-	 Les recouvrir du vinaigre.
-   Cuire doucement à découvert et réduire jusqu’à obtenir les échalotes fondues pratiquement à sec. Retirer immédiatement du feu et jouter 1 cuillerée d’eau.
-   Au dernier moment, réchauffer les échalotes puis, hors du feu, incorporer le beurre ramolli par petites noisettes en fouettant jusqu’à obtenir la consistance d’une pommade lisse.
-* Servir le bar en filet posé sur un lit de cocos et recouvert de sauce.
+* Pendant la cuisson du poisson, préparer le beurre blanc (recette p ?).
+* Servir le bar en filet posé sur un lit de cocos et nappé de beurre blanc.
 
 
 ### Vins

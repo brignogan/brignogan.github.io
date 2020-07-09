@@ -27,6 +27,7 @@ Cette salade, pleine de vitamines, garnit agréablement la table en hiver. C'est
 * 10 olives vertes dénoyautées
 * 1 c. à s. de câpres
 * 2 c. à s. d’œufs de lump
+#### pour la sauce cocktail
 * 1 jaune d’œuf
 * 1 c. à s. de moutarde
 * 75 mL d’huile d'arachide
