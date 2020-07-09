@@ -43,5 +43,7 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 #### Laisser reposer au frigo au moins deux heures.
 
 ### Vins
-* Typiquement : un petit verre de vodka.
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Lirac (Domaine de la Mordorée, La Reine des Bois), Pessac-Léognan (Domaine de la Solitude).
+
+### Notes
+* Pour accompagner typiquement cette entrée, on la servira avec un petit verre de vodka.

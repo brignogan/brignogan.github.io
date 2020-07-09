@@ -45,4 +45,4 @@ C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat 
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
 
 ### Notes
-* Le Vin Jaune du Jura est recommandé avec les plats à base de crème).
+* Le Vin Jaune du Jura est recommandé avec les plats à base de crème.
