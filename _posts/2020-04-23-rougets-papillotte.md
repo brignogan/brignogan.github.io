@@ -34,3 +34,6 @@ Le rouget barbet est un poisson au goût très fin. On le trouve facilement de t
 
 ### Vins
 * Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois), Bandol (Château de Pibarnon), Châteauneuf-du-Pape (Domaine de Beaurenard,	Beaurenard), Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline).
+
+### Notes
+On peut également utiliser cette recette pour préparer des petites daurades royales.

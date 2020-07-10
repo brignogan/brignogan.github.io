@@ -9,7 +9,7 @@ temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros sel. C'est la méthode la plus simple pour le préparer.
+Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros sel. C'est la méthode la plus simple pour le préparer. Il est accommodé avec un beurre blanc, une sauce basique de la cuisine bourgeoise. 
 
 ### Ingrédients
 * 1 bar de 1,2 kg vidé mais non écaillé

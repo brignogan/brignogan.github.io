@@ -75,3 +75,4 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 * Grand Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
 * L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand Mère St Pierre. Elle y ajoutait le chou mais pas les pommes de terre. A St Pierre, on mangeait le fars noir en tranche (style béton armé !… pas du tout apprécié à Ploudaniel).
 * Le fars blanc était dans la recette de Mémé et donc originaire de Plouzané.
+* Le reste de fars peut être servi soit frit au beurre avec des échalotes, soit réchauffé à la vapeur. Les restes du pot-au-feu peuvent, quant à eux, être accommodés avec une sauce gribiche (voir recette p?).  

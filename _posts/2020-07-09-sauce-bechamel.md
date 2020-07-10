@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sauce Béchamel
+title: Sauce béchamel
 tag_category: famille
 tag_plat: sauce
 image: img/recette/untitled.png
@@ -9,7 +9,7 @@ temps_cuisson: 10
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 ---
-Le sauce Béchamel est la base de nombreuses recettes comme les endives au jambon ou les lasagnes.
+Le sauce béchamel est la base de nombreuses recettes comme les endives au jambon ou les lasagnes.
 
 ### Ingrédients
 * 50 g de farine
@@ -25,4 +25,4 @@ Le sauce Béchamel est la base de nombreuses recettes comme les endives au jambo
 * Saler et poivrer.
 
 ### Notes
-* La sauce Béchamel est très utile pour accommoder les restes. Grand-Mère Saint-Pierre servait ainsi les restes de poulets, de poissons ou d'oeufs durs mélangés à cette sauce, saupoudrés de gruyère et gratinés au four.   
+* La sauce béchamel est très utile pour accommoder les restes. Grand-Mère Saint-Pierre servait ainsi les restes de poulets, de poissons ou d'oeufs durs nappés de cette sauce, saupoudrés de gruyère et gratinés au four.   
