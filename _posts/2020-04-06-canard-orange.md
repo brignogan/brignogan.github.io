@@ -25,7 +25,7 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 * beurre et huile
 
 ### Préparation
-#### Préparation du fumé :
+#### Préparation du fumet :
 * Eplucher l'oignon et les carottes, émincer l'oignon et couper les carottes en rondelles.
 * Faire dorer les abattis dans de l'huile puis ajouter l'oignon et les carottes et faire revenir quelques minutes. Ajouter les tomates, faire revenir encore rapidement. Saler, poivrer.
 * Recouvrir d'eau et laisser mijoter à découvert.
@@ -43,7 +43,7 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 * Découper les oranges en tranches.
 * Préparer un caramel blond avec le sucre et un peu d'eau. Stopper la coloration en ajoutant le vinaigre puis le cointreau. Réserver
 * A la fin de la cuisson au four, récupérer le jus dans une casserole et réserver le canard dans la terrine dans le four éteint.
-* Ajouter dans la casserole le reste du fumé en pressant les abattis et la julienne de zestes blanchis.
+* Ajouter dans la casserole le reste du fumet en pressant les abattis et la julienne de zestes blanchis.
 * Ajouter à la sauce 50 g de beurre et laisser mijoter.
 * Pendant ce temps, découper le canard et disposer les morceaux et les tranches d'orange sur un plat chaud.
 * Verser dans la casserole le mélange caramel/cointrau et donner un bouillon. Goûter la sauce et rectifier l'assaisonnement.
