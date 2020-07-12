@@ -32,7 +32,10 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 150 g de sucre
 
 #### pour la croustade "poire-chocolat"
-* 1 boîte de poires au sirop
+* 6 poires
+* 275 g de sucre
+* 750 mL d'eau
+* 3 c. à s. de jus de citron
 * 1 noix de beurre
 * 1 sachet de sucre vanillé
 * 2 c. à c. de vinaigre de cidre
@@ -65,7 +68,8 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 
 #### pour la croustade "poire-chocolat"
 * Préchauffer le four à 180°C.
-* Egoutter les poires et conserver le jus.
+* Eplucher les poires, couper les en deux et arroser les de jus de citron.
+* Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir dans le sirop puis égoutter les fruits. 
 * Dans une poêle, faire revenir les poires coupées en quartiers dans du beurre jusqu’à une consistance tendre puis ajouter le sucre vanillé et le vinaigre et bien mélanger.
 * Verser la poêlée dans le plat et ajouter les 2 c. à s. de jus de poire.
 * Eparpiller les noix de pécan et pépites de chocolat (ou les petits morceaux de carrés) sur les fruits.
