@@ -51,3 +51,6 @@ Cette salade, pleine de vitamines, garnit agréablement la table en hiver. C'est
 
 ### Vins
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Pessac-Léognan (Domaine de la Solitude), Auxey-Duresses (Les Caves de l'Orangerie, Le Val).
+
+### Notes
+* La mayonnaise est la base de la sauce cocktail. Sa préparation est décrite en vidéo dans la rubrique "Sauces et Condiments".
