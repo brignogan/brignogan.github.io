@@ -9,7 +9,7 @@ temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 ---
-Le sauce gribiche est l'accompagnement idéale de la langue de veau ou le pot-au-feu. Elle peut aussi accommoder les poissons blancs ou simplement les légumes cuits à l'eau.
+Le sauce gribiche est l'accompagnement idéale de la langue de veau ou du pot-au-feu. Elle peut aussi accommoder simplement les légumes cuits à l'eau.
 
 ### Ingrédients
 * 3 oeufs
