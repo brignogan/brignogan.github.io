@@ -9,6 +9,9 @@ _site/
 *.swp
 *.DS_Store
 CookBook/VinData/
+CookBook/*.idx
+CookBook/*.ind
+CookBook/*.ilg
 CookBook/*.aux
 CookBook/*.toc
 CookBook/*.tmb 
@@ -21,3 +24,4 @@ CookBook/cookbook.tex
 CookBook/vin.tex
 CookBook/calque-seul-1.eps
 CookBook/errorVinDansRecette.csv
+CookBook/mystyle.xdy

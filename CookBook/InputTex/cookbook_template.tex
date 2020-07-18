@@ -22,6 +22,25 @@
 \usepackage{graphicx}
 \usepackage{grffile}
 \usepackage[hidelinks]{hyperref}
+\usepackage[texindy]{imakeidx}
+\makeindex[columns=2, title=Index Alphab\'etique, options={-M mystyle.xdy -L french -C utf8}]
+\usepackage{filecontents}
+\begin{filecontents*}{mystyle.xdy}
+;;; xindy style file
+(markup-locclass-list :open "\dotfill" :sep "")
+
+(define-attributes (( "textbf" "default" )) )
+(markup-locref   :attr  "textbf"     :open "\textbf{\hyperpage{" :close "}}")
+(markup-locref   :attr  "textit"     :open "\textit{\hyperpage{" :close "}}")
+(markup-locref   :attr  "textttt"     :open "\textttt{\hyperpage{" :close "}}")
+(markup-locref   :attr  "texttsc"     :open "\texttsc{\hyperpage{" :close "}}")
+(markup-locref   :attr  "default"     :open "\hyperpage{" :close "}")
+
+
+
+\end{filecontents*}
+
+\usepackage[totoc]{idxlayout}
 %\hypersetup{
 %    colorlinks,
 %    citecolor=black,
@@ -29,6 +48,7 @@
 %    linkcolor=black,
 %    urlcolor=black
 %}
+
 \usepackage[thumblink=rule,
 			linefill=dots,
 			height={30pt},           % height of the marker
@@ -76,6 +96,12 @@
     \cleardoublepage
   \@mainmatterfalse
   \pagenumbering{roman}}
+
+\newcommand\emptymatter{%
+    \cleardoublepage
+  \@mainmatterfalse
+  \pagenumbering{empty}}
+
 \newcommand\mainmatter{%
     \cleardoublepage
   \@mainmattertrue
@@ -765,6 +791,7 @@
 %\addthumbsoverviewtocontents{section}{Table des Marques de Couleurs}%
 \thumbsoverview{Les Marques de Chapitres}
 
+\thispagestyle {empty}
 \newpage
 \fancyhead{}
 
@@ -774,5 +801,8 @@
 XX
 
 \input{vin}
+
+\setindexprenote{Les numeros de pages en gras indiquent les pages o\`u la pr\'eparation de vase est d\'evelopp\'ee} 
+\printindex
 
 \end{document}

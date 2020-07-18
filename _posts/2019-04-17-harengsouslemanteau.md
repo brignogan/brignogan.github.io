@@ -8,6 +8,7 @@ temps_preparation: 90
 temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: hareng fumé, pommes de terre, œuf, betterave, échalote, cornichon, mayonnaise
 ---
 Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencontrées au cours de missions de coopérations entre l'Université Polytechnique de Tomsk et l'Université Paris Sud. A chacune de nos visites en Sibérie, elles se faisaient un plaisir de nous faire découvrir leur tradition culinaire dont cette recette de hareng est un fleuron. Le nom russe de ce plat est : "seledka pod shuboy".
 

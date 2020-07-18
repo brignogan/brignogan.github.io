@@ -12,6 +12,7 @@ import re
 import pickle 
 import argparse
 import json 
+import copy
 
 ################################################
 def string_2_bool(string):
@@ -219,6 +220,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     f= io.open(recipeFile,"r", encoding='utf-8')
     lines_recipeFile = f.readlines()
     f.close()
+    recipeMMmotClef = []
+    recipeMMmotClefB = []
 
     for i, line in enumerate(lines_recipeFile):
         if i == 0: continue
@@ -235,8 +238,10 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'nbre_personne:'     in line: recipeMMserve = line.split('_personne:')[1].\
                                                          strip().replace("\xe2\x80\x98",'').replace("\xe2\x80\x99",'')
         
-        if 'image:'               in line: recipeMMimg = imageDir + line.split('mage:')[1].strip()
+        if 'image:'             in line: recipeMMimg = imageDir + line.split('mage:')[1].strip()
     
+        if 'index_motClefIngredient:'     in line: recipeMMmotClef = [xx.strip() for xx in line.split('ClefIngredient:')[1].strip().split(',')]
+        if 'index_motClefBase:'     in line: recipeMMmotClefB = [xx.strip() for xx in line.split('ClefBase:')[1].strip().split(',')]
         if line == '---\n': 
             lineTxt = i
             break
@@ -258,6 +263,20 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     if len(lines_txt_per_cat[0])>0: 
         recipeMMintro = lines_txt_per_cat[0]
+        for ii_line_, line_ in enumerate(recipeMMintro):
+            #add index entry
+            recipeMMmotClefB2 = copy.deepcopy(recipeMMmotClefB)
+            for ii_mot, mot_ in enumerate(recipeMMmotClefB2): 
+                if u'\u0153uf' in mot_:
+                    mot = mot_.replace(u'\u0153uf','oeuf')
+                else:
+                    mot = mot_
+                
+                if mot_.split(' ')[0] in line_:
+                    line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}|textbf}}'.format(mot_.split(' ')[0],mot))
+                    recipeMMmotClefB.pop(ii_mot)
+                    recipeMMintro[ii_line_] = line_
+    
     else: 
         lines_txt_per_cat.pop(0)
         recipeMMintro = ['']
@@ -315,6 +334,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 line2p.append('\extra[{:s}] \n'.format(subtitle_mainRecipy))
             flag_modified = 1
             
+            
         
         if 'recipeMMingredient' in line: 
             line2p = []
@@ -343,8 +363,21 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line2p.append('\n')
             
             flag_modified = 1
-
-
+            
+            for ii_line_, line_ in enumerate(line2p):
+                #add index entry
+                recipeMMmotClef2 = copy.deepcopy(recipeMMmotClef)
+                for ii_mot, mot_ in enumerate(recipeMMmotClef2): 
+                    
+                    if u'\u0153uf' in mot_:
+                        mot = mot_.replace(u'\u0153uf','oeuf')
+                    else:
+                        mot = mot_
+                    
+                    if mot_.split(' ')[0] in line_:
+                        line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}}}'.format(mot_.split(' ')[0],mot))
+                        recipeMMmotClef.pop(ii_mot)
+                        line2p[ii_line_] = line_
 
         if 'recipeMMinstruction' in line: 
             line2p = []
@@ -586,6 +619,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if flag_modified!=1: line2p = [line]
 
         for line_ in line2p:
+            
+
             if '../img/recette/' in line_:
                 final2_lines.append(line_)
             elif 'vskip' in line_:
@@ -619,9 +654,9 @@ pickle.dump(recetteDictionary,open('./recetteDictionary.pickle','wb'))
 
 if flag_latex:
 #run latex
-    subprocess.call(['pdflatex', 'cookbook.tex'])
-    subprocess.call(['pdflatex', 'cookbook.tex'])
-    subprocess.call(['pdflatex', 'cookbook.tex'])
+    subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
+    subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
+    subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
 
 '''
 	 \columnbreak

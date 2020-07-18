@@ -8,6 +8,9 @@ temps_preparation: 15
 temps_cuisson: '-'
 temps_repos: ‘-‘
 nbre_personne: ‘-’
+index_motClefIngredient: œuf
+index_motClefBase: mayonnaise
+
 ---
 La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes, langoustines, homards), les poissons, les oeufs durs, les légumes et les viandes froides.
 

@@ -353,7 +353,7 @@ if __name__ == '__main__':
     
     
     ########################################
-    #Add IGP stored locally in appellations:
+    #replace geographic zone for alsace grand cru to production zone stored locally in CarteVin/GrandCruAslace:
     ########################################
     if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_grandCruAlsace.shp")))):
         '''
@@ -665,6 +665,7 @@ if __name__ == '__main__':
         #create_dictionary
         vinDictionary[key] = []
 
+        #pdb.set_trace()
         if (((not(flag_restart)) or (not(os.path.isfile(map_domain))))):
             if len(appellation_) != 0:
                 hash_patterns = ('//', '..', 'o', '\\\\', 'O', '*', '-')
