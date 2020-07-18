@@ -802,7 +802,13 @@ XX
 
 \input{vin}
 
-\setindexprenote{Les numeros de pages en gras indiquent les pages o\`u la pr\'eparation de vase est d\'evelopp\'ee} 
+\newpage
+\stopthumb
+\newpage
+\fancyhead{}
+\fancyhead[LE]{\bfseries\nouppercase{Index Alphab\'etique}}      % Chapter in the right on even pages
+\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+\setindexprenote{Les num\'eros de pages en gras indiquent les pages o\`u la pr\'eparation de base est d\'evelopp\'ee} 
 \printindex
 
 \end{document}
