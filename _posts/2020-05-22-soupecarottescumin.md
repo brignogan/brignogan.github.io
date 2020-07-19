@@ -8,6 +8,7 @@ temps_preparation: 20
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: carotte, cumin
 ---
 Bien que l'association carotte et cumin soit un principe de base de l'art culinaire marocain, cette soupe n'est pas typique de cette cuisine mais une variation de la soupe de carottes appréciée à notre table familiale.  .
 

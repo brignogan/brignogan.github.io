@@ -8,6 +8,7 @@ temps_preparation: 20
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: bette, oignon
 ---
 Cette recette est excellente pour préparer les bettes. Elles peuvent être blanches, jaunes ou rouges. En mélange, elles font de plus une belle poêlée.
 

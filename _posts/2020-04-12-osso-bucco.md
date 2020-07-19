@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: veau (jarret), échalote, tomate, citron
 ---
 L'osso-bucco était un des plats préférés de Grand-Mère Ploudaniel et elle avait grand plaisir à nous le préparer. Dans sa recette, trouvée dans le livre de sa cocotte SEB, il n'y avait pas de citron. C'est une amie, Jacqueline Girard de Gif-sur-Yvette dont le beau-fils est italien, qui nous a fait déguster cette variante citronnée plus proche du plat traditionnel.
 
@@ -39,4 +40,4 @@ L'osso-bucco était un des plats préférés de Grand-Mère Ploudaniel et elle a
 * Vin rouge : Volnay (Domaine Philippe Girard, La Gigotte), Volnay (Les Caves de l'Orangerie, Les Caillerets), Santenay	(Domaine Hubert Lamy, Clos les Gravières), Chambolle-Musigny (Domaine Gille, 1er cru), Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Saint-Emilion	(Château Franc Patarabet), Pessac-Léognan	(Domaine de la Solitude).
 
 ### Notes
-* Grand-mère Ploudaniel finissait la préparation de son osso-bucco en disposant le riz ou les spaghettis dans le fond d'un plat beurré et en le recouvrant des tranches de viande. Elle arrosait copieusement la viande de sauce, saupoudrait le tout de gruyère ou de parmesan râpé (50 g) et faisait gratiner au gril pendant quelques minutes. 
+* Grand-mère Ploudaniel finissait la préparation de son osso-bucco en disposant le riz ou les spaghettis dans le fond d'un plat beurré et en le recouvrant des tranches de viande. Elle arrosait copieusement la viande de sauce, saupoudrait le tout de gruyère ou de parmesan râpé (50 g) et faisait gratiner au gril pendant quelques minutes.

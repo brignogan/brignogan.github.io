@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: calamar, ail, tomate
 ---
 Cette recette pour préparer les calamars (ou encornets) a été rapportée par Grand-mère Saint-Pierre de son séjour à Antibes.
 

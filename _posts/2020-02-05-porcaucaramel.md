@@ -8,6 +8,7 @@ temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: porc (poitrine), oignon, œuf, caramel, nioc-mam
 ---
 Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Pendant notre séjour commun à Rabat, nous avons beaucoup cuisiné ensemble et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.
 

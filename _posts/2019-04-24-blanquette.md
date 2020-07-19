@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 105
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: veau (tendron, flanchet), carotte, oignon, champignon
 ---
 La blanquette de veau est un plat emblématique de l'hiver. Avec le boeuf bourguignon, elle forme le blanc et le noir ou le yin et le yang de la cuisine bourgeoise. Elle avait régulièrement sa place au menu de Grand-mère Saint Pierre.
 

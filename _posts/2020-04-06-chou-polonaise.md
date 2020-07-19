@@ -8,6 +8,7 @@ temps_preparation: 20
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: chou, carotte, oignon, pomme, lard fumé
 ---
 Erika Guibé, est une amie polonaise, chimiste à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Bien que spécialiste des micro-ondes, dans sa cuisine, elle sait utiliser les bonnes vieilles cocottes. C'est elle qui nous a donné la recette de cette potée qui peut accompagner avec bonheur rôti de porc ou saucisses.
 

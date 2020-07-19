@@ -8,6 +8,7 @@ temps_preparation: 15
 temps_cuisson: 15
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: rouget, romarin, basilic, laurier
 ---
 Le rouget barbet est un poisson au goût très fin. On le trouve facilement de taille portion. C'est un poisson fragile qu'il faut consommer très frais et qu'il faut manipuler un minimum. Il vaut mieux éviter de le congeler.
 

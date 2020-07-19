@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: potiron, crème fraîche
 ---
 Tous les ans, cette soupe d'automne est au menu du repas d'anniversaire de Maëlle. Elle est à l'entrée ce qu'est la tarte au citron au dessert : incontournable.
 

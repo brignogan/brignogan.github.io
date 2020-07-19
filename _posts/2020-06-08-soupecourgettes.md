@@ -8,6 +8,7 @@ temps_preparation: 15
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: courgette, fromage bleu
 ---
 Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dîners d’été, quand la production de courgettes battait son plein dans le jardin.
 

@@ -8,6 +8,7 @@ temps_preparation: 20
 temps_cuisson: 50
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: lotte, échalote, céleri, carotte, ail, crème fraîche, poivre vert
 ---
 C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat de lotte.  Pour cuisiner les produits de la "godaille" de ses amis pécheurs, Michelle déborde, en effet, d'idées.
 
@@ -30,7 +31,7 @@ C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat 
 * Préchauffer le four à 220°C.
 * Couper la lotte en morceaux.
 * Préparer les légumes: laver, et couper carottes, céleri et échalotes en julienne (= fins bâtonnets).
-* Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé. Faire cuire 10 mn au four.
+* Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé. Saler et faire cuire 10 mn au four.
 * Sortir le plat du four. Poser les morceaux de lotte dessus.
 * Arroser du vin blanc.
 * Saler, poivrer et répartir les petits morceaux de beurre.
