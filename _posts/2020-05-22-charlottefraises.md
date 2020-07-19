@@ -8,6 +8,7 @@ temps_preparation: 45
 temps_cuisson: '-'
 temps_repos: 360
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: biscuit à la cuiller, fraise, framboise, crème fraîche, kirsch
 ---
 Ce gâteau de l’été a souvent été, chez nous, le gâteau d’anniversaire des cancers et des lions.
 
