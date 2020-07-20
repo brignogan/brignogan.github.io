@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crêpes de froment
+title: Crêpes sucrées
 tag_category: bretagne
 tag_plat: dessert
 image: img/recette/crepe-froment.png
@@ -10,7 +10,7 @@ temps_repos: 60
 nbre_personne: ‘pour deux douzaines de crêpes’
 ---
 
-La recette de la pâte à crêpe de froment vient de Berthe Riou, une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée. A chacun de nos retours à Ploudaniel, elle nous apportait des bignès (mini-galettes de blé noir) que tout le monde adorait.
+La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée. A chacun de nos retours à Ploudaniel, elle nous apportait des bignès (mini-galettes de blé noir) que tout le monde adorait.
 
 ### Ingrédients
 * 500 g de farine de froment

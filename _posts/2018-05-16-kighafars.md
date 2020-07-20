@@ -9,7 +9,7 @@ temps_cuisson: 90
 temps_repos: '-'
 nbre_personne: ‘pour 5-6 personnes’
 ---
-Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'objet de querelles de clochers. Pour la paix du ménage, la recette ci-dessous est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. Il faut noter que, dans tous les cas, la cuisson du fars nécessite un sac en toile appelé « sac à fars ».
+Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'objet de querelles de clochers. Pour la paix du ménage, la recette ci-dessous est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. Il faut noter que, dans tous les cas, ce plat est caractérisé par son fars sac'h (fars en sac) dont la cuisson nécessite un sac en toile appelé « sac à fars ».
 
 ### Ingrédients
 * 350 g de petit salé
@@ -23,14 +23,14 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 * 1 petit chou (facultatif)
 * 6 pommes de terre (facultatif)
 
-#### pour le fars noir :
+#### pour le fars sac'h noir :
 * 350 g de farine de blé noir
 * 1 oeuf entier
 * 25 cL de crème fraîche liquide
 * 100 g de beurre ½ sel
 * 300-350 cc de lait
 
-#### pour le fars blanc (optionnel) :
+#### pour le fars sac'h blanc (optionnel) :
 * 250 g de farine de froment
 * 2 oeufs entiers
 * 30 g de sucre

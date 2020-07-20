@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: 30
 nbre_personne: ‘pour 8 personnes’
 ---
-Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau. Le gâteau breton est souvent servi au goûter avec un thé ou un café.
+La recette de ce gâteau, dont la base est une pâte brisée, vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau. Le gâteau breton est souvent servi au goûter avec un vin de dessert, un thé ou un café.
 
 ### Ingrédients
 * 200 g de beurre ½ sel mou
@@ -34,4 +34,4 @@ Cette recette vient de notre copain Jean Olivier qui fut notre collègue coopér
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
 
 ### Notes
-* Pour accompagner ce gâteau, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie). 
+* Pour accompagner ce gâteau, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
