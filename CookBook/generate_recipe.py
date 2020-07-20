@@ -34,6 +34,17 @@ def color_section(x):
     else: 
         return 'gray'
 
+def get_format_index(recipeCat,flag):
+    if flag == 'clef':
+        if recipeCat == 'famille': return 'colorF'
+        if recipeCat == 'autriche': return 'colorA'
+        if recipeCat == 'bretagne': return 'colorB'
+        if recipeCat == 'maroc': return 'colorM'
+    if flag == 'base':
+        if recipeCat == 'famille': return 'colorFbf'
+        if recipeCat == 'autriche': return 'colorAbf'
+        if recipeCat == 'bretagne': return 'colorBbf'
+        if recipeCat == 'maroc': return 'colorMbf'
 
 def replace_name_plat(x):
     return x.replace('entree','Entr\\\'ees').replace('platPoisson', 'Plats de Poisson').replace('platViande','Plats de Viande').replace('dessert','Desserts').replace('sauce', 'Sauces et Condiments').replace('platLegume','Plats de L\\\'egume')
@@ -273,10 +284,14 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     mot = mot_
                 
                 if mot_.split(' ')[0] in line_:
-                    line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}|textbf}}'.format(mot_.split(' ')[0],mot))
-                    recipeMMmotClefB.pop(ii_mot)
-                    recipeMMintro[ii_line_] = line_
-    
+                    line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}|{:s}}}'.format(mot_.split(' ')[0],mot,get_format_index(recipeCat,'base')))
+                    try: 
+                        idx_ = np.where(np.array(recipeMMmotClefB) == mot )[0]
+                        if len(idx_) != 1: pdb.set_trace()
+                        recipeMMmotClefB.pop(idx_[0])
+                        recipeMMintro[ii_line_] = line_
+                    except: 
+                        pdb.set_trace()
     else: 
         lines_txt_per_cat.pop(0)
         recipeMMintro = ['']
@@ -369,14 +384,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 recipeMMmotClef2 = copy.deepcopy(recipeMMmotClef)
                 for ii_mot, mot_ in enumerate(recipeMMmotClef2): 
                     
-                    if u'\u0153uf' in mot_:
-                        mot = mot_.replace(u'\u0153uf','oeuf')
-                    else:
-                        mot = mot_
-                    
+                    #if u'\u0153uf' in mot_:
+                    #    mot = mot_.replace(u'\u0153uf','oeuf')
+                    #else:
+                    #    mot = mot_
+                    mot = mot_ 
                     if mot_.split(' ')[0] in line_:
-                        line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}}}'.format(mot_.split(' ')[0],mot))
-                        recipeMMmotClef.pop(ii_mot)
+                        line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}|{:s}}}'.format(mot_.split(' ')[0],mot,get_format_index(recipeCat,'clef')))
+                        idx_ = np.where(np.array(recipeMMmotClef) == mot )[0]
+                        if len(idx_) != 1: pdb.set_trace()
+                        recipeMMmotClef.pop(idx_[0])
                         line2p[ii_line_] = line_
 
         if 'recipeMMinstruction' in line: 

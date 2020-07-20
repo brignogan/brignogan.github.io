@@ -29,7 +29,19 @@
 ;;; xindy style file
 (markup-locclass-list :open "\dotfill" :sep "")
 
-(define-attributes (( "textbf" "default" )) )
+(define-attributes (( "textbf" "colorFbf" "colorF" "colorBbf" "colorB" "colorMbf" "colorM" "colorAbf" "colorA" "default" )) )
+(markup-locref   :attr  "colorFbf"     :open "{\color{jade}\textbf{\hyperpage{" :close "}}}")
+(markup-locref   :attr  "colorF"     :open "{\color{jade}\hyperpage{" :close "}}")
+
+(markup-locref   :attr  "colorBbf"     :open "{\color{glaucous}\textbf{\hyperpage{" :close "}}}")
+(markup-locref   :attr  "colorB"     :open "{\color{glaucous}\hyperpage{" :close "}}")
+
+(markup-locref   :attr  "colorMbf"     :open "{\color{antiquebrass}\textbf{\hyperpage{" :close "}}}")
+(markup-locref   :attr  "colorM"     :open "{\color{antiquebrass}\hyperpage{" :close "}}")
+
+(markup-locref   :attr  "colorAbf"     :open "{\color{manatee}\textbf{\hyperpage{" :close "}}}")
+(markup-locref   :attr  "colorA"     :open "{\color{manatee}\hyperpage{" :close "}}")
+
 (markup-locref   :attr  "textbf"     :open "\textbf{\hyperpage{" :close "}}")
 (markup-locref   :attr  "textit"     :open "\textit{\hyperpage{" :close "}}")
 (markup-locref   :attr  "textttt"     :open "\textttt{\hyperpage{" :close "}}")
@@ -806,7 +818,7 @@ XX
 \stopthumb
 \newpage
 \fancyhead{}
-\fancyhead[LE]{\bfseries\nouppercase{Index Alphab\'etique}}      % Chapter in the right on even pages
+\fancyhead[LE]{\bfseries\nouppercase{Index Alphab\'etique des Ingr\'edients des Recettes}}      % Chapter in the right on even pages
 \fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 \setindexprenote{Les num\'eros de pages en gras indiquent les pages o\`u la pr\'eparation de base est d\'evelopp\'ee} 
 \printindex
