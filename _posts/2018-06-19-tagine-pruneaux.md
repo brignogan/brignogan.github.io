@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: pruneau
 ---
 Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être réalisé de la même manière avec du jarret de veau.
 

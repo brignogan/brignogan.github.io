@@ -8,7 +8,7 @@ temps_preparation: 90
 temps_cuisson: 40
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: crêpe salée, jambon, lard fumé, champignon, sauce béchamel
+index_motClefIngredient: jambon, lard fumé, champignon, sauce béchamel
 index_motClefBase: crêpe salée
 ---
 Ce plat fait partie de la cuisine traditionnelle de Picardie. La recette de cette crêpe salée farcie a été rapportée par Grand-mère Saint-Pierre de son séjour à Amiens.
