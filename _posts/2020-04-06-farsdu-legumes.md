@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 ---
 
-Cette recette est la version végétarienne du "fars-du".
+Cette recette est la version végétarienne du "fars forn du".
 
 ### Ingrédients
 * 150 g de farine de blé noir
