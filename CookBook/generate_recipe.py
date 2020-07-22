@@ -278,15 +278,19 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             #add index entry
             recipeMMmotClefB2 = copy.deepcopy(recipeMMmotClefB)
             for ii_mot, mot_ in enumerate(recipeMMmotClefB2): 
-                if u'\u0153uf' in mot_:
-                    mot = mot_.replace(u'\u0153uf','oeuf')
+                if u'|' in mot_:
+                    mot_ori  = mot_
+                    mot = mot_.split('|')[1].strip()
+                    mot_ = mot_.split('|')[0].strip()
                 else:
-                    mot = mot_
+                    mot_ori  = mot_
+                    mot = mot_.strip()
+                    mot_ = mot_.split(' ')[0].strip()
                 
-                if mot_.split(' ')[0] in line_:
-                    line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}|{:s}}}'.format(mot_.split(' ')[0],mot,get_format_index(recipeCat,'base')))
+                if mot_ in line_:
+                    line_ = line_.replace(mot_, r'{:s}\index{{{:s}|{:s}}}'.format(mot_, mot, get_format_index(recipeCat,'base')))
                     try: 
-                        idx_ = np.where(np.array(recipeMMmotClefB) == mot )[0]
+                        idx_ = np.where(np.array(recipeMMmotClefB) == mot_ori )[0]
                         if len(idx_) != 1: pdb.set_trace()
                         recipeMMmotClefB.pop(idx_[0])
                         recipeMMintro[ii_line_] = line_
@@ -383,15 +387,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 #add index entry
                 recipeMMmotClef2 = copy.deepcopy(recipeMMmotClef)
                 for ii_mot, mot_ in enumerate(recipeMMmotClef2): 
+                    if u'|' in mot_:
+                        mot_ori  = mot_
+                        mot = mot_.split('|')[1].strip()
+                        mot_ = mot_.split('|')[0].strip()
+                    else:
+                        mot_ori  = mot_
+                        mot = mot_.strip()
+                        mot_ = mot_.split(' ')[0].strip()
                     
-                    #if u'\u0153uf' in mot_:
-                    #    mot = mot_.replace(u'\u0153uf','oeuf')
-                    #else:
-                    #    mot = mot_
-                    mot = mot_ 
-                    if mot_.split(' ')[0] in line_:
-                        line_ = line_.replace(mot_.split(' ')[0], r'{:s}\index{{{:s}|{:s}}}'.format(mot_.split(' ')[0],mot,get_format_index(recipeCat,'clef')))
-                        idx_ = np.where(np.array(recipeMMmotClef) == mot )[0]
+                    if mot_ in line_:
+                        line_ = line_.replace(mot_, r'{:s}\index{{{:s}|{:s}}}'.format(mot_, mot, get_format_index(recipeCat,'clef')))
+                        idx_ = np.where(np.array(recipeMMmotClef) == mot_ori )[0]
                         if len(idx_) != 1: pdb.set_trace()
                         recipeMMmotClef.pop(idx_[0])
                         line2p[ii_line_] = line_
@@ -542,15 +549,30 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             for iline_, line_ in enumerate(recipeMMnote):
                 if 'vimeoPlayer' in line_: 
                     continue
+                flag_img = False
+                flag_link = False
                 line_1 = line_.split('{%')[0].strip()
                 line_2 = ''
-                if len(line_.split('{%')) > 1: 
-                    line_2 = line_.split('{%')[1].strip().split('%}')[0]
+                if len(line_.split('{% include ')) > 1: 
+                    line_2 = line_.split('{% include')[1].strip().split('%}')[0]
                     img_path    = get_var_from_include_image('file')
                     img_caption = get_var_from_include_image('caption') 
+                    line_3 = line_.split('%}')[1].strip()
+                    flag_img = True
+
+                if len(line_.split(']({% post_url ')) > 1: 
+                    line_3 = ' ' + line_.split('%})')[1].strip()
+                    #get link
+                    line_2 = line_.split(']({% post_url')[1].strip().split('%}')[0]
+                    idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_2.strip()+'.md')[0][0]
+                    sectionName = tag_name[idx_].replace(' ','').lower()
+                    ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
+                    line_1 = line_.split(']({% post_url ')[0].replace('[','') + ref_ + line_3   # here need to add pageref according to line_2
+                    flag_link = True
+
                 if ('*' not in line_) | (len(recipeMMnote)==1):
                     line2p_intro_ += line_1.replace('*','').strip() 
-                    if line_2 != '':
+                    if (flag_img) & (line_2 != ''):
                         line2p_intro_ = add_graphics(line2p_intro_,imageDir,img_path)
                 else:
                     line2p_ += line_1.replace('*','').strip() 
