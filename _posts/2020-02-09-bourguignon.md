@@ -13,7 +13,7 @@ index_motClefIngredient: bœuf (paleron), carotte, oignon, ail, lard fumé, cham
 Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est un plat typique de la cuisine bourgeoise. Comme la blanquette, c'est un plat très apprécié en hiver. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
 
 ### Ingrédients
-* 800 g de paleron de bœuf 
+* 800 g de paleron de bœuf
 * 1 os à moelle
 * 1 bouquet garni
 * 2 carottes
@@ -41,7 +41,7 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 * Faire bouillir puis cuire à couvert et à petit feu pendant au moins 2h (1h si on utilise une cocotte minute). Pour éviter une trop grande évaporation, verser de l'eau sur le couvercle.
 * Pendant ce temps, si les lardons sont crus, les faire blanchir (les plonger 1 mn dans de l'eau bouillante).
 * Les faire revenir ensuite à la poêle sans matière grasse puis ajouter les oignons grelot et les champignons et les faire suer. Ajouter éventuellement les marrons.
-* A la fin de la cuisson de la viande, vérifier la consistance de la sauce et l'assaisonnement. Ajouter le mélange lardons/grelots/champignons/marrons et réchauffer.
+* A la fin de la cuisson de la viande, vérifier la consistance de la sauce et l'assaisonnement. Ajouter la poêlée de lardons et légumes et réchauffer.
 * Servir avec des pommes de terre cuites à l'eau.    
 
 ### Vins

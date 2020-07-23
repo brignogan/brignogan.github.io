@@ -34,7 +34,7 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 * Mettre une couche de gros sel dans le fond d’un plat en terre tapissé d’une feuille de papier cuisson.
 * Poser le bar sur le sel et mettre le brin de romarin dans l’entaille du poisson puis recouvrir le tout d’une bonne couche de gros sel.
 * Cuire 20 mn à 210°C.
-* Pendant la cuisson du poisson, préparer le beurre blanc (recette p ?).
+* Pendant la cuisson du poisson, préparer le [beurre blanc]({% post_url 2020-05-03-sauce-beurreblanc %}).
 * Servir le bar en filet posé sur un lit de cocos et nappé de beurre blanc.
 
 

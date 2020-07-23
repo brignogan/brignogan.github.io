@@ -38,4 +38,4 @@ Cette entrée est un régal dès que commence la saison des haricots verts, des 
 * Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline).
 
 ### Notes
-* La préparation de la mayonnaise est décrite en vidéo dans la rubrique "Sauces et Condiments".
+* Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments".

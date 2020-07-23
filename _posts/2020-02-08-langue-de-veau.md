@@ -36,7 +36,7 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * Peler les carottes et laver la branche de cèleri. Les couper en gros bâtonnets.
 * Déposer la langue dans une cocotte, la couvrir d'eau froide. Faire bouillir l'eau puis, à couvert, faire cuire 1 heures en écumant régulièrement.
 * Ajouter le bouillon cube, les carottes, le cèleri et le bouquet garni. Faire cuire à nouveau 1h à couvert.
-* Pendant ce temps, préparer la sauce gribiche (voir la recette p?).
+* Pendant ce temps, préparer la [sauce gribiche]({% post_url 2020-07-09-sauce gribiche %}).
 * A la fin de la cuisson de la langue, l'égoutter et ôter la peau. La couper en tranches.
 * Servir la langue accompagnée de la sauce gribiche et de pommes de terre cuites à l'eau.
 
