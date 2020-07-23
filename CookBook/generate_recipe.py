@@ -409,6 +409,15 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             recipeMMinstruction_next = recipeMMinstruction[1:]; recipeMMinstruction_next.append('\n')
             for i, [line_,line_next] in enumerate(zip(recipeMMinstruction,recipeMMinstruction_next)):
                 
+                if len(line_.split(']({% post_url ')) > 1: 
+                    line_3 = ' ' + line_.split('%})')[1].strip()
+                    #get link
+                    line_2 = line_.split(']({% post_url')[1].strip().split('%}')[0]
+                    idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_2.strip()+'.md')[0][0]
+                    sectionName = tag_name[idx_].replace(' ','').lower()
+                    ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
+                    line_ = line_.split(']({% post_url ')[0].replace('[','') + ref_ + line_3  
+
                 if (i==0) & (line_[:4] != '####'):
                     ii = i+1
                     ii_ori = ii
@@ -467,6 +476,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line2p.append(line_.replace('*','').strip())
                     line2p.append('\n')
                     line2p.append('\n')
+                
+            
             flag_modified = 1
 
 
