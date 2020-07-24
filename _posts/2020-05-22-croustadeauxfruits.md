@@ -44,6 +44,8 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 ### Vins
 * Vin blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie).
 
+### Autres croustades
+
 #### **Croustade "rhubarbe, framboises, cassis"**
 
 ### Ingrédients
