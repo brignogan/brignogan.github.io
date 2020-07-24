@@ -18,7 +18,7 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 * 4 œufs
 * 1 betterave moyenne cuite
 * 2 échalotes,
-* un bol de mayonnaise
+* un bol de mayonnaise (voir notes)
 * 10 cornichons
 
 ### Préparation
@@ -47,4 +47,5 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Lirac (Domaine de la Mordorée, La Reine des Bois), Pessac-Léognan (Domaine de la Solitude).
 
 ### Notes
+* Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments".
 * Pour accompagner typiquement cette entrée, plutôt qu'un verre de vin, on peut servir un petit verre de vodka.
