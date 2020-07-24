@@ -572,13 +572,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     flag_img = True
 
                 if len(line_.split(']({% post_url ')) > 1: 
-                    line_3 = ' ' + line_.split('%})')[1].strip()
+                    line_33 = ' ' + line_.split('%})')[1].strip()
                     #get link
-                    line_2 = line_.split(']({% post_url')[1].strip().split('%}')[0]
-                    idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_2.strip()+'.md')[0][0]
+                    line_22 = line_.split(']({% post_url')[1].strip().split('%}')[0]
+                    idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_22.strip()+'.md')[0][0]
                     sectionName = tag_name[idx_].replace(' ','').lower()
                     ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
-                    line_1 = line_.split(']({% post_url ')[0].replace('[','') + ref_ + line_3   # here need to add pageref according to line_2
+                    line_1 = line_.split(']({% post_url ')[0].replace('[','') + ref_ + line_33   # here need to add pageref according to line_2
                     flag_link = True
 
                 if ('*' not in line_) | (len(recipeMMnote)==1):
