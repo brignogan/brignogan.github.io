@@ -8,7 +8,7 @@ temps_preparation: 40
 temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: petit pois, haricot vert, carotte, pomme de terre, oeuf, anchois, mayonnaise
+index_motClefIngredient: petit pois, haricot vert, carotte, pomme de terre, œuf, anchois, mayonnaise
 ---
 Cette entrée est un régal dès que commence la saison des haricots verts, des petits pois et des carottes nouvelles.
 
