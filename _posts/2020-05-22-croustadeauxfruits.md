@@ -47,8 +47,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 ### Autres croustades
 
 #### **Croustade "rhubarbe, framboises, cassis"**
-
-### Ingrédients
+##### Ingrédients
 * 375 g de pâte sablée à l'avoine (voir préparation ci-dessus).
 * 500 g de rhubarbe (de préférence décongelée : elle sera moins acide)
 * quelques framboises
@@ -56,7 +55,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 2 pommes
 * 150 g de sucre
 
-### Préparation
+##### Préparation
 * Préchauffer le four à 200°C.
 * Beurrer un plan allant au four.
 * Eplucher et couper la rhubarbe et les pommes en gros dés, les déposer dans le fond du plat.
@@ -68,8 +67,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Voir le vin d'accompagnement ci-dessus.
 
 #### **Croustade "poires, chocolat"**
-
-### Ingrédients
+##### Ingrédients
 * 375 g de pâte sablée à l'avoine (voir préparation ci-dessus).
 * 6 poires
 * 275 g de sucre
@@ -82,7 +80,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 40 g de noix de pécan
 * 80 g de chocolat en pépite
 
-### Préparation
+##### Préparation
 * Préchauffer le four à 180°C.
 * Beurrer un plan allant au four.
 * Eplucher les poires, couper les en deux et arroser les de jus de citron.

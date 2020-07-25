@@ -670,6 +670,10 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         for line_ in line2p:
             
+            percentnumbers = re.findall(r'\d+(?=%)', line_)
+            if len(percentnumbers) > 0:
+                for percentnumber in percentnumbers:
+                    line_ = line_.replace( '{:s}%'.format(percentnumber) ,'{:s}\%'.format(percentnumber) )
 
             if '../img/recette/' in line_:
                 final2_lines.append(line_)
@@ -679,7 +683,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 final2_lines.append(line_)
             else:
                 final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
-
+            
 
     #if 'sangl' in recipName: sys.exit()        
 
