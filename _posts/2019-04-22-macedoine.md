@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macédoine de légumes et oeufs à la russe
+title: Macédoine de légumes et œufs à la russe
 tag_category: famille
 tag_plat: entree
 image: img/recette/macedoine.png
@@ -17,7 +17,7 @@ Cette entrée est un régal dès que commence la saison des haricots verts, des 
 * 200 g d'haricots verts
 * 200 g de carottes
 * 200 g de pommes de terre
-* 4 oeufs
+* 4 œufs
 * 4 filets d'anchois à l'huile
 * un bol de mayonnaise (voir notes)
 
