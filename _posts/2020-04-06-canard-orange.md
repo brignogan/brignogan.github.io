@@ -40,21 +40,16 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 * Baisser le four à 180°C et continuer la cuisson pendant 40 mn. Arroser le canard toutes les 10 mn.      
 
 #### Préparation de la sauce :
-* Eplucher les 2 oranges qui restent et préparer une julienne avec les zestes. Faire blanchir cette julienne 5 mn dans l'eau bouillante. Réserver
-* Découper les oranges en tranches.
-* Préparer un caramel blond avec le sucre et un peu d'eau. Stopper la coloration en ajoutant le vinaigre puis le cointreau. Réserver
-* A la fin de la cuisson au four, récupérer le jus dans une casserole et réserver le canard dans la terrine dans le four éteint.
-* Ajouter dans la casserole le reste du fumet en pressant les abattis et la julienne de zestes blanchis.
-* Ajouter à la sauce 50 g de beurre et laisser mijoter.
+* Eplucher les 2 oranges qui restent, les découper en tranches et les faire dorer dans un peu de beurre. Préparer une julienne avec les zestes et la faire blanchir 5 mn dans l'eau bouillante. Réserver le tout.
+* Préparer un caramel blond avec le sucre et un peu d'eau. Stopper la coloration en ajoutant le vinaigre puis le cointreau. Réserver.
+* A la fin de la cuisson au four, en réservant le canard dans la terrine et dans le four éteint, récupérer le jus dans une casserole et y ajouter le reste du fumet en pressant les abattis, la julienne de zestes blanchis et 50 g de beurre. Laisser mijoter.
 * Pendant ce temps, découper le canard et disposer les morceaux et les tranches d'orange sur un plat chaud.
 * Verser dans la casserole le mélange caramel/cointrau et donner un bouillon. Goûter la sauce et rectifier l'assaisonnement.
-* Verser un peu de sauce sur le canard.
-* Servir le canard accompagné de pommes frites ou de pommes duchesse et du reste de sauce en saucière.
+* Verser un peu de sauce sur le canard et le servir accompagné de pommes frites ou de pommes duchesse avec le reste de sauce en saucière.
 
 ### Vins
 * Vin rouge : Cornas (Cave de Tain, Arènes Sauvages), Pommard (Domaine Philippe Girard, Vieilles Vignes), Hermitage (Cave de Tain, Gambert de Loche), Corton	(Domaine Philippe Girard, Les Perrières).
 * Vin blanc : Sauternes (Château Haut-Bergeron).
-
 
 ### Notes
 * On peut réaliser cette recette avec des cuisses ou des filets de canard.
