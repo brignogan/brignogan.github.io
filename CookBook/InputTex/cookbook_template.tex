@@ -63,6 +63,9 @@
 
 \raggedbottom
 
+%\usepackage{titlesec}
+%\titlespacing*{\subsubsection}{0pt}{\baselineskip}{.5*\baselineskip}
+
 \usepackage[thumblink=rule,
 			linefill=dots,
 			height={30pt},           % height of the marker
@@ -212,7 +215,7 @@
 \newcommand{\showtime}[5]{
 	\noindent
 	\begin{minipage}[t]{.38\textwidth}
-	\vspace{0pt}
+	\vspace{-\abovedisplayskip}
 	\preptime{ #1 }
 	\cooktime{ #2 }
 	\chilltime{ #3 }
@@ -222,7 +225,7 @@
 	\if###5##
     \else
 		\begin{minipage}[t]{.6\textwidth}
-		\vspace{0pt}
+	    \vspace{-\abovedisplayskip}
 		\includegraphics[width=\linewidth]{#5}%
 		\end{minipage}
 	\fi
@@ -233,7 +236,7 @@
     \noindent
 	%\begin{minipage}[t]{.38\textwidth}
 	\begin{minipage}[t]{\textwidth}
-	\vspace{0pt}
+	\vspace{-.7\abovedisplayskip}
 	\noindent
 	\if###2##
     \else

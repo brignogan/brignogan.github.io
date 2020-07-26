@@ -5,7 +5,7 @@
 {recipeMMimg}
 
 \showit{recipeMMimg}{recipeMMintro}
-\vskip 3mm
+\vskip 1.5mm
 
 recipeMMSubTitle
 

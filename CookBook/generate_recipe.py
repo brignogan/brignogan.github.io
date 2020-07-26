@@ -629,15 +629,21 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         extra_prep[ii].append(line_.replace('*','').rstrip())
                     
                 for ii, extra_name_ in enumerate(extra_name):
-                    line2p_ += '\\begin{minipage}{\\textwidth}\n'
-                    line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
+                    flag_noIngr = True
                     if len(extra_ingredient[ii])> 0:
+                        flag_noIngr = False
+                        line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                        line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
                         line2p_ += '\\begin{petitingreds} \n'
                         for line__ in extra_ingredient[ii]:
                             line2p_ += line__ + '\n'
                         line2p_ += '\\end{petitingreds} \n'
+                        line2p_ += '\\end{minipage}'
+                        line2p_ += '\\par \n'
+                        line2p_ += '\\medskip'
                     else:
-                         line2p_ += '\\par \n'
+                        line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                        line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
                     if len(extra_prep[ii]) > 1:
                         line2p_ += '\\begin{petitprep} \n'
                         for line__ in extra_prep[ii]:
@@ -649,8 +655,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                             line2p_ += '\\par' + line__ + '\n'
                         line2p_ += '\\end{petitprep_noNumber} \n'
                     
+                    if flag_noIngr:
+                        line2p_ += '\\end{minipage}'
+                        line2p_ += '\\par \n'
+                    
                     line2p_ += '\\bigskip'
-                    line2p_ += '\\end{minipage}'
                     if (len(recipeMMextra)>1) & (ii < len(recipeMMextra)-1): line2p_ += '\n'
                     
                  
