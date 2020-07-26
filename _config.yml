@@ -14,3 +14,6 @@ permalink:        pretty
 
 # Build settings
 markdown: kramdown
+
+#google analytics
+google_analytics: UA-173536521-1
