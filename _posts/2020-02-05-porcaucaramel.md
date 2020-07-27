@@ -8,12 +8,12 @@ temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: porc (poitrine), oignon, œuf, caramel, nioc-mam
+index_motClefIngredient: poitrine de porc | porc!poitrine, oignon, œuf, caramel, nioc-mam
 ---
 Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie vietnamienne. Pendant notre séjour commun à Rabat, nous avons beaucoup cuisiné ensemble et pris beaucoup de plaisir à découvrir et faire découvrir nos plats traditionnels.
 
 ### Ingrédients
-* 1 kg de poitrine fraîche et maigre de porc
+* 1 kg de poitrine de porc (fraîche et le plus maigre possible)
 * 1 gros oignon
 * 6 oeufs
 * 10 morceaux de sucre

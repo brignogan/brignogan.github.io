@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 120
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: veau (langue), carotte, céleri, sauce gribiche
+index_motClefIngredient: langue de veau | veau!langue, carotte, céleri, sauce gribiche
 ---
 En Bretagne, la langue de veau était considérée comme un mets délicat et systématiquement servie en entrée dans les repas de fête (mariage) et traditionnellement, elle était alors préparée à la sauce madère. Plus légèrement, elle est servie avec une sauce gribiche et était souvent au menu de Grand-mère Saint-Pierre.
 
