@@ -19,16 +19,28 @@ La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes
 * ¼ L d’huile de tournesol
 * sel et poivre
 
-#### pour le poisson-mayonnaise :
-* lieu jaune
-
 ### Préparation (voir la video en note)
 * Placer le jaune d'oeuf dans un bol avec la moutarde et bien mélanger.
 * Faire monter la mayonnaise en versant par petites quantité l'huile et en remuant constamment.
 * Il faut verser au moins 200 mL d'huile pour avoir une bonne consistance. Au-delà de 250 mL, on risque de faire tomber la mayonnaise (l'émulsion se casse et l'huile et l'oeuf se dissocient).
 
+#### **Lieu-mayonnaise**
+Le lieu jaune-mayonnaise était un plat traditionnel pour les repas maigres du vendredi et reste un repas de poisson basique pour les menus "de tous les jours".  
+
+### Ingrédients (pour 4 personnes)
+* 600 g de lieu jaune
+* 1 oignon
+* vinaigre de cidre
+* persil, romarin
+* sel, poivre
+* un bol de mayonnaise
+
+### Préparation
+* Préparer un court-bouillon dans une grande casserole en faisant bouillir de l'eau salée à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil, un brin de romarin et du poivre. Laisser bouillonner quelques minutes.
+* Mettre à cuire le morceau de lieu jaune pendant 20 mn.
+* Servir avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
+
+
 ### Notes
 * La préparation de la mayonnaise est présentée ci-dessous.{%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
 Cette démonstration est réalisée par Guigui.
-
-* Un plat traditionnel pour les repas maigres du vendredi est le lieu jaune-mayonnaise : préparer un court-bouillon (une grande casserole d'eau salée bouillante à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil et un brin de romarin); y cuire un beau morceau de lieu jaune pendant 20 mn; servir avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
