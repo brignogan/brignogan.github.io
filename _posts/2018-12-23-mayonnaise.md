@@ -8,7 +8,7 @@ temps_preparation: 15
 temps_cuisson: '-'
 temps_repos: ‘-‘
 nbre_personne: ‘-’
-index_motClefIngredient: œuf
+index_motClefIngredient: œuf, lieu jaune
 index_motClefBase: mayonnaise
 ---
 La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes, langoustines, homards), les poissons, les oeufs durs, les légumes et les viandes froides.
@@ -18,6 +18,9 @@ La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes
 * 1/2 c. à s. de moutarde
 * ¼ L d’huile de tournesol
 * sel et poivre
+
+#### pour le poisson-mayonnaise :
+* lieu jaune
 
 ### Préparation (voir la video en note)
 * Placer le jaune d'oeuf dans un bol avec la moutarde et bien mélanger.
