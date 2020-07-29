@@ -25,6 +25,10 @@ La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes
 * Il faut verser au moins 200 mL d'huile pour avoir une bonne consistance. Au-delà de 250 mL, on risque de faire tomber la mayonnaise (l'émulsion se casse et l'huile et l'oeuf se dissocient).
 
 ### Notes
-* La préparation de la mayonnaise est présentée ci-dessous. {%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
-Cette démonstration est réalisée par Guigui.
-* Pour la préparation du lieu-mayonnaise, réaliser un court-bouillon dans une grande casserole en faisant bouillir de l'eau salée à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil, un brin de romarin et du poivre, laisser bouillonner quelques minutes puis y cuire un morceau de lieu jaune (600 g pour 4 personnes) pendant 20 mn, servir le poisson avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
+* La préparation de la mayonnaise est présentée ci-dessous. Cette démonstration est réalisée par Guigui. {%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
+
+Préparation du lieu-mayonnaise :
+* Compter 600 g de lieu jaune pour 4 personnes. Il n'est pas nécessaire d'écailler le poisson.
+* Réaliser un court-bouillon dans une grande casserole en faisant bouillir de l'eau salée à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil, un brin de romarin et du poivre. Laisser bouillonner quelques minutes à couvert.
+* Plonger dans ce court-bouillon le morceau de lieu jaune et cuire, toujours à couvert et à petits bouillons, pendant 20 mn.
+* Egoutter le poisson, enlever la peau et servir avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
