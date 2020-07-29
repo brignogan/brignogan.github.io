@@ -479,6 +479,7 @@ if __name__ == '__main__':
         vinDictionary2 = pickle.load(open(dir_out+'vinDictionary_fromWebSiteParsing.pickle', 'r'))
     except: 
         vinDictionary2 = {}
+    list_vin_noRecipies = []
     for index, vin in listVins.iterrows():
         
         flag_igp = 0
@@ -658,6 +659,7 @@ if __name__ == '__main__':
             for recipe in vinDictionary2[key]:
                 listRecipies_here += '{:s}, '.format(recipe)
         listRecipies_here = listRecipies_here[:-2]+'.'
+        if listRecipies_here == '.': list_vin_noRecipies.append([vin.DomaineChateau, vin.Couleur, vin.Appelation, vin.Cuvee])
         vin_Appelation = vin.Appelation  if (flag_igp == 0) else vin.Appelation + ' (IGP)'
         final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}}'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
         final2_lines.append(u'\\par \n')
@@ -688,6 +690,14 @@ if __name__ == '__main__':
     #save file
     f= io.open(dir_out+"vin.tex","w", encoding='utf-8')
     for line in final1_lines+final2_lines+final3_lines:
+        f.write( line.decode('utf-8') )
+    f.close()
+
+    #save file with wine that did not get recipies
+    f= io.open(dir_out+"listVin_noRecipies.csv","w", encoding='utf-8')
+    f.write( '{:s}, {:s}, {:s}, {:s}, \n'.format('domaine', 'couleur', 'appellation', 'cuvee').decode('utf-8') )
+    for [domain, couleur, app, cuvee] in list_vin_noRecipies :
+        line = '{:s}, {:s}, {:s}, {:s}, \n'.format(domain, couleur, app, cuvee)
         f.write( line.decode('utf-8') )
     f.close()
 
