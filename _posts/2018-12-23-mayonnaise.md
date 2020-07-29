@@ -42,5 +42,4 @@ Le lieu jaune-mayonnaise était un plat traditionnel pour les repas maigres du v
 
 
 ### Notes
-* La préparation de la mayonnaise est présentée ci-dessous.{%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
-Cette démonstration est réalisée par Guigui.
+* La préparation de la mayonnaise est présentée ci-dessous. Cette démonstration est réalisée par Guigui.{%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
