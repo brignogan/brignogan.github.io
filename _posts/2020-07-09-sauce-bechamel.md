@@ -31,11 +31,5 @@ Le sauce béchamel est la base de nombreuses recettes comme les endives au jambo
 * Saler et poivrer.
 
 ### Notes
-Pour préparer des endives au jambon :
-* Cuire les endives à la vapeur
-* Enrouler chacune dans une tranche de jambon.
-* Dans un plat beurré, verser un fond de sauce béchamel sur lequel on pose les endives au jambon.
-* Napper le tout avec le reste de sauce et saupoudrer de gruyère
-* Passer le plat au gril quelques minutes.
-
-La sauce béchamel est très utile pour accommoder les restes. Grand-Mère Saint-Pierre servait ainsi les restes de poulets, de poissons ou d'oeufs durs nappés de cette sauce, saupoudrés de gruyère et gratinés au four.   
+* Pour préparer des endives au jambon : cuire les endives à la vapeur; enrouler chacune dans une tranche de jambon; dans un plat beurré, verser un fond de sauce béchamel et déposer les endives au jambon; napper le tout avec le reste de sauce et saupoudrer de gruyère; passer le plat au gril quelques minutes.
+* La sauce béchamel est très utile pour accommoder les restes. Grand-Mère Saint-Pierre servait ainsi les restes de poulets, de poissons ou d'oeufs durs nappés de cette sauce, saupoudrés de gruyère et gratinés au four.   
