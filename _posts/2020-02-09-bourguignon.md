@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 120
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: bœuf (paleron), carotte, oignon, ail, lard fumé, champignon, vin
+index_motClefIngredient: paleron de bœuf | bœuf!paleron, carotte, oignon, ail, lard fumé, champignon, vin
 ---
 Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est un plat typique de la cuisine bourgeoise. Comme la blanquette, c'est un plat très apprécié en hiver. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
 

@@ -8,6 +8,7 @@ temps_preparation: 45
 temps_cuisson: 75
 temps_repos: 1200
 nbre_personne: ‘pour 6 pots’
+index_motClefIngredient: pomme, orange, cannelle
 ---
 La gelée de pommes et oranges a été mise au point pour utiliser les pommes du jardin de Saint-Pierre qui tapissaient la pelouse à la fin de l'été. Elle est maintenant préparée avec les pommes du jardin de notre voisin, Jop Malgorn, qui nous en offre chaque année.
 
