@@ -36,4 +36,4 @@ La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'autom
 * Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Tokay (Domaine Diznoko, Tokaji Aozu).
 
 ### Notes
-* Le fond de tarte peut se faire avec une fine pâte brisée suivant la recette de Hahn Faucheu. Celle-ci est décrite pour la tarte au citron.
+* Le fond de tarte peut se faire avec une fine [pâte brisée]({% post_url 2020-04-20-tarte-citron %}) suivant la recette de Hahn Faucheu, décrite pour la tarte au citron.

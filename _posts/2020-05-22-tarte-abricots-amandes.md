@@ -34,4 +34,4 @@ Dès que les fruits d'été ré-apparaissent, la tarte aux abricots et amandes v
 * Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron), Tokay (Domaine Diznoko, Tokaji Aozu).
 
 ### Notes
-* Le fond de tarte peut se faire avec une fine pâte brisée suivant la recette de Hahn Faucheu. Celle-ci est décrite pour la tarte au citron.
+* Le fond de tarte peut se faire avec une fine [pâte brisée]({% post_url 2020-04-20-tarte-citron %}) suivant la recette de Hahn Faucheu, décrite pour la tarte au citron.
