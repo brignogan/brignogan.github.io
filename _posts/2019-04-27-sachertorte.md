@@ -42,9 +42,10 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 
 #### Idéalement préparer l'intégralité du gâteau (jusqu'au glaçage) 12 h avant.
 
-* Séparer les jaunes et les blancs d'oeuf.
+* Préchauffer le four à 160°C.
 * Dans une terrine, mélanger le beurre ramolli avec le sucre glace jusqu'à ce que cela fasse une crème.
-* Y ajouter les jaunes d’œufs et le sucre vanillé.
+* Séparer les jaunes et les blancs d'oeuf.
+* Ajouter les jaunes d’œufs et le sucre vanillé au mélange beurre-sucre glace.
 * Faire fondre le chocolat au bain-marie (utiliser un contenant suffisamment grand pour qu'il repose sur les bords de la casserole contenant l'eau chaude : il ne faut pas que l'eau chaude ou la vapeur entre dans le chocolat. Si des grumeaux se dorment dans le chocolat, rajouter un peu d'eau froide. Le chocolat ne doit pas monter au-delà de 40°C).
 * Mélanger le chocolat fondu au reste de la préparation.
 * Monter les blancs en neige, incorporer le sucre en poudre. Battre bien ferme puis incorporer délicatement à la préparation.

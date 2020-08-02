@@ -25,7 +25,8 @@ La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes
 * Il faut verser au moins 200 mL d'huile pour avoir une bonne consistance. Au-delà de 250 mL, on risque de faire tomber la mayonnaise (l'émulsion se casse et l'huile et l'oeuf se dissocient).
 
 ### Notes
-* La préparation de la mayonnaise est présentée ci-dessous. Cette démonstration est réalisée par Guigui. {%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
+* La préparation de la mayonnaise est présentée ci-dessous. {%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
+Cette démonstration est réalisée par Guigui.
 
 Préparation du lieu-mayonnaise :
 * Compter 600 g de lieu jaune pour 4 personnes. Il n'est pas nécessaire d'écailler le poisson.
