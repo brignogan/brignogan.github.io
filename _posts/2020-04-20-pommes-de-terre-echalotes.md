@@ -3,7 +3,7 @@ layout: post
 title: Patates disec'h
 tag_category: bretagne
 tag_plat: platLegume
-image: img/recette/untitled.png
+image: img/recette/patates.png
 temps_preparation: 15
 temps_cuisson: 30
 temps_repos: ‘-‘
