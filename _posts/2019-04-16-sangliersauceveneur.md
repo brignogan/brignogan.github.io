@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 120
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: sanglier (cuissot), vin, carotte, ail, oignon
+index_motClefIngredient: sanglier (cuissot), vin, oignon
 index_motClefBase: sauce grand veneur
 ---
 Cette recette a été inaugurée avec un rôti de sanglier offert par les collègues chasseurs de Maëlle sur le barrage de Castillon dans les Alpes de Haute-Provence. Ca a été l'occasion de tenter la préparation de la sauce grand veneur qui accommode à merveille le gibier.
@@ -50,7 +50,7 @@ Cette recette a été inaugurée avec un rôti de sanglier offert par les collè
 * Laisser mijoter pendant 1h30 à couvert.
 * Au bout de ce temps, enlever les légumes et les os, faire réduire la sauce d’un tiers et ajouter 4 cuillères à soupe de gelée de groseille.
 * Délayer la maïzéna dans un peu d’eau froide et lier la sauce progressivement avec ce mélange.
-* Rectifier l’assaisonnement et ajouter une cuillère soupe de crème fraîche.
+* Rectifier l’assaisonnement et ajouter une cuillère à soupe de crème fraîche.
 * Servir le rôti avec des marrons et une purée de céleri.
 
 ### Vins
