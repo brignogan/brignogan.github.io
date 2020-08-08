@@ -34,3 +34,6 @@ Cette recette pour préparer les calamars (ou encornets) a été rapportée par 
 ### Vins
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique), Pessac-Léognan (Domaine de la Solitude).
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
+
+### Notes
+* On peut laisser mijoter les calamars, plus ils cuisent, plus ils s'attendrissent.
