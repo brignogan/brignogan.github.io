@@ -14,46 +14,63 @@
 
 
 \newcommand{\vinShowInfoDomain}[3]{
-	\noindent
-	\begin{minipage}{\textwidth}
+	\vspace{-0.1cm}
+	\begin{minipage}[t]{.4\linewidth}
 	\vspace{0pt}
-		\begin{tabular}{l p{7.5cm} }
-		Producteur:     & {#1}\\
-		Adresse:        & {#2}\\
+		\begin{tabular}{p{3.8cm}}
+		\textbf{Producteur}:\\     
+		{#1}\\
+		\vspace{0.8pt}
+		\textbf{Adresse}:\\
+		{#2}\\
 	\end{tabular}
-	\end{minipage}		
-	\par
-	\hfill
-	\vspace{2pt}
-	\begin{figure}[!h]
-		\includegraphics[width=\textwidth]{#3}
-	\end{figure}
+	\end{minipage}	
+	\begin{minipage}[t]{.6\linewidth}
+	%\par
+	%\hfill
+	%\vspace{2pt}
+	%\begin{figure}[!h]
+	%\raisebox{-\height+0.7\baselineskip}{\includegraphics[width=\linewidth]{#3}}
+	%\strut\vspace*{-.3\baselineskip}\newline\includegraphics[width=\linewidth]{#3}
+	\centering\raisebox{\dimexpr-\height}{\includegraphics[width=\linewidth]{#3}}
+%\includegraphics[width=\linewidth]{#3}
+	%\end{figure}
+	\end{minipage}	
 	\par
 	}
+
 \newcommand{\vinShowCouleur}[1]{
 	\noindent
-	\begin{minipage}[t]{.3\textwidth}
+	%\begin{minipage}[t]{.3\textwidth}
 	%\begin{tcolorbox}[width=.3\textwidth,]
 		{\color{orangecolor}\textbf{#1}}
 	%\end{tcolorbox}
-	\end{minipage}	
-	\hfill
+	%\end{minipage}	
+	%\hfill
 	\vspace{6pt}
 	}
 
 \newcommand{\vinShowInfoAppellation}[4]{
 	\noindent
-	\begin{minipage}[t]{\textwidth}
+	\begin{tcolorbox}[width=\textwidth, breakable,blanker]
+	%\begin{minipage}[t]{\textwidth}
 	{\textbf{#1}}%
-	\vspace{1pt}
-	\end{minipage}		
-	\begin{minipage}[t]{\textwidth}
-		\begin{tabular}{l p{8cm} }
-		Cuv\'ee :  &{#2}\\ 
-		C\'epage : &{#3}\\
-		Recette:   &{#4}\\
+	\hfill
+	\vspace{.07cm}
+	%\end{minipage}		
+	%\begin{minipage}[t]{\textwidth}
+		\begin{tabular}{p{1.4cm} p{8cm} }
+			Cuv\'ee :  &{#2}\\
 		\end{tabular}
-	\end{minipage}		
+		\begin{tabular}{p{1.4cm} p{8cm} }
+			C\'epage : &{#3}\\
+		\end{tabular}
+		\begin{tabular}{p{1.4cm} p{8cm} }
+			Recette:   &{#4}\\
+		\end{tabular}
+	\end{tcolorbox}	
+	\vspace{.1cm}
+	%\end{minipage}		
 	}
 
 %\setlength{\ellipsisgap}{0.02em}

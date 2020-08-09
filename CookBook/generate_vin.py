@@ -421,6 +421,7 @@ if __name__ == '__main__':
         mpl.rcParams['mathtext.fontset'] = 'stix'
         mpl.rcParams['font.family'] = 'STIXGeneral'
         mpl.rcParams['font.size'] = 13
+        mpl.rcParams['legend.fontsize'] = 9
         mpl.rcParams['figure.subplot.hspace'] = 0.0
         mpl.rcParams['figure.subplot.wspace'] = 0.0
         fig = plt.figure(figsize=(x_image,x_image*ratio),facecolor='.8')
@@ -528,9 +529,9 @@ if __name__ == '__main__':
                 if tmp_ != '':
                     address2.append(tmp_)
             if ''.join(address2[:-1]) == '':
-                address3 = '{:05.0f} {:s}'.format( vin['Code postal'], address2[-1])
+                address3 = '{:s} {:05.0f}'.format(  address2[-1], vin['Code postal'] )
             else:
-                address3 = '{:s}\\newline{:05.0f} {:s}'.format( ' '.join(address2[:-1]), vin['Code postal'], address2[-1])
+                address3 = '{:s} \\newline {:s} {:05.0f}'.format( ' '.join(address2[:-1]),  address2[-1], vin['Code postal'])
             
             
             #plot
@@ -555,20 +556,21 @@ if __name__ == '__main__':
                 mpl.rcParams['mathtext.fontset'] = 'stix'
                 mpl.rcParams['font.family'] = 'STIXGeneral'
                 mpl.rcParams['font.size'] = 20
+                mpl.rcParams['legend.fontsize'] = 18
                 mpl.rcParams['figure.subplot.left'] = .0
                 mpl.rcParams['figure.subplot.right'] = 1.
                 mpl.rcParams['figure.subplot.top'] = 1.
                 mpl.rcParams['figure.subplot.bottom'] = .0
                 mpl.rcParams['figure.subplot.hspace'] = 0.02
                 mpl.rcParams['figure.subplot.wspace'] = 0.02
-                fig = plt.figure(figsize=(2.*x_image,x_image*ratio))#,facecolor='.8')
+                fig = plt.figure(figsize=(x_image,x_image*ratio))#,facecolor='.8')
                 #plt.subplots_adjust(left=0.0,right=.66,top=1,bottom=0.0,wspace=0.15,hspace=0.05)
                 
-                ax = fig.add_axes([0.01,0.01, 0.48,.98])
+                ax = fig.add_axes([0.01,0.01, 0.98,.98])
                 ax.set_xticks([])
                 ax.set_yticks([])
                 #--
-                bx = fig.add_axes([0.51,0.01, 0.48,0.98])
+                bx = fig.add_axes([0.72,0.02, 0.26,0.26])
                 bx.set_xticks([])
                 bx.set_yticks([])
 
@@ -615,7 +617,7 @@ if __name__ == '__main__':
         if section_couleur != vin.Couleur:
             print '    ', vin.Couleur
             #final2_lines.append('\n')
-            final2_lines.append(u'\\vinShowCouleur{{{:s}}}\n'.format(vin.Couleur))
+            final2_lines.append(u'\n \\vinShowCouleur{{{:s}}}\n'.format(vin.Couleur))
             final2_lines.append(u'%--------------\n')
             section_couleur = vin.Couleur
             newCouleur = 1
@@ -661,8 +663,8 @@ if __name__ == '__main__':
         listRecipies_here = listRecipies_here[:-2]+'.'
         if listRecipies_here == '.': list_vin_noRecipies.append([vin.DomaineChateau, vin.Couleur, vin.Appelation, vin.Cuvee])
         vin_Appelation = vin.Appelation  if (flag_igp == 0) else vin.Appelation + ' (IGP)'
-        final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}}'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
-        final2_lines.append(u'\\par \n')
+        final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
+        #final2_lines.append(u'\n \\vspace{.05cm} \n')
       
         #create_dictionary
         vinDictionary[key] = []
