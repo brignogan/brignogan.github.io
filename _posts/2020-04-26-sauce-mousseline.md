@@ -23,7 +23,7 @@ Cette sauce est idéale pour accompagner les asperges blanches (voir notes) mais
 
 ### Notes
 Pour la préparation des asperges blanches à la sauce mousseline :
-* Eplucher les asperges et les couper à la taille d'une grande casserole. Ficeler l'ensemble des asperges en fagot avec de la ficelle à rôti comme représenté ci-dessous.{% include image.html file="/img/recette/asperges-schema.png" alt="comment ficeller les asperges" caption= "Comment ficeller les asperges." %}
+* Eplucher les asperges et les couper à la taille d'une grande casserole. Ficeler l'ensemble des asperges en fagot avec de la ficelle à rôti comme représenté ci-dessous.{% include image.html file="/img/recette/asperges-schema.png" alt="comment ficeller les asperges" caption= "Comment ficeller les asperges." width=300 %}
 * Cuire 20 mn dans l'eau bouillante salée.
 * Egoutter et déposer les asperges sur un plat long recouvert d'un papier absorbant. Déficeler.
 * Les asperges se servent tièdes avec la sauce mousseline.
