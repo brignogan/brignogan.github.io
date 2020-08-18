@@ -8,7 +8,7 @@ temps_preparation: 25
 temps_cuisson: 40
 temps_repos: 300
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte à savarin, rhum
+index_motClefIngredient: rhum
 index_motClefBase: pâte à savarin
 ---
 Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de Ginette Mathiot. Indéniablement plus compliquée que celle du baba express de Grand-mère Ploudaniel, elle donne quand même un meilleur résultat pour la pâte à savarin.

@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: petit pois, carotte, oignon
+index_motClefIngredient: petit pois, carotte
 ---
 Quand les petits pois et les carottes nouvelles arrivent sur les étales du marché au printemps, cette poêlée classique est un régal. Elle accompagne les viandes blanches (veau, porc).
 

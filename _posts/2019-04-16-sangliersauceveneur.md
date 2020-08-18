@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 120
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: sanglier (cuissot), vin, oignon
+index_motClefIngredient: sanglier (cuissot), vin
 index_motClefBase: sauce grand veneur
 ---
 Cette recette a été inaugurée avec un rôti de sanglier offert par les collègues chasseurs de Maëlle sur le barrage de Castillon dans les Alpes de Haute-Provence. Ca a été l'occasion de tenter la préparation de la sauce grand veneur qui accommode à merveille le gibier.

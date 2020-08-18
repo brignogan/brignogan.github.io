@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 50
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: lotte, échalote, céleri, carotte, crème fraîche, poivre vert
+index_motClefIngredient: lotte, céleri, carotte, poivre vert
 ---
 C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat de lotte.  Pour cuisiner les produits de la "godaille" de ses amis pécheurs, Michelle déborde, en effet, d'idées.
 

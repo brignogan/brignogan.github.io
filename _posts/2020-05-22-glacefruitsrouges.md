@@ -8,7 +8,7 @@ temps_preparation: 60
 temps_cuisson: '-'
 temps_repos: 120
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: fraise, framboise, cassis, crème fraîche, sucre, citron
+index_motClefIngredient: fraise, framboise, cassis, citron
 ---
 Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pella, était planté de rhubarbe, fraisiers, framboisiers et cassissiers. La pleine récolte avait lieu en juin et juillet juste quand on arrivait en vacances. Grand-Mère faisait de la confiture de rhubarbe et de la confiture de fraise mais aussi une glace aux fruits rouges. Si elle n'aimait pas beaucoup la confiture, elle se serait damnée pour de la glace.
 

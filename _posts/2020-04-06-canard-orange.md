@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: canard, oignon, tomate, orange, citron, cointreau, caramel
+index_motClefIngredient: canard, orange, citron, cointreau
 ---
 A la fin des années 80, il y avait une émission culinaire intitulée "Walima" à la télévision marocaine. Dédiée à la cuisine marocaine, cette émission accueillait aussi des grands chefs internationaux pour présenter leurs recettes classiques. C'est ainsi que cette recette du canard à l'orange a été découverte à Agadir.  
 

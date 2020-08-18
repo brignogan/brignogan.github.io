@@ -8,8 +8,8 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte brisée, crème au citron, meringue
-index_motClefBase: pâte brisée, crème au citron, meringue
+index_motClefIngredient: citron
+index_motClefBase: pâte brisée, meringue
 ---
 La tarte au citron est, chaque année, le dessert incontournable du menu du repas d'anniversaire de Maëlle. La pâte brisée est réalisée avec la recette de notre amie Hahn Faucheu qui est tout aussi bonne pâtissière que bonne cuisinière.
 

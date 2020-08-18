@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte sablée à l’avoine, pomme, citron, cannelle, rhubarbe, framboise, cassis, poire, chocolat
+index_motClefIngredient: pomme, citron, cannelle, rhubarbe, framboise, cassis, poire, chocolat
 index_motClefBase: pâte sablée à l’avoine
 ---
 La croustade (le crumble en anglais) est un dessert typiquement québécois. Cette recette vient de Babette qui est partie, depuis les années 80, exercer son métier de sage-femme sur les rives du Saint-Laurent. La base du gâteau est une pâte sablée à l'avoine. Plusieurs variantes existent suivant les fruits utilisés : pommes, rhubarbe-franboise-cassis, poire-chocolat. La préparation-type est détaillée pour la recette de la croustade aux pommes.
