@@ -8,6 +8,7 @@ temps_preparation: 10
 temps_cuisson: 10
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
+index_motClefBase: sauce beurre blanc
 ---
 Le beurre blanc est la sauce idéale pour accompagner les poissons.
 

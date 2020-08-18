@@ -8,7 +8,7 @@ temps_preparation: 15
 temps_cuisson: '-'
 temps_repos: ‘-‘
 nbre_personne: ‘-’
-index_motClefIngredient: œuf, lieu jaune
+index_motClefIngredient: lieu jaune
 index_motClefBase: mayonnaise
 ---
 La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes, langoustines, homards), les poissons, les oeufs durs, les légumes et les viandes froides. En exemple, on peut noter le lieu jaune à la mayonnaise qui était un plat traditionnel pour les repas maigres du vendredi et qui reste un repas de poisson basique pour les menus "de tous les jours" (voir notes).
