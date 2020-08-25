@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 90
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: poulet, coriandre, gingembre, safran, citron, citron confit, olive verte
 ---
 Cette recette est un grand classique de la cuisine marocaine et le meilleur que nous n'ayons jamais mangé était servi dans le petit restaurant à l'entrée des ruines de Volubilis.
 
@@ -18,7 +19,7 @@ Cette recette est un grand classique de la cuisine marocaine et le meilleur que 
 * 1 grosse gousse d’ail
 * 1 c. à c. de gingembre en poudre
 * 4-5 pistils de safran
-* 1/3 de sachet de colorant alimentaire
+* 1/3 de sachet de colorant alimentaire (voir note)
 * 1/2 citron frais
 * 1 citron confit (dans le sel)
 * 1 trentaine d'olives vertes dénoyautées
@@ -41,3 +42,4 @@ Cette recette est un grand classique de la cuisine marocaine et le meilleur que 
 * Le poulet peut être rôti à la cocotte.
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+* Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
