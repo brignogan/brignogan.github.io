@@ -110,6 +110,13 @@ def parseVinList(string):
 
 
     return out 
+
+def add_graphics(line2p_,imageDir,img_path):
+    width_ = 1.
+    if recipName == 'sauce mousseline': width_ = .35
+    line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
+                                 +  '\\end{center} \n \\par '                     
+    return line2p_
     
 parser = argparse.ArgumentParser(description='generate cookboo.tex and run latex')
 parser.add_argument('-l','--flag_latex',required=False)
@@ -408,7 +415,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             flag_env = 0
             recipeMMinstruction_next = recipeMMinstruction[1:]; recipeMMinstruction_next.append('\n')
             for i, [line_,line_next] in enumerate(zip(recipeMMinstruction,recipeMMinstruction_next)):
-                
+                flag_img = False
+                if len(line_.split('{% include ')) > 1: 
+                    line_2 = line_.split('{% include')[1].strip().split('%}')[0]
+                    img_path    = get_var_from_include_image('file')
+                    img_caption = get_var_from_include_image('caption') 
+                    line_ = add_graphics(line_.split('{% include')[0].strip(),imageDir,img_path)
+
                 if len(line_.split(']({% post_url ')) > 1: 
                     line_3 = ' ' + line_.split('%})')[1].strip()
                     #get link
@@ -545,12 +558,6 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             line2p.append(line.replace('recipeMMvin', line2p_.rstrip()))
             flag_modified = 1
       
-        def add_graphics(line2p_,imageDir,img_path):
-            width_ = 1.
-            if recipName == 'sauce mousseline': width_ = .35
-            line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
-                                         +  '\\end{center} \n \\par '                     
-            return line2p_
 
 
         if 'recipeMMnote' in line: 
