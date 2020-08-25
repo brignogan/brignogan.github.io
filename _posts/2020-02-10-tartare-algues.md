@@ -8,6 +8,7 @@ temps_preparation: 10
 temps_cuisson: '-'
 temps_repos: 720
 nbre_personne: ‘-’
+index_motClefIngredient: algue séchée
 ---
 Ce condiment se marie très bien avec les plats de poisson et permet de préparer des toasts pour accompagner un apéritif ou une entrée.
 

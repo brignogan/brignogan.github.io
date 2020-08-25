@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: 30
 nbre_personne: ‘pour 8 personnes’
+index_motClefBase: pâte brisée
 ---
 La recette de ce gâteau, dont la base est une pâte brisée, vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau. Le gâteau breton est souvent servi au goûter avec un vin de dessert, un thé ou un café.
 

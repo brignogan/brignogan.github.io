@@ -8,12 +8,13 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: saint-jacques, algue séchée, rhum, orange, citron
 ---
-Coquillage d'hiver, la Saint-Jacques peut se préparer avec bonheur accompagnée d'agrumes. Elle est ainsi au menu de beaucoup de restaurants et c'est grâce aux dégustations de Ronan, grand amateur de tables étoilées, que nous avons mis au point cette recette.
+Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée d'agrumes. Elle est ainsi au menu de beaucoup de restaurants et c'est grâce aux dégustations de Ronan, grand amateur de tables étoilées, que nous avons mis au point cette recette.
 
 ### Ingrédients
-* 16 noix de Saint Jacques
-* les barbes de Saint Jacques
+* 16 noix de saint-jacques
+* les barbes de saint-jacques
 * 60 g de beurre ½ sel
 * 2 échalotes
 * 1 gousse d’ail
@@ -34,7 +35,7 @@ Coquillage d'hiver, la Saint-Jacques peut se préparer avec bonheur accompagnée
 * Faire cuire le riz.
 * Faire chauffer le four à 50°C.
 * Filtrer le fumet avec un chinois. Conserver le filtrat et réserver le hachis de barbes et d’algues au chaud dans le four.
-* Faire à peine fondre le reste de beurre et y faire cuire doucement les noix de Saint Jacques sur les deux faces jusqu’à légère coloration. Réserver au chaud dans le four.
+* Faire à peine fondre le reste de beurre et y faire cuire doucement les noix de saint-jacques sur les deux faces jusqu’à légère coloration. Réserver au chaud dans le four.
 * Monter le filtrat avec 20 g de beurre.
 * Disposer, sur chaque assiette, les noix, une grosse cuillerée de hachis, 2 ou 3 grosses cuillerées de riz. Parsemer d’un peu de la julienne d’écorce et napper de sauce.  
 
@@ -42,6 +43,6 @@ Coquillage d'hiver, la Saint-Jacques peut se préparer avec bonheur accompagnée
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Gewurztraminer (Domaine René Fleith, Letzenberg), Menetou-Salon (Domaine de Châtenoy, Classique), Pays d'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
-* Il ne faut pas faire macérer les noix de Saint Jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
-* On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des Saint Jacques.
+* Il ne faut pas faire macérer les noix de saint-jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
+* On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des saint-jacques.
 * On peut aussi ajouter quelques brisures de crêpes de blé noir séchées à la poêle.

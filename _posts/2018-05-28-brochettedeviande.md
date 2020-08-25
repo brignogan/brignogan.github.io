@@ -8,11 +8,12 @@ temps_preparation: 15
 temps_cuisson: 5
 temps_repos: 360
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: aiguillette de bœuf | bœuf!aiguillette, tranche grasse de bœuf | bœuf!tranche grasse, poire de bœuf | bœuf!poire, paprika, gingembre, safran, courgette, carotte, cumin, pois chiche, coriandre, olive verte, citron confit, oeuf, tomate
 ---
 Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 
 ### Ingrédients
-* 1,2 kg de boeuf (aiguillette)
+* 1,2 kg de boeuf (aiguillette, tranche grasse, poire)
 * 3 échalotes
 * 2 c. à c. de paprika
 * 1/2 c. à c. de gingembre

@@ -8,6 +8,7 @@ temps_preparation: 60
 temps_cuisson: 45
 temps_repos: 30
 nbre_personne: ‘pour 2 personnes’
+index_motClefIngredient: huître, langoustine, bouquet, araignée, tourteau, bigorneau, mayonnaise
 ---
 Le plateau de fruits de mer est le plat convivial par excellence en Bretagne. Tous les coquillages et les crustacés se partagent et chacun peut y trouver de quoi ravir son palais. Chaque fruit de mer a son mode de préparation et quelque fois plusieurs modes. Dans la recette ci-dessous sont rassemblées celles que nous avons éprouvées et validées.
 

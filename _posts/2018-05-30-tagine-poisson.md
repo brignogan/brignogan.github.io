@@ -8,11 +8,13 @@ temps_preparation: 30
 temps_cuisson: 15
 temps_repos: 15
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: barbue, turbot, saint-pierre, citron confit, coriandre, gingembre
+
 ---
-Tous les poissons blancs peuvent être préparés en tagine, le citron confit et le coriandre leur donnant des saveurs marocaines, mais la recette s'applique particulièrement bien aux poissons plats (barbue, turbot, saint pierre).
+Tous les poissons blancs peuvent être préparés en tagine, le citron confit et le coriandre leur donnant des saveurs marocaines, mais la recette s'applique particulièrement bien aux poissons plats (barbue, turbot, saint-pierre).
 
 ### Ingrédients
-* 1 poisson plat (barbue, turbot ou Saint Pierre) de 1,7 kg
+* 1 poisson plat (barbue, turbot ou saint-pierre) de 1,7 kg
 * 1 citron
 * 1 citron confit (au sel)
 * 1 gousse d'ail

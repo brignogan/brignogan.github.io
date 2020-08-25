@@ -8,8 +8,7 @@ temps_preparation: 40
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: courge
-index_motClefBase: fars forn du | fars!forn du
+index_motClefIngredient: fars forn du, courge
 ---
 
 Cette recette est la version végétarienne du "fars forn du".
