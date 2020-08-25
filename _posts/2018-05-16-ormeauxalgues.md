@@ -19,8 +19,8 @@ L'ormeau est un coquillage muni d’un pied très puissant pour s’accrocher su
 * 1 gousse d’ail
 * 1 bouquet de persil
 * 1 c. à s. d’un mélange d’algues séchées en paillette (dulce, nori, laitue de mer)
-* 1 c. à s. de vinaigre de Xérès
-* 2 c. à s. de Nouilly-Prat ou Porto blanc
+* 1 c. à s. de vinaigre de xérès
+* 2 c. à s. de nouilly-prat ou porto blanc
 * 20 cL de bouillon de volaille (20 cL d’eau et ½ cube)
 * 4 grosses pommes de terre
 * gros sel
