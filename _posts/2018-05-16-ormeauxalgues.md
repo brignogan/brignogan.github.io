@@ -8,6 +8,7 @@ temps_preparation: 45
 temps_cuisson: 40
 temps_repos: 72 h
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: ormeau, algue séchée, nouilly-prat
 ---
 L'ormeau est un coquillage muni d’un pied très puissant pour s’accrocher sur les supports qu’il rencontre, comme les rochers sous lesquels il se dissimule en colonies. Il fréquente nos côtes mais il n'est pas aisé de le pêcher. Aussi, avoir des voisins experts en la matière est un bienfait. Pour les accommoder, cette recette a été inspirée de celle de Olivier Roellinger (Cancale).
 
@@ -17,9 +18,9 @@ L'ormeau est un coquillage muni d’un pied très puissant pour s’accrocher su
 * 2 échalotes
 * 1 gousse d’ail
 * 1 bouquet de persil
-* 1 c. à s. d’un mélange d’algues en paillette (dulce, nori, laitue de mer)
+* 1 c. à s. d’un mélange d’algues séchées en paillette (dulce, nori, laitue de mer)
 * 1 c. à s. de vinaigre de Xérès
-* 2 c. à s. de Nouilly Prat ou Porto blanc
+* 2 c. à s. de Nouilly-Prat ou Porto blanc
 * 20 cL de bouillon de volaille (20 cL d’eau et ½ cube)
 * 4 grosses pommes de terre
 * gros sel

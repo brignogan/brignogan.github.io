@@ -8,6 +8,7 @@ temps_preparation: 60
 temps_cuisson: 17
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: homard, lambic
 ---
 Le homard foisonne sur notre côte pendant l'été et c'est un régal de la déguster grillé avec une sauce au lambic comme dans cette recette liée à notre terroir. Une fois que l'on a vaincu sa peur de la bête... tout va bien.
 
