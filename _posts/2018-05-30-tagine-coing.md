@@ -8,11 +8,12 @@ temps_preparation: 30
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: épaule d'agneau | agneau!épaule, coing, coriandre, gingembre, safran, cannelle
 ---
 La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on mangeait ce tagine pour la Saint René le 19 octobre. Cette tradition s’est perpétuée depuis notre retour en France.
 
 ### Ingrédients
-* 1,5 kg d’agneau avec os (épaule)
+* 1,5 kg d'épaule d’agneau avec os
 * 1 gros oignon
 * 5 coings
 * 1 bouquet de persil plat
@@ -20,7 +21,7 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 * 1 grosse gousse d’ail
 * 1 c. à c. de gingembre en poudre
 * 4-5 pistils de safran
-* 1/3 de sachet de colorant alimentaire
+* 1/3 de sachet de colorant alimentaire (voir note)
 * 1 c. à c. de cannelle
 * 1 ½  c. à s. de sucre
 * huile, beurre, sel, poivre
@@ -48,3 +49,4 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 ### Notes
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+* Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.

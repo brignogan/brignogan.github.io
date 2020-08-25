@@ -8,11 +8,12 @@ temps_preparation: 30
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: épaule d'agneau | agneau!épaule, oignon, raisin sec, coriandre, gingembre, safran, cannelle
 ---
 Certains tagines sont saisonniers parce que préparés avec des légumes ou des fruits qui ne font leur apparition sur le marché qu'à une certaine époque de l'année. L'avantage du tagine aux oignons, c'est qu'il peut être préparé en toutes saisons.
 
 ### Ingrédients
-* 1,5 kg d’agneau avec os (épaule)
+* 1,5 kg d'épaule d’agneau avec os
 * 1 kg oignons
 * 1 verre de raisins secs
 * 1 bouquet de persil plat
@@ -20,7 +21,7 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * 1 grosse gousse d’ail
 * 1 c. à c. de gingembre en poudre
 * 4-5 pistil de safran
-* 1/3 de sachet de colorant alimentaire
+* 1/3 de sachet de colorant alimentaire (voir note)
 * 1 c. à c. de cannelle
 * 1 ½  c. à s. de sucre
 * huile, beurre, sel, poivre
@@ -51,3 +52,4 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 ### Notes
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+* Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
