@@ -188,12 +188,15 @@ if __name__ == '__main__':
     if ((flag_vin) or (not(flag_restart)) or (not(os.path.isfile(wkdir+"listVins.gpkg")))):
         print 'list vins de la cave ...'
         print 'le fichier est ici : ', file_listDesVins
-        listVins = pd.read_excel(file_listDesVins)
+        listVins = pd.concat([ pd.read_excel(file_listDesVins, sheet_name='france'), pd.read_excel(file_listDesVins, sheet_name='cidre') ], sort=True)
         #clean data
         listVins = listVins.loc[ (listVins['Couleur'].str.strip()=='Blanc') |
                                  (listVins['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
                                  (listVins['Couleur'].str.strip()=='Rouge') |
-                                 (listVins['Couleur'].str.strip()==u'Ros\xe9') ]
+                                 (listVins['Couleur'].str.strip()==u'Ros\xe9') |
+                                 (listVins['Couleur'].str.strip()==u'Cidre') |
+                                 (listVins['Couleur'].str.strip()==u'Pommeau') 
+                                 ]
         geocoder = geopy.geocoders.BANFrance()
         cave = geocoder.geocode('4 rue Coat Tanguy 29890 Brignogan-Plages')
         listVins['latlong'] = [cave.point]*listVins.shape[0]
@@ -412,6 +415,12 @@ if __name__ == '__main__':
     bassins.at[bassins[bassins['nom']=='Lyonnais'].index[0],'add_to_name_position'] = shapely.geometry.Point(-60.e3,-20.e3) #Lyonnais
     bassins.at[bassins[bassins['nom']=='Alsace'].index[0],'add_to_name_position'] = shapely.geometry.Point(-50.e3,0.) #Alsace
     
+    #bassins.at[bassins[bassins['nom']=='Cidre de Bretagne'].index[0],'add_to_name_position'] = shapely.geometry.Point(60.e3,20.e3) 
+    bassins.at[bassins[bassins['nom']=='Cidre de Bretagne'].index[0],'nom'] = 'Cidre de\nBretagne'
+    
+    bassins.at[bassins[bassins['nom']=='Cidre de Normandie'].index[0],'add_to_name_position'] = shapely.geometry.Point(100.e3,-100.e3) 
+    bassins.at[bassins[bassins['nom']=='Cidre de Normandie'].index[0],'nom'] = 'Cidre de\nNormandie'
+    
     if ((not(flag_restart)) or (not(os.path.isfile(dir_maps+"bassinViticoleFrance.png")))):
         print 'plot large map'
         xmin, ymin, xmax, ymax =  metropole.geometry.total_bounds
@@ -460,6 +469,8 @@ if __name__ == '__main__':
         fig.savefig(dir_maps+'bassinViticoleFrance.png', dpi=dpi_largePlot,)# acecolor=fig.get_facecolor())
         plt.close(fig)
     
+    bassins.at[bassins[bassins['nom']=='Cidre de\nBretagne'].index[0],'nom'] = 'Cidre de Bretagne'
+    bassins.at[bassins[bassins['nom']=='Cidre de\nNormandie'].index[0],'nom'] = 'Cidre de Normandie'
     
     ######################
     # single Plot
