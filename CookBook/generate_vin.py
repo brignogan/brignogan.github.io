@@ -112,6 +112,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='draw wine map')
     parser.add_argument('-s','--flag_start', help='False if input files needed to be reloaded',required=False)
     parser.add_argument('-v','--flag_vin',   help='True if only wine list need to be reloaded',required=False)
+    parser.add_argument('-b','--flag_border',   help='True if reload border shapefile',required=False)
     args = parser.parse_args()
 
     home = expanduser("~")
@@ -139,11 +140,16 @@ if __name__ == '__main__':
         flag_vin =  False
     else:
         flag_vin = string_2_bool(args.flag_vin)
+    
+    if args.flag_border is None:
+        flag_border =  False
+    else:
+        flag_border = string_2_bool(args.flag_border)
 
     ######################
     # france border contour
     ######################
-    if (not(flag_restart) or (not(os.path.isfile(wkdir+"metropole.shp")))):
+    if ((flag_border) or (not(os.path.isfile(wkdir+"metropole.shp")))):
         print 'france border contour ...'
         fp = dir_in+'communes-20150101-5m-shp/communes-20150101-5m.shp'
         map_dfCommune = gpd.read_file(fp)
@@ -635,6 +641,9 @@ if __name__ == '__main__':
             tmp_= '-'.join(vin.Appelation.lower().split(' ')) 
             if 'maury' in tmp_  : appellation_ = appellations.loc[appellations.nom == 'maury']                     # tous les maury sont sur la meme zone
             if 'gaillac' in tmp_: appellation_ = appellations.loc[appellations.nom == u'gaillac-rouge-et-ros\xe9'] # tout les gaillac sont sur la meme zone
+            
+            if 'cotentin' in tmp_: appellation_ = appellations.loc[appellations.nom == u'cidre-cotentin-ou-cotentin'] # tout les gaillac sont sur la meme zone
+            
             #alsace
             if tmp_ == 'alsace' : appellation_ = appellations.loc[appellations.nom ==u'alsace-suivi-ou-non-d?un-nom-de-lieu-dit']
             if tmp_ ==  'alsace-pinot-noir': appellation_ = appellations.loc[appellations.nom ==u'alsace-suivi-ou-non-d?un-nom-de-lieu-dit']
