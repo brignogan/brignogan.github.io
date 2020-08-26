@@ -8,7 +8,6 @@ temps_preparation: 30
 temps_cuisson: 45
 temps_repos: 120
 nbre_personne: ‘pour 6 personnes’
-index_motClefBase: kouign amann
 ---
 Le kouign amann est un gâteau originaire de Douarnenez et donc une spécialité du Finistère sud. Léonard exilé à Bénodet, Xavier a mis au point cette recette avec Bleuenn et pour le régal de toute la famille.
 

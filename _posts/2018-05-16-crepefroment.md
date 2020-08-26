@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 2
 temps_repos: 60
 nbre_personne: ‘pour deux douzaines de crêpes’
-index_motClefBase: pâte à crêpe sucrée
+index_motClefBase: pâte à crêpe sucrée | pâte!à crêpe sucrée
 ---
 
 La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée. A chacun de nos retours à Ploudaniel, elle nous apportait des bignès (mini-galettes de blé noir) que tout le monde adorait.

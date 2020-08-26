@@ -8,7 +8,7 @@ temps_preparation: 10
 temps_cuisson: 2
 temps_repos: 60
 nbre_personne: ‘pour deux douzaines de crêpes’
-index_motClefBase: pâte à crêpe de blé noir
+index_motClefBase: pâte à crêpe de blé noir | pâte!à crêpe de blé noir
 ---
 
 La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penmarch) qui est diplômée de l’Université de la Crêpe de Saint Jean Trolimon.
