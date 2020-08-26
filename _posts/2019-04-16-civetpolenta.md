@@ -14,7 +14,7 @@ Le civet de lapin était un plat classique de la campagne ou des bourgs comme Sa
 
 ### Ingrédients
 * 1 lapin de 1 kg ½ coupé en morceaux
-* 125 g de poitrine demi sel
+* 125 g de lard fumé
 * 125 g d’oignons
 * 50 g de farine
 * 2 dL de bouillon
@@ -44,4 +44,5 @@ Le civet de lapin était un plat classique de la campagne ou des bourgs comme Sa
 
 
 ### Notes
-* On peut remplacer la polenta par de la semoule fine de blé dur. Les proportions sont alors : 150 g de semoule pour 1 L ¼ de lait.  
+* On peut remplacer la polenta par de la semoule fine de blé dur. Les proportions sont alors : 150 g de semoule pour 1 L ¼ de lait.
+ * On peut remplacer le lard fumé par de la poitrine 1/2 sel.

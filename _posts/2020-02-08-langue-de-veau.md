@@ -17,7 +17,7 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * 1 bouquet garni
 * 2 carottes
 * 1 bouillon cube
-* 1 branche de cèleri
+* 1 branche de céleri
 * sel, poivre
 
 #### pour la sauce gribiche

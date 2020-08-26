@@ -20,7 +20,7 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 * 2 échalotes
 * 1 boîte de pulpe de tomate
 
-#### pour le beurre blanc
+#### pour la sauce beurre blanc
 * 4 échalotes
 * 1 petit verre de vinaigre de cidre
 * 150 g de beurre ½ sel

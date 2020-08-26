@@ -19,12 +19,12 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 * 2 carottes
 * 1 oignon
 * 1 gousse d'ail
-* 150 g de lardons de préférence cuits
+* 150 g de lard fumé (de préférence cuit)
 * 10 petits oignons grelot
 * 200 g de champignons
 * 1 bouillon cube
 * 1 c. à s. de farine
-* 1 bouteille de bourgogne ou de beaujolais
+* 1 bouteille de vin de bourgogne ou de beaujolais
 * sel, poivre
 * facultatif : une boîte de marron.
 
