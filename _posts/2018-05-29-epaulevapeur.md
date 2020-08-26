@@ -13,7 +13,7 @@ index_motClefIngredient: épaule d'agneau | agneau!épaule, coriandre, cumin
 Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier mais Halima comme Rkia avait adopté la cocotte minute pour réaliser cette recette.
 
 ### Ingrédients
-* 1 épaule d’agneau
+* 1 épaule d'agneau
 * 1 petit bouquet de coriandre
 * 1 petit bouquet de persil plat
 * 1 gousse d’ail

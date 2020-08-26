@@ -14,6 +14,12 @@ import argparse
 import json 
 import copy
 
+#####################################################
+def ensure_dir(f):
+    d = os.path.dirname(f)
+    if not os.path.exists(d):
+        os.makedirs(d)  
+
 ################################################
 def string_2_bool(string):
     if  string in ['true', 'TRUE' , 'True' , '1', 't', 'y', 'yes', 'yeah', 'yup', 'certainly', 'uh-huh']:
@@ -138,6 +144,8 @@ flag_use_Section_Intro_Website = False
 
 recipeFiles = glob.glob(recipeDir+'*.md')
 
+ensure_dir('./LogError/')
+
 #load tag
 tag_category_all = []
 tag_plat_all     = []
@@ -190,6 +198,7 @@ vinDictionary = pickle.load(open('./vinDictionary_fromExcelFile.pickle', 'r'))
 recetteDictionary = {}
 recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'r'))
 
+line_missingIndex = []
 recipeCat_prev  = ''
 recipePlat_prev = ''
 iPlat = 0
@@ -723,12 +732,22 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 final2_lines.append(line_)
             else:
                 final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
-            
-
+   
+    if len(recipeMMmotClef) > 0:
+        line_missingIndex.append('##'+recipName)
+        for xx in recipeMMmotClef:  line_missingIndex.append(xx)      
+    
     #if 'sangl' in recipName: sys.exit()        
 
+#save missing index
+f = io.open("LogError/missinIndex.txt","w", encoding='utf-8')
+for line in line_missingIndex:
+    f.writelines((line+'\n').decode('utf-8'))
+f.close()
+
+
 #save error in matching wine
-f = io.open("errorVinDansRecette.csv","w", encoding='utf-8')
+f = io.open("LogError/errorVinDansRecette.csv","w", encoding='utf-8')
 for line in lineVin_error:
     print line
     f.writelines((line+'\n').decode('utf-8'))

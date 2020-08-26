@@ -716,7 +716,7 @@ if __name__ == '__main__':
     f.close()
 
     #save file with wine that did not get recipies
-    f= io.open(dir_out+"listVin_noRecipies.csv","w", encoding='utf-8')
+    f= io.open(dir_out+"LogError/listVin_noRecipies.csv","w", encoding='utf-8')
     f.write( '{:s}, {:s}, {:s}, {:s}, \n'.format('domaine', 'couleur', 'appellation', 'cuvee').decode('utf-8') )
     for [domain, couleur, app, cuvee] in list_vin_noRecipies :
         line = '{:s}, {:s}, {:s}, {:s}, \n'.format(domain, couleur, app, cuvee)
