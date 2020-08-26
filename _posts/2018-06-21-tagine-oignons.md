@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: épaule d'agneau | agneau!épaule, oignon, raisin sec, coriandre, gingembre, safran, cannelle
+index_motClefIngredient: épaule | agneau!épaule, oignon, raisin sec, coriandre, gingembre, safran, cannelle
 ---
 Certains tagines sont saisonniers parce que préparés avec des légumes ou des fruits qui ne font leur apparition sur le marché qu'à une certaine époque de l'année. L'avantage du tagine aux oignons, c'est qu'il peut être préparé en toutes saisons.
 

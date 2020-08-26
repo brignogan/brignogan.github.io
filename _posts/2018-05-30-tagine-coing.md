@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: épaule d'agneau | agneau!épaule, coing, coriandre, gingembre, safran, cannelle
+index_motClefIngredient: épaule | agneau!épaule, coing, coriandre, gingembre, safran, cannelle
 ---
 La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on mangeait ce tagine pour la Saint René le 19 octobre. Cette tradition s’est perpétuée depuis notre retour en France.
 
