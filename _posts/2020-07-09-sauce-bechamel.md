@@ -9,7 +9,7 @@ temps_cuisson: 10
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: endive, jambon
-index_motClefBase: sauce béchamel | béchamel!sauce
+index_motClefBase: sauce béchamel | sauce!béchamel
 ---
 Le sauce béchamel est la base de nombreuses recettes comme les endives au jambon. La sauce béchamel est aussi très utile pour accommoder les restes, Grand-Mère Saint-Pierre servait ainsi les restes de poulets, de poissons (voir notes).
 

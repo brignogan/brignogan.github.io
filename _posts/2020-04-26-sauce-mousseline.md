@@ -9,7 +9,7 @@ temps_cuisson: '-'
 temps_repos: '-'
 nbre_personne: ‘-’
 index_motClefIngredient: asperge
-index_motClefBase: sauce mousseline | mousseline!sauce
+index_motClefBase: sauce mousseline | sauce!mousseline
 ---
 Cette sauce est idéale pour accompagner les asperges blanches (voir notes) mais aussi d'autres légumes comme les pommes de terre, le chou fleur, les carottes, les tomates...
 
