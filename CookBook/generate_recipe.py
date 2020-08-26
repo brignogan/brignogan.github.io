@@ -675,6 +675,27 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                  
                 line2p.append(line.replace('recipeMMextra', line2p_.rstrip()))
                 flag_modified = 1
+
+                for ii_line_, line_ in enumerate(line2p):
+                    #add index entry
+                    recipeMMmotClef2 = copy.deepcopy(recipeMMmotClef)
+                    for ii_mot, mot_ in enumerate(recipeMMmotClef2): 
+                        if u'|' in mot_:
+                            mot_ori  = mot_
+                            mot = mot_.split('|')[1].strip()
+                            mot_ = mot_.split('|')[0].strip()
+                        else:
+                            mot_ori  = mot_
+                            mot = mot_.strip()
+                            mot_ = mot_.split(' ')[0].strip()
+                        
+                        if mot_ in line_:
+                            line_ = line_.replace(mot_, r'{:s}\index{{{:s}|{:s}}}'.format(mot_, mot, get_format_index(recipeCat,'clef')))
+                            idx_ = np.where(np.array(recipeMMmotClef) == mot_ori )[0]
+                            if len(idx_) != 1: pdb.set_trace()
+                            recipeMMmotClef.pop(idx_[0])
+                            line2p[ii_line_] = line_
+
             else: 
                 flag_modified = 1
 

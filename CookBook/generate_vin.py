@@ -125,7 +125,7 @@ if __name__ == '__main__':
     ensure_dir(wkdir)
 
     #listDesVins
-    file_listDesVins = home+'/Dropbox/renee/Liste des vins paugam-V23-2.xlsx'
+    file_listDesVins = home+'/Dropbox/CarteVin/MaCave/ListeDesVins.xlsx'
 
     dpi_largePlot = 100
     dpi_map = 100
@@ -415,7 +415,7 @@ if __name__ == '__main__':
     bassins.at[bassins[bassins['nom']=='Lyonnais'].index[0],'add_to_name_position'] = shapely.geometry.Point(-60.e3,-20.e3) #Lyonnais
     bassins.at[bassins[bassins['nom']=='Alsace'].index[0],'add_to_name_position'] = shapely.geometry.Point(-50.e3,0.) #Alsace
     
-    #bassins.at[bassins[bassins['nom']=='Cidre de Bretagne'].index[0],'add_to_name_position'] = shapely.geometry.Point(60.e3,20.e3) 
+    bassins.at[bassins[bassins['nom']=='Cidre de Bretagne'].index[0],'add_to_name_position'] = shapely.geometry.Point(-20.e3,-5.e3) 
     bassins.at[bassins[bassins['nom']=='Cidre de Bretagne'].index[0],'nom'] = 'Cidre de\nBretagne'
     
     bassins.at[bassins[bassins['nom']=='Cidre de Normandie'].index[0],'add_to_name_position'] = shapely.geometry.Point(100.e3,-100.e3) 
