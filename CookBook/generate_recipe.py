@@ -75,9 +75,11 @@ def get_var_from_include_image(x):
 
 def parseVinList(string):
     
-    if string[:3] != 'Vin': return []
+    if (string[:3] != 'Vin') & (string[:3] != 'Cid'): return []
    
-    couleur = string.split(':')[0].split(' ')[1].lower().strip()
+    if (string[:3] == 'Vin'): couleur = string.split(':')[0].split(' ')[1].lower().strip()
+    if (string[:3] == 'Cid'): couleur = string.split(':')[0].lower().strip()
+
     vins = re.findall(r'\(([^()]+)\)',string)
     
     try:
@@ -547,6 +549,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                             .replace(u'Vin rouge doux : ',u'\\emph{Vin rouge doux: }')\
                             .replace(u'Vin blanc : ',u'\\emph{Vin blanc: }')\
                             .replace(u'Vin blanc doux : ',u'\\emph{Vin blanc doux: }')\
+                            .replace(u'Cidre : ',u'\\emph{Cidre: }')\
                             .replace(u'Vin ros\xe9 :',u'\\emph{Vin ros\xe9: }') + '\n \\par \n' 
             
                     
