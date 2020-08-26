@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: bar, coco de Paimpol, sauce beurre blanc
+index_motClefIngredient: bar, coco de Paimpol, sauce beurre blanc | sauce!beurre blanc
 ---
 Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros sel. C'est la méthode la plus simple pour le préparer. Il est accommodé avec un beurre blanc, une sauce basique de la cuisine bourgeoise.
 
@@ -20,7 +20,7 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 * 2 échalotes
 * 1 boîte de pulpe de tomate
 
-#### pour le beurre blanc
+#### pour la sauce beurre blanc
 * 4 échalotes
 * 1 petit verre de vinaigre de cidre
 * 150 g de beurre ½ sel

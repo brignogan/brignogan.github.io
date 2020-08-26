@@ -15,7 +15,7 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 ### Ingrédients
 * 1 kg de poitrine de porc (fraîche et le plus maigre possible)
 * 1 gros oignon
-* 6 oeufs
+* 6 œufs
 * 10 morceaux de sucre
 * un peu de sucre en poudre
 * 4-5 c. à s. de nioc-mam
