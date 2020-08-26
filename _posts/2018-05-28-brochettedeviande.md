@@ -13,7 +13,7 @@ index_motClefIngredient: aiguillette | bœuf!aiguillette, tranche grasse | bœuf
 Les brochettes servies avec ces accompagnements sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 
 ### Ingrédients
-* 1,2 kg de boeuf (aiguillette, tranche grasse, poire)
+* 1,2 kg d'aiguillette, de tranche grasse ou de poire de bœuf
 * 3 échalotes
 * 2 c. à c. de paprika
 * 1/2 c. à c. de gingembre
