@@ -8,7 +8,7 @@ temps_preparation: 15
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: épaule d'agneau | agneau!épaule, petit pois, coriandre, tomate, gingembre, safran, cumin, œuf
+index_motClefIngredient: épaule | agneau!épaule, petit pois, coriandre, tomate, gingembre, safran, cumin, œuf
 ---
 Les keftas sont à la base de nombreuses recettes marocaines. On peut par exemple en faire des brochettes. Préparées en tagine, cette recette vient du restaurant « La Clé » qui était la cantine des coopérants à Rabat dans les années 70-80.
 
