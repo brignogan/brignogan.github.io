@@ -9,7 +9,7 @@ temps_cuisson: 20
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: estragon, cerfeuil, côte de bœuf | bœuf!côte, filet de bœuf | bœuf!filet
-index_motClefBase: sauce béarnaise
+index_motClefBase: sauce béarnaise | béarnaise!sauce
 ---
 La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les viandes grillées (voir notes).
 
