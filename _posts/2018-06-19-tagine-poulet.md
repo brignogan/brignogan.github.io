@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 90
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: poulet, coriandre, gingembre, safran, citron frais | citron, citron confit, olive verte
+index_motClefIngredient: poulet, coriandre, gingembre, safran, citron frais | citron, citron confit | citron confit, olive verte
 ---
 Cette recette est un grand classique de la cuisine marocaine et le meilleur que nous n'ayons jamais mangé était servi dans le petit restaurant à l'entrée des ruines de Volubilis.
 
