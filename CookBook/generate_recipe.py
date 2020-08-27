@@ -305,7 +305,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     mot = mot_.strip()
                     mot_ = mot_.split(' ')[0].strip()
                 
-                if mot_ in line_:
+                if (' '+mot_ in ' '+line_) |  ("'"+mot_ in ' '+line_) | (u"\u2019"+mot_ in u' '+line_):
                     line_ = line_.replace(mot_, r'{:s}\index{{{:s}|{:s}}}'.format(mot_, mot, get_format_index(recipeCat,'base')))
                     try: 
                         idx_ = np.where(np.array(recipeMMmotClefB) == mot_ori )[0]
@@ -414,7 +414,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         mot = mot_.strip()
                         mot_ = mot_.split(' ')[0].strip()
                     
-                    if mot_ in line_:
+                    if (' '+mot_ in ' '+line_) |  ("'"+mot_ in ' '+line_) | (u"\u2019"+mot_ in u' '+line_):
                         line_ = line_.replace(mot_, r'{:s}\index{{{:s}|{:s}}}'.format(mot_, mot, get_format_index(recipeCat,'clef')))
                         idx_ = np.where(np.array(recipeMMmotClef) == mot_ori )[0]
                         if len(idx_) != 1: pdb.set_trace()
@@ -698,7 +698,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                             mot = mot_.strip()
                             mot_ = mot_.split(' ')[0].strip()
                         
-                        if mot_ in line_:
+                        if (' '+mot_ in ' '+line_) |  ("'"+mot_ in ' '+line_) | (u"\u2019"+mot_ in u' '+line_):
                             line_ = line_.replace(mot_, r'{:s}\index{{{:s}|{:s}}}'.format(mot_, mot, get_format_index(recipeCat,'clef')))
                             idx_ = np.where(np.array(recipeMMmotClef) == mot_ori )[0]
                             if len(idx_) != 1: pdb.set_trace()
