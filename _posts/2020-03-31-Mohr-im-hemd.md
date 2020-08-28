@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: rhum, amande, chapelure, chocolat
 ---
 Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson à la vapeur lui donne une consistance tout à fait particulière.
 

@@ -8,6 +8,7 @@ temps_preparation: 15
 temps_cuisson: 15
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: rhum, citron
 ---
 C'est un dessert typiquement autrichien et cette recette vient de Veronika, une amie autrichienne de Maëlle : "Kaiserschmarren nach Veronika art !"
 

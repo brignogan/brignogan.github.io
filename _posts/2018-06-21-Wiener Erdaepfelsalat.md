@@ -8,6 +8,7 @@ temps_preparation: 15
 temps_cuisson: 20
 temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
+index_motClefIngredient: pomme de terre, ciboulette, cornichon, échalote
 ---
 Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).
 

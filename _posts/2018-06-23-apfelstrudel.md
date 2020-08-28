@@ -8,6 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: pomme, cannelle, raisin sec, pâte feuilletée, chapelure
 ---
 Ce dessert est une recette autrichienne mythique dont la réussite tient à la qualité de la pâte utilisée.
 

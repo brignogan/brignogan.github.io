@@ -8,8 +8,9 @@ temps_preparation: 40
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: pâte à génoise, meringue, café
 ---
-Ce gâteau est un fleuron de la pâtisserie viennoise. Il a une place de choix sur la table des goûters pantagruéliques chez les parents de Mélanie, la grande amie autrichienne de Maëlle.
+Ce gâteau est un fleuron de la pâtisserie viennoise à base de génoise, de meringue et de crème au café. Il a une place de choix sur la table des goûters pantagruéliques chez les parents de Mélanie, la grande amie autrichienne de Maëlle.
 
 ### Ingrédients
 * 6 oeufs
@@ -24,7 +25,7 @@ Ce gâteau est un fleuron de la pâtisserie viennoise. Il a une place de choix s
 ### Préparation
 * Préchauffer le four à 160°C.
 
-#### Pour le biscuit :
+#### Pour la pâte à génoise :
 * Séparer les jaunes des blancs des 6 oeufs en réservant à part 4 blancs pour la meringue et les 2 autres pour le biscuit.
 * Battre les 6 jaunes avec 100 g de sucre en poudre et le sachet de sucre vanillé jusqu'à ce que le mélange blanchisse et devienne mousseux et léger.
 * Incorporer alors petit à petit et avec précaution les 100 g de farine puis les 2 blancs montés en neige très ferme.
