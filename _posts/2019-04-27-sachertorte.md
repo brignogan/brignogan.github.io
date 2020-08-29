@@ -8,8 +8,7 @@ temps_preparation: 60
 temps_cuisson: 45
 temps_repos: 720
 nbre_personne: ‘pour 12(8) personnes’
-index_motClefIngredient: abricot
-index_motClefBase: biscuit au chocolat | biscuit!au chocolat
+index_motClefIngredient: abricot, chocolat
 ---
 La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé au XIXème siècle par le pâtissier de l'hôtel Sacher à Vienne. C'est un biscuit au chocolat fourré à l'abricot. Les quantités indiquées conviennent pour un moule à manquer de 24(22)cm.
 

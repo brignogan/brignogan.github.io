@@ -8,6 +8,7 @@ temps_preparation: 60
 temps_cuisson: 50
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
+index_motClefIngredient: chocolat, canelle, kirsch, griotte
 ---
 Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique particulièrement apprécié aux fêtes de fin d'année.
 
@@ -24,7 +25,7 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 * 100 cL de crème fraîche
 * 40 g de sucre glace
 * 1 sachet de chantifix
-* 60 mL de Kirsch
+* 60 mL de kirsch
 * 250 g de griottes au sirop
 * 60 mL du jus des griottes
 * 30 g de chocolat pâtissier
