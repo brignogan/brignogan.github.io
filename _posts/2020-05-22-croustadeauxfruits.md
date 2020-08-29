@@ -10,12 +10,12 @@ temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: flocon d'avoine, pomme, citron, cannelle, rhubarbe, framboise, cassis, poire, chocolat
 ---
-La croustade (le crumble en anglais) est un dessert typiquement québécois. Cette recette vient de Babette qui est partie, depuis les années 80, exercer son métier de sage-femme sur les rives du Saint-Laurent. Plusieurs variantes existent suivant les fruits utilisés : pommes, rhubarbe-franboise-cassis, poire-chocolat. La préparation-type est détaillée pour la recette de la croustade aux pommes.
+La croustade (le crumble en anglais) est un dessert typiquement québécois. Cette recette vient de Babette qui est partie, depuis les années 80, exercer son métier de sage-femme sur les rives du Saint-Laurent. Faite d'une couche de fruits et d'une couche de "pâte émiettée", il en existe plusieurs variantes suivant les fruits utilisés : pommes, rhubarbe-franboise-cassis, poire-chocolat. La préparation-type est détaillée pour la recette de la croustade aux pommes.
 
 #### **Croustade "pommes"**
 
 ### Ingrédients
-#### pour la pâte brisée à l'avoine
+#### pour la "pâte émiettée"
 * 100 g de farine
 * 100 g de flocons d’avoine
 * 100 g de cassonade
@@ -28,7 +28,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 1 pincée de cannelle
 
 ### Préparation
-#### pour la pâte sablée à l'avoine
+#### pour la "pâte émiettée"
 * Mélanger dans un saladier et du bout des doigts la farine, les flocons d’avoine, la cassonade et le beurre.
 * Mouiller légèrement la pâte sablée obtenue avec un peu d'eau pour en faire des gros grumeaux.
 
@@ -38,7 +38,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Eplucher et couper les pommes en gros dés. Les déposer dans le fond du plat.
 * Ajouter 3 c. à s. d'eau et 2 c. à s. de jus de citron.
 * Saupoudrer le tout du sucre et de cannelle.
-* Recouvrir les fruits de la pâte sablée préparée.
+* Recouvrir les fruits de la "pâte émiettée".
 * Cuire au four pendant au moins 45 mn en surveillant la cuisson jusqu’à ce que le caramel remonte par dessus le gâteau.
 * La croustade se sert chaude avec une boule de glace vanille.
 
