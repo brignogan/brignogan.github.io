@@ -4,7 +4,7 @@ title: Gelée de pommes-oranges-cannelle
 tag_category: famille
 tag_plat: sauce
 image: img/recette/confiturepomme.png
-temps_preparation: 45
+temps_preparation: 60
 temps_cuisson: 75
 temps_repos: 1200
 nbre_personne: ‘pour 6 pots’
