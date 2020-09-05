@@ -23,7 +23,7 @@ cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la r
 
 #### pour la farce :
 * 4 tranches de jambon blanc
-* 4 tranches de lard fumé cuit
+* 4 tranches de lard fumé (de préférence cuit - voir note)
 * 250 g de champignons de Paris
 
 #### pour la sauce béchamel :
@@ -50,4 +50,4 @@ cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la r
 * Vin rouge : Alsace Pinot Noir (Domaine René Fleith, "F"), Côtes-du-Rhône Villages	(Château La Borie, Emile Borie).
 
 ### Notes
-* On utilise du lard fumé cuit qui est plus facile à couper en petits morceaux que le lard fumé cru. On peut cependant utiliser ce dernier dans la farce et, dans ce cas, il faut cuire le lard avec les champignons avant d'ajouter le jambon.
+* On utilise du lard fumé cuit qui est plus facile à couper en petits morceaux que le lard fumé cru. On peut cependant utiliser ce dernier dans la farce. Dans ce cas, lorsque les champignons ont perdu leur eau, les retirer de la poêle et cuire le lard jusqu'à ce qu'il soit très légèrement doré puis rajouter les champignons et le jambon.
