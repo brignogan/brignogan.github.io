@@ -9,7 +9,7 @@ temps_cuisson: 30
 temps_repos: 30
 nbre_personne: ‘pour 8 personnes’
 ---
-La recette de ce gâteau, dont la base est une pâte brisée, vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau. Le gâteau breton est souvent servi au goûter avec un vin de dessert, un thé ou un café. Avec une fève, il devient une galette des rois. Il en existe aussi une version fourrée à la crème de pruneaux. Ces fruits secs ont été traditionnellement très utilisés en Bretagne parce qu'ils se conservaient longtemps et pouvaient être embarqués sur les bateaux de pêche.
+La recette de ce gâteau, dont la base est une pâte brisée, vient de notre copain Jean Olivier qui fut notre collègue coopérant à Rabat du temps de nos années marocaines puis collègue de labo à l'Institut de Chimie Moléculaire et des Matériaux d'Orsay. Ses parents tenaient une boulangerie à Pénanguer, un quartier de Concarneau. Le gâteau breton est souvent servi au goûter avec un vin de dessert, un thé ou un café. Avec une fève, il servait autrefois de galette des rois. Il en existe aussi une version fourrée à la crème de pruneaux. Ces fruits secs ont été traditionnellement très utilisés en Bretagne parce qu'ils se conservaient longtemps et pouvaient être embarqués sur les bateaux de pêche.
 
 ### Ingrédients
 #### pour le gâteau
@@ -40,7 +40,7 @@ La recette de ce gâteau, dont la base est une pâte brisée, vient de notre cop
 
 #### pour le version fourrée
 * Commencer la préparation de la crème la veille. Faire bouillir l'eau et y faire infuser le thé. Ajouter les pruneaux et réchauffer jusqu'à frémissement. Réserver. Le lendemain, faire cuire les pruneaux 15 mn à feu doux. Sortir les pruneaux et les dénoyauter. Remettre les pruneaux dans le jus, ajouter le sucre et le jus du demi citron. Faire bouillir puis mixer le mélange et le faire cuire à feu doux 10-15 mn comme une confiture.
-* Préparer la pâte du gâteau comme ci-dessus. Avec les mains mouillées, étaler une partie de la pâte sur une feuille de papier sulfurisé pour faire une galette un peu épaisse. Mettre au réfrigérateur. Etaler le reste de la pâte dans le moule beurrée et la faire remonter sur les bords sur 2 cm. Remplir le centre de la crème aux pruneaux et déposer la galette refroidie sur le dessus en pressant bien le bord pour souder le gâteau. Finir comme ci-dessus avec le badigeon de jaune d'oeuf, les dessins à la fourchette et la cuisson au four.  
+* Préparer la pâte du gâteau comme ci-dessus. Découper une feuille de papier sulfurisé à la taille du haut du moule. Avec les mains mouillées, étaler une partie de la pâte sur ce disque de papier pour faire une galette un peu épaisse. Mettre au réfrigérateur. Etaler le reste de la pâte dans le moule beurrée et la faire remonter sur les bords sur 2 cm. Remplir le centre de la crème aux pruneaux, retourner la galette refroidie sur le dessus et ôter le papier. Presser bien la bordure pour souder le gâteau. Finir comme ci-dessus avec le badigeon de jaune d'oeuf, les dessins à la fourchette et la cuisson au four.  
 
 ### Vins
 * Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).
