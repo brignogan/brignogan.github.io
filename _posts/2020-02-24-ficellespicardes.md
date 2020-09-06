@@ -38,7 +38,7 @@ cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la r
 ### Préparation
 * Préparer la pâte à crêpes en mélangeant la farine en puits, les oeufs entiers, le sel, l'huile et en diluant petit à petit avec le lait.
 * Cuire les crêpes assez épaisses à la poêle. On doit faire à peu près 12-14 crêpes. On compte ensuite 2 crêpes par personnes.
-* Couper, au couteau et séparément, le jambon, le lard et les champignons en morceaux les plus petits possible.
+* Couper, au couteau et séparément, le jambon, le lard et les champignons en morceaux les plus petits possible (voir note).
 * Dans une poêle, faire suer les champignons à sec puis ajouter le jambon et le lard. Bien mélanger.
 * Fourrer 8 crêpes avec cette farce et les déposer dans un plat (pour le four) beurré.
 * Préparer la [sauce béchamel]({% post_url 2020-07-09-sauce-bechamel %}).
