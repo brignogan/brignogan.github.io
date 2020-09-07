@@ -3,7 +3,7 @@ layout: post
 title: Ficelles picardes
 tag_category: famille
 tag_plat: platViande
-image: img/recette/untitled.png
+image: img/recette/ficellepicarde.png
 temps_preparation: 90
 temps_cuisson: 40
 temps_repos: ‘-‘
