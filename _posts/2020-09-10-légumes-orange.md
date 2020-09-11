@@ -10,13 +10,15 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: fenouil, carotte, artichaut
 ---
-Ce mélange de légumes confits accompagne très bien les poissons rôtis.
+Les légumes confits accompagnent très bien les poissons rôtis. Cependant pour que le goût sucré ne soit pas dominant, il est préférable d'y ajouter quelques légumes simplement cuits à la vapeur.
 
 ### Ingrédients
 * 1 gros fenouil
 * 2 carottes
 * 2 artichauts
 * 200 g de champignons
+* 2 petites courgettes
+* 200 g d'haricots verts
 * 200 mL de vin blanc sec
 * 1 orange
 * 1 citron
@@ -26,14 +28,21 @@ Ce mélange de légumes confits accompagne très bien les poissons rôtis.
 * sel
 
 ### Préparation
-* Eplucher les artichauts (ôter la tige, les feuilles et le foin) et les citronner pour éviter qu'il noircisse. Les couper chacun en trois.
+* Eplucher les artichauts (ôter la tige, les feuilles et le foin) et les citronner pour éviter qu'ils noircissent. Les couper chacun en trois.
 * Eplucher les carottes et les tailler en bâtonnets.
 * Nettoyer le fenouil et le partager en 6.
 * Nettoyer les champignons et les couper en quartiers.
-* Cuire à la vapeur le fenouil, les carottes et les artichauts
+* Laver les courgettes, les couper en deux pour éliminer les graines puis les détailler en bâtonnets.
+* Equeuter les haricots verts.
+* Saler et cuire à la vapeur le fenouil, les carottes et les artichauts (il leur faut le même temps de cuisson).
+* Cuire séparément, dans de l'eau bouillante salée, les courgettes et les haricots verts.
 * Cuire les champignons dans une casserole avec un fond d'eau, une pincée de sel et une giclée de citron.
 * Dans une sauteuse, verser le vin blanc, l'huile d'olive, le miel (ou le sucre), le jus d'orange et les graines de coriandre. Faire réduire d'un tiers.
-* Faire frémir la sauce obtenue et y confire le fenouil, les carottes et les artichauts pendant une dizaine de minutes puis ajouter les champignons juste pour les réchauffer.
+* Faire frémir le jus obtenu et y confire le fenouil, les carottes et les artichauts pendant une dizaine de minutes puis ajouter les champignons juste pour les réchauffer.
+* Servir tous les légumes ensemble et arroser d'un trait de jus de confisage.
 
 ### Vins
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Alsace Grand Cru Furstentum (Domaine René Fleith, Pinot Gris), Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique).
+
+### Notes
+* On peut ajouter à ce mélange de légumes quelques petites tomates cerises.
