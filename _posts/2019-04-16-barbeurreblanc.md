@@ -39,7 +39,8 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 
 
 ### Vins
-* Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Pessac-Léognan (Domaine de la Solitude), Lirac (Domaine de la Mordorée, La Reine des Bois), Pays d'Hérault (Mas de Daumas-Gassac).
+* Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinberg), Alsace Gewurztraminer (Domaine René Fleith, Letzenberg élevé sous voile), Pessac-Léognan (Domaine de la Solitude), Lirac (Domaine de la Mordorée, La Reine des Bois), Pays d'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
 * On peut réaliser une vraie croûte de sel en mélangeant le sel avec 2 blancs d'oeuf et 50 g de farine.
+* Le bar, cuit sous le sel et servi avec la sauce beurre blanc, peut aussi être accompagné de légumes tels que fenouil et carottes confits à l'orange.
