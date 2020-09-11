@@ -1,6 +1,6 @@
 ---
 layout: post
-title: legumes confits à l'orange
+title: Legumes confits à l'orange
 tag_category: famille
 tag_plat: platLegume
 image: img/recette/untitled.png
