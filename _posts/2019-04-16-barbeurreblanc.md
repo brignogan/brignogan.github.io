@@ -43,4 +43,4 @@ Dans cette recette, le bar, le poisson roi de nos côtes, est cuit sous le gros 
 
 ### Notes
 * On peut réaliser une vraie croûte de sel en mélangeant le sel avec 2 blancs d'oeuf et 50 g de farine.
-* Le bar, cuit sous le sel et servi avec la sauce beurre blanc, peut aussi être accompagné de [légumes confits]({% post_url 2020-09-10-légumes-orange %}).
+* Le bar, cuit sous le sel et servi avec la sauce beurre blanc, peut aussi être accompagné de [légumes confits]({% post_url 2020-09-10-legumes-orange %}).
