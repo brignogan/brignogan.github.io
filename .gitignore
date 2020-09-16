@@ -2,7 +2,7 @@ Gemfile
 Gemfile.lock
 Videos/
 img/.DS_Store
-
+img/recette/.DS_Store
 .jekyll-cache/
 _site/
 .sass-cache/
