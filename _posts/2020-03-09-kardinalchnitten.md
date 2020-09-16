@@ -13,14 +13,21 @@ index_motClefIngredient: pâte à génoise, meringue, café
 Ce gâteau est un fleuron de la pâtisserie viennoise à base de génoise, de meringue et de crème au café. Il a une place de choix sur la table des goûters pantagruéliques chez les parents de Mélanie, la grande amie autrichienne de Maëlle.
 
 ### Ingrédients
-* 6 oeufs
-* 350 g de sucre en poudre
+#### Pour la pâte à génoise :
+* 6 jaunes et 2 blancs d'oeuf
+* 100 g de sucre en poudre
+* 1 sachet de sucre vanillé
 * 100 g de farine
+
+#### Pour la meringue :
+* 4 blancs d'oeuf
+* 250 g de sucre en poudre
+
+#### Pour la crème :
 * 500 mL de crème liquide
 * 2 dosettes de café en poudre
 * 1 sachet de chantifix
-* 1 sachet de sucre vanillé
-* un peu de sucre glace
+* un peu de sucre en poudre
 
 ### Préparation
 * Préchauffer le four à 160°C.

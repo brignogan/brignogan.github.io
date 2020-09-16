@@ -8,7 +8,7 @@ temps_preparation: 15
 temps_cuisson: 10
 temps_repos: ‘-‘
 nbre_personne: ‘pour 2 personnes’
-index_motClefIngredient: escalope de veau | escalope!veau, œuf, chapelure
+index_motClefIngredient: escalopes de veau | veau!escalope, œuf, chapelure
 ---
 Pour être qualifiée de "viennoise", cette escalope panée doit être préparée avec de la viande de veau coupée très fine. C'est évidemment le plat typique de Vienne.
 

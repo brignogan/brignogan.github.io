@@ -8,7 +8,7 @@ temps_preparation: 60
 temps_cuisson: 50
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: chocolat, canelle, kirsch, griotte
+index_motClefIngredient: chocolat, cannelle, kirsch, griotte
 ---
 Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique particulièrement apprécié aux fêtes de fin d'année.
 
