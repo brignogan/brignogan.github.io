@@ -1,6 +1,7 @@
 Gemfile
 Gemfile.lock
 Videos/
+img/.DS_Store
 
 .jekyll-cache/
 _site/
