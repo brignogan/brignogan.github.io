@@ -8,7 +8,7 @@ temps_preparation: 40
 temps_cuisson: 60
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte à génoise, meringue, café
+index_motClefIngredient: pâte à génoise | pâte!à génoise, meringue, café
 ---
 Ce gâteau est un fleuron de la pâtisserie viennoise à base de génoise, de meringue et de crème au café. Il a une place de choix sur la table des goûters pantagruéliques chez les parents de Mélanie, la grande amie autrichienne de Maëlle.
 
