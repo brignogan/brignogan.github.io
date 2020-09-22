@@ -82,8 +82,12 @@ def saveplot(appellations_domain,vin):
     #add igp 
 
     #add prefecture
-    prefectures.plot(ax=ax, color='k', markersize=20,)
-    prefectures.apply(lambda x: ax.annotate(s=unicode(x.Commune),\
+    if vin.DomaineChateau == u'Ch\xe2teau La Borie':
+        selectedCommune = ['Nice', 'Marseille', 'Montpellier', 'Avignon', 'Gap', 'Saint-\xc3\x89tienne', 'Valence', 'Bastia', 'Ajaccio'] 
+    else:
+        selectedCommune = prefectures.Commune.to_list() 
+    prefectures.loc[prefectures.Commune.isin(selectedCommune)].plot(ax=ax, color='k', markersize=20,)
+    prefectures.loc[prefectures.Commune.isin(selectedCommune)].apply(lambda x: ax.annotate(s=unicode(x.Commune),\
                                         xy=[x.geometry.centroid.x + x.add_to_name_position.coords.xy[0][0],\
                                             x.geometry.centroid.y + x.add_to_name_position.coords.xy[1][0] ], ha=x.LabelLoc_ha,va=x.LabelLoc_va,zorder=5),axis=1);
 
@@ -251,7 +255,6 @@ if __name__ == '__main__':
         listVins.loc[listVins['legend_loc'].isnull(),'legend_loc'] = 'upper right'
         print  '{:d} vins ont ete charge'.format(listVins.shape[0])
         listVins.to_file(wkdir+"listVins.gpkg", driver="GPKG")
-
 
     else:
         listVins = gpd.read_file(wkdir+"listVins.gpkg", driver="GPKG")
@@ -584,6 +587,7 @@ if __name__ == '__main__':
     for index, vin in listVins.iterrows():
         
         flag_igp = 0
+        flag_other = 0
         #select appellation from vin 
         appellations_containing_vin = gpd.tools.sjoin(appellations,listVins.loc[[index]],how='inner')
 
@@ -670,7 +674,15 @@ if __name__ == '__main__':
                 ax.set_xticks([])
                 ax.set_yticks([])
                 #--
-                bx = fig.add_axes([0.72,0.02, 0.26,0.26])
+                if vin.DomaineChateau == u'Ch\xe2teau La Borie':
+                    bx = fig.add_axes([0.02,0.02, 0.26,0.26])
+                elif vin.DomaineChateau == u'Cidre S\xe9h\xe9dic':
+                    bx = fig.add_axes([0.02,0.02, 0.26,0.26])
+                elif vin.DomaineChateau == u'Domaine Philippe Girard':
+                    bx = fig.add_axes([0.02,0.72, 0.26,0.26])
+                else:
+                    bx = fig.add_axes([0.72,0.02, 0.26,0.26])
+                
                 bx.set_xticks([])
                 bx.set_yticks([])
 
@@ -765,6 +777,7 @@ if __name__ == '__main__':
             appellation_other_ = appellations_other.loc[appellations_other.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
             if len(appellation_other_) != 0:
                 appellation_ = appellation_other_
+                flag_other = 1
             
             
             if len(appellation_) == 0:
@@ -785,7 +798,13 @@ if __name__ == '__main__':
         listRecipies_here = listRecipies_here[:-2]+'.'
         if listRecipies_here == '.':
             list_vin_noRecipies.append([vin.DomaineChateau, vin.Couleur, vin.Appelation, vin.Cuvee])
-        vin_Appelation = vin.Appelation  if (flag_igp == 0) else vin.Appelation + ' (IGP)'
+        if (flag_igp == 1): 
+            vin_Appelation = vin.Appelation + ' (IGP)'
+        elif (flag_other == 1): 
+            vin_Appelation = vin.Appelation + u' (App\xe9llation Locale)'
+        else:
+            vin_Appelation = vin.Appelation  
+
         final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
         #final2_lines.append(u'\n \\vspace{.05cm} \n')
       
