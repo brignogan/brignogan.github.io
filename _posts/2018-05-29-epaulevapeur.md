@@ -33,7 +33,7 @@ Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier m
 * Servir l’épaule avec du cumin et de la fleur de sel, accompagnée de pommes de terre cuite à l’eau.
 
 ### Vins
-* Vin rouge : Bandol (Domaine La Roche Redonne, Les Bartavelles), Bandol (Château Guilhem Tournier, La Malissonne), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Cornas (Cave de Tain, Arènes Sauvages).
+* Vin rouge : Bandol (Domaine La Roche Redonne, Les Bartavelles), Bandol (Château Guilhem Tournier, La Malissonne), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Cornas (Cave de Tain, Arènes Sauvages), Saint-Estèphe (Château Haut-Marbuzet).
 
 ### Notes
 * Si la recette se fait traditionnellement dans le couscoussier, le temps de cuisson doit être d'au moins 2h.
