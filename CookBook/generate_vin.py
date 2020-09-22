@@ -105,6 +105,15 @@ def saveplot(appellations_domain,vin):
     fig.savefig(map_domain, dpi=dpi_map, facecolor=fig.get_facecolor())
     plt.close(fig)
 
+
+def simple_appelation(appelation):
+    if appelation == 'Alsace Gewurztraminer': return 'Alsace'
+    if appelation == 'Alsace Riesling'      : return 'Alsace'
+    if appelation == 'Alsace Pinot Noir'    : return 'Alsace'
+    return appelation
+
+
+
 ##########################
 if __name__ == '__main__':
 ##########################
@@ -188,7 +197,18 @@ if __name__ == '__main__':
     if ((flag_vin) or (not(flag_restart)) or (not(os.path.isfile(wkdir+"listVins.gpkg")))):
         print 'list vins de la cave ...'
         print 'le fichier est ici : ', file_listDesVins
-        listVins = pd.concat([ pd.read_excel(file_listDesVins, sheet_name='france'), pd.read_excel(file_listDesVins, sheet_name='cidre') ], sort=True)
+        vins_   = pd.read_excel(file_listDesVins, sheet_name='france')
+        vins_ = vins_.loc[ (vins_['Couleur'].str.strip()=='Blanc') |
+                           (vins_['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
+                           (vins_['Couleur'].str.strip()=='Rouge') |
+                           (vins_['Couleur'].str.strip()==u'Ros\xe9') |
+                           (vins_['Couleur'].str.strip()==u'Pommeau') 
+                         ]
+        
+        cidres_ = pd.read_excel(file_listDesVins, sheet_name='cidre')
+        cidres_.index = range(len(vins_),len(vins_)+len(cidres_))
+        
+        listVins = pd.concat([ vins_, cidres_ ], sort=True)
         #clean data
         listVins = listVins.loc[ (listVins['Couleur'].str.strip()=='Blanc') |
                                  (listVins['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
@@ -213,9 +233,12 @@ if __name__ == '__main__':
             except geopy.exc.GeocoderTimedOut : 
                 print 'geopy timeout on :', address3
                 sys.exit()
+            #print address3, ' | ', listVins.at[index,'latlong']
+        
         lats = [pt.latitude for pt in listVins['latlong']]
         lons = [pt.longitude for pt in listVins['latlong']]
         listVins = gpd.GeoDataFrame( listVins.loc[:,listVins.columns!='latlong'] ,geometry= gpd.points_from_xy(x=lons,y=lats), crs={'init': 'epsg:4326'})
+        #listVins = gpd.GeoDataFrame( listVins.loc[:,:] ,geometry= gpd.points_from_xy(x=lons,y=lats), crs={'init': 'epsg:4326'})
         listVins = listVins.to_crs(epsg=3395)
         listVins['DomaineChateau'] = [ unicode(xx) for xx in  listVins['DomaineChateau'] ]
 
@@ -228,6 +251,7 @@ if __name__ == '__main__':
         listVins.loc[listVins['legend_loc'].isnull(),'legend_loc'] = 'upper right'
         print  '{:d} vins ont ete charge'.format(listVins.shape[0])
         listVins.to_file(wkdir+"listVins.gpkg", driver="GPKG")
+
 
     else:
         listVins = gpd.read_file(wkdir+"listVins.gpkg", driver="GPKG")
@@ -364,13 +388,38 @@ if __name__ == '__main__':
     ########################################
     #replace geographic zone for alsace grand cru to production zone stored locally in CarteVin/GrandCruAslace:
     ########################################
-    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_grandCruAlsace.shp")))):
-        '''
-        load wine production zone
-        '''
-        print '**'
-        print 'need to code wine production zone for Alsace'
-        print '**'
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_AlsaceGrandCru.shp")))):
+        dir_agc = dir_in+'GrandCruAlsace/'
+        appellations_agc = []
+        for csvFile in glob.glob(dir_agc+'*.csv'):
+            agc_ = pd.read_csv(csvFile, sep=';')
+            agc_.rename(columns=lambda x: x.replace('Aire g\xe9ographique','Appellation'), inplace=True)
+            agc_.Appellation = agc_.Appellation.str.lower().str.replace(' ','-')
+            agc_ = agc_.rename(columns={'CI':'insee'})
+            agc_.insee = [str(xx) for xx in agc_.insee]
+            agc_['Bassin'] = ['Alsace']*len(agc_)
+            
+            agc_ = agc_.loc[agc_['Zone'] == 'Zone de production des raisins']
+
+            map_df_ = map_dfCommune.merge(agc_, on='insee') 
+            map_df_.Bassin = [ unicode(xx) for xx in map_df_.Bassin]
+            
+            agc_gpd = map_df_[['Appellation','geometry','Bassin']].dissolve(by='Appellation').reset_index()
+            agc_gpd['area']=agc_gpd.geometry.area
+            
+            agc_gpd = agc_gpd.to_crs(epsg=3395)
+            agc_gpd = agc_gpd.rename(columns={'Appellation':'nom'})
+            agc_gpd = agc_gpd.rename(columns={'Bassin':'bassin'})
+            
+            appellations_agc.append(agc_gpd)
+
+        appellations_agc = pd.concat(appellations_agc, ignore_index=True)
+        appellations_agc.to_file(wkdir+"appellations_AlsaceGrandCru.shp")
+        
+    else:
+        appellations_agc = gpd.read_file(wkdir+"appellations_AlsaceGrandCru.shp")
+        appellations_agc = appellations_agc.sort_values(by='area', ascending=False)
+
 
 
     #################### 
@@ -498,6 +547,7 @@ if __name__ == '__main__':
     except: 
         vinDictionary2 = {}
     list_vin_noRecipies = []
+
     for index, vin in listVins.iterrows():
         
         flag_igp = 0
@@ -623,8 +673,7 @@ if __name__ == '__main__':
 
                 appellations_domain = []
                 appellations_domainName = []
-                LegendElement_domain = [Line2D([0], [0], marker='s', color='None', label=section_domain,
-                                                         markerfacecolor='k', markersize=10)]
+                LegendElement_domain = [Line2D([0], [0], marker='s', color='None', label=section_domain, markerfacecolor='k', markersize=10)]
 
                 #ax.set_xlim(vin.geometry.coords.xy[0][0]-buffer_lim,vin.geometry.coords.xy[0][0]+buffer_lim)
                 #ax.set_ylim(vin.geometry.coords.xy[1][0]-buffer_lim,vin.geometry.coords.xy[1][0]+buffer_lim)
@@ -638,7 +687,7 @@ if __name__ == '__main__':
             final2_lines.append(u'%--------------\n')
             section_couleur = vin.Couleur
             newCouleur = 1
-
+            
         
         #add appellation to plot
         print '      ', vin.Appelation
@@ -648,26 +697,41 @@ if __name__ == '__main__':
         
         appellation_ = appellations.loc[appellations.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
         vin_prev = vin # to get right name in the saveplot fct
-        if len(appellation_) == 0:
+       
+        flag_need_more = False
+        if (len(appellation_) == 0):
+            flag_need_more = True
+        else: 
+            if ('alsace-grand-cru' in  appellation_.nom.item()):
+                flag_need_more = True
+
+        if flag_need_more:
             tmp_= '-'.join(vin.Appelation.lower().split(' ')) 
             if 'maury' in tmp_  : appellation_ = appellations.loc[appellations.nom == 'maury']                     # tous les maury sont sur la meme zone
             if 'gaillac' in tmp_: appellation_ = appellations.loc[appellations.nom == u'gaillac-rouge-et-ros\xe9'] # tout les gaillac sont sur la meme zone
             
             if 'cotentin' in tmp_: appellation_ = appellations.loc[appellations.nom == u'cidre-cotentin-ou-cotentin'] # tout les gaillac sont sur la meme zone
-            
+          
             #alsace
-            if tmp_ == 'alsace' : appellation_ = appellations.loc[appellations.nom ==u'alsace-suivi-ou-non-d?un-nom-de-lieu-dit']
-            if tmp_ ==  'alsace-pinot-noir': appellation_ = appellations.loc[appellations.nom ==u'alsace-suivi-ou-non-d?un-nom-de-lieu-dit']
-            if tmp_ ==  'alsace-gewurztraminer' : appellation_ = appellations.loc[appellations.nom ==u'alsace-suivi-ou-non-d?un-nom-de-lieu-dit']
-            if tmp_ ==  'alsace-riesling' : appellation_ = appellations.loc[appellations.nom ==u'alsace-suivi-ou-non-d?un-nom-de-lieu-dit']
+            appellation_agc_ = appellations_agc.loc[appellations_agc.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
+            if len(appellation_agc_) != 0:
+                appellation_ = appellation_agc_
+            else:
+                if tmp_ ==  'alsace' :                appellation_ = appellations.loc[appellations.nom.str.contains('alsace-suivi-ou-non')]
+                if tmp_ ==  'alsace-pinot-noir':      appellation_ = appellations.loc[appellations.nom.str.contains('alsace-suivi-ou-non')]
+                if tmp_ ==  'alsace-gewurztraminer' : appellation_ = appellations.loc[appellations.nom.str.contains('alsace-suivi-ou-non')]
+                if tmp_ ==  'alsace-riesling' :       appellation_ = appellations.loc[appellations.nom.str.contains('alsace-suivi-ou-non')]
+
+
             appellation_igp_ = appellations_igp.loc[appellations_igp.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
             if len(appellation_igp_) != 0:
                 appellation_ = appellation_igp_
                 flag_igp = 1
+            
 
             if len(appellation_) == 0:
                 print '      ****  missing appellation:', '-'.join(vin.Appelation.lower().split(' '))
-                if (vin.Bassin == 'Alsace') : continue
+                if (vin.Bassin == 'Alsace') : pdb.set_trace()
                 #if (u'H\xe9rault' in vin.Appelation): continue  
                 #if (u'Caume'      in vin.Appelation): continue 
                 if (u'Vin de France'      in vin.Appelation): continue 
@@ -681,7 +745,8 @@ if __name__ == '__main__':
             for recipe in vinDictionary2[key]:
                 listRecipies_here += '{:s}, '.format(recipe)
         listRecipies_here = listRecipies_here[:-2]+'.'
-        if listRecipies_here == '.': list_vin_noRecipies.append([vin.DomaineChateau, vin.Couleur, vin.Appelation, vin.Cuvee])
+        if listRecipies_here == '.':
+            list_vin_noRecipies.append([vin.DomaineChateau, vin.Couleur, vin.Appelation, vin.Cuvee])
         vin_Appelation = vin.Appelation  if (flag_igp == 0) else vin.Appelation + ' (IGP)'
         final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
         #final2_lines.append(u'\n \\vspace{.05cm} \n')
@@ -692,26 +757,72 @@ if __name__ == '__main__':
         #pdb.set_trace()
         if (((not(flag_restart)) or (not(os.path.isfile(map_domain))))):
             if len(appellation_) != 0:
-                hash_patterns = ('//', '..', 'o', '\\\\', 'O', '*', '-')
-                if appellation_.reset_index().nom[0] not in appellations_domainName:
+                hash_patterns = ('..', '//', 'o', '\\\\', 'O', '*', '-')
+                if simple_appelation(appellation_.reset_index().nom[0]) not in appellations_domainName:
+                    
                     appellation_.plot(ax=ax, zorder=5, facecolor='none', edgecolor='.5', hatch=hash_patterns[len(appellations_domain)])
                     
-                    appellations_domainName.append(appellation_.reset_index().nom[0])
+                    appellations_domainName.append(simple_appelation(appellation_.reset_index().nom[0]))
                    
                     LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
-                                                                edgecolor='.5', label=vin.Appelation ) )
+                                                                edgecolor='.5', label=simple_appelation(vin.Appelation) ) )
                     
                     appellations_domain = appellation_ if len(appellations_domain)==0 else appellations_domain.append(appellation_)
 
     
-    
     #for the last plot
     if (((not(flag_restart)) or (not(os.path.isfile(map_domain)))) & (section_domain != 'mm')): 
         saveplot(appellations_domain, vin_prev)
+    
+    
+    #scan vin to remove wine with no recipies in reference
+    #remove no recipes
+    final22_lines = []
+    for line in final2_lines:
+        if '{.}' not in line: final22_lines.append(line)
+
+    #remove empty colour
+    final222_lines = []
+    for iline, line in enumerate(final22_lines):
+        if 'vinShowCouleur' in line: 
+            flag_ok = False
+            ii = iline+1
+            while ii < len(final22_lines):
+                if 'vinShowInfoAppellation' in final22_lines[ii]:
+                    flag_ok = True
+                    final222_lines.append(line)
+                    break
+                if 'vinShowCouleur' in final22_lines[ii]: 
+                    break
+                ii += 1
+            continue
+
+        final222_lines.append(line)
+    
+    #remove empty wine
+    final2222_lines = []
+    ii_no = -999
+    for iline, line in enumerate(final222_lines):
+        if 'vinSection' in line: 
+            flag_ok = False
+            ii = iline+1
+            while ii < len(final222_lines):
+                if 'vinShowCouleur' in final222_lines[ii]:
+                    flag_ok = True
+                    final2222_lines.append(line)
+                    ii_no = -999
+                    break
+                if 'vinSection' in final222_lines[ii]: 
+                    ii_no = ii -1
+                    break
+                ii += 1
+            continue
+        if iline <= ii_no: continue
+        final2222_lines.append(line)
 
     #save file
     f= io.open(dir_out+"vin.tex","w", encoding='utf-8')
-    for line in final1_lines+final2_lines+final3_lines:
+    for line in final1_lines+final2222_lines+final3_lines:
         f.write( line.decode('utf-8') )
     f.close()
 
