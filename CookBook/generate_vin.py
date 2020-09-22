@@ -421,6 +421,39 @@ if __name__ == '__main__':
         appellations_agc = appellations_agc.sort_values(by='area', ascending=False)
 
 
+    ########################################
+    #Add particular zone stored locally in appellations: (ex: cidre fouesnantais)
+    ########################################
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_other.shp")))):
+        dir_other = dir_in+'AutreAppellation/'
+        appellations_other = []
+        for csvFile in glob.glob(dir_other+'*.csv'):
+            other_ = pd.read_csv(csvFile)
+            other_.rename(columns=lambda x: x.replace('Aire geographique','Appellation'), inplace=True)
+            other_.Appellation = other_.Appellation.str.lower().str.replace(' ','-')
+            other_ = other_.rename(columns={'CI':'insee'})
+            other_.insee = [str(xx) for xx in other_.insee]
+            other_.Bassin = [ unicode(xx) for xx in other_.Bassin]
+
+            map_df_ = map_dfCommune.merge(other_, on='insee') 
+            map_df_.Bassin = [ unicode(xx) for xx in map_df_.Bassin]
+            
+            other_gpd = map_df_[['Appellation','geometry','Bassin']].dissolve(by='Appellation').reset_index()
+            other_gpd['area']=other_gpd.geometry.area
+            
+            other_gpd = other_gpd.to_crs(epsg=3395)
+            other_gpd = other_gpd.rename(columns={'Appellation':'nom'})
+            other_gpd = other_gpd.rename(columns={'Bassin':'bassin'})
+            
+            appellations_other.append(other_gpd)
+
+        appellations_other = pd.concat(appellations_other, ignore_index=True)
+        appellations_other.to_file(wkdir+"appellations_other.shp")
+    
+    else:
+        appellations_other = gpd.read_file(wkdir+"appellations_other.shp")
+        appellations_other = appellations_other.sort_values(by='area', ascending=False)
+
 
     #################### 
     # river and lake
@@ -722,13 +755,18 @@ if __name__ == '__main__':
                 if tmp_ ==  'alsace-gewurztraminer' : appellation_ = appellations.loc[appellations.nom.str.contains('alsace-suivi-ou-non')]
                 if tmp_ ==  'alsace-riesling' :       appellation_ = appellations.loc[appellations.nom.str.contains('alsace-suivi-ou-non')]
 
-
+            #igp
             appellation_igp_ = appellations_igp.loc[appellations_igp.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
             if len(appellation_igp_) != 0:
                 appellation_ = appellation_igp_
                 flag_igp = 1
             
-
+            #other
+            appellation_other_ = appellations_other.loc[appellations_other.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
+            if len(appellation_other_) != 0:
+                appellation_ = appellation_other_
+            
+            
             if len(appellation_) == 0:
                 print '      ****  missing appellation:', '-'.join(vin.Appelation.lower().split(' '))
                 if (vin.Bassin == 'Alsace') : pdb.set_trace()
