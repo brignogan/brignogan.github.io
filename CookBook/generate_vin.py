@@ -812,7 +812,7 @@ if __name__ == '__main__':
                     final2222_lines.append(line)
                     ii_no = -999
                     break
-                if ('vinSection' in final222_lines[ii]) | ('fakesubsection' in final222_lines[ii]): 
+                if ('vinSection' in final222_lines[ii]) | ('newpage' in final222_lines[ii]): 
                     ii_no = ii -1
                     break
                 if ii == len(final222_lines)-1:  
