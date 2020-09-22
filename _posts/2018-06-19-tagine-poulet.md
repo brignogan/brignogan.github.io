@@ -37,6 +37,7 @@ Cette recette est un grand classique de la cuisine marocaine et le meilleur que 
 
 ### Vins
 * Vin blanc : Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Hermitage (Cave de Tain, Au Cœur des Siècles), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard).
+* Vin rouge : Saint-Aubin (Domaine Hubert Lamy, Derrière chez Edouard).
 
 ### Notes
 * Le poulet peut être rôti à la cocotte.

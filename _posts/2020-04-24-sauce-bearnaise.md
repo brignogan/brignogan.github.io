@@ -48,4 +48,4 @@ La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les 
 * La pièce de viande et la sauce béarnaise se servent avec des frites, des pommes de terre sautées ou des haricots verts poêlés.
 
 ### Vins
-* Vin rouge : Saint-Emilion (Château Franc Patarabet), Saint-Emilion (Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côtes-du-Rhône Villages (Château La Borie).
+* Vin rouge : Saint-Emilion (Château Franc Patarabet), Saint-Emilion (Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côtes-du-Rhône Villages (Château La Borie), Saint-Aubin (Domaine Hubert Lamy, Derrière chez Edouard).
