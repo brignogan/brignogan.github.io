@@ -676,6 +676,8 @@ if __name__ == '__main__':
                 #--
                 if vin.DomaineChateau == u'Ch\xe2teau La Borie':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
+                elif vin.DomaineChateau == u'Ch\xe2teau Haut-Marbuzet':
+                    bx = fig.add_axes([0.02,0.02, 0.26,0.26])
                 elif vin.DomaineChateau == u'Cidre S\xe9h\xe9dic':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
                 elif vin.DomaineChateau == u'Domaine Philippe Girard':
