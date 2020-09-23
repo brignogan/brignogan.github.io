@@ -140,7 +140,9 @@ def add_graphics(line2p_,imageDir,img_path):
         line2p_ += '\n\\end{center} \n \\par '                     
 
     elif recipName == 'sachertorte': 
-        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)
+        line2p_ += '\n\\begin{center}'
+        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook').replace('.png','.pdf'))
+        line2p_ += '\n\\end{center} \n \\par '                     
     
     else:
         line2p_ += '\n\\begin{center}'
