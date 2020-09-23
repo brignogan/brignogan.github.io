@@ -120,10 +120,33 @@ def parseVinList(string):
     return out 
 
 def add_graphics(line2p_,imageDir,img_path):
+    
+    print recipName
+
     width_ = 1.
     if recipName == 'sauce mousseline': width_ = .35
-    line2p_ += '\n \\begin{center}' + ' {{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)\
-                                 +  '\\end{center} \n \\par '                     
+    
+    if recipName == 'homardgrille':
+        line2p_ += '\n\\begin{center}'
+        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook'))
+        line2p_ += '\n \\put(-310,0) {\\tiny $1$- sur le dos, avec le couteau.} '
+        line2p_ += '\n \\put(-210,0) {\\tiny $2$- sur le ventre, avec le couteau.} '
+        line2p_ += '\n \\put(-100,0) {\\tiny $3$- sur le ventre, avec les ciseaux.} '
+        line2p_ += '\n\\end{center} \n \\par '                     
+    
+    elif recipName == 'kardinalchnitten':
+        line2p_ += '\n\\begin{center}'
+        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook').replace('.png','.pdf'))
+        line2p_ += '\n\\end{center} \n \\par '                     
+
+    elif recipName == 'sachertorte': 
+        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)
+    
+    else:
+        line2p_ += '\n\\begin{center}'
+        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)
+        line2p_ += '\n\\end{center} \n \\par '                     
+    
     return line2p_
     
 parser = argparse.ArgumentParser(description='generate cookboo.tex and run latex')
@@ -724,7 +747,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 for percentnumber in percentnumbers:
                     line_ = line_.replace( '{:s}%'.format(percentnumber) ,'{:s}\%'.format(percentnumber) )
 
-            if '../img/recette/' in line_:
+            if 'img/recette' in line_:
                 final2_lines.append(line_)
             elif 'vskip' in line_:
                 final2_lines.append(line_)

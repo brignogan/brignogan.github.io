@@ -1,0 +1,25 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[margin=2cm,a4paper]{geometry}
+\pagestyle{empty}
+\title{psfrag Example}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{newtxmath}
+\usepackage{graphicx}
+\usepackage{pstool}
+\begin{document}
+
+Remember to compile your project with \LaTeX\ + dvipdfm via the Project Settings. Click on the Overleaf menu icon in the upper left, above the file list pane, and set `Compiler' to `LaTeX' to do this!
+
+
+\vskip3em
+
+\psfragfig[width=.3\columnwidth]{img/kardinalschnittenSchema}{
+	\psfrag{1}[r][][.35]{biscuit}
+	\psfrag{2}[l][][.35]{découpe du biscuit}
+	\psfrag{3}[r][][.35]{meringue}
+	\psfrag{4}[l][][.35]{feuille de cuisson}
+}
+
+\end{document}

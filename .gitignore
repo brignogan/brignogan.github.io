@@ -27,3 +27,10 @@ CookBook/calque-seul-1.eps
 CookBook/errorVinDansRecette.csv
 CookBook/mystyle.xdy
 CookBook/LogError/
+img/recetteCookbook/addText2Img/img/*.aux
+img/recetteCookbook/addText2Img/img/*.pdf
+img/recetteCookbook/addText2Img/main.aux
+img/recetteCookbook/addText2Img/main.pdf
+img/recetteCookbook/addText2Img/main.log
+img/recetteCookbook/*.pdf
+
