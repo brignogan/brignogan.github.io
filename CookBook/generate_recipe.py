@@ -121,8 +121,6 @@ def parseVinList(string):
 
 def add_graphics(line2p_,imageDir,img_path):
     
-    print recipName
-
     width_ = 1.
     if recipName == 'sauce mousseline': width_ = .35
     
