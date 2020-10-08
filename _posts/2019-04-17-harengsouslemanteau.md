@@ -16,7 +16,7 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 * 200 g de hareng doux fumé
 * 4 pommes de terre
 * 4 œufs
-* 1 betterave moyenne cuite
+* 1 betterave moyenne cuite (voir notes)
 * 2 échalotes
 * un bol de mayonnaise (voir notes)
 * 10 cornichons
@@ -47,5 +47,6 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinweg), Lirac (Domaine de la Mordorée, La Reine des Bois), Pessac-Léognan (Domaine de la Solitude).
 
 ### Notes
+* Pour procéder à la cuisson des betteraves, les enduire d'huile d'olive en les massant puis les mettre au four chaud (240°C) pendant 1 h. 
 * Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments".
 * Pour accompagner typiquement cette entrée, plutôt qu'un verre de vin, on peut servir un petit verre de vodka.
