@@ -50,7 +50,3 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 ### Vins
 * Vin rouge : Cornas (Cave de Tain, Arènes Sauvages), Pommard (Domaine Philippe Girard, Vieilles Vignes), Hermitage (Cave de Tain, Gambert de Loche), Corton	(Domaine Philippe Girard, Les Perrières).
 * Vin blanc : Sauternes (Château Haut-Bergeron).
-
-### Notes
-* On peut réaliser cette recette avec seulement des cuisses de canard et, dans ce cas, la cuisson sera menée de la même manière. On remplace le fumet par un bouillon cube de volaille.
-* Cette sauce à l'orange peut également accompagner des filets de canard. La cuisson est alors plus rapide puisque les filets doivent rester rosés, on les poêle 3 mn sur chaque face.
