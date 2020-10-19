@@ -26,6 +26,10 @@ Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pe
  * Verser le mélange dans un récipient hermétique puis placer au congélateur bien à plat.
 * Faire prendre pendant 30 mn. Sortir la crème glacée et la gratter avec une fourchette pour éviter la formation de cristaux.
 * Répéter cette opération 3 fois pour obtenir une glace bien crémeuse.
+* Servir la glace accompagnée de biscuits, de crème chantilly et/ou de coulis de fruits rouges (voir notes).
 
 ### Vins
 * Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).
+
+### notes
+* Pour le coulis de fruits rouges, la [préparation]({% post_url 2020-05-22-charlottefraises %}) est décrite dans la recette de la charlotte aux fraises.
