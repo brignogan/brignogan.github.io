@@ -31,6 +31,7 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 * 25 cL de crème fraîche liquide
 * 100 g de beurre ½ sel
 * 300-350 cc de lait
+* sel
 
 #### pour le fars sac'h blanc (optionnel) :
 * 250 g de farine de froment
@@ -47,7 +48,7 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 ### Préparation
 
 #### Cuisson du boeuf et de la poitrine fumée :
-* Dans la cocotte minute, mettre la viande de boeuf et l'os dans de l'eau froide légèrement salée (le petit salé ajouté ultérieurement peut rendre le bouillon trop salé). Faire bouillir. Eplucher les oignons et les ajouter à la viande. Fermer la cocotte et faire cuire 45 mn.
+* Dans la cocotte minute, mettre la viande de boeuf, l'os et le jarret de porc dans de l'eau froide légèrement salée (le jarret et le petit salé ajouté ultérieurement peuvent rendre le bouillon trop salé). Faire bouillir. Eplucher les oignons et les ajouter à la viande. Fermer la cocotte et faire cuire 45 mn.
 * En même temps, mettre à bouillir de l'eau dans une grande casserole. Ne pas saler. Y plonger la poitrine fumée qui doit cuire 1h1/2 à petits bouillons et à couvert. Surveiller le niveau de l'eau qui doit toujours recouvrir la poitrine (pour éviter l’évaporation dans la casserole, verser de l’eau et en maintenir suffisamment sur le couvercle).
 * Eplucher les carottes, les panais et nettoyer les poireaux et éventuellement le chou et les pommes de terre.
 
@@ -61,7 +62,7 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 * Mettre la farine de froment dans un saladier avec les oeufs et le sucre, mélanger en ajoutant petit à petit le lait, ajouter, si on le désir, quelques pruneaux, mettre le fars en sac.
 
 #### Cuisson du petit salé, des légumes et des fars :
-* Au bout des 45 mn de cuisson de la viande de boeuf, ouvrir la cocotte et ajouter le petit salé, le jarret, le(s) sac(s) de fars, les carottes, les panais, les poireaux et éventuellement le chou. Refermer la cocotte et cuire à nouveau 45 mn. 10 mn avant la fin de la cuisson, ajouter éventuellement les pommes de terre.
+* Au bout des 45 mn de cuisson de la viande de boeuf et du jarret, ouvrir la cocotte et ajouter le petit salé, le(s) sac(s) de fars, les carottes, les panais, les poireaux et éventuellement le chou. Refermer la cocotte et cuire à nouveau 45 mn. 10 mn avant la fin de la cuisson, ajouter éventuellement les pommes de terre.
 
 #### Préparation du lipig :
 * Eplucher et hacher les échalotes, mettre à fondre le reste de beurre (100 g) dans la petite casserole, ajouter les échalotes et cuire à feu doux, les échalotes doivent devenir translucides et légèrement dorées. Poivrer.
