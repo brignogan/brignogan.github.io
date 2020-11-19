@@ -26,7 +26,6 @@ C'est une soupe de carottes revisitée à la mode marocaine.
 * sel, poivre
 * facultatif : cumin, graines de coriandre
 
-
 ### Préparation
 * Diluer les cubes de bouillon dans l’eau bouillante.
 * Eplucher et émincer l’échalote. Peler et couper les carottes en rondelles épaisses.
