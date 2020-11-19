@@ -24,7 +24,7 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 * Eplucher les courgettes en laissant une bande sur deux de la peau verte (pour la couleur). Couper les en dés. Couper également le fromage en dés.
 * Faire bouillir l'eau dans une grande casserole puis y mettre les légumes, les cubes de bouillon et le fromage. Cuire à couvert et à feu moyen pendant 30 mn.
 * Mixer le mélange. Rectifier l’assaisonnement en salant et poivrant selon le goût.
-* Servir aussitôt cette soupe avec, éventuellement un trait de crème.
+* Servir aussitôt cette soupe avec, éventuellement, un trait de crème.
 
 ### Vins
 * Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
