@@ -24,7 +24,7 @@ C'est une soupe de carottes revisitée à la mode marocaine.
 * 2 c. à s. de coriandre frais ciselé
 * 4 pincées de cumin  
 * sel, poivre
-* facultatif : cumin, graines de coriandre
+* facultatif : graines de coriandre
 
 ### Préparation
 * Diluer les cubes de bouillon dans l’eau bouillante.
@@ -32,5 +32,5 @@ C'est une soupe de carottes revisitée à la mode marocaine.
 * Faire fondre, à feu moyen, le beurre dans une cocotte. Ajouter l’échalote, les carottes et le cumin. Faire dorer pendant 4 mn.
 * Verser le bouillon et ajouter le laurier. Saler si nécessaire, poivrer et couvrir. Laisser cuire 25 mn à couvert.
 * Oter les feuilles de laurier. Mixer la préparation puis ajouter la crème, le jus du demi-citron et le coriandre. Ajuster l’assaisonnement.
-* Servir cette soupe avec un trait de crème et quelques feuilles de coriandre. Ajouter éventuellement dans chaque assiette une pincée de cumin et quelques graines de coriandre concassées.
+* Servir cette soupe avec un trait de crème et quelques feuilles de coriandre. Ajouter éventuellement dans chaque assiette quelques graines de coriandre concassées.
 * Voir le vin d'accompagnement dans la recette suivante (courgettes et fromage).
