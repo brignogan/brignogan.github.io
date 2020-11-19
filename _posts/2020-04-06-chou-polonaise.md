@@ -29,7 +29,7 @@ Erika Guibé, est une amie polonaise, chimiste à l'Institut de Chimie Molécula
 * Dans une cocotte, faire revenir pendant 5 mn, dans un peu d'huile, les oignons et les lardons.
 * Ajouter les carottes, les pommes, le chou et le genièvre. Saler et poivrer.
 * Verser un verre d'eau.
-* Faire cuire à feu doux et à couvert pendant au moins 1h (1/2h si on utilise une cocotte-minute).
+* Faire cuire à feu doux et à couvert pendant au moins 1 h (30 mn si on utilise une cocotte-minute).
 
 ### Vins
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Alsace Grand Cru Furstentum (Domaine René Fleith, Pinot Gris), Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique).

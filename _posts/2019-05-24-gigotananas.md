@@ -29,14 +29,14 @@ Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui, faute de
 * Enfourner le gigot et cuire 15 mn.
 * Baisser la température à 200°C, retourner le gigot, ajouter les gousses d'ail non-épluchées et continuer la cuisson pendant encore 30 mn en retournant le gigot une fois (on compte 15 mn de cuisson totale par livre de gigot).
 * Faire dorer les tranches d'ananas dans une poêle avec un peu de beurre. Garder au chaud.
-* Réchauffer les flageolets à couvert et à petit feu dans une casserole.
+* Réchauffer les flageolets à couvert avec une noix de beurre et à petit feu dans une casserole.
 * Faire chauffer le plat de service.
 * A la fin de la cuisson du gigot, le sortir du four et le placer sur le plat chaud. Le recouvrir d'une feuille d'aluminium et d'un torchon et le laisser reposer 15 mn.
-* Récupérer le jus de cuisson.
+* Récupérer le jus de cuisson dans une casserole et préparer la sauce en le mélangeant à du sirop d'ananas en proportions adéquates pour obtenir une sauce ni trop grasse, ni trop sucrée. Saler et poivrer. Garder au chaud.
 * Faire tiédir le whisky dans une petite casserole et flamber le gigot.
-* Découper le gigot sur une planche puis disposer les tranches de viande, les tranche d'ananas et les gousses d'ail sur le plat de service et garder au chaud dans le four éteint.
-* Préparer la sauce en mélangeant au sang du gigot récupéré, le jus de cuisson et le sirop d'ananas en proportions adéquates pour obtenir une sauce ni trop grasse, ni trop sucrée. Saler et poivrer.
-* Servir avec les flageolets et de la fleur de sel (la viande n'est pas salée).    
+* Placer le gigot sur une planche et disposer les tranches d'ananas et les gousses d'ail sur le plat de service qui est gardé au chaud dans le four éteint.
+* Découper le gigot et ranger les tranches de viande sur le plat. Ajouter le sang du gigot à la sauce. Rectifier l'assaisonnement.
+* Servir le gigot avec les flageolets et de la fleur de sel (la viande n'est pas salée).    
 
 
 ### Vins

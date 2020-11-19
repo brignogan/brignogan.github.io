@@ -24,6 +24,7 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 * 50 mL de vinaigre de cidre
 * 1 petit verre de cointreau
 * beurre et huile
+* sel, poivre
 
 ### Préparation
 #### Préparation du fumet :

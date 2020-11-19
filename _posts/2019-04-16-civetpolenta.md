@@ -10,32 +10,34 @@ temps_repos: '-'
 nbre_personne: ‘pour 5-6 personnes’
 index_motClefIngredient: lapin, lard fumé, vin, polenta
 ---
-Le civet de lapin était un plat classique de la campagne ou des bourgs comme Saint-Pierre-Quilbignon ou Ploudaniel. Tous les jardins, en effet, abritaient quelques clapiers. Le civet de Grand-mère Ploudaniel était particulièrement savoureux. La recette de la polenta n'a, par contre, rien de breton, elle a été rapportée d'Antibes par Grand-mère Saint-Pierre... une belle association.
+Le civet de lapin était un plat classique de la campagne ou des bourgs comme Ploudaniel ou Saint-Pierre-Quilbignon. Tous les jardins, en effet, abritaient quelques clapiers. Le civet de Grand-mère Ploudaniel était particulièrement savoureux. La recette de la polenta n'a, par contre, rien de breton, elle a été rapportée d'Antibes par Grand-mère Saint-Pierre... une belle association.
 
 ### Ingrédients
-* 1 lapin de 1 kg ½ coupé en morceaux
+* 1 lapin de 1,5 kg coupé en morceaux
 * 125 g de lard fumé
 * 125 g d’oignons
-* 50 g de farine
-* 2 dL de bouillon
-* 4 dL de vin rouge
+* 1 c. à s. de farine
+* 1 cube de bouillon de boeuf
+* 200 mL d'eau
+* 400 mL de vin rouge
 * 30 g de beurre
 * 1 bouquet garni
 * 250 g de polenta
 * huile de tournesol
-* 1 L ¼ de lait
+* 1,25 L de lait
 * sel, poivre
 
 
 ### Préparation
+* Préparer un bouillon en dissolvant le cube dans l'eau chaude.
 * Faire revenir, dans le beurre chaud, les oignons et le lard coupé en dés. Les retirer.
 * Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés, remettre les oignons et le lard dans la cocotte.
 * Saupoudrer de farine, bien remuer et cuire 1-2 mn. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.
-* Laisser cuire doucement à couvert pendant 1 h ½. Verser de l'eau froide sur le couvercle pour éviter l'évaporation.
+* Laisser cuire doucement à couvert pendant 1,5 h. Verser de l'eau froide sur le couvercle de la cocotte pour éviter l'évaporation.
 * Pendant ce temps, faire bouillir le lait salé.
 * Jeter en pluie la polenta dans le lait bouillant tout en remuant. Maintenir à feu doux pendant 5 mn, en mélangeant constamment, jusqu’à ce que la polenta se détache des parois.
-* Huiler un moule à baba, le remplir avec le gateau de polenta bien chaud. Déposer le moule dans une casserole d’eau frémissante pour garder la polenta au chaud.
-* Démouler au moment de servir avec le civet de lapin.
+* Huiler un moule à baba, le remplir avec le gâteau de polenta bien chaud. Déposer le moule sur une casserole d’eau frémissante pour garder la polenta au chaud.
+* Lorsque le civet est cuit, le servir bien chaud avec la polenta démoulée.
 
 
 ### Vins
@@ -44,5 +46,5 @@ Le civet de lapin était un plat classique de la campagne ou des bourgs comme Sa
 
 
 ### Notes
-* On peut remplacer la polenta par de la semoule fine de blé dur. Les proportions sont alors : 150 g de semoule pour 1 L ¼ de lait.
- * On peut remplacer le lard fumé par de la poitrine 1/2 sel.
+* On peut remplacer la polenta par de la semoule fine de blé dur. Les proportions sont alors : 150 g de semoule pour 1,25 L de lait.
+ * On peut remplacer le lard fumé par de la poitrine demi-sel.

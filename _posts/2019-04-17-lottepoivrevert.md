@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: lotte, céleri, carotte, poivre vert
 ---
-C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat de lotte.  Pour cuisiner les produits de la "godaille" de ses amis pécheurs, Michelle déborde, en effet, d'idées.
+C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat de lotte.  Pour cuisiner les produits de la "godaille" de ses voisins et amis pécheurs, Michelle ne manque, en effet, pas d'idées.
 
 ### Ingrédients
 * 600 g de lotte environ

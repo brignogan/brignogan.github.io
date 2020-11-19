@@ -33,7 +33,7 @@ Ce gâteau de l’été a souvent été, chez nous, le gâteau d’anniversaire 
 * 250 g de framboises
 * 250 g de sucre
 * 250 mL d’eau
-* ½ citron
+* 1/2 citron
 
 ### Préparation
 * Laver rapidement et équeuter les fraises. Les couper en 2 ou 4 suivant la grosseur.
@@ -44,7 +44,7 @@ Ce gâteau de l’été a souvent été, chez nous, le gâteau d’anniversaire 
 * Recouvrir le tout avec le reste de biscuits imbibés. Le moule doit être rempli au maximum.
 * Couvrir avec un couvercle qui presse le gâteau. Ajouter un poids si nécessaire.
 * Conserver au frigo au moins une demi-journée.
-* Préparer le coulis : laver rapidement et équeuter les fruits puis les placer dans le bol du mixeur, ajouter le sucre et le jus du ½ citron, mixer le tout et ajouter l’eau au fur et à mesure, passer au chinois pour éliminer les pépins, conserver au frigo.
+* Préparer le coulis : laver rapidement et équeuter les fruits puis les placer dans le bol du mixeur, ajouter le sucre et le jus du demi-citron, mixer le tout et ajouter l’eau au fur et à mesure, passer au chinois pour éliminer les pépins, conserver au frigo.
 * Démouler la charlotte et verser un peu de coulis dessus. Décorer de quelques fraises et framboises.
 * Servir avec le reste de coulis en saucière.
 

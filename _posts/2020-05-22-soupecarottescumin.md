@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: carotte, cumin
 ---
-Bien que l'association carotte et cumin soit un principe de base de l'art culinaire marocain, cette soupe n'est pas typique de cette cuisine mais une variation de la soupe de carottes appréciée à notre table familiale.  .
+C'est une soupe de carottes revisitée à la mode marocaine.
 
 ### Ingrédients
 * 800 g de carottes
@@ -18,25 +18,21 @@ Bien que l'association carotte et cumin soit un principe de base de l'art culina
 * 40 g de beurre
 * 20 cL de crème fraîche
 * 5 c. à s. d’huile d’olive
-* ½ citron
+* 1/2 citron
 * 1 échalote
-* 2 feuille de laurier
+* 2 feuilles de laurier
+* 2 c. à s. de coriandre frais ciselé
 * 4 pincées de cumin  
 * 1,5 L d’eau
 * sel, poivre
+* facultatif : cumin, graines de coriandre
 
 
 ### Préparation
 * Diluer les cubes de bouillon dans l’eau bouillante.
-* Eplucher et émincer l’échalote. Peler et couper, en rondelles épaisses, les carottes.
+* Eplucher et émincer l’échalote. Peler et couper les carottes en rondelles épaisses.
 * Faire fondre, à feu moyen, le beurre dans une cocotte. Ajouter l’échalote, les carottes et le cumin. Faire dorer pendant 4 mn.
-* Verser le bouillon et ajouter le laurier. Saler si nécessaire, poivrer et couvrir. Laisser cuire 25 mn.
-* Oter les feuilles de laurier. Mixer la préparation avec la crème, le jus du ½ citron, l’huile d’olive et le coriandre. Ajuster l’assaisonnement.
-* Servir cette soupe avec un trait de crème et quelques feuilles de coriandre.
-
-
-### Vins
-* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
-
-### Notes
-* On peut ajouter dans l’assiette une pincée de cumin et quelques graines de coriandre concassées.
+* Verser le bouillon et ajouter le laurier. Saler si nécessaire, poivrer et couvrir. Laisser cuire 25 mn à couvert.
+* Oter les feuilles de laurier. Mixer la préparation puis ajouter la crème, le jus du demi-citron, l’huile d’olive et le coriandre. Ajuster l’assaisonnement.
+* Servir cette soupe avec un trait de crème et quelques feuilles de coriandre. Ajouter éventuellement dans chaque assiette une pincée de cumin et quelques graines de coriandre concassées.
+* Voir le vin d'accompagnement dans la recette suivante (courgettes et fromage).

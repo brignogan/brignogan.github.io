@@ -6,11 +6,11 @@ tag_plat: entree
 image: img/recette/harengsouslemanteau.png
 temps_preparation: 90
 temps_cuisson: '-'
-temps_repos: '-'
+temps_repos: 120
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: hareng | hareng fumé, pomme de terre, œuf, betterave, mayonnaise
 ---
-Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencontrées au cours de missions de coopérations entre l'Université Polytechnique de Tomsk et l'Université Paris Sud. A chacune de nos visites en Sibérie, elles se faisaient un plaisir de nous faire découvrir leur tradition culinaire dont cette recette de hareng est un fleuron. Le nom russe de ce plat est : "seledka pod shuboy".
+Rencontrées au cours de missions de coopérations entre l'Université Polytechnique de Tomsk et l'Université Paris Sud, nos collègues russes Natalya Baranovskaya et Nina Osipova sont devenues des amies. A chacune de nos visites en Sibérie, elles se faisaient un plaisir de nous faire découvrir leur pays et leur tradition culinaire dont cette recette de hareng est un fleuron. Le nom russe de ce plat est : "seledka pod shuboy".
 
 ### Ingrédients
 * 200 g de hareng doux fumé
@@ -25,16 +25,14 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 * Cuire les œufs durs et les pommes de terre à l’eau salée.
 * Couper les harengs en petits morceaux.
 * Couper en petites lamelles les pommes de terre et la betterave.
-* Hacher les échalotes.
-* Hacher séparément les jaunes et les blancs des œufs.
-* Hacher les cornichons.
+* Hacher séparément les échalotes, les cornichons, les jaunes et les blancs des œufs.
 
-#### Préparer le « gâteau » en empilant successivement en couches et en aplatissant :
+#### Pour préparer le « gâteau », utiliser un cercle à pâtisserie extensible de 18 cm de diamètre, empiler successivement en couches et bien aplatir :
 * la moitié des pommes de terre
 * les harengs
 * les échalotes
 * les jaunes d’œufs
-* une fine couche de mayonnaise (un demi bol)
+* une fine couche de mayonnaise (un demi-bol)
 * la betterave
 * les cornichons
 * le reste de pommes de terre
@@ -47,6 +45,7 @@ Natalya Baranovskaya et Nina Osipova sont des amies et collègues russes rencont
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Steinweg), Lirac (Domaine de la Mordorée, La Reine des Bois), Pessac-Léognan (Domaine de la Solitude).
 
 ### Notes
-* Pour procéder à la cuisson des betteraves, les enduire d'huile d'olive en les massant puis les mettre au four chaud (240°C) pendant 1 h. 
+* Pour procéder à la cuisson des betteraves, les enduire d'huile d'olive en les massant puis les mettre au four chaud (240°C) pendant 1 h.
 * Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments".
+* Pour 6 personnes, le cercle à pâtisserie devra avoir un diamètre de 20 cm.
 * Pour accompagner typiquement cette entrée, plutôt qu'un verre de vin, on peut servir un petit verre de vodka.

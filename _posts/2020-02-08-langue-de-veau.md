@@ -10,13 +10,13 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: langue de veau | veau!langue, carotte, céleri, sauce gribiche | sauce!gribiche
 ---
-En Bretagne, la langue de veau était considérée comme un mets délicat et systématiquement servie en entrée dans les repas de fête (mariage) et traditionnellement, elle était alors préparée à la sauce madère. Plus légèrement, elle est servie avec une sauce gribiche et était souvent au menu de Grand-mère Saint-Pierre.
+En Bretagne, la langue de veau était considérée comme un mets délicat et systématiquement servie en entrée dans les repas de fête (mariage). Cuite au court-bouillon, elle était alors traditionnellement préparée à la sauce madère. Plus légèrement, elle est ici servie avec une sauce gribiche. Cette recette était souvent au menu de Grand-mère Saint-Pierre.
 
 ### Ingrédients
 * 1 langue de veau
 * 1 bouquet garni
 * 2 carottes
-* 1 bouillon cube
+* 1 cube de bouillon de boeuf
 * 1 branche de céleri
 * sel, poivre
 
@@ -34,8 +34,8 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 
 ### Préparation
 * Peler les carottes et laver la branche de cèleri. Les couper en gros bâtonnets.
-* Déposer la langue dans une cocotte, la couvrir d'eau froide. Faire bouillir l'eau puis, à couvert, faire cuire 1 heures en écumant régulièrement.
-* Ajouter le bouillon cube, les carottes, le cèleri et le bouquet garni. Faire cuire à nouveau 1h à couvert.
+* Déposer la langue dans une cocotte, la couvrir d'eau froide. Faire bouillir l'eau puis, à couvert, faire cuire 1 h en écumant régulièrement.
+* Ajouter le cube de bouillon, les carottes, le cèleri et le bouquet garni. Faire cuire à nouveau 1 h à couvert.
 * Pendant ce temps, préparer la [sauce gribiche]({% post_url 2020-07-09-sauce-gribiche %}).
 * A la fin de la cuisson de la langue, l'égoutter et ôter la peau. La couper en tranches.
 * Servir la langue accompagnée de la sauce gribiche et de pommes de terre cuites à l'eau.

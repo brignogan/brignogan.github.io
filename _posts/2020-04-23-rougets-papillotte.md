@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rouget en papillote
+title: Rougets en papillote
 tag_category: famille
 tag_plat: platPoisson
 image: img/recette/untitled.png
@@ -16,7 +16,7 @@ Le rouget barbet est un poisson au goût très fin. On le trouve facilement de t
 * 4 rougets portion
 * 4 brins de romarin
 * 4 feuilles de basilic
-* 4 feuille de laurier
+* 4 feuilles de laurier
 * 4 c. à c. d'huile d'olive
 * 1 citron
 * sel, poivre
@@ -30,7 +30,7 @@ Le rouget barbet est un poisson au goût très fin. On le trouve facilement de t
 * Arroser chacun d'huile d'olive, saler et poivrer.
 * Former les papillotes en agraffant le papier.
 * Faire cuire 15 mn au four.
-* Servir avec du riz ou des pâtes.
+* Servir avec du riz ou des pâtes, accompagnés éventuellement d'haricots verts et de tomates poêlées avec de l'ail.
 
 
 ### Vins

@@ -24,7 +24,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 * 75 g de beurre demi-sel
 
 #### pour la sauce au rhum :
-* 1/2 L d'eau
+* 500 mL d'eau
 * 250 g de sucre
 * 200 mL de rhum
 

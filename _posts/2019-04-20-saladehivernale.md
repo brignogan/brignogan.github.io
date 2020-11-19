@@ -44,7 +44,7 @@ Cette salade, pleine de vitamines, garnit agréablement la table en hiver. Les f
 * Mettre les raisins à tremper dans 75 mL d’eau tiède. Peler l’oignon, l’émincer et le faire tremper 15 mn dans de l’eau glacée.
 * Eplucher l’orange et la couper en rondelles, émincer le fenouil, évider le poivron et le couper en lanières, laver les endives et les couper en lanières, écaler les œufs durs et les couper en rondelles, hacher grossièrement les cerneaux de noix.
 * Découper le saumon en lanières.
-* Presser un citron. Eplucher la pomme et l’avocat et les couper en dés. Les mélanger au jus de citron.
+* Presser le citron. Eplucher la pomme et l’avocat et les couper en dés. Les arroser du jus de citron.
 * Dans un saladier en verre, disposer en couches successives : la pomme, la moitié du poivron, les endives, l’avocat, l’orange, les raisins, le fenouil, les noix, la moitié du poivron, l’oignon, les câpres, les œufs de lump.
 * Décorer avec le saumon, les olives et les œufs. Verser sur la salade le jus de citron.
 * Préparer la sauce cocktail : faire une mayonnaise salée (jaune d'oeuf, moutarde et huile - voir notes) puis y incorporer le yaourt, le ketchup, la sauce Worcester, le whisky et un trait de tabasco.  

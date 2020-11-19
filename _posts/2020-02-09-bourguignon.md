@@ -22,9 +22,9 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 * 150 g de lard fumé (de préférence cuit)
 * 10 petits oignons grelot
 * 200 g de champignons
-* 1 bouillon cube
+* 1 cube de bouillon de boeuf
 * 1 c. à s. de farine
-* 1 bouteille de vin de bourgogne ou de beaujolais
+* 1 bouteille de vin de bourgogne ou de beaujolais (750 mL)
 * sel, poivre
 * facultatif : une boîte de marron.
 
@@ -36,9 +36,9 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 * Faire dorer la viande dans un mélange huile/beurre dans une cocotte en fonte. Réserver.
 * Dans la même cocotte, faire suer les carottes, l'oignon et l'ail.
 * Rajouter la viande et "singer" : saupoudrer de farine et faire torréfier.
-* Mouiller avec le vin pour recouvrir la viande, ajouter le bouillon cube, le bouquet garni et l'os. Si le liquide ne recouvre pas la viande, ajouter un peu d'eau.
+* Mouiller avec le vin pour recouvrir la viande, ajouter le cube de bouillon, le bouquet garni et l'os. Si le liquide ne recouvre pas la viande, ajouter un peu d'eau.
 * Saler et poivrer.
-* Faire bouillir puis cuire à couvert et à petit feu pendant au moins 2h (1h si on utilise une cocotte minute). Pour éviter une trop grande évaporation, verser de l'eau sur le couvercle.
+* Faire bouillir puis cuire à couvert et à petit feu pendant au moins 2 h (1 h si on utilise une cocotte minute). Pour éviter une trop grande évaporation, verser de l'eau sur le couvercle de la cocotte.
 * Pendant ce temps, si les lardons sont crus, les faire blanchir (les plonger 1 mn dans de l'eau bouillante).
 * Les faire revenir ensuite à la poêle sans matière grasse puis ajouter les oignons grelot et les champignons et les faire suer. Ajouter éventuellement les marrons.
 * A la fin de la cuisson de la viande, vérifier la consistance de la sauce et l'assaisonnement. Ajouter la poêlée de lardons et légumes et réchauffer.
