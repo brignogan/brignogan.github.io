@@ -14,11 +14,11 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 
 ### Ingrédients
 * 500 g de courgettes
-* 2 cubes de bouillon de volaille
-* 125 g de fromage bleu (fourme ou auvergne) ou 2 portions de Vache qui rit  
 * 1,5 L d’eau
+* 2 cubes de bouillon de volaille
+* 125 g de fromage bleu (fourme, auvergne) ou 2 portions de Vache qui rit  
 * sel, poivre
-* facultatif : 1 c. à s. de crème fraîche
+* facultatif : crème fraîche
 
 ### Préparation
 * Eplucher les courgettes en laissant une bande sur deux de la peau verte (pour la couleur). Couper les en dés. Couper également le fromage en dés.
