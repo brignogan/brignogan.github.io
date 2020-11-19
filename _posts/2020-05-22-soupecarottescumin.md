@@ -27,7 +27,7 @@ C'est une soupe de carottes revisitée à la mode marocaine.
 * facultatif : graines de coriandre
 
 ### Préparation
-* Diluer les cubes de bouillon dans l’eau bouillante.
+* Dissoudre les cubes de bouillon dans l’eau bouillante.
 * Eplucher et émincer l’échalote. Peler et couper les carottes en rondelles épaisses.
 * Faire fondre, à feu moyen, le beurre dans une cocotte. Ajouter l’échalote, les carottes et le cumin. Faire dorer pendant 4 mn.
 * Verser le bouillon et ajouter le laurier. Saler si nécessaire, poivrer et couvrir. Laisser cuire 25 mn à couvert.
