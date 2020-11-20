@@ -3,7 +3,7 @@ layout: post
 title: Rougets en papillote
 tag_category: famille
 tag_plat: platPoisson
-image: img/recette/untitled.png
+image: img/recette/rougets.png
 temps_preparation: 15
 temps_cuisson: 15
 temps_repos: '-'
