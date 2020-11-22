@@ -33,6 +33,9 @@
 (markup-locref   :attr  "colorFbf"     :open "{\color{jade}\textbf{\hyperpage{" :close "}}}")
 (markup-locref   :attr  "colorF"     :open "{\color{jade}\hyperpage{" :close "}}")
 
+(markup-locref   :attr  "colorAmbf"     :open "{\color{cadmiumorange}\textbf{\hyperpage{" :close "}}}")
+(markup-locref   :attr  "colorAm"     :open "{\color{cadmiumorange}\hyperpage{" :close "}}")
+
 (markup-locref   :attr  "colorBbf"     :open "{\color{glaucous}\textbf{\hyperpage{" :close "}}}")
 (markup-locref   :attr  "colorB"     :open "{\color{glaucous}\hyperpage{" :close "}}")
 
@@ -139,6 +142,7 @@
 \definecolor{jade}{rgb}{0.0, 0.66, 0.42}
 \definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
 \definecolor{darkraspberry}{rgb}{0.53, 0.15, 0.34}
+\definecolor{cadmiumorange}{rgb}{0.93, 0.53, 0.18}
 % Your "recipes.sty" package starts here:
 %% Thanks to alephzero for the excellent start:
 
@@ -864,7 +868,7 @@ XX
 \fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 \setindexprenote{Les num\'eros en gras indiquent les pages o\`u la pr\'eparation de base est d\'evelopp\'ee. Les couleurs rapportent aux diff\'erents chapitres:
 \begin{center}
-\thiscolor{jade}{Famille}\quad \thiscolor{glaucous}{Bretagne}\quad 
+\thiscolor{jade}{Famille}\quad \thiscolor{cadmiumorange}{Amis}\quad \thiscolor{glaucous}{Bretagne}\quad 
 \thiscolor{antiquebrass}{Maroc}\quad \thiscolor{manatee}{Autriche}
 \end{center}
 } 
