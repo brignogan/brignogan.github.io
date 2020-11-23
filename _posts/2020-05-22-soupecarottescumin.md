@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: carotte, cumin
 ---
-C'est une soupe de carottes revisitée à la mode marocaine.
+Bien que l'association carottes-cumin-coriandre soit une base de la cuisine marocaine traditionnelle, cette soupe n'en fait pas partie. C'est une soupe de carottes revisitée dont les saveurs rappellent l'ambiance du souk.
 
 ### Ingrédients
 * 800 g de carottes
@@ -33,4 +33,6 @@ C'est une soupe de carottes revisitée à la mode marocaine.
 * Verser le bouillon et ajouter le laurier. Saler si nécessaire, poivrer et couvrir. Laisser cuire 25 mn à couvert.
 * Oter les feuilles de laurier. Mixer la préparation puis ajouter la crème, le jus du demi-citron et le coriandre. Ajuster l’assaisonnement.
 * Servir cette soupe avec un trait de crème et quelques feuilles de coriandre. Ajouter éventuellement dans chaque assiette quelques graines de coriandre concassées.
-* Voir le vin d'accompagnement dans la recette suivante (courgettes et fromage).
+
+### Vins
+* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).

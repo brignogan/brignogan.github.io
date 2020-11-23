@@ -16,7 +16,7 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 * 500 g de courgettes
 * 1,5 L d’eau
 * 2 cubes de bouillon de volaille
-* 125 g de fromage bleu (fourme, auvergne) ou 2 portions de Vache qui rit  
+* 125 g de fromage bleu (fourme, auvergne)  
 * sel, poivre
 * facultatif : crème fraîche
 
@@ -28,3 +28,7 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 
 ### Vins
 * Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
+
+### Notes
+* Cette soupe peut servir à utiliser les restes de fromage.
+* On peut remplacer le fromage bleu par 2 portions de Vache qui rit.
