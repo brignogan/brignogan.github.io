@@ -35,6 +35,8 @@ def color_section(x):
         return 'glaucous'
     elif x == 'famille':
         return 'jade'
+    elif x == 'amis':
+        return 'cadmiumorange'
     elif x == 'autriche':
         return 'manatee'
     else: 
@@ -43,11 +45,13 @@ def color_section(x):
 def get_format_index(recipeCat,flag):
     if flag == 'clef':
         if recipeCat == 'famille': return 'colorF'
+        if recipeCat == 'amis': return 'colorAm'
         if recipeCat == 'autriche': return 'colorA'
         if recipeCat == 'bretagne': return 'colorB'
         if recipeCat == 'maroc': return 'colorM'
     if flag == 'base':
         if recipeCat == 'famille': return 'colorFbf'
+        if recipeCat == 'amis': return 'colorAmbf'
         if recipeCat == 'autriche': return 'colorAbf'
         if recipeCat == 'bretagne': return 'colorBbf'
         if recipeCat == 'maroc': return 'colorMbf'
@@ -195,7 +199,7 @@ for recipeFile in recipeFiles:
         if 'tag_category:' in line: tag_category_all.append(line.split('_category:')[1].strip())
         if 'tag_plat:'     in line: tag_plat_all.append(line.split('_plat:')[1].strip())
 
-category_def = [u'famille', u'bretagne', u'maroc', u'autriche']
+category_def = [u'famille', u'amis', u'bretagne', u'maroc', u'autriche']
 plat_def     = [u'entree', u'platLegume', u'platPoisson', u'platViande', u'dessert', u'sauce']
 
 data = zip(recipeFiles_all, tag_name, tag_category_all, tag_plat_all)
