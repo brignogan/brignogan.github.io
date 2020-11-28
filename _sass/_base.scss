@@ -470,7 +470,7 @@ body {
     }
 .icon-temps-min{
     display: inline-block;
-    width: 30px;
+    width: 18px;
     text-align: right;
     }
 .icon-temps_preparation {
@@ -530,17 +530,15 @@ body {
   margin-bottom: 3px;
 }
 .image-recette{
-  width: 400px;
+  width: 100%;
+  max-width: 500px;
+  padding:0;
 }
 
-@media (max-width: 768px) {
-  .image-recette{
-      width:90%;
-  }
-}
 .icon-backbutton {
   width: 30px;
   height: 30px;
+  margin-right: 7px;
   background-color: $theme-primary;
   -webkit-mask: url(../img/backbutton.svg) no-repeat center;
   -webkit-mask-size: 30px 30px;
@@ -553,6 +551,7 @@ body {
     -webkit-mask-size: 20px 20px;
     mask-size: 25px;
     @media (max-width: 400px) {
+    margin-right: 0px;
     width: 22px;
     height: 22px;
     -webkit-mask-size: 18px 18px;
@@ -644,6 +643,7 @@ body {
   margin-top: 4px;
   margin-bottom: 7px;
   text-align: left;
+  max-width: 768px;
     span {font-size: 40px;
           line-height: 1.1;
           h2 {font-size: 30px}
@@ -662,6 +662,7 @@ body {
   }
 
 .page-headerImg-amis{
+        margin-bottom: 0px;
         width: 100%;
         height: 40%;
         background: url('../img/Amis/amis_650x350.jpg');
@@ -671,7 +672,7 @@ body {
         height: 30%;
         }
         @media (max-width: 400px) {
-        height: 20%;
+        height: 25%;
         }
   }
 .page-headerImg-famille{
@@ -679,12 +680,13 @@ body {
       height: 40%;
       background: url('../img/Famille/famille_650x350.jpg');
       background-size: cover;
-      background-position: center;
+      background-position: center 50%;
       @media (max-width: 768px) {
         height: 30%;
       }
       @media (max-width: 400px) {
-        height: 20%;
+          background-position: center 50%;
+          height: 25%;
       }
 }
 .page-headerImg-bretagne{
@@ -697,7 +699,8 @@ body {
         height: 30%;
       }
       @media (max-width: 400px) {
-        height: 20%;
+        height: 25%;
+        background-position: center 25%;
       }
 }
 .page-headerImg-maroc{
@@ -710,7 +713,7 @@ body {
         height: 30%;
       }
       @media (max-width: 400px) {
-        height: 20%;
+        height: 25%;
       }
 }
 .page-headerImg-autriche{
@@ -723,7 +726,7 @@ body {
         height: 30%;
       }
       @media (max-width: 400px) {
-        height: 20%;
+        height: 25%;
       }
 }
 
@@ -756,11 +759,13 @@ body {
 }
 
 .post-content{
+  max-width: 768px;
   margin-top: 20px;
   li{margin-bottom: 8px}
+  ul{padding-left: 30px;}
+}
+.post-info{
   max-width: 768px;
-  @media (max-width: 768px) {
-    margin-right: 40px; }
 }
 
 .inner{
@@ -773,7 +778,12 @@ body {
     margin-right: 30px;
     margin-top: 0px;
     height: 100%;
-    padding-top: 30px;
+    padding-top: 20px;
+    @media (max-width: 768px) {
+    margin-left:  5px;
+    margin-right: 5px;
+    }
+
 }
 .page-list {
     margin-left:  40px;
@@ -787,8 +797,12 @@ body {
     margin-right: 30px;
     margin-top: 0px;
     height: 100%;
-    padding-top: 30px;
+    padding-top: 60px;
     text-align: justify;
+    @media (max-width: 768px) {
+    margin-left:  5px;
+    margin-right: 5px;
+    }
     ul li{
       font-size: 16px;
     }
@@ -796,7 +810,29 @@ body {
     h4 { color:$theme-dark; margin-top: 20px; font-size: 16px; font-family: inherit;}
 
 }
+.post-title {
+  margin-left: 0px;
+  vertical-align: top;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  text-align: left;
+  max-width: 768px;
+    span {font-size: 40px;
+          line-height: 1.1;
+          h2 {font-size: 30px}
+     }
+    @media (max-width: 768px) {
+      span {font-size: 30px;}
+      h2 {font-size: 25px}
+      margin-top: 0px;
 
+      }
+    @media (max-width: 400px) {
+      span {font-size: 28px;}
+      h2 {font-size: 20px};
+      margin-top: 0px;
+      }
+  }
 
 .container-ronan {
     position: relative;
