@@ -641,7 +641,7 @@ body {
 .page-title {
   margin-left: 0px;
   vertical-align: top;
-  margin-top: 40px;
+  margin-top: 4px;
   margin-bottom: 7px;
   text-align: left;
     span {font-size: 40px;
@@ -651,12 +651,92 @@ body {
     @media (max-width: 768px) {
       span {font-size: 30px;}
       h2 {font-size: 25px}
+      margin-top: 0px;
+
       }
     @media (max-width: 400px) {
       span {font-size: 28px;}
-      h2 {font-size: 20px}
+      h2 {font-size: 20px};
+      margin-top: 0px;
       }
   }
+
+.page-headerImg-amis{
+        width: 100%;
+        height: 40%;
+        background: url('../img/Amis/amis_650x350.jpg');
+        background-size: cover;
+        background-position: center;
+        @media (max-width: 768px) {
+        height: 30%;
+        }
+        @media (max-width: 400px) {
+        height: 20%;
+        }
+  }
+.page-headerImg-famille{
+      width: 100%;
+      height: 40%;
+      background: url('../img/Famille/famille_650x350.jpg');
+      background-size: cover;
+      background-position: center;
+      @media (max-width: 768px) {
+        height: 30%;
+      }
+      @media (max-width: 400px) {
+        height: 20%;
+      }
+}
+.page-headerImg-bretagne{
+      width: 100%;
+      height: 40%;
+      background: url('../img/drapeauBreton/lacasquette_650x350.jpg');
+      background-size: cover;
+      background-position: center 60%;
+      @media (max-width: 768px) {
+        height: 30%;
+      }
+      @media (max-width: 400px) {
+        height: 20%;
+      }
+}
+.page-headerImg-maroc{
+      width: 100%;
+      height: 40%;
+      background: url('../img/drapeauMarocain/maroc_650x350.png');
+      background-size: cover;
+      background-position: center 94%;
+      @media (max-width: 768px) {
+        height: 30%;
+      }
+      @media (max-width: 400px) {
+        height: 20%;
+      }
+}
+.page-headerImg-autriche{
+      width: 100%;
+      height: 40%;
+      background: url('../img/drapeauAutrichien/autriche_650x350.jpg');
+      background-size: cover;
+      background-position: center 75%;
+      @media (max-width: 768px) {
+        height: 30%;
+      }
+      @media (max-width: 400px) {
+        height: 20%;
+      }      
+}
+
+.secTitle{
+    font-size: 22px;
+    margin-bottom: 0.3em;
+    @media (max-width: 992px) {
+      font-size: 18px; }
+    @media (max-width: 768px) {
+      font-size: 18px; }
+    @media (max-width: 576px) {
+      font-size: 18px; }
+}
 
 .video-ronan{
   display: inline-block;
