@@ -8,23 +8,26 @@
 
   <section class="post-text"  id="tag">
 
-  <div class="page-title" >
+  <div class="container">
 
+  <div class="post-title" >
     <div class="inner">
-    <a href = "{{ site.url }}//{{page.tag_category}}/#tag" >
+    <a href = "{{ site.url }}//{{page.tag_category}}/" >
       <div class='icon-backbutton'> </div>
     </a>
     </div>
 
     <div class="inner"> <span> {{ page.title }} </span> </div>
-
   </div>
-  {% if  page.image != "pas d'image" %}
-    <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="pas encore d'image">
-    <br>
-  {% endif %}
-  <br>
 
+
+  <div class="post-info" >
+  <div class='row'>
+
+
+
+  <div class="col-sm-12 col-md-5 order-sm-bottom">
+  <!-- temps -->
   <div class="icon-temps"> <div class="icon-temps_preparation"></div> temps preparation </div>
   {% assign hours = page.temps_preparation | divided_by: 60 %}
   {% if  hours  > 0 %}
@@ -69,13 +72,28 @@
 
   <div class="icon-nbre"> <div class="icon-nbre_personn"></div> {{ page.nbre_personne | replace: "‘", '' | replace:  "’", ''}}</div>
   <br>
+  <br>
+  </div>
 
-  <div class="post-content">
+  <div class="col-sm-12 col-md-7 ">
+    <!-- image -->
+    {% if  page.image != "pas d'image" %}
+      <img class='image-recette' src="{{ url }}/{{ page.image }}" alt="pas encore d'image">
+    {% endif %}
+  </div>
+
+  </div>
+  </div>
+
+
+  <div class='post-content'>
   {{ content }}
   </div>
 
   {% include scripts.html %}
   <br>
+
+  </div>
 
   </section>
 

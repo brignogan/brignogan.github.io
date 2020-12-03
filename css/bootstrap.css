@@ -1570,14 +1570,16 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .container {
-    width: 750px;
+    width: 768px;
+    padding-right: 7px;
+    padding-left: 7px;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 992px;
   }
 }
 @media (min-width: 1200px) {

@@ -42,11 +42,11 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 ### Vins
 * Vin blanc : Condrieu (Domaine Louis Chèze, Brèze), Condrieu (Domaine Louis Chèze, Pagus Luminis).
 * Vin rouge : Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Côtes-du-Roussillon (Domaine Sol Payré, Ater Noir).
-####Plus aventureux :
+#### Plus aventureux :
 * Vin blanc doux : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron).
 * Vin rouge doux : Maury (Les Vignes d'Elodie).
 
 ### Notes
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
-* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts!… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
 * Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
