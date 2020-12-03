@@ -3,7 +3,7 @@ layout: post
 title: Bar au beurre blanc
 tag_category: famille
 tag_plat: platPoisson
-image: img/recette/untitled.png
+image: img/recette/barbeurreblanc.png
 temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
