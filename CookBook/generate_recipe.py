@@ -743,6 +743,15 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             flag_modified = 1
 
         if flag_modified!=1: line2p = [line]
+        
+        if 'recipeMMextraImg' in line:
+            imgextras = glob.glob('.'.join(recipeMMimg.split('.')[:-1])+'-extra*')
+            if len(imgextras) == 0:
+                line2p = [line.replace('recipeMMextraImg', '')]
+            else:
+                line2p = []
+                for img_ in imgextras:
+                    line2p.append('\showExtraImg{{{:s}}}'.format(img_))
 
         for line_ in line2p:
             

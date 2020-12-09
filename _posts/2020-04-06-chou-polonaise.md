@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chou à la polonaise
-tag_category: famille
+tag_category: amis
 tag_plat: platLegume
 image: img/recette/chou-polonaise.png
 temps_preparation: 20
