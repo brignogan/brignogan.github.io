@@ -662,12 +662,13 @@ body {
   }
 
 .page-headerImg-amis{
+        margin-top: 50px;
         margin-bottom: 0px;
         width: 100%;
         height: 40%;
-        background: url('../img/Amis/amis_650x350.jpg');
+        background: url('../img/Amis/amis_bandeau_650x350.jpg');
         background-size: cover;
-        background-position: center 28%;
+        background-position: center 38%;
         @media (max-width: 768px) {
         height: 30%;
         }
@@ -676,16 +677,19 @@ body {
         }
   }
 .page-headerImg-famille{
+      background-origin: content-box;
+      margin-top: 50px;
+      margin-bottom: 0px;
       width: 100%;
       height: 40%;
-      background: url('../img/Famille/famille_650x350.jpg');
+      background: url('../img/Famille/famille_bandeau_1650x350.png');
       background-size: cover;
       background-position: center 50%;
       @media (max-width: 768px) {
         height: 30%;
       }
       @media (max-width: 400px) {
-          background-position: center 50%;
+          background-position: center 30%;
           height: 25%;
       }
 }
