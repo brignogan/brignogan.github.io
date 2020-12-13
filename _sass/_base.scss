@@ -680,13 +680,12 @@ body {
 .page-headerImg-famille{
       margin-top: 50px;
       width: 100%;
-      max-width: 1150px;
       height: 40%;
-      background: url('../img/Famille/famille_bandeau_2.png') no-repeat center;
+      background: url('../img/Famille/famille_bandeau_2_border_blended.png') no-repeat center , url('../img/Famille/famille_bandeau_2_background.png') repeat center;
       background-position: center 40%;
-      background-size: 1150px;
       @media (min-width: 1150px) {
-        min-height: 350px;
+          background-size: 1150px, 54px;
+          min-height: 350px;
       }
       @media (max-width: 1150px) {
         height: 40%;
