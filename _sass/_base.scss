@@ -683,13 +683,13 @@ body {
       height: 40%;
       // single img
       //background: url('../img/Famille/famille_bandeau_2.png') no-repeat center;
-      background: url('../img/Famille/famille_bandeau_2_border_blended.png') no-repeat center,  url('../img/Famille/famille_bandeau_2_background.png') repeat center;
+      background: url('../img/Famille/famille_bandeau_3.png') no-repeat center, #b39fa1 repeat center;
       background-position: center 40%;
       @media (min-width: 1150px) {
           // single img
           //background-size: 1150px; // add proportion to 350 (min height of img when adding second background img above, but this do not work on github)
-          background-size: 1150px, 54px;
-          min-height: 350px;
+          background-size: 1150px;
+          min-height: 249px;
       }
       @media (max-width: 1150px) {
         height: 40%;
