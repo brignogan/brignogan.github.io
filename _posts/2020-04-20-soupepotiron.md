@@ -3,7 +3,7 @@ layout: post
 title: Soupe au potiron
 tag_category: famille
 tag_plat: entree
-image: img/recette/untitled.png
+image: img/recette/soupepotiron.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
