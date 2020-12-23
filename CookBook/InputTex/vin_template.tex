@@ -1,3 +1,13 @@
+\newcommand{\showExtraVinImg}[3]{
+	\noindent
+	\begin{center}
+	\begin{minipage}{#2\textwidth}
+	\vspace{#3}
+	\includegraphics[width=\linewidth]{#1}%
+	\end{minipage}
+	\end{center}
+	}
+
 \newcommand{\vinSection}[2][\newpage]{%
 	#1
 	\fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
