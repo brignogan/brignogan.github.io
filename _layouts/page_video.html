@@ -6,27 +6,24 @@
 <body id="page-top">
   {% include nav2.html %}
 
-  <section class="page-text"  id="tag">
+  <section class="container"  id="tag">
 
-  <div class="page-title">
 
-  <!-- <div class="inner">
-    <a href = "{{ site.url }}/#services" >
-      <div class='icon-backbutton'> </div>
-    </a>
-  </div> -->
+  <div class="video-title">
 
   <div class="inner">
     <span>{{ page.title }}</span>
   </div>
   </div>
 
+  <div class='post-content'>
 
   <div class='video-ronan'>
     {% include vimeoPlayer.html id=page.video padding-bottom="75%" label="test"%}
     {{ content }}
   </div>
 
+  </div>
 
   <br>
   <br>

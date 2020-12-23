@@ -775,7 +775,7 @@ body {
 .video-ronan{
   display: inline-block;
   width: 768px;
-  vertical-align:middle;
+  vertical-align:top;
   @media (max-width: 768px) {
     width: 100%; }
   @media (max-width: 400px) {
@@ -865,6 +865,29 @@ body {
       margin-top: 0px;
       }
   }
+  .video-title {
+    margin: auto;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-bottom: 12px;
+    text-align: center;
+    max-width: 768px;
+      span {font-size: 40px;
+            line-height: 1.1;
+            h2 {font-size: 30px}
+       }
+      @media (max-width: 768px) {
+        span {font-size: 30px;}
+        h2 {font-size: 25px}
+        margin-top: 10px;
+
+        }
+      @media (max-width: 400px) {
+        span {font-size: 20px;}
+        h2 {font-size: 20px};
+        margin-top: 20px;
+        }
+    }
 
 .container-ronan {
     position: relative;

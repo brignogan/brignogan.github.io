@@ -19,6 +19,7 @@ import glob
 import pickle 
 from os.path import expanduser
 import pdb 
+import unidecode 
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -38,7 +39,7 @@ def string_2_bool(string):
         return False
 
 ################################################
-def saveplot(appellations_domain,vin):
+def saveplot(appellations_domain,vin,metropole,bassins):
 
     #to set extent
     appellations_domain = gpd.GeoDataFrame(pd.DataFrame(appellations_domain), crs=appellations.crs)
@@ -81,15 +82,16 @@ def saveplot(appellations_domain,vin):
     # find a solution for alsace appellations
     #add igp 
 
-    #add prefecture
-    if vin.DomaineChateau == u'Ch\xe2teau La Borie':
-        selectedCommune = ['Nice', 'Marseille', 'Montpellier', 'Avignon', 'Gap', 'Saint-\xc3\x89tienne', 'Valence', 'Bastia', 'Ajaccio'] 
-    else:
-        selectedCommune = prefectures.Commune.to_list() 
-    prefectures.loc[prefectures.Commune.isin(selectedCommune)].plot(ax=ax, color='k', markersize=20,)
-    prefectures.loc[prefectures.Commune.isin(selectedCommune)].apply(lambda x: ax.annotate(s=unicode(x.Commune),\
-                                        xy=[x.geometry.centroid.x + x.add_to_name_position.coords.xy[0][0],\
-                                            x.geometry.centroid.y + x.add_to_name_position.coords.xy[1][0] ], ha=x.LabelLoc_ha,va=x.LabelLoc_va,zorder=5),axis=1);
+    if vin.Pays == 'France':
+        #add prefecture
+        if vin.DomaineChateau == u'Ch\xe2teau La Borie':
+            selectedCommune = ['Nice', 'Marseille', 'Montpellier', 'Avignon', 'Gap', 'Saint-\xc3\x89tienne', 'Valence', 'Bastia', 'Ajaccio'] 
+        else:
+            selectedCommune = prefectures.Commune.to_list() 
+        prefectures.loc[prefectures.Commune.isin(selectedCommune)].plot(ax=ax, color='k', markersize=20,)
+        prefectures.loc[prefectures.Commune.isin(selectedCommune)].apply(lambda x: ax.annotate(s=unicode(x.Commune),\
+                                            xy=[x.geometry.centroid.x + x.add_to_name_position.coords.xy[0][0],\
+                                                x.geometry.centroid.y + x.add_to_name_position.coords.xy[1][0] ], ha=x.LabelLoc_ha,va=x.LabelLoc_va,zorder=5),axis=1);
 
     minx, miny, maxx, maxy =  metropole.geometry.total_bounds
     xx = maxx-minx;  yy = maxy-miny
@@ -181,6 +183,8 @@ if __name__ == '__main__':
         metropole     = gpd.read_file(wkdir+"metropole.shp")
         map_dfCommune = gpd.read_file(wkdir+"map_df_communes.shp")
 
+
+
     ######################
     #load appelation
     ######################
@@ -195,13 +199,15 @@ if __name__ == '__main__':
     listBassinColor = pd.read_csv(dir_in+'bassins-colors.csv')
     listBassinColor['Bassin'] = [unicode(xx) for xx in listBassinColor['Bassin']]
 
+
     ######################
     #load vines list
     ######################
     if ((flag_vin) or (not(flag_restart)) or (not(os.path.isfile(wkdir+"listVins.gpkg")))):
         print 'list vins de la cave ...'
         print 'le fichier est ici : ', file_listDesVins
-        vins_   = pd.read_excel(file_listDesVins, sheet_name='france')
+        
+        vins_ = pd.read_excel(file_listDesVins, sheet_name='france')
         vins_ = vins_.loc[ (vins_['Couleur'].str.strip()=='Blanc') |
                            (vins_['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
                            (vins_['Couleur'].str.strip()=='Rouge') |
@@ -209,10 +215,22 @@ if __name__ == '__main__':
                            (vins_['Couleur'].str.strip()==u'Pommeau') 
                          ]
         
+        vins_2_ = pd.read_excel(file_listDesVins, sheet_name='international')
+        vins_2_ = vins_2_.loc[ (vins_['Couleur'].str.strip()=='Blanc') |
+                           (vins_['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
+                           (vins_['Couleur'].str.strip()=='Rouge') |
+                           (vins_['Couleur'].str.strip()==u'Ros\xe9') |
+                           (vins_['Couleur'].str.strip()==u'Pommeau') 
+                         ]
+
         cidres_ = pd.read_excel(file_listDesVins, sheet_name='cidre')
         cidres_.index = range(len(vins_),len(vins_)+len(cidres_))
+       
+
+
+        listVins = pd.concat([ vins_, cidres_, vins_2_ ], sort=True)
+        #listVins = pd.concat([ vins_2_ ], sort=True)
         
-        listVins = pd.concat([ vins_, cidres_ ], sort=True)
         #clean data
         listVins = listVins.loc[ (listVins['Couleur'].str.strip()=='Blanc') |
                                  (listVins['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
@@ -221,7 +239,9 @@ if __name__ == '__main__':
                                  (listVins['Couleur'].str.strip()==u'Cidre') |
                                  (listVins['Couleur'].str.strip()==u'Pommeau') 
                                  ]
+         
         geocoder = geopy.geocoders.BANFrance()
+        geocoder_bing = None
         cave = geocoder.geocode('4 rue Coat Tanguy 29890 Brignogan-Plages')
         listVins['latlong'] = [cave.point]*listVins.shape[0]
         for index, row in listVins.iterrows():
@@ -231,9 +251,16 @@ if __name__ == '__main__':
                 tmp_ = address_.rstrip(',').rstrip(' ')
                 if tmp_ != '':
                     address2.append(tmp_)
-            address3 = '{:s} {:05.0f} {:s}'.format( ' '.join(address2[:-1]), row['Code postal'], address2[-1])
+            address3 = '{:s} {:05.0f} {:s} {:s}'.format( ' '.join(address2[:-1]), row['Code postal'], address2[-1], row['Pays'])
             try:
-                listVins.at[index,'latlong'] = geocoder.geocode(address3,timeout=3).point
+                if row['Pays'] == 'France':
+                    listVins.at[index,'latlong'] = geocoder.geocode(address3,timeout=3).point
+                else:
+                    if geocoder_bing == None:
+                        key_bing = 'AiyOW-9p89aIFYUSZqLTAyCZlIfxDUENcUBqnZ6YB7muWDTF7-QBeZet_R0dw7cB'
+                        geocoder_bing = geopy.geocoders.Bing(key_bing)
+                    listVins.at[index,'latlong'] = geocoder_bing.geocode(address3,timeout=3).point
+
             except geopy.exc.GeocoderTimedOut : 
                 print 'geopy timeout on :', address3
                 sys.exit()
@@ -246,6 +273,9 @@ if __name__ == '__main__':
         listVins = listVins.to_crs(epsg=3395)
         listVins['DomaineChateau'] = [ unicode(xx) for xx in  listVins['DomaineChateau'] ]
 
+
+        listVins['Pays_order'] = listVins['Pays'].str.replace('France','AAA')
+
         #load local legend info
         legendParam = pd.read_csv(dir_in+'domaineChateau_legend_location.csv')
         legendParam['DomaineChateau'] = [ unicode(xx) for xx in  legendParam['DomaineChateau'] ]
@@ -256,8 +286,96 @@ if __name__ == '__main__':
         print  '{:d} vins ont ete charge'.format(listVins.shape[0])
         listVins.to_file(wkdir+"listVins.gpkg", driver="GPKG")
 
+
     else:
         listVins = gpd.read_file(wkdir+"listVins.gpkg", driver="GPKG")
+
+
+    #################### 
+    # neighbourg borders
+    ####################
+    #data from https://wambachers-osm.website/boundaries/
+    coasts_borders = gpd.read_file(dir_in+'Borders/neighbourgCountries.shp')
+    coasts_borders = coasts_borders.to_crs(epsg=3395)
+
+
+    #################### 
+    # river and lake
+    #################### 
+    clc12 = gpd.read_file(dir_in+'CLC12/CLC12_FR_RGF_SHP/CLC12_FR_RGF.shp')
+    inlandWater = clc12.loc[\
+                           #(clc12['CODE_12']=='511')|(clc12['CODE_12']=='522')\
+                           #|(clc12['CODE_12']=='411')\
+                           (clc12['CODE_12']=='521')]
+    inlandWater_river =  gpd.read_file(dir_in+'Wise_WaterData/EuropeanRiver.shp') # for large plot
+    
+    inlandWater_lake = clc12.loc[(clc12['CODE_12']=='512')]
+    inlandWater_lake = inlandWater_lake.loc[inlandWater_lake.geometry.area>.5e6]
+
+    seaWater    = clc12.loc[(clc12['CODE_12']=='423')|(clc12['CODE_12']=='523')\
+                           |(clc12['CODE_12']=='421')|(clc12['CODE_12']=='331')]
+    
+    inlandWater = inlandWater.to_crs(epsg=3395)
+    seaWater = seaWater.to_crs(epsg=3395)
+    inlandWater_river = inlandWater_river.to_crs(epsg=3395) 
+    
+    rivers_hydroFrance = gpd.read_file(dir_in+'ROUTE120_1-1_SHP_LAMB93_000_2012-11-26/ROUTE120/1_DONNEES_LIVRAISON_2012-11-00377/R120_1-1_SHP_LAMB93_FR-ED121/HYDROGRAPHIE/TRONCON_HYDROGRAPHIQUE.SHP')
+    rivers_hydroFrance = rivers_hydroFrance.to_crs(epsg=3395)
+    
+    country_pakage = {}
+    paysCode = {}; 
+    paysCode['Hongrie'] = 'HUN'
+    paysCode['France']  = 'FRA'
+        
+    pays = 'France'
+    country_pakage[pays] = {}
+    country_pakage[pays]['inlandWater']       = inlandWater
+    country_pakage[pays]['inlandWater_river'] = rivers_hydroFrance
+    country_pakage[pays]['inlandWater_lake']  = inlandWater_lake
+    country_pakage[pays]['seaWater']          = seaWater
+    country_pakage[pays]['coasts_borders']    = coasts_borders
+    country_pakage[pays]['metropole']         = metropole
+    
+
+
+    ######################
+    # border contour international
+    ######################
+    for pays in listVins['Pays']:
+        if pays == 'France': continue
+        country_pakage[pays] = {}
+    
+        clc12_ = gpd.read_file(dir_in+'CLC12/CLC12_{:s}/CLC12_{:s}.shp'.format(paysCode[pays],paysCode[pays]))
+    
+        inlandWater_ = clc12_.loc[(clc12_['Code_12']=='521')]
+        
+        inlandWater_river_ =  gpd.read_file(dir_in+'river/{:s}/{:s}_water_lines_dcw.shp'.format(paysCode[pays],paysCode[pays]))
+    
+        inlandWater_lake_ = gpd.read_file(dir_in+'river/{:s}/{:s}_water_areas_dcw.shp'.format(paysCode[pays],paysCode[pays]))
+        #inlandWater_lake_ = clc12_.loc[(clc12_['Code_12']=='512')]
+        #inlandWater_lake_ = inlandWater_lake_.loc[inlandWater_lake_.geometry.area>.5e6]
+
+        seaWater_         = clc12_.loc[(clc12_['Code_12']=='423')|(clc12_['Code_12']=='523')\
+                                        |(clc12_['Code_12']=='421')|(clc12_['Code_12']=='331')]
+        
+        inlandWater_ = inlandWater_.to_crs(epsg=3395)
+        seaWater_= seaWater_.to_crs(epsg=3395)
+        inlandWater_river_ = inlandWater_river_.to_crs(epsg=3395) 
+        inlandWater_lake_  = inlandWater_lake_.to_crs(epsg=3395)
+
+        coasts_borders_ = gpd.read_file(dir_in+'Borders/International/{:s}/neighbourgCountries.geojson'.format(pays))
+        coasts_borders_ = coasts_borders_.to_crs(epsg=3395)
+        
+        metropole_ = gpd.read_file(dir_in+'Borders/International/{:s}/metropole.geojson'.format(pays))
+        metropole_ = metropole_.to_crs(epsg=3395)
+
+        country_pakage[pays]['inlandWater']       = inlandWater_
+        country_pakage[pays]['inlandWater_river'] = inlandWater_river_
+        country_pakage[pays]['inlandWater_lake']  = inlandWater_lake_
+        country_pakage[pays]['seaWater']          = seaWater_
+        country_pakage[pays]['coasts_borders']    = coasts_borders_
+        country_pakage[pays]['metropole']         = metropole_
+
 
 
     ######################
@@ -334,6 +452,7 @@ if __name__ == '__main__':
     else:
         bassins = gpd.read_file(wkdir+"bassins.shp")
         bassins = bassins.sort_values(by='area', ascending=False)
+    country_pakage['France']['bassins'] = bassins
 
     
     ######################
@@ -458,33 +577,60 @@ if __name__ == '__main__':
         appellations_other = appellations_other.sort_values(by='area', ascending=False)
 
 
-    #################### 
-    # river and lake
-    #################### 
-    clc12 = gpd.read_file(dir_in+'CLC12_FR_RGF_SHP/CLC12_FR_RGF.shp')
-    inlandWater = clc12.loc[\
-                           #(clc12['CODE_12']=='511')|(clc12['CODE_12']=='522')\
-                           #|(clc12['CODE_12']=='411')\
-                           (clc12['CODE_12']=='521')]
-    inlandWater_river =  gpd.read_file(dir_in+'Wise_WaterData/EuropeanRiver.shp')
+    ######################
+    # international appellations shapefile
+    ######################
+    if ((not(flag_restart)) or (not(os.path.isfile(wkdir+"appellations_international.shp")))):
+        print 'international appellations ...'
+        shpFiles = glob.glob(dir_in + 'AppellationInternational/wineRegion*.shp')
+        appellations_international = []
+        bassins_international = {} 
+        for shpFile in shpFiles:
+            pays_ = shpFile.split('wineRegion')[1].split('.')[0]
+            wineRegion = gpd.read_file(shpFile)
+            
+            if pays_ == 'Hongrie':
+                wineRegion['Name'] = [xx.encode('latin-1').decode('utf-8') for xx in wineRegion['Name'] ]
+
+
+            wineRegion = wineRegion.rename(columns={'Name':'nom'})
+            wineRegion['nom'] = wineRegion['nom'].str.replace('wine region','').str.strip()
+            wineRegion['bassin'] = wineRegion['nom']
+
+            #sort by area to help plotting
+            wineRegion['area']=wineRegion.geometry.area
+            wineRegion = wineRegion.sort_values(by='area', ascending=False)
+            wineRegion = wineRegion.to_crs(epsg=3395)
+           
+            wineRegion = wineRegion[['nom','bassin','geometry','area']]
+
+            bassins_international[pays_] = wineRegion.copy()
+            
+            wineRegion['nom'] =  wineRegion['nom'].str.lower().str.replace(' ','-')
+            wineRegion['bassin'] =  wineRegion['bassin'].str.lower().str.replace(' ','-')
+            appellations_international.append(wineRegion)
+
+        appellations_international = pd.concat(appellations_international, ignore_index=True)
+        appellations_international.to_file(wkdir+"appellations_international.shp")
     
-    inlandWater_lake = clc12.loc[(clc12['CODE_12']=='512')]
-    inlandWater_lake = inlandWater_lake.loc[inlandWater_lake.geometry.area>.5e6]
+        pickle.dump(bassins_international,open(wkdir+'bassins_international.pickle','wb')) 
 
-    seaWater    = clc12.loc[(clc12['CODE_12']=='423')|(clc12['CODE_12']=='523')\
-                           |(clc12['CODE_12']=='421')|(clc12['CODE_12']=='331')]
-    
-    inlandWater = inlandWater.to_crs(epsg=3395)
-    seaWater = seaWater.to_crs(epsg=3395)
-    inlandWater_river = inlandWater_river.to_crs(epsg=3395) 
+    else:
+        appellations_international = gpd.read_file(wkdir+"appellations_international.shp")
+        appellations_international = appellations_international.sort_values(by='area', ascending=False)
+
+        bassins_international = pickle.load(open(wkdir+'bassins_international.pickle', 'r'))
 
 
-    #################### 
-    # neighbourg borders
-    ####################
-    #data from https://wambachers-osm.website/boundaries/
-    coasts_borders = gpd.read_file(dir_in+'Borders/neighbourgCountries.shp')
-    coasts_borders = coasts_borders.to_crs(epsg=3395)
+    #collect international bassins from appellation
+    for key in country_pakage.keys():
+        if key == 'France': continue
+        bassins_ = bassins_international[key].copy()
+        listBassinColor_ = pd.read_csv(dir_in+'AppellationInternational/bassins-colors-{:s}.csv'.format(key)) 
+        listBassinColor_['bassin'] = [unicode(xx) for xx in listBassinColor_['bassin']]
+        
+        country_pakage[key]['bassins'] = bassins_.merge(listBassinColor_,on='bassin')
+
 
     dir_maps = dir_out + 'VinMaps/' 
     ensure_dir(dir_maps)
@@ -560,8 +706,6 @@ if __name__ == '__main__':
     ######################
     # single Plot
     ######################
-    rivers_hydroFrance = gpd.read_file(dir_in+'ROUTE120_1-1_SHP_LAMB93_000_2012-11-26/ROUTE120/1_DONNEES_LIVRAISON_2012-11-00377/R120_1-1_SHP_LAMB93_FR-ED121/HYDROGRAPHIE/TRONCON_HYDROGRAPHIQUE.SHP')
-    rivers_hydroFrance = rivers_hydroFrance.to_crs(epsg=3395)
     
     #load template
     f = open(dir_out+'InputTex/vin_template.tex','r')
@@ -573,7 +717,7 @@ if __name__ == '__main__':
     final2_lines = []
     final3_lines = lines_ori[lineXX+1:]
 
-    listVins = listVins.sort_values(by=['Bassin','DomaineChateau','Couleur','Appelation','Cuvee']).reset_index()
+    listVins = listVins.sort_values(by=['Pays_order', 'Bassin','DomaineChateau','Couleur','Appelation','Cuvee']).reset_index()
     section_bassin = 'mm'
     section_domain = 'mm'
     section_couleur = 'mm'
@@ -588,6 +732,7 @@ if __name__ == '__main__':
         
         flag_igp = 0
         flag_other = 0
+        flag_international = 0
         #select appellation from vin 
         appellations_containing_vin = gpd.tools.sjoin(appellations,listVins.loc[[index]],how='inner')
 
@@ -607,14 +752,17 @@ if __name__ == '__main__':
         #--------------
         
         newBassin = 0
-        if section_bassin != vin.Bassin:
+        if (section_bassin != vin.Bassin) & (section_bassin!='international'):
             print vin.Bassin
             #add subsection
             final2_lines.append('\n')
             final2_lines.append('\\newpage')
-            final2_lines.append( u'\\fakesubsection{{{:s}}}\n'.format(vin.Bassin))
             newBassin = 1 
-            section_bassin = vin.Bassin
+            if vin.Pays == 'France':
+                section_bassin = vin.Bassin
+            else:
+                section_bassin = 'International'
+            final2_lines.append( u'\\fakesubsection{{{:s}}}\n'.format(section_bassin))
 
         newDomain = 0
         if section_domain != vin.DomaineChateau:
@@ -622,7 +770,11 @@ if __name__ == '__main__':
             tmp_ = '\\newpage' if (newBassin == 0) else ''
             final2_lines.append('\n')
             final2_lines.append('%##########\n')
-            final2_lines.append(u'\\vinSection[{:s}]{{{:s}}}\n'.format(tmp_,vin.DomaineChateau.replace('&','\&')))
+            if vin.Pays == 'France':
+                final2_lines.append(u'\\vinSection[{:s}]{{{:s}}}\n'.format(tmp_,vin.DomaineChateau.replace('&','\&')))
+            else:
+                final2_lines.append(u'\\vinSection[{:s}]{{{:s} - {:s}}}\n'.format(tmp_,vin.Pays,vin.DomaineChateau.replace('&','\&')))
+
             final2_lines.append('\\label{{sec:{:s}}}\n'.format(\
                                    vin.DomaineChateau.replace('&','').replace(' ','').lower() ))
             final2_lines.append('%##########\n')
@@ -637,11 +789,13 @@ if __name__ == '__main__':
             else:
                 address3 = '{:s} \\newline {:s} {:05.0f}'.format( ' '.join(address2[:-1]),  address2[-1], vin['Code postal'])
             
-            
+            if section_bassin == 'International':
+                address3 += '\\newline {:s}'.format(vin.Pays)
+
             #plot
             if (section_domain != 'mm'):
                 if ((not(flag_restart)) or (not(os.path.isfile(map_domain)))): 
-                    saveplot(appellations_domain, vin_prev)
+                    saveplot(appellations_domain, vin_prev, metropole_prev, bassins_prev) 
             
             section_domain = vin.DomaineChateau
             map_domain = dir_maps+'{:s}.png'.format(''.join(section_domain.split(' '))).replace("'",'')
@@ -654,6 +808,7 @@ if __name__ == '__main__':
             section_couleur = 'mm' 
             
             if (((not(flag_restart)) or (not(os.path.isfile(map_domain))))):
+                
                 ratio= 1. 
                 x_image = 8
                 mpl.rcdefaults()
@@ -688,35 +843,37 @@ if __name__ == '__main__':
                 bx.set_xticks([])
                 bx.set_yticks([])
 
-                seaWater.plot(ax=ax, antialiased=True,zorder=0,facecolor='.8')
+                country_pakage[vin['Pays']]['seaWater'].plot(ax=ax, antialiased=True,zorder=0,facecolor='.8')
                 ax.patch.set_facecolor('.8')
-                metropole.plot(ax=ax, facecolor='white', edgecolor='None',linewidth=.1,zorder=0)
+                country_pakage[vin['Pays']]['metropole'].plot(ax=ax, facecolor='white', edgecolor='None',linewidth=.1,zorder=0)
                 #--
-                seaWater.plot(ax=bx, antialiased=True,zorder=0,facecolor='.8')
+                country_pakage[vin['Pays']]['seaWater'].plot(ax=bx, antialiased=True,zorder=0,facecolor='.8')
                 bx.patch.set_facecolor('.8')
-                metropole.plot(ax=bx, facecolor='white', edgecolor='None',linewidth=.1,zorder=0)
+                country_pakage[vin['Pays']]['metropole'].plot(ax=bx, facecolor='white', edgecolor='None',linewidth=.1,zorder=0)
                 
-                bassins.loc[bassins.nom == vin.Bassin].plot( ax=ax, color= bassins.loc[bassins.nom==vin.Bassin,'color'],zorder=1, alpha=.5)
-                bassins.loc[bassins.nom != vin.Bassin].plot( ax=ax, color= bassins.loc[bassins.nom!=vin.Bassin,'color'],zorder=1, alpha=.5)
+                bassins_ = country_pakage[vin['Pays']]['bassins']
+                bassins_.loc[bassins_.nom == vin.Bassin].plot( ax=ax, color= bassins_.loc[bassins_.nom==vin.Bassin,'color'],zorder=1, alpha=.5)
+                bassins_.loc[bassins_.nom != vin.Bassin].plot( ax=ax, color= bassins_.loc[bassins_.nom!=vin.Bassin,'color'],zorder=1, alpha=.5)
                 #--
-                bassins.plot( ax=bx, color= bassins.color, zorder=1, alpha=.5)
+                bassins_.plot( ax=bx, color= bassins_.color, zorder=1, alpha=.5)
                 
-                inlandWater.plot(ax=ax, antialiased=True,zorder=3,facecolor='.8',edgecolor='.8',linewidth=.15)
-                rivers_hydroFrance.plot(ax=ax, antialiased=True,zorder=3,facecolor='none',edgecolor='.1',linewidth=.15)
+                country_pakage[vin['Pays']]['inlandWater'].plot(ax=ax, antialiased=True,zorder=3,facecolor='.8',edgecolor='.8',linewidth=.15)
+                country_pakage[vin['Pays']]['inlandWater_river'].plot(ax=ax, antialiased=True,zorder=2,facecolor='none',edgecolor='.1',linewidth=.15)
+                country_pakage[vin['Pays']]['inlandWater_lake'].plot(ax=ax, antialiased=True,zorder=3,facecolor='.85',edgecolor='.1',linewidth=.15)
                 #--
-                inlandWater.plot(ax=ax, antialiased=True,zorder=3,facecolor='.8',edgecolor='.8',linewidth=.15)
-                rivers_hydroFrance.plot(ax=ax, antialiased=True,zorder=3,facecolor='none',edgecolor='.1',linewidth=.15)
+                #country_pakage[vin['Pays']]['inlandWater'].plot(ax=bx, antialiased=True,zorder=3,facecolor='.8',edgecolor='.8',linewidth=.15)
+                #country_pakage[vin['Pays']]['inlandWater_river'].plot(ax=bx, antialiased=True,zorder=3,facecolor='none',edgecolor='.1',linewidth=.15)
                 
-                metropole.plot(ax=ax, facecolor='none', edgecolor='k',linewidth=.8,zorder=4);
+                country_pakage[vin['Pays']]['metropole'].plot(ax=ax, facecolor='none', edgecolor='k',linewidth=.8,zorder=4);
                 #--
                 #metropole.plot(ax=bx, facecolor='none', edgecolor='k',linewidth=.1,zorder=4);
                 #coasts_borders.plot(ax=ax, facecolor='white', edgecolor='k', antialiased=True,linewidth=.8,zorder=2)
              
                 listVins.loc[[index],'geometry'].plot(ax=ax, zorder=6, color='k', markersize=30, marker='s')
                 
-                coasts_borders.plot(ax=ax,facecolor='.9', zorder=1)
+                country_pakage[vin['Pays']]['coasts_borders'].plot(ax=ax,facecolor='.9', edgecolor='.4', linewidth= 1, zorder=1)
                 #--
-                coasts_borders.plot(ax=bx,facecolor='.9', zorder=1)
+                country_pakage[vin['Pays']]['coasts_borders'].plot(ax=bx,facecolor='.9', edgecolor='.4', linewidth=.5, zorder=1)
 
                 appellations_domain = []
                 appellations_domainName = []
@@ -738,13 +895,10 @@ if __name__ == '__main__':
         
         #add appellation to plot
         print '      ', vin.Appelation
-
-        #if 'alsace grand cru' in vin.Appelation.lower():
-        #    pdb.set_trace() 
-        
         appellation_ = appellations.loc[appellations.nom == '-'.join(vin.Appelation.lower().split(' ')) ]
-        vin_prev = vin # to get right name in the saveplot fct
-       
+        vin_prev       = vin # to get right name in the saveplot fct
+        metropole_prev = country_pakage[vin['Pays']]['metropole']
+        bassins_prev    = country_pakage[vin['Pays']]['bassins'] 
         flag_need_more = False
         if (len(appellation_) == 0):
             flag_need_more = True
@@ -781,7 +935,12 @@ if __name__ == '__main__':
                 appellation_ = appellation_other_
                 flag_other = 1
             
-            
+            # international
+            appellation_international_ = appellations_international.loc[appellations_international.nom == '-'.join(vin.Bassin.lower().split(' ')) ]
+            if len(appellation_international_) != 0:
+                appellation_ = appellation_international_
+                flag_international = 1
+
             if len(appellation_) == 0:
                 print '      ****  missing appellation:', '-'.join(vin.Appelation.lower().split(' '))
                 if (vin.Bassin == 'Alsace') : pdb.set_trace()
@@ -823,15 +982,42 @@ if __name__ == '__main__':
                     
                     appellations_domainName.append(simple_appelation(appellation_.reset_index().nom[0]))
                    
-                    LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
-                                                                edgecolor='.5', label=simple_appelation(vin.Appelation) ) )
-                    
+                    if flag_international == 0:
+                        LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
+                                                                    edgecolor='.5', label=simple_appelation(vin.Appelation) ) )
+                    else:
+                        LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
+                                                                    edgecolor='.5', label=simple_appelation(vin.Bassin) ) )
+
                     appellations_domain = appellation_ if len(appellations_domain)==0 else appellations_domain.append(appellation_)
 
-    
+        
+        flag_checkVinIng = False
+        if index == len(listVins)-1 : 
+            flag_checkVinIng = True 
+        else:
+            if section_domain != listVins.DomaineChateau[index+1]:
+                flag_checkVinIng = True 
+        if flag_checkVinIng:
+            domainChateau_ = unidecode.unidecode(vin.DomaineChateau.replace('&','').replace(' ','').lower())
+            imgVinFiles = glob.glob( dir_out + 'VinImg/' + domainChateau_ + '*.png')
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '*.jpg'))
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '*.jpeg'))
+            for imgVinFile in imgVinFiles:
+                configImgFile = os.path.dirname(imgVinFile)+'/'+os.path.basename(imgVinFile).split('.')[0]+'.txt'
+                if os.path.isfile(configImgFile):
+                    with open(configImgFile,'r') as f:
+                        lines_confImg = f.readlines()
+                        widthImg = float(lines_confImg[0].split(':')[1])
+                        vertivalSpaveImg = float(lines_confImg[1].split(':')[1])
+                else:
+                    widthImg = 0.6
+                    vertivalSpaveImg = 2
+                final2_lines.append(u'\\showExtraVinImg{{{:s}}}{{{:3.1f}}}{{{:3.1f}mm}}\n'.format(imgVinFile,widthImg,vertivalSpaveImg))
+
     #for the last plot
     if (((not(flag_restart)) or (not(os.path.isfile(map_domain)))) & (section_domain != 'mm')): 
-        saveplot(appellations_domain, vin_prev)
+        saveplot(appellations_domain, vin_prev, metropole_prev, bassins_prev )
     
     
     #scan vin to remove wine with no recipies in reference
