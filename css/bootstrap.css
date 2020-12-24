@@ -1122,7 +1122,14 @@ img {
 }
 .img-rounded {
   border-radius: 6px;
+  max-width: 100%;
+
 }
+
+.img-extra {
+  max-width: 100%;
+}
+
 .img-thumbnail {
   display: inline-block;
   max-width: 100%;
