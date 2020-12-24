@@ -88,15 +88,15 @@
 
   <div class='post-content'>
   {{ content }}
-  </div>
 
-  <div class='post-content text-faded-center'>
+  <div class='text-faded-center'>
   {% assign nameneeded = page.slug | append: '-extra' %}
   {% for myimage in site.static_files %}
      {% if myimage.path contains nameneeded %}
        <img class='img-rounded' src="{{ url }}{{ myimage.path }}" alt="extra image" />
      {% endif %}
   {% endfor %}
+  </div>
   </div>
 
 
