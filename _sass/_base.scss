@@ -825,6 +825,16 @@ body {
     text-indent: -20px;
 }
 
+.img-extra{
+  max-width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  @media (max-width: 600px) {
+    max-width: 100%;
+  }
+  }
+
 .post-text {
     margin:  auto;
     margin-top: 0px;

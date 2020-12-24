@@ -89,7 +89,8 @@
   <div class='post-content'>
   {{ content }}
 
-  <div class='text-faded-center'>
+  <div class='img-extra'>
+
   {% assign nameneeded = page.slug | append: '-extra' %}
   {% for myimage in site.static_files %}
      {% if myimage.path contains nameneeded %}
