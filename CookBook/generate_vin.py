@@ -635,12 +635,17 @@ if __name__ == '__main__':
 
     #collect international bassins from appellation
     for key in country_pakage.keys():
-        if key == 'France': continue
-        bassins_ = bassins_international[key].copy()
-        listBassinColor_ = pd.read_csv(dir_in+'AppellationInternational/bassins-colors-{:s}.csv'.format(key)) 
-        listBassinColor_['bassin'] = [unicode(xx) for xx in listBassinColor_['bassin']]
+        if key == 'France': 
+            continue
+        elif key in [u'Nouvelle Z\xe9lande ', u'Italie']:
+            empty_ = gpd.GeoDataFrame([], crs="EPSG:4326") 
+            country_pakage[key]['bassins']       = empty_
+        else:
+            bassins_ = bassins_international[key].copy()
+            listBassinColor_ = pd.read_csv(dir_in+'AppellationInternational/bassins-colors-{:s}.csv'.format(key)) 
+            listBassinColor_['bassin'] = [unicode(xx) for xx in listBassinColor_['bassin']]
         
-        country_pakage[key]['bassins'] = bassins_.merge(listBassinColor_,on='bassin')
+            country_pakage[key]['bassins'] = bassins_.merge(listBassinColor_,on='bassin')
 
 
     dir_maps = dir_out + 'VinMaps/' 
