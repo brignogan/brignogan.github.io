@@ -775,7 +775,7 @@ if __name__ == '__main__':
         #--------------
         
         newBassin = 0
-        if (section_bassin != vin.Bassin) & (section_bassin!='international'):
+        if (section_bassin != vin.Bassin) & (section_bassin!='International'):
             print vin.Bassin
             #add subsection
             final2_lines.append('\n')
