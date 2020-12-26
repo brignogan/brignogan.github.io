@@ -45,6 +45,8 @@ def saveplot(appellations_domain,vin,metropole,bassins):
     appellations_domain = gpd.GeoDataFrame(pd.DataFrame(appellations_domain), crs=appellations.crs)
     if len(appellations_domain)>0: 
         xmin,ymin, xmax,ymax = appellations_domain.total_bounds
+    elif len(bassins.loc[bassins.nom == vin.Bassin]) == 0: 
+        xmin,ymin,xmax,ymax = 0, 0, 0, 0 
     else:
         xmin,ymin,xmax,ymax = bassins.loc[bassins.nom == vin.Bassin].total_bounds
                               #vin.geometry.coords.xy[0][0]-1.e5, vin.geometry.coords.xy[0][0]+1.e5,\
@@ -93,12 +95,17 @@ def saveplot(appellations_domain,vin,metropole,bassins):
                                             xy=[x.geometry.centroid.x + x.add_to_name_position.coords.xy[0][0],\
                                                 x.geometry.centroid.y + x.add_to_name_position.coords.xy[1][0] ], ha=x.LabelLoc_ha,va=x.LabelLoc_va,zorder=5),axis=1);
 
-    minx, miny, maxx, maxy =  metropole.geometry.total_bounds
-    xx = maxx-minx;  yy = maxy-miny
-    xc = minx+.5*xx; yc = miny+.5*yy
-    dd = max([xx,yy])
-    minx = xc-.5*dd;  maxx = xc+.5*dd
-    miny = yc-.5*dd;  maxy = yc+.5*dd
+    try:
+        minx, miny, maxx, maxy =  metropole.geometry.total_bounds
+        xx = maxx-minx;  yy = maxy-miny
+        xc = minx+.5*xx; yc = miny+.5*yy
+        dd = max([xx,yy])
+        minx = xc-.5*dd;  maxx = xc+.5*dd
+        miny = yc-.5*dd;  maxy = yc+.5*dd
+    except: 
+        minx = 0;  maxx = 0
+        miny = 0;  maxy = 0
+
     buffer_lim = 50.e3
     bx.set_xlim(minx-buffer_lim,maxx+buffer_lim)
     bx.set_ylim(miny-buffer_lim,maxy+buffer_lim)
@@ -638,7 +645,7 @@ if __name__ == '__main__':
         if key == 'France': 
             continue
         elif key in [u'Nouvelle Z\xe9lande ', u'Italie']:
-            empty_ = gpd.GeoDataFrame([], crs="EPSG:4326") 
+            empty_ = gpd.GeoDataFrame(columns = [u'nom', u'geometry', u'color', u'area', u'add_to_name_position'], crs="EPSG:4326") 
             country_pakage[key]['bassins']       = empty_
         else:
             bassins_ = bassins_international[key].copy()
