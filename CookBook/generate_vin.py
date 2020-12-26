@@ -207,7 +207,7 @@ if __name__ == '__main__':
         print 'list vins de la cave ...'
         print 'le fichier est ici : ', file_listDesVins
         
-        vins_ = pd.read_excel(file_listDesVins, sheet_name='france')
+        vins_ = pd.read_excel(file_listDesVins, sheet_name='france - Liste des vins', header=2)
         vins_ = vins_.loc[ (vins_['Couleur'].str.strip()=='Blanc') |
                            (vins_['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
                            (vins_['Couleur'].str.strip()=='Rouge') |
@@ -215,7 +215,7 @@ if __name__ == '__main__':
                            (vins_['Couleur'].str.strip()==u'Pommeau') 
                          ]
         
-        vins_2_ = pd.read_excel(file_listDesVins, sheet_name='international')
+        vins_2_ = pd.read_excel(file_listDesVins, sheet_name='international - Liste des vins ', header=1)
         vins_2_ = vins_2_.loc[ (vins_['Couleur'].str.strip()=='Blanc') |
                            (vins_['Couleur'].str.strip()==u'Blanc p\xe9tillant') |
                            (vins_['Couleur'].str.strip()=='Rouge') |
@@ -223,7 +223,7 @@ if __name__ == '__main__':
                            (vins_['Couleur'].str.strip()==u'Pommeau') 
                          ]
 
-        cidres_ = pd.read_excel(file_listDesVins, sheet_name='cidre')
+        cidres_ = pd.read_excel(file_listDesVins, sheet_name='cidre - Liste des Cidres', header=1)
         cidres_.index = range(len(vins_),len(vins_)+len(cidres_))
        
 
@@ -344,7 +344,18 @@ if __name__ == '__main__':
     for pays in listVins['Pays']:
         if pays == 'France': continue
         country_pakage[pays] = {}
-    
+   
+
+        if pays in [u'Nouvelle Z\xe9lande ', u'Italie']:
+            empty_ = gpd.GeoDataFrame([], crs="EPSG:4326") 
+            country_pakage[pays]['inlandWater']       = empty_
+            country_pakage[pays]['inlandWater_river'] = empty_ 
+            country_pakage[pays]['inlandWater_lake']  = empty_ 
+            country_pakage[pays]['seaWater']          = empty_ 
+            country_pakage[pays]['coasts_borders']    = empty_ 
+            country_pakage[pays]['metropole']         = empty_ 
+            continue
+
         clc12_ = gpd.read_file(dir_in+'CLC12/CLC12_{:s}/CLC12_{:s}.shp'.format(paysCode[pays],paysCode[pays]))
     
         inlandWater_ = clc12_.loc[(clc12_['Code_12']=='521')]
