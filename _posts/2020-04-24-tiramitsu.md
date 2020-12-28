@@ -10,7 +10,7 @@ temps_repos: 180
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: boudoirs, mascarpone, café,  d'amaretto | amaretto, chocolat
 ---
-Ce tiramitsu est une recette de Monique Salaün, une amie d'Orsay, qui, ne voyageant pas autant qu'elle le souhaitait, s'échappait de la Vallée de Chevreuse en s'adonnant à la cuisine étrangère.
+Ce tiramitsu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportait ses recettes des villes où elle accompagnait son mari Jacques, directeur au CNRS, qui faisait des missions à l'étranger. Ils allaient ainsi régulièrement à Florence en Toscane.
 
 ### Ingrédients
 * 4 oeufs

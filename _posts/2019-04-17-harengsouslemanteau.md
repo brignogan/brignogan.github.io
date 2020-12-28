@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hareng sous le manteau
-tag_category: famille
+tag_category: amis
 tag_plat: entree
 image: img/recette/harengsouslemanteau.png
 temps_preparation: 90

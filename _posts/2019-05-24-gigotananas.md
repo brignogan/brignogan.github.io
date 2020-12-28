@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gigot d'agneau aux ananas
-tag_category: famille
+tag_category: amis
 tag_plat: platViande
 image: img/recette/untitled.png
 temps_preparation: 30
@@ -10,7 +10,7 @@ temps_repos: 75
 nbre_personne: ‘pour 5-6 personnes’
 index_motClefIngredient: gigot d'agneau | agneau!gigot, d'ananas | ananas, flageolet
 ---
-Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui, faute de ne pas voyager autant qu'elle le souhaitait, vivait des aventures culinaires dans sa cuisine.
+Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui la tenait de sa cousine brestoise. Faute de ne pas voyager autant qu'elle le souhaitait, Monique a toujours aimé vivre des aventures culinaires dans sa cuisine.
 
 ### Ingrédients
 * 1 gigot d'agneau raccourci de 1,5 kg
