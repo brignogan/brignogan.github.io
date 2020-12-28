@@ -225,6 +225,7 @@ vinDictionary = pickle.load(open('./vinDictionary_fromExcelFile.pickle', 'r'))
 recetteDictionary = {}
 recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'r'))
 
+recetteNoImg = []
 line_missingIndex = []
 recipeCat_prev  = ''
 recipePlat_prev = ''
@@ -389,8 +390,10 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMimg' in line:  
             if os.path.isfile(recipeMMimg): 
                 line = line.replace('recipeMMimg', recipeMMimg)                 ; flag_modified = 2
+                if (os.path.basename(recipeMMimg) == 'untitled.png') & (recipName not in recetteNoImg): recetteNoImg.append(recipName) 
             else: 
                 line = line.replace('recipeMMimg', '')                 ; flag_modified = 2
+                if (recipName not in recetteNoImg):recetteNoImg.append(recipName+'**')
 
         if 'recipeMMSubTitle' in line:
             line2p = []
@@ -788,6 +791,14 @@ for line in lineVin_error:
     print line
     f.writelines((line+'\n').decode('utf-8'))
 f.close()
+
+
+#save missing index
+f = io.open("LogError/RecetteNoImg.txt","w", encoding='utf-8')
+for line in recetteNoImg:
+    f.writelines((line+'\n').decode('utf-8'))
+f.close()
+
 
 #save file
 f= io.open("cookbook.tex","w", encoding='utf-8')

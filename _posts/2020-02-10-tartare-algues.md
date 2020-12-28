@@ -3,7 +3,7 @@ layout: post
 title: Tartare d'algues
 tag_category: bretagne
 tag_plat: sauce
-image: pas d'image
+image: img/recette/untitled.png
 temps_preparation: 10
 temps_cuisson: '-'
 temps_repos: 720
