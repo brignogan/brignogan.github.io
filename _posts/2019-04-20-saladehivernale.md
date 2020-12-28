@@ -3,7 +3,7 @@ layout: post
 title: Salade hivernale
 tag_category: famille
 tag_plat: entree
-image: img/recette/untitled.png
+image: img/recette/saladehivernale.png
 temps_preparation: 60
 temps_cuisson: '-'
 temps_repos: '-'
