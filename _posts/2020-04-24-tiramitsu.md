@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiramitsu
-tag_category: famille
+tag_category: amis
 tag_plat: dessert
 image: img/recette/untitled.png
 temps_preparation: 30
