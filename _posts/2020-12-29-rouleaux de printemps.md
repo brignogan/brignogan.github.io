@@ -59,7 +59,8 @@ Ces rouleaux, appelés "goi cuon", sont un plat typique de la cuisine vietnamien
 
 
 ### Vins
-* Vin blanc :
+* Vin blanc : Alsace Grand Cru Furstentum (Domaine rené Fleith, Pinot gris).
+* Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois), Champagne (Louis de Sacy, Rosé de Saignée).
 
 ### Notes
 * On compte 2-3 rouleaux par personne.
