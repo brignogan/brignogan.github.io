@@ -3,7 +3,7 @@ layout: post
 title: Gigot d'agneau aux ananas
 tag_category: amis
 tag_plat: platViande
-image: img/recette/untitled.png
+image: img/recette/gigot.png
 temps_preparation: 30
 temps_cuisson: 45
 temps_repos: 75
