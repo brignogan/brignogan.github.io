@@ -237,14 +237,24 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     #if 'confitures' not in recipName: continue
 
     if recipeCat != recipeCat_prev: 
-        final2_lines.append(u'\\newpage \n \
+        if recipeCat_prev != '':
+            final2_lines.append(u'\\addImgSection{{./SectionImg/{:s}.png}}                                           \n \
 \\fancyhead[LE]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+\\fancyhead[RO]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
+\\fancyhead[LO]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+\\fancyhead[RE]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
+\\section{{{:s}}}\n                                          \
+\\addthumb{{{:s}}}{{\\thumbsIcon}}{{white}}{{{:s}}}'.format(recipeCat, recipeCat.title(), recipeCat.title(), color_section(recipeCat))
+                )
+        else:
+            final2_lines.append(u'\\fancyhead[LE]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
 \\fancyhead[RO]{{\\bfseries\\nouppercase{{\\leftmark}} }} \n \
 \\fancyhead[LO]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
 \\fancyhead[RE]{{\\bfseries\\nouppercase{{\\rightmark}} }}\n \
 \\section{{{:s}}}\n                                          \
 \\addthumb{{{:s}}}{{\\thumbsIcon}}{{white}}{{{:s}}}'.format(recipeCat.title(), recipeCat.title(), color_section(recipeCat))
                 )
+
 
         if flag_use_Section_Intro_Website:
             #add introCat

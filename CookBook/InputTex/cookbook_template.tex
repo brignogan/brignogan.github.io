@@ -817,7 +817,34 @@
 \let\Subsectionmark\subsectionmark
 \def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
 
-
+\newcommand*\addImgSection[1]{ 
+	\checkoddpage
+	\ifoddpage
+		\newpage
+		\stopthumb
+		\thispagestyle{empty}
+		\fancyhead{}
+		\null\vfill
+		\begin{center}
+			{\includegraphics[width=0.92\textwidth]{#1} }
+		\end{center} 
+		\vfill\null
+		\newpage
+	\else
+		\newpage
+		\null
+		\newpage
+		\stopthumb
+		\thispagestyle{empty}
+		\fancyhead{}
+		\null\vfill
+		\begin{center}
+			{\includegraphics[width=0.92\textwidth]{#1} }
+		\end{center} 
+		\vfill\null
+		\newpage
+	
+	\fi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -858,6 +885,11 @@
 \thumbsoverview{Les Marques de Chapitres}
 
 \thispagestyle {empty}
+\null\vfill
+\begin{center}
+{\includegraphics[width=0.92\textwidth]{SectionImg/famille.png} }
+\end{center} 
+\vfill\null
 \newpage
 \fancyhead{}
 
@@ -866,13 +898,12 @@
 
 XX
 
+\addImgSection{./SectionImg/vin.png}
 \input{vin}
 
-\newpage
-\stopthumb
-
 %index
-\newpage
+\addImgSection{./SectionImg/index.png}
+\stopthumb
 \fancyhead{}
 \fancyhead[LE]{\bfseries\nouppercase{Index Alphab\'etique}}      % Chapter in the right on even pages
 \fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
