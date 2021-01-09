@@ -3,7 +3,7 @@ layout: post
 title: Sauce béchamel
 tag_category: famille
 tag_plat: sauce
-image: img/recette/untitled.png
+image: img/recette/bechamel.png
 temps_preparation: 5
 temps_cuisson: 10
 temps_repos: '-'

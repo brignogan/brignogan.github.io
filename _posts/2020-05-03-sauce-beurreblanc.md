@@ -3,7 +3,7 @@ layout: post
 title: Sauce au beurre blanc
 tag_category: famille
 tag_plat: sauce
-image: img/recette/untitled.png
+image: img/recette/beurreblanc.png
 temps_preparation: 10
 temps_cuisson: 10
 temps_repos: '-'
