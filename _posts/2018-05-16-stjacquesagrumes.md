@@ -3,7 +3,7 @@ layout: post
 title: Saint Jacques sauce agrumes
 tag_category: bretagne
 tag_plat: platPoisson
-image: img/recette/saintjacquesagrumes.png
+image: img/recette/untitled.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘

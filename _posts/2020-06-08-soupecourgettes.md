@@ -3,7 +3,7 @@ layout: post
 title: Soupe de courgettes et fromage
 tag_category: famille
 tag_plat: entree
-image: img/recette/soupecourgettes.png
+image: img/recette/untitled.png
 temps_preparation: 15
 temps_cuisson: 30
 temps_repos: '-'
