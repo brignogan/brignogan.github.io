@@ -1,0 +1,2 @@
+largeur (%page) :0.6
+espace au dessus de l'image (mm): 7
