@@ -3,7 +3,7 @@ layout: post
 title: Saint Jacques flambées aux pommes
 tag_category: bretagne
 tag_plat: platPoisson
-image: img/recette/saintjacquespommes.png
+image: img/recette/stjacquespommes.png
 temps_preparation: 15
 temps_cuisson: 10
 temps_repos: ‘-‘
