@@ -43,6 +43,6 @@ Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Gewurztraminer (Domaine René Fleith, Letzenberg), Menetou-Salon (Domaine de Châtenoy, Classique), Pays d'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
-* Il ne faut pas faire macérer les noix de saint-jacques dans quoi que ce soit (eau, lait ou autre liquide). Elles gonflent trop en perdant de leur fermeté et beaucoup de leur goût.
+* Voir la note 1 de la recette précédente.
 * On peut ajouter aussi quelques suprêmes d’orange (tranches débarrassées de leur peau blanche), mais cela peut renforcer le goût d’agrume aux dépens de celui des saint-jacques.
 * On peut aussi ajouter quelques brisures de crêpes de blé noir séchées à la poêle.
