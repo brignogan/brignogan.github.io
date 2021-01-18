@@ -1023,9 +1023,12 @@ if __name__ == '__main__':
                 flag_checkVinIng = True 
         if flag_checkVinIng:
             domainChateau_ = unidecode.unidecode(vin.DomaineChateau.replace('&','').replace(' ','').lower())
-            imgVinFiles = glob.glob( dir_out + 'VinImg/' + domainChateau_ + '*.png')
-            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '*.jpg'))
-            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '*.jpeg'))
+            imgVinFiles = glob.glob( dir_out + 'VinImg/' + domainChateau_ + '.png')
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '.jpg'))
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '.jpeg'))
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '-extra*.png'))
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '-extra*.jpg'))
+            imgVinFiles.extend(glob.glob( dir_out + 'VinImg/' + domainChateau_ + '-extra*.jpeg'))
             for imgVinFile in imgVinFiles:
                 configImgFile = os.path.dirname(imgVinFile)+'/'+os.path.basename(imgVinFile).split('.')[0]+'.txt'
                 if os.path.isfile(configImgFile):
