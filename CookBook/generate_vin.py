@@ -966,10 +966,10 @@ if __name__ == '__main__':
 
             if len(appellation_) == 0:
                 print '      ****  missing appellation:', '-'.join(vin.Appelation.lower().split(' '))
-                if (vin.Bassin == 'Alsace') : pdb.set_trace()
+                #if (vin.Bassin == 'Alsace') : pdb.set_trace()
                 #if (u'H\xe9rault' in vin.Appelation): continue  
                 #if (u'Caume'      in vin.Appelation): continue 
-                if (u'Vin de France'      in vin.Appelation): continue 
+                #if (u'Vin de France'      in vin.Appelation): continue 
                 #if (u"Pineau d'Aunis"      in vin.Appelation): continue 
         
         key = vin.Couleur.replace(' ', '').lower()+vin.Appelation.replace(' ', '').lower()+\
