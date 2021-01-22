@@ -8,6 +8,7 @@
 \usepackage[french]{babel}
 \usepackage{wrapfig}
 \usepackage{ifoddpage}
+\usepackage{makecell}
 \usepackage[%
     a5paper,
     %papersize={5.5in,8.5in},
@@ -680,6 +681,17 @@
 \fi
 }
 
+\newcommand*\iconVinInternational{ 
+\checkoddpage
+\ifoddpage
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_international_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\else
+	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_international_white.pdf}}}
+	\parbox{\wd0}{\box0}
+\fi
+}
+
 \def\Entrees{ Entrées}
 \def\Legumes{ Plats de L\'egume}
 \def\Poissons{ Plats de Poisson}
@@ -699,6 +711,7 @@
 \def\Rhone{ Vall\'ee du Rhône}
 \def\CidreB{ Cidre de Bretagne}
 \def\CidreN{ Cidre de Normandie}
+\def\VinInternational{ International}
 
 
 
@@ -804,6 +817,12 @@
 	%\ifnum1=\subsectionnumber\relax 
 	\iconCidreN
 	\fi
+	
+	\ifnum0=\testCat{\currentSectionName}{\VinInternational}
+	%\ifnum1=\subsectionnumber\relax 
+	\iconVinInternational
+	\fi
+	
 
 	}
 
