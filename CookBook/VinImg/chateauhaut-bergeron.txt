@@ -1,2 +1,2 @@
 largeur (%page) :0.5
-espace au dessus de l'image (mm): 3
+espace au dessus de l'image (mm): 1
