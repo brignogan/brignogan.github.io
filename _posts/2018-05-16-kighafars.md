@@ -72,7 +72,7 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 * Allonger le lipig avec un peu de bouillon.   
 
 ### Vins
-* Vin rouge : Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Côtes-du-Rhône Villages (Château La Borie, Emile Borie), Lirac (Domaine de la Mordorée, La Reine des Bois), Saint-Joseph (Domaine Château d'Ampuis, Lieu-dit), Saint-Joseph (Domaine Louis Chèze, Les Anges), Saint-Joseph (Cave de Tain, Esprit de Granit).
+* Vin rouge : Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Côtes-du-Rhône Villages (Château La Borie, Emile Borie), Lirac (Domaine de la Mordorée, La Reine des Bois), Saint-Joseph (Château d'Ampuis, Lieu-dit), Saint-Joseph (Domaine Louis Chèze, Les Anges), Saint-Joseph (Cave de Tain, Esprit de Granit).
 
 ### Notes
 * Grand Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.

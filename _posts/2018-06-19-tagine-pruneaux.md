@@ -43,7 +43,7 @@ Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être 
 * Frire rapidement les amandes dans un peu d’huile, elles doivent prendre une belle couleur dorée, les essuyer et les déposer sur la viande et ajouter les grains de sésame.
 
 ### Vins
-* Vin rouge : Pomerol (Clos René), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pessac-Léognan (Domaine de la Solitude), Brulhois (Domaine du Bois de Simon, Louis Camille), Bandol (Château de Pibarnon), Cornas (Cave de Tain, Arènes Sauvages), Gigondas (Domaine Château d'Ampuis).
+* Vin rouge : Pomerol (Clos René), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pessac-Léognan (Domaine de la Solitude), Brulhois (Domaine du Bois de Simon, Louis Camille), Bandol (Château de Pibarnon), Cornas (Cave de Tain, Arènes Sauvages), Gigondas (Château d'Ampuis).
 
 ### Notes
 * Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn, les égoutter puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.

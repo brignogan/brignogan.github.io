@@ -54,4 +54,4 @@ Cette recette a été inaugurée avec un rôti de sanglier offert par les collè
 * Servir le rôti avec des marrons et une purée de cèleri.
 
 ### Vins
-* Vin rouge : Bandol (Château de Pibarnon), Bandol (Château Guilhem Tournier, La Malissonne), Côte-Rôtie (Domaine Château d'Ampuis, Château d'Ampuis), Côte-Rôtie (Domaine Louis Chèze, Bellissima), Hermitage (Cave de Tain, Gambert de Loche).
+* Vin rouge : Bandol (Château de Pibarnon), Bandol (Château Guilhem Tournier, La Malissonne), Côte-Rôtie (Château d'Ampuis, Château d'Ampuis), Côte-Rôtie (Domaine Louis Chèze, Bellissima), Hermitage (Cave de Tain, Gambert de Loche).

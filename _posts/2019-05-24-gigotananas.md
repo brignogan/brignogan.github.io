@@ -40,4 +40,4 @@ Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui la tenait
 
 
 ### Vins
-* Vin rouge : Châteauneuf-du-Pape	(Domaine de Beaurenard,	Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Saint-Joseph (Domaine Château d'Ampuis,	Lieu-dit), Saint-Joseph (Domaine Louis Chèze, Les Anges), Pommard (Domaine Philippe Girard, Vieilles Vignes), Saint-Estèphe (Château Haut-Marbuzet).
+* Vin rouge : Châteauneuf-du-Pape	(Domaine de Beaurenard,	Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Saint-Joseph (Château d'Ampuis,	Lieu-dit), Saint-Joseph (Domaine Louis Chèze, Les Anges), Pommard (Domaine Philippe Girard, Vieilles Vignes), Saint-Estèphe (Château Haut-Marbuzet).

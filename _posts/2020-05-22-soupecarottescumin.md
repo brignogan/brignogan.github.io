@@ -35,4 +35,4 @@ Bien que l'association carottes-cumin-coriandre soit une base de la cuisine maro
 * Servir cette soupe avec un trait de crème et quelques feuilles de coriandre. Ajouter éventuellement dans chaque assiette quelques graines de coriandre concassées.
 
 ### Vins
-* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
+* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).

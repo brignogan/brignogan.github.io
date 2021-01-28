@@ -37,8 +37,8 @@ Les keftas sont à la base de nombreuses recettes marocaines. On peut par exempl
 * Servir aussitôt.
 
 ### Vins
-* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline).
-* Vin rouge : Côtes-de-Provence (Domaine Saint-Victorin, Cuivre), Côtes-de-Provence (Domaine Saint-Victorin, Damien), Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Minervois (Château Le Bouchat-Alaux, Fontaine de Santé), Côtes-du-Rhône Villages (Château La Borie, Emile Borie).
+* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline).
+* Vin rouge : Côtes-de-Provence (Domaine Saint Victorin, Cuivre), Côtes-de-Provence (Domaine Saint Victorin, Damien), Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Minervois (Château Le Bouchat-Alaux, Fontaine de Santé), Côtes-du-Rhône Villages (Château La Borie, Emile Borie).
 
 ### Notes
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).

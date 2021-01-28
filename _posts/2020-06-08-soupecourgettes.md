@@ -27,7 +27,7 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 * Servir aussitôt cette soupe avec, éventuellement, un trait de crème.
 
 ### Vins
-* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
+* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
 
 ### Notes
 * Cette soupe peut servir à utiliser les restes de fromage.

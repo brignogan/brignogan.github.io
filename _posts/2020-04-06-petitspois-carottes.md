@@ -31,4 +31,4 @@ Quand les petits pois et les carottes nouvelles arrivent sur les étales du marc
 * Servir les légumes égouttés.
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin, Origine), Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline).
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Côtes-de-Provence (Domaine Saint Victorin, Jacqueline).

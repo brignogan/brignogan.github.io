@@ -42,7 +42,7 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 
 ### Vins
 * Vin blanc : Jasnières	(Domaine de Cézin, Origine), Pays d'Hérault (Mas de Daumas-Gassac).
-* Vin rosé : Côtes-de-Provence (Domaine Saint-Victorin, Jacqueline), Méditerranée	(Château La Borie, Alix).
+* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée	(Château La Borie, Alix).
 
 ### Notes
 * Cette recette peut-être réalisée avec des langues de porc au goût un peu moins fin. On compte alors une langue par convive et le mode de cuisson est le même que pour la langue de veau.
