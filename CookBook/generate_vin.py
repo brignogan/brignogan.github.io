@@ -985,7 +985,7 @@ if __name__ == '__main__':
         if (flag_igp == 1): 
             vin_Appelation = vin.Appelation + ' (IGP)'
         elif (flag_other == 1): 
-            vin_Appelation = vin.Appelation + u' (App\xe9llation Locale)'
+            vin_Appelation = vin.Appelation + u' (Appellation Locale)'
         else:
             vin_Appelation = vin.Appelation  
 
