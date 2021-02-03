@@ -8,7 +8,7 @@ temps_preparation: 60
 temps_cuisson: 45
 temps_repos: 60
 nbre_personne: ‘pour 50 rouleaux’
-index_motClefIngredient: crevette, poitrine de porc | porc!poitrine, concombre
+index_motClefIngredient: crevette, poitrine de porc | porc!poitrine, concombre, galette de riz, vermicelle de riz, coriandre, menthe
 ---
 Ces rouleaux, appelés "goi cuon", sont un plat typique de la cuisine vietnamienne dont la recette a été mise au point par notre amie Hanh Faucheu. C'est un plat très convivial puisque chacun peut préparer ses rouleaux à partir des ingrédients préparés en respectant quelques règles de base. En s'appliquant un peu le résultat peut être tout-à-fait honorable (sinon, on peut soudoyer un expert).
 
