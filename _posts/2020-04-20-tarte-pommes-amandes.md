@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte feuilletée | pâte!feuilletée, pomme, d'amande | amande
+index_motClefIngredient: pâte feuilletée | pâte!feuilletée, pomme, amandes | amande
 ---
 La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table.
 

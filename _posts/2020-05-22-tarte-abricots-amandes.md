@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte feuilletée | pâte!feuilletée, d’abricots | abricot, d’amande | amande
+index_motClefIngredient: pâte feuilletée | pâte!feuilletée, abricots | abricot, amande
 ---
 Dès que les fruits d'été ré-apparaissent, la tarte aux abricots et amandes va remplacer la tarte aux pommes de l'hiver.
 
