@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 45
 temps_repos: 75
 nbre_personne: ‘pour 5-6 personnes’
-index_motClefIngredient: gigot d'agneau | agneau!gigot, d'ananas | ananas, flageolet
+index_motClefIngredient: gigot d'agneau | agneau!gigot, ananas, flageolet
 ---
 Cette recette exotique vient de Monique Salaün, une amie d'Orsay, qui la tenait de sa cousine brestoise. Faute de ne pas voyager autant qu'elle le souhaitait, Monique a toujours aimé vivre des aventures culinaires dans sa cuisine.
 

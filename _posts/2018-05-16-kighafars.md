@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 90
 temps_repos: '-'
 nbre_personne: ‘pour 5-6 personnes’
-index_motClefIngredient: jarret de porc | porc!jarret, poitrine | porc!poitrine, paleron | bœuf!paleron, (gîte | bœuf!gîte, carotte, poireau, échalote
+index_motClefIngredient: jarret de porc | porc!jarret, poitrine | porc!poitrine, paleron | bœuf!paleron, gîte | bœuf!gîte, carotte, poireau, échalote
 index_motClefBase: fars sac'h du | fars!sac'h du, fars sac'h gwen | fars!sac'h gwen
 ---
 Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'objet de querelles de clochers. Pour la paix du ménage, la recette ci-dessous est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. Il faut noter que, dans tous les cas, ce plat est caractérisé par son fars sac'h (fars en sac) dont la cuisson nécessite un sac en toile appelé « sac à fars ». Avec la farine de blé noir, on fait le fars sac'h du, avec la farine de froment, le fars sac'h gwen.

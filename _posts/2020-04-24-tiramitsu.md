@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: '-'
 temps_repos: 180
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: boudoirs, mascarpone, café,  d'amaretto | amaretto, chocolat
+index_motClefIngredient: boudoir, mascarpone, café,  d'amaretto | amaretto, chocolat
 ---
 Ce tiramitsu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportait ses recettes des villes où elle accompagnait son mari Jacques, directeur au CNRS, qui faisait des missions à l'étranger. Ils allaient ainsi régulièrement à Florence en Toscane.
 

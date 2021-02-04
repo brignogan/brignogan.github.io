@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: fenouil, carotte, artichaut
+index_motClefIngredient: fenouil, carotte, artichaut, orange
 ---
 Les légumes confits accompagnent très bien les poissons rôtis. Cependant pour que le goût sucré ne soit pas dominant, il est préférable d'y ajouter quelques légumes simplement cuits à la vapeur.
 
