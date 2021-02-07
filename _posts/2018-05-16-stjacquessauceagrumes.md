@@ -30,7 +30,7 @@ Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée
 * sel fin, poivre
 
 ### Préparation
-* Préparation du fumet : Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre , le rhum et le vin blanc. Verser alors le fond de volaille et le jus des agrumes puis laisser frémir pendant 1/2 heure. L’appareil doit réduire de moitié.
+* Préparation du fumet : Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre, le rhum et le vin blanc. Verser alors le fond de volaille et le jus des agrumes puis laisser frémir pendant 1/2 heure. L’appareil doit réduire de moitié.
 * Faire blanchir 5 mn dans de l’eau bouillante la julienne d’écorce d’orange.
 * Faire cuire le riz.
 * Faire chauffer le four à 50°C.
