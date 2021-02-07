@@ -825,7 +825,8 @@ pickle.dump(recetteDictionary,open('./recetteDictionary.pickle','wb'))
 if flag_latex:
 #run latex
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
-    subprocess.call(['texindy','-M mystyle.xdy','-C utf8','-L french','cookbook.idx'])
+    #subprocess.call(['texindy','-M mystyle.xdy','-C utf8','-L french','cookbook.idx'])
+    subprocess.call(['bash','run_xindy.sh', 'mystyle.xdy', 'cookbook.idx'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
 
