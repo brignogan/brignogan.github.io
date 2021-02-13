@@ -3,7 +3,7 @@ layout: post
 title: Rouleaux de printemps
 tag_category: amis
 tag_plat: platViande
-image: img/recette/untitled.png
+image: img/recette/rouleauprintemps.png
 temps_preparation: 60
 temps_cuisson: 45
 temps_repos: 60
