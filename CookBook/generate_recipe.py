@@ -594,7 +594,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                                                           vin[2].replace(' ',''),
                                                           vin[3].replace(' ','') ) )
 
-                    line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\emph{Vin Rouge: }')\
+                    line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\emph{Vin rouge: }')\
                             .replace(u'Vin rouge doux : ',u'\\emph{Vin rouge doux: }')\
                             .replace(u'Vin blanc : ',u'\\emph{Vin blanc: }')\
                             .replace(u'Vin blanc doux : ',u'\\emph{Vin blanc doux: }')\
