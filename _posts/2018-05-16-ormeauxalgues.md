@@ -6,7 +6,7 @@ tag_plat: platPoisson
 image: img/recette/ormeaux.png
 temps_preparation: 45
 temps_cuisson: 40
-temps_repos: 72 h
+temps_repos: 4320
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: ormeau, algue séchée, nouilly-prat
 ---
