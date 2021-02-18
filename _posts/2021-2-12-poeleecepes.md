@@ -3,7 +3,7 @@ layout: post
 title: Poêlée de cèpes et pommes de terre
 tag_category: amis
 tag_plat: platLegume
-image: img/recette/untitled.png
+image: img/recette/cepescathy.png
 temps_preparation: 20
 temps_cuisson: 30
 temps_repos: ‘-‘
@@ -29,7 +29,7 @@ Pendant notre séjour à Orsay, dans la vallée de Chevreuse, les sorties du dim
 * Ajouter les pommes de terre. Bien remuer pour qu'elles se parfument aux champignons. Après 4-5 mn, en dernier lieu, ajouter le persil haché et selon le goût l'ail haché. Rectifier l'assaisonnement.
 
 ### Vins
-* Vin blanc :
+* Vin rouge : Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pommard (Domaine Philippe Girard, Vieilles Vignes), Volnay (Les Caves de l'Orangerie, Les Caillerets).
 
 ### Notes
-* Dans la région bordelaise, cette poêlée accompagne les entrecôtes grillées sur des sarments de vigne et servies avec des échalotes grises fondues dans un peu de beurre et cuite avec un peu de vin et de fond de veau. 
+* Dans la région bordelaise, cette poêlée accompagne les entrecôtes grillées sur des sarments de vigne et servies avec des échalotes grises fondues dans un peu de beurre et cuite avec un peu de vin et de fond de veau.

@@ -18,7 +18,7 @@ Dès que les fruits d'été ré-apparaissent, la tarte aux abricots et amandes v
 * 125 g de poudre d’amande
 * 100 g de sucre
 * 1 œuf
-* 100 g de beurre en pommade
+* 25 cL de crème liquide
 * 1 sachet de sucre vanillé
 
 ### Préparation
@@ -26,7 +26,7 @@ Dès que les fruits d'été ré-apparaissent, la tarte aux abricots et amandes v
 * Laver rapidement et dénoyauter les abricots.
 * Etaler la pâte dans le moule.
 * Pré-cuire la pâte 10 mn.
-* Préparer la crème d'amande : travailler le beurre pour bien le ramollir, ajouter le sucre et la poudre d'amandes et bien mélanger, finir en ajoutant l'oeuf entier et bien homogénéiser le mélange.
+* Préparer la crème d'amande : bien mélanger la crème, le sucre et la poudre d'amandes puis ajouter le mélange à l'oeuf entier battu.
 * Sortir la pâte pré-cuite et y verser la crème d'amandes.
 * Disposer les demi-abricots, côté bombé dessous sur toute la surface.
 * Cuire au four pendant 20 mn.

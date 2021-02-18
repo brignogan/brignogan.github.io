@@ -28,7 +28,7 @@ Le bar est le poisson qui apprécie particulièrement les rouleaux de la mer sur
 
 ### Préparation
 * Faire bouillir de l’eau salée dans une grande casserole.
-* Y cuire les cocos de Paimpol ½ h. Egoutter.
+* Y cuire les cocos de Paimpol 30 mn. Egoutter.
 * Hacher 2 échalotes et les faire revenir dans un peu de beurre.
 * Ajouter les cocos et la pulpe de tomates, laisser cuire doucement à couvert 30 mn.
 * Mettre une couche de gros sel dans le fond d’un plat en terre tapissé d’une feuille de papier cuisson.

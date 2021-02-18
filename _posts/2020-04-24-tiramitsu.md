@@ -35,7 +35,7 @@ Ce tiramitsu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportai
 * Dans un plat à gratin, couvrir le fond d'une couche de crème.
 * Tremper rapidement, et un par un, les boudoirs dans la sauce et en faire une couche sur la crème. Bien tasser pour faire remonter la crème.
 * Disposer à nouveau une couche de creème puis une couche de boudoirs. Finir par une couche de crème.
-* Saupoudrer de chocolat.
+* Saupoudrer de chocolat en poudre.
 * Faire reposer au frigo une demi-journée.    
 
 

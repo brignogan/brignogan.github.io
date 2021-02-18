@@ -33,14 +33,14 @@ La tarte au citron sous sa croûte de meringue est, chaque année, le dessert in
 * 50 g de sucre fin
 
 ### Préparation
-* Préparer la pâte brisée en incorporant, du bout des doigts, la farine et le beurre de sorte à obtenir un mélange « sableux ». Verser petit à petit de l'eau en maniant rapidement. Ajuster la quantité d'eau pour obtenir une pâte homogène et souple et qui ne colle plus aux mains. Arrêter de pétrir dès que la bonne consistance est atteinte. En faire une boule, saupoudrer de farine. Laisser reposer ¼ h.
+* Préparer la pâte brisée en incorporant, du bout des doigts, la farine et le beurre de sorte à obtenir un mélange « sableux ». Verser petit à petit de l'eau en maniant rapidement. Ajuster la quantité d'eau pour obtenir une pâte homogène et souple et qui ne colle plus aux mains. Arrêter de pétrir dès que la bonne consistance est atteinte. En faire une boule, saupoudrer de farine. Laisser reposer 15 mn.
 * Préchauffer le four à 180°C.
 * Etaler la pâte au rouleau à la dimension du moule. Déposer sur une feuille de papier sulfurisé et foncer le moule. Déposer sur la pâte des haricots (ou autres substituts) pour l'empêcher de gonfler. Pré-cuire le fond de tarte pendant 15 mn.
-* Préparer, pendant ce temps, la crème en mélangeant, dans une casserole, le sucre, le sachet de sucre vanillé, la maïzéna et l'oeuf entier. Ajouter en remuant le jus du citron et un demi verre d'eau. Placer la casserole sur le feu et porter à ébullition en remuant sans cesse. Retirer du feu aux premiers bouillons et ajouter la noix de beurre.
+* Préparer, pendant ce temps, la crème en mélangeant, dans une casserole, le sucre, le sachet de sucre vanillé, la maïzéna et l'oeuf entier. Ajouter en remuant le jus du citron et un demi-verre d'eau. Placer la casserole sur le feu et porter à ébullition en remuant sans cesse. Retirer du feu aux premiers bouillons et ajouter la noix de beurre.
 * Sortir le fond de tarte du four et verser dessus la crème au citron. Enfourner pour environ 15 mn. Surveiller la cuisson, la tarte ne doit pas trop se colorer.
 * Sortir la tarte et régler le four sur la position "gril".
 * Préparer la meringue en battant les blancs d'oeuf (et une pincée de sel) en neige très ferme. Incorporer petit à petit le sucre fin et battre encore quelques instants.
-* Recouvrir la tarte de l'appareil à meringue. Passer la au gril (four chaud) une petite minute.
+* Recouvrir la tarte de l'appareil à meringue. Passer la au gril (four chaud) une petite minute, elle va se colorer très rapidement.
 
 ### Vins
 * Vin blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie).
