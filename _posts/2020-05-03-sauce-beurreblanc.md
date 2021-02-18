@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: sauce beurre blanc | sauce!beurre blanc
 ---
-Le sauce beurre blanc est idéale pour accompagner les poissons.
+Le sauce beurre blanc est idéale pour accompagner les poissons. Grand Mère Saint-Pierre en a appris la préparation pendant son séjour à Saumur. Cette sauce était traditionnellement servie avec le brochet, poisson typique de la Loire.
 
 ### Ingrédients
 * 4 échalotes
@@ -21,6 +21,6 @@ Le sauce beurre blanc est idéale pour accompagner les poissons.
 ### Préparation
 * Hacher finement les échalotes.
 * Les recouvrir du vinaigre dans une casserole.
-* Faire cuire doucement à découvert et réduire jusqu’à obtenir les échalotes fondues pratiquement à sec.
+* Faire cuire doucement à découvert et réduire jusqu’à obtenir les échalotes fondues pratiquement à sec. Elles ne doivent pas être colorées.
 * Retirer immédiatement du feu et ajouter 1 cuillerée d’eau. On peut laisser en attente à ce stade.
-* Au dernier moment, réchauffer les échalotes puis, hors du feu, incorporer le beurre ramolli par petites noisettes en fouettant jusqu’à obtenir la consistance d’une pommade lisse.
+* Au dernier moment, réchauffer les échalotes puis, hors du feu, incorporer le beurre ramolli par petites noisettes en fouettant jusqu’à obtenir la consistance d’une pommade lisse. Servir aussitôt.

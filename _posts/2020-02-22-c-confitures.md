@@ -53,7 +53,7 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 * 60 g de gingembre confit
 
 ##### Préparation
-* Eplucher les poires et enlever les pépins. Les couper en petits dés et les déposer dans la bassine.
+* Eplucher les poires et éliminer les pépins. Peser les fruits puis les couper en petits dés et les déposer dans la bassine.
 * Couper également en petits dés le gingembre confit et l'ajouter aux poires.
 * Verser le jus des citrons sur les fruits puis ajouter le sucre.
 * Bien mélanger, recouvrir d'un linge propre et laisser macérer toute une nuit.
@@ -66,7 +66,7 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 * 2 oranges non traitées
 
 ##### Préparation
-* Nettoyer les côtes de rhubarbe et les couper en cubes. Les peser et leurs déposer dans la bassine.
+* Nettoyer les côtes de rhubarbe et les couper en cubes. Les peser et les déposer dans la bassine.
 * Presser les oranges et couper les écorces en petits dés.
 * Ajouter les écorces et le jus d'orange à la rhubarbe puis ajouter le sucre.
 * Bien mélanger, recouvrir d'un linge propre et laisser macérer toute une nuit.
@@ -83,7 +83,7 @@ Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation
 * 1 citron
 
 ##### Préparation
-* Equeuter les fraises. Eviter de les laver sinon le faire rapidement et laisser sécher les fruits.
+* Equeuter les fraises. Eviter de les laver sinon le faire rapidement et laisser sécher les fruits. Les peser.
 * Déposer la moitié des fruits dans la bassine. Les recouvrir de la moitié du sucre. Verser le jus du citron sur le sucre. Rajouter le reste des fruits puis le reste du sucre. Ne pas mélanger. Laisser macérer toute une nuit.
 * Le lendemain, égoutter les fruits avec une écumoire et les réserver.
 * Faire bouillir le sirop pendant 20 mn. Il doit épaissir.

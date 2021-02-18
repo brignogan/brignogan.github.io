@@ -95,6 +95,3 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Cuire au four pendant 30 mn.
 * La croustade se sert chaude avec une boule de glace vanille.
 * Voir le vin d'accompagnement ci-dessus.
-
-### Notes
-* On peut utiliser une boîte de poires au sirop et éviter les étapes 3 et 4 de la préparation ci-dessus.

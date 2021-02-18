@@ -11,7 +11,7 @@ nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: d'estragon | estragon, cerfeuil, côte de bœuf | bœuf!côte, filet de bœuf | bœuf!filet
 index_motClefBase: sauce béarnaise | sauce!béarnaise
 ---
-La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les viandes grillées (voir notes).
+La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les viandes grillées la côte de boeuf, les tournedos ou les chateaubriands.
 
 ### Ingrédients
 #### pour la sauce béarnaise :
@@ -24,7 +24,7 @@ La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les 
 * 1 pincée de cerfeuil
 * sel, poivre
 
-#### pour les grillades :
+#### pour les grillades au choix :
 * 1 belle côte de bœuf
 * 6 tranches de filet de bœuf
 
@@ -32,7 +32,7 @@ La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les 
 #### pour la sauce béarnaise :
 * Eplucher et hacher l'échalote.
 * Hacher l'estragon.
-* Faire fondre le beurre et le garder tempéré.
+* Faire fondre le beurre et le garder à température ambiante.
 * Dans une casserole, mélanger le vin blanc, le vinaigre, l'estragon, le cerfeuil et l'échalote. Saler et poivrer.
 * Cuire 10 mn à feu doux. Il doit rester 1 c. à c. de liquide.
 * Retirer du feu et faire refroidir quelques minutes.
