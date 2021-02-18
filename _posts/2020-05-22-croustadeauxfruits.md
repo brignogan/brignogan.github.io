@@ -45,6 +45,9 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 ### Vins
 * Vin blanc : Macvin du Jura (Domaine de Savagny), Maury (Les Vignes d'Elodie).
 
+### Notes
+* Une version salée de cette croustade est possible pour accommoder des légumes (courgettes, courge, poireaux).
+
 ### Autres croustades
 
 #### **Croustade "rhubarbe, framboises, cassis"**
@@ -77,7 +80,6 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 1 noix de beurre
 * 1 sachet de sucre vanillé
 * 2 c. à c. de vinaigre de cidre
-* 2 c. à s. de jus de poire
 * 40 g de noix de pécan
 * 80 g de chocolat en pépite
 
@@ -85,9 +87,9 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Préchauffer le four à 180°C.
 * Beurrer un plan allant au four.
 * Eplucher les poires, couper les en deux et arroser les de jus de citron.
-* Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir dans le sirop puis égoutter les fruits.
+* Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir les poires dans le sirop puis égoutter les et récupérer le sirop.
 * Dans une poêle, faire revenir les poires coupées en quartiers dans du beurre jusqu’à une consistance tendre puis ajouter le sucre vanillé et le vinaigre et bien mélanger.
-* Verser la poêlée dans le plat et ajouter les 2 c. à s. de jus de poire.
+* Verser la poêlée dans le plat et ajouter 2 c. à s. de sirop.
 * Eparpiller les noix de pécan et pépites de chocolat (ou les petits morceaux de carrés) sur les fruits.
 * Recouvrir le tout de la pâte sablée préparée.
 * Cuire au four pendant 30 mn.
@@ -95,4 +97,4 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Voir le vin d'accompagnement ci-dessus.
 
 ### Notes
-* Une version salée de cette croustade est possible pour accommoder des légumes (courgettes, courge, poireaux).
+* On peut utiliser une boîte de poires au sirop et éviter les étapes 3 et 4 de la préparation ci-dessus.
