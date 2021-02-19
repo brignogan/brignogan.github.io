@@ -36,7 +36,7 @@ Ces rouleaux, appelés "goi cuon", sont un plat typique de la cuisine vietnamien
 ### Préparation
 #### pour les rouleaux :
 * Décortiquer les crevettes et conserver les têtes.
-* Dans une casserole, mettre la moitié des têtes de crevettes  et les recouvrir d'eau. Porter à ébullition puis cuire 15 mn à petit feu. Enlever les têtes à l'écumoire. Mettre la poitrine dans le bouillon. Ajuster le niveau d'eau pour recouvrir la viande. Saler si nécessaire. Re-porter à ébullition et cuire 15 mn à feu doux. Arrêter le feu et laisser refroidir dans le bouillon.
+* Dans une casserole, mettre la moitié des têtes de crevettes  et les recouvrir d'eau (réserver l'autre moitié des têtes pour cuisiner les restes le soir ou le lendemain - voir Notes). Porter le contenu de la casserole à ébullition puis cuire 15 mn à petit feu. Enlever les têtes à l'écumoire. Mettre la poitrine dans le bouillon. Ajuster le niveau d'eau pour recouvrir la viande. Saler si nécessaire. Re-porter à ébullition et cuire 15 mn à feu doux. Arrêter le feu et laisser refroidir dans le bouillon.
 * Couper les crevettes en deux dans le sens de la longueur et retirer le boyau.
 * Couper le concombre en baguettes (une cinquantaine).
 * Laver et égoutter les germes de soja.
@@ -44,7 +44,7 @@ Ces rouleaux, appelés "goi cuon", sont un plat typique de la cuisine vietnamien
 * Laver et essorer la menthe, le coriandre, le basilic et la ciboule.
 * Plonger le vermicelle dans une casserole d'eau froide. Porter à ébullition puis arrêter le feu, couvrir et laisser en attente 10 mn. Egoutter.
 * Egoutter la poitrine de porc et la découper en fines tranches.
-* Hacher les cacahuètes.
+* Hacher les cacahuètes (les mettre dans un torchon et les écraser grossièrement avec un pilon).
 
 #### pour la sauce :
 * Récupérer le bouillon de crevette.
