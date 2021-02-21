@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 5-6 personnes’
 index_motClefIngredient: lapin, lard fumé, vin, polenta
 ---
-Le civet de lapin était un plat classique de la campagne ou des bourgs comme Ploudaniel ou Saint-Pierre-Quilbignon. Tous les jardins, en effet, abritaient quelques clapiers. Le civet de Grand-mère Ploudaniel était particulièrement savoureux. La recette de la polenta n'a, par contre, rien de breton, elle a été rapportée d'Antibes par Grand-mère Saint-Pierre... une belle association.
+A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient quelques clapiers. Par ailleurs, la chasse étaient une activité très prisée surtout par Père, le grand-père de Jean Paul, et ses neveux Guéguen de la forge qui, de père en fils, traquaient chevreuils, sangliers et lapins . Ainsi, qu'ils soient domestiques ou de garenne, les lapins finissaient souvent en civet. Celui de Grand-mère Ploudaniel était particulièrement savoureux. La recette de la polenta n'a, par contre, rien de breton, elle a été rapportée d'Antibes par Grand-mère Saint-Pierre... une belle association.  
 
 ### Ingrédients
 * 1 lapin de 1,5 kg coupé en morceaux
