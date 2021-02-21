@@ -17,13 +17,14 @@ La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penm
 * 500 g de farine de sarrasin
 * 1 c. à s. de farine de froment
 * 1 œuf
-* 1 pincée de sel
-* 1 pincée de poivre
+* 1/2 c. à c. de sel
+* 1/2 c. à c. de poivre
 * 1 L d'eau
-* Beurre ½ sel
+* 25 cL de lait
+* Beurre demi-sel
 
 ### Préparation
-* Délayer petit à petit les farines, le sel, le poivre et l'oeuf dans environ 900 mL d’eau.
+* Délayer petit à petit les farines, le sel, le poivre et l'oeuf dans environ 75 cL d’eau et le lait.
 * Laisser reposer 1 h. Rajouter le reste d'eau pour détendre la pâte qui aura épaissi.
 * Chauffer la bilig à 230-240°C. Utiliser la louche n°8 (diamètre en cm).
 * Graisser la bilig avec un chiffon imbiber d’huile. Y verser une louchée de pâte et l’étaler au rateau. Si la pâte glisse sous le rateau, la bilig est trop grasse, l’essuyer avec un chiffon sec. Cuire la première face 1 mn (les bords de la crêpe se décollent facilement).
