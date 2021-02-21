@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rouleaux de Ouessant
+title: Rouleaux des Abers
 tag_category: bretagne
 tag_plat: entree
 image: img/recette/rouleaudeouessant.png
