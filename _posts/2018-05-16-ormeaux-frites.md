@@ -14,7 +14,7 @@ Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d�
 
 ### Ingrédients
 * 12 ormeaux moyens (ou plus suivant leur taille, voir note 1)
-* 20 g de beurre ½ sel
+* 20 g de beurre demi-sel
 * 1 gousse d’ail
 * 1 bouquet de persil
 * 10 pommes de terre
@@ -24,7 +24,7 @@ Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d�
 ### Préparation
 #### Préparation des ormeaux :
 * 3 jours à l’avance, mettre les ormeaux fraichement péchés et bien serrés en bourriche dans le bas du réfrigérateur et les y garder pendant 48 heures  afin qu’ils s’affaiblissent.
-* La veille, décoquiller les ormeaux, éliminer la tête et les viscères. Les brosser sous l’eau courante pour enlever toute trace noirâtre. Couper les barbillons que l’on réserve pour la préparation de la sauce. Remettre les ormeaux 24h au frigo.
+* La veille, décoquiller les ormeaux, éliminer la tête et les viscères. Les brosser sous l’eau courante pour enlever toute trace noirâtre. Couper les barbillons que l’on peut réserver pour la préparation éventuelle d'un fumet. Remettre les ormeaux 24h au frigo.
 * Le jour où ils doivent être servis, les recouvrir d’un torchon et, pour les attendrir, les taper avec un maillet jusqu’à ce qu’ils soient bien tendres. A ce stade, les ormeaux peuvent être cuisinés ou congelés en attente de préparation.
 
 #### Réalisation de la recette :
@@ -32,7 +32,7 @@ Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d�
 * Hacher l’ail et le persil.
 * Cuire les frites.
 * Faire à peine fondre 20 g de beurre dans une poêle et, pour que les ormeaux restent tendres, les cuire doucement sur les deux faces jusqu'à ce qu'ils se colorent légèrement.
-* Servir les ormeaux saupoudrés du hachis d’ail et persil avec les frites.  
+* Servir les ormeaux saupoudrés du hachis d’ail et persil et de gros sel et accompagnés des frites.  
 
 ### Vins
 * Vin blanc : Pays d'Hérault (Mas de Daumas-Gassac), Lirac (Domaine de la Mordorée, La Reine des Bois), Pessac-Léognan (Domaine de la Solitude).

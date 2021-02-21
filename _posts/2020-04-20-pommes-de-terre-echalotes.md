@@ -15,7 +15,7 @@ Cette recette, qui vient de Grand-mère Ploudaniel, se traduit en français par 
 ### Ingrédients
 * 6 pommes de terre
 * 4 échalotes
-* 25 g de beurre 1/2 sel
+* 25 g de beurre demi-sel
 * sel et poivre
 
 ### Préparation

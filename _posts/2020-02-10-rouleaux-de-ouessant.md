@@ -14,7 +14,7 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 
 ### Ingrédients
 #### pour les rouleaux :
-* 6 tranches de truite ou de saumon fumé
+* 6 tranches de truite fumée (ou de saumon fumé)
 * 200 g de filet de truite (voir note)
 * 2 c. à s. de jus de citron
 * 1/2 c. à c. de gin
@@ -43,8 +43,8 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 * Y mélanger les petits cubes de poisson et l'échalote.
 * Réserver 1 heure au frigo.
 * Préparer la sauce : mixer l'aneth et le persil, ajouter la crème fraîche et remixer le tout et verser dans une casserole. Saler, poivrer et chauffer 3 mn sur feu doux pour exprimer les colorants. Filtrer au tamis en pressant bien pour récupérer "la couleur". Laisser refroidir.
-* Confectionner les rouleaux et disposer chacun sur un lit de sauce verte.
-* Décorer avec un brin d'aneth ou de ciboulette.
+* Partager le tartare de truite en 6 portions. Déposer chacune sur une tranche dr truite fumée et former le rouleau.
+* Poser chaque rouleau sur un lit de sauce verte et décorer avec un brin d'aneth ou de ciboulette.
 * Griller les toasts.
 * Servir avec un 1/2 toast grillé garni d'oeufs de truite et l'autre 1/2 toast garni de tartare d'algues.  
 
