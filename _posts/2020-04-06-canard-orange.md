@@ -46,7 +46,7 @@ A la fin des années 80, il y avait une émission culinaire intitulée "Walima" 
 * A la fin de la cuisson au four, en réservant le canard dans la terrine et dans le four éteint, récupérer le jus dans une casserole et y ajouter le reste du fumet en pressant les abattis, la julienne de zestes blanchis et 50 g de beurre. Laisser mijoter.
 * Pendant ce temps, découper le canard et disposer les morceaux et les tranches d'orange sur un plat chaud.
 * Verser dans la casserole le mélange caramel/cointrau et donner un bouillon. Goûter la sauce et rectifier l'assaisonnement.
-* Verser un peu de sauce sur le canard et le reste en saucière. Servir accompagné de pommes frites ou de pommes duchesse. On peut choisir comme accompagnement des endives cuites à la vapeur et légèrement dorées au beurre.
+* Verser un peu de sauce sur le canard et le reste en saucière. Servir accompagné de pommes frites, pommes duchesse ou d'endives cuites à la vapeur et légèrement dorées au beurre.
 
 ### Vins
 * Vin rouge : Cornas (Cave de Tain, Arènes Sauvages), Pommard (Domaine Philippe Girard, Vieilles Vignes), Hermitage (Cave de Tain, Gambert de Loche), Corton	(Domaine Philippe Girard, Les Perrières).
