@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: fars pitilig | fars!pitilig
 ---
-Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand Mère Ploudaniel !
+Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand-Mère Ploudaniel !
 
 ### Ingrédients
 * 125 g de farine de froment

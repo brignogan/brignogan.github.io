@@ -10,7 +10,7 @@ temps_repos: 1200
 nbre_personne: ‘pour 8 à 12 pots’
 index_motClefIngredient: abricot, fraise, rhubarbe, poire, romarin, gingembre, menthe, orange
 ---
-Ces recettes viennent essentiellement de Grand Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir). A la suite, des précisions sont données pour la préparation d'autres confitures.
+Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricots (c'est la plus facile à réussir). A la suite, des précisions sont données pour la préparation d'autres confitures.
 
 #### **Confiture d'abricots**
 

@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: jambon, lard fumé, champignon, sauce béchamel | sauce!béchamel
 index_motClefBase: pâte à crêpe salée | pâte!à crêpe salée
 ---
-Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la recette a été rapportée par Grand-mère Saint-Pierre de Amiens où la famille Drévès a séjourné de 1962 à 1965. C'est une pâte à crêpe salée qui en est la base.
+Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la recette a été rapportée par Grand-Mère Saint-Pierre de Amiens où la famille Drévès a séjourné de 1962 à 1965. C'est une pâte à crêpe salée qui en est la base.
 
 ### Ingrédients
 #### pour les crêpes :

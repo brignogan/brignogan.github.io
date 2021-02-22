@@ -11,7 +11,7 @@ nbre_personne: ‘pour deux douzaines de crêpes’
 index_motClefBase: pâte à crêpe sucrée | pâte!à crêpe sucrée
 ---
 
-La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée. A chacun de nos retours à Ploudaniel, elle nous apportait des bignès (mini-galettes de blé noir) que tout le monde adorait.
+La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand-Mère Ploudaniel. Elle a tenu, pendant de nombreuses années, la crêperie de Ploudaniel qui était très fréquentée. A chacun de nos retours à Ploudaniel, elle nous apportait des bignès (mini-galettes de blé noir) que tout le monde adorait.
 
 ### Ingrédients
 * 500 g de farine de froment

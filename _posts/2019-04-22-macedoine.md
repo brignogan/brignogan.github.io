@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: petit pois, haricot vert | haricot vert, carotte, pomme de terre, œuf, anchois | anchois, mayonnaise
 ---
-Favorite de Grand-mère Saint Pierre, cette entrée est un régal dès que commence la saison des haricots verts, des petits pois et des carottes nouvelles. Avec ses oeufs durs, elle a toute sa place dans le menu de Pâques.
+Favorite de Grand-Mère Saint Pierre, cette entrée est un régal dès que commence la saison des haricots verts, des petits pois et des carottes nouvelles. Avec ses oeufs durs, elle a toute sa place dans le menu de Pâques.
 
 ### Ingrédients
 * 600 g de petits pois

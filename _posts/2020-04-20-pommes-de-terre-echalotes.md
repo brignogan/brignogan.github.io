@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: pomme de terre, échalote
 ---
-Cette recette, qui vient de Grand-mère Ploudaniel, se traduit en français par "pommes de terres desséchées". La pomme de terre est la base de nombreuses préparations culinaires du Bas-Léon. Elle en est la plante emblématique et, depuis 1949, Ploudaniel est devenu son sanctuaire. La station INRA installée sur la commune est dédiée à la préservation de la biodiversité de toutes les espèces à multiplication végétative comme la pomme de terre, le chou, l'ail, l'échalote et l'artichaut ainsi que les plantes à bulbe comme la tulipe et le glaïeul. Ainsi, le blason de Ploudaniel arbore des plants et des feuilles de pommes de terre.   
+Cette recette, qui vient de Grand-Mère Ploudaniel, se traduit en français par "pommes de terres desséchées". La pomme de terre est la base de nombreuses préparations culinaires du Bas-Léon. Elle en est la plante emblématique et, depuis 1949, Ploudaniel est devenu son sanctuaire. La station INRA installée sur la commune est dédiée à la préservation de la biodiversité de toutes les espèces à multiplication végétative comme la pomme de terre, le chou, l'ail, l'échalote et l'artichaut ainsi que les plantes à bulbe comme la tulipe et le glaïeul. Ainsi, le blason de Ploudaniel arbore des plants et des feuilles de pommes de terre.   
 
 ### Ingrédients
 * 6 pommes de terre

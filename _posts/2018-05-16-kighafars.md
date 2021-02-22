@@ -11,7 +11,7 @@ nbre_personne: ‘pour 5-6 personnes’
 index_motClefIngredient: jarret de porc | porc!jarret, poitrine | porc!poitrine, paleron | bœuf!paleron, (gîte | bœuf!gîte, carotte, poireau, échalote
 index_motClefBase: fars sac'h du | fars!sac'h du, fars sac'h gwen | fars!sac'h gwen
 ---
-Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'objet de querelles de clochers. Pour la paix du ménage, la recette ci-dessous est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint Pierre. Il faut noter que, dans tous les cas, ce plat est caractérisé par son fars sac'h (fars en sac) dont la cuisson nécessite un sac en toile appelé « sac à fars ». Avec la farine de blé noir, on fait le fars sac'h du, avec la farine de froment, le fars sac'h gwen.
+Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'objet de querelles de clochers. Pour la paix du ménage, la recette ci-dessous est une synthèse de celle de Grand-Mère Ploudaniel et de celle de Grand-Mère Saint-Pierre. Il faut noter que, dans tous les cas, ce plat est caractérisé par son fars sac'h (fars en sac) dont la cuisson nécessite un sac en toile appelé « sac à fars ». Avec la farine de blé noir, on fait le fars sac'h du, avec la farine de froment, le fars sac'h gwen.
 
 ### Ingrédients
 * 350 g de petit salé
@@ -75,7 +75,7 @@ Le Kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 * Vin rouge : Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Côtes-du-Rhône Villages (Château La Borie, Emile Borie), Lirac (Domaine de la Mordorée, La Reine des Bois), Saint-Joseph (Château d'Ampuis, Lieu-dit), Saint-Joseph (Domaine Louis Chèze, Les Anges), Saint-Joseph (Cave de Tain, Esprit de Granit).
 
 ### Notes
-* Grand Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
-* L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand Mère St Pierre. Elle y ajoutait le chou mais pas les pommes de terre. A St Pierre, on mangeait le fars noir en tranche (style béton armé !… pas du tout apprécié à Ploudaniel).
+* Grand-Mère Ploudaniel ne mettait pas de boeuf, ni de jarret, pas plus de carotte, panais, poireau ou pommes de terre, juste les lards et les oignons. Elle mangeait les lards avec son fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
+* L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand-Mère Saint-Pierre. Elle y ajoutait le chou mais pas les pommes de terre. A St Pierre, on mangeait le fars noir en tranche (style béton armé !… pas du tout apprécié à Ploudaniel).
 * Le fars blanc était dans la recette de Mémé et donc originaire de Plouzané.
 * Le reste de fars peut être servi soit frit au beurre avec des échalotes, soit réchauffé à la vapeur. Les restes du pot-au-feu peuvent, quant à eux, être accommodés avec une sauce gribiche (voir recette p?).  
