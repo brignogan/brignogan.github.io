@@ -7,7 +7,7 @@ image: img/recette/soupepotiron.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: '-'
-nbre_personne: ‘pour 6 personnes’
+nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: potiron
 ---
 Tous les ans, cette soupe d'automne est au menu du repas d'anniversaire de Maëlle. Pour cette fête familiale, elle est à l'entrée ce qu'est la tarte au citron au dessert : incontournable.
@@ -15,7 +15,6 @@ Tous les ans, cette soupe d'automne est au menu du repas d'anniversaire de Maël
 ### Ingrédients
 * 500 g de potiron
 * 1 cube de bouillon de volaille
-* 1,5 L d’eau
 * 1 jaune d’œuf
 * 10 cL de crème fraîche
 * sel, poivre
@@ -24,8 +23,8 @@ Tous les ans, cette soupe d'automne est au menu du repas d'anniversaire de Maël
 ### Préparation
 * Epépiner le potiron et le couper en gros dés. Eplucher chaque dé.
 * Les recouvrir d'eau dans une casserole et porter à ébullition pendant 15 mn.
-* Egoutter puis remettre dans la casserole avec 1,5 L d’eau et le cube de bouillon. Faire bouillir et cuire à nouveau 10 mn.
-* Mixer le tout pour obtenir un velouté. Rectifier  l’assaisonnement avec sel et poivre.
+* Egoutter puis remettre dans la casserole avec de l'eau à hauteur et le cube de bouillon. Faire bouillir et cuire à nouveau 10 mn.
+* Mixer le tout pour obtenir un velouté, rajouter éventuellement de l'eau pour ajuster la consistance. Rectifier  l’assaisonnement avec sel et poivre.
 * Au dernier moment, mélanger, dans un bol, le jaune d’œuf avec la crème fraîche.
 * Redonner un bouillon au velouté de potiron, puis ajouter le mélange crémeux. Ne pas faire bouillir après cette opération. Servir aussitôt avec, au choix, du persil haché, des croutons grillés et fromage râpé ou une pincée de poivre de Cayenne.
 

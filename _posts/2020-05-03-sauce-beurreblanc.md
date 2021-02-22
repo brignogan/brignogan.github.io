@@ -15,12 +15,12 @@ Le sauce beurre blanc est idéale pour accompagner les poissons. Grand Mère Sai
 ### Ingrédients
 * 4 échalotes
 * 1 petit verre de vinaigre de cidre
-* 150 g de beurre ½ sel
+* 150 g de beurre demi-sel
 * sel, poivre
 
 ### Préparation
 * Hacher finement les échalotes.
 * Les recouvrir du vinaigre dans une casserole.
 * Faire cuire doucement à découvert et réduire jusqu’à obtenir les échalotes fondues pratiquement à sec. Elles ne doivent pas être colorées.
-* Retirer immédiatement du feu et ajouter 1 cuillerée d’eau. On peut laisser en attente à ce stade.
-* Au dernier moment, réchauffer les échalotes puis, hors du feu, incorporer le beurre ramolli par petites noisettes en fouettant jusqu’à obtenir la consistance d’une pommade lisse. Servir aussitôt.
+* Retirer immédiatement du feu et ajouter 1 c. à s. d’eau. On peut laisser en attente à ce stade.
+* Au dernier moment, réchauffer les échalotes puis, hors du feu, incorporer le beurre ramolli par petites noisettes en fouettant jusqu’à obtenir la consistance d’une pommade lisse. Saler si besoin et poivrer. Servir aussitôt.

@@ -7,23 +7,22 @@ image: img/recette/soupecourgettes.png
 temps_preparation: 15
 temps_cuisson: 30
 temps_repos: '-'
-nbre_personne: ‘pour 6 personnes’
+nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: courgette, fromage bleu
 ---
 Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dîners d’été, quand la production de courgettes battait son plein dans le jardin.
 
 ### Ingrédients
-* 500 g de courgettes
-* 1,5 L d’eau
+* 600 g de courgettes
 * 2 cubes de bouillon de volaille
-* 125 g de fromage bleu (fourme, auvergne)  
+* 50 g de fromage bleu (fourme, auvergne)  
 * sel, poivre
 * facultatif : crème fraîche
 
 ### Préparation
 * Eplucher les courgettes en laissant une bande sur deux de la peau verte (pour la couleur). Couper les en dés. Couper également le fromage en dés.
-* Faire bouillir l'eau dans une grande casserole puis y mettre les légumes, les cubes de bouillon et le fromage. Cuire à couvert et à feu moyen pendant 30 mn.
-* Mixer le mélange. Rectifier l’assaisonnement en salant et poivrant selon le goût.
+* Mettre les légumes, les cubes de bouillon et le fromage dans une casserole et ajouter de l'eau à hauteur. Cuire à couvert et à feu moyen pendant 30 mn.
+* Mixer le mélange. Ajouter éventuellement de l'eau pour ajuster la consistance. Rectifier l’assaisonnement en salant et poivrant selon le goût.
 * Servir aussitôt cette soupe avec, éventuellement, un trait de crème.
 
 ### Vins
