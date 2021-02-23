@@ -19,7 +19,7 @@ Ce condiment se marie très bien avec les plats de poisson et permet de prépare
 * sel
 
 ### Préparation
-* Dans un bol, déposer les algues séchées et les recouvrir d'huile d'olive.
+* Dans un bol, déposer les algues séchées et les recouvrir d'huile d'olive. Ajouter une  cuillerée à café d'eau.
 * Saler et ajouter un trait de jus de citron.
 * Bien mélanger et laisser reposer au frigo au moins une nuit.
-* Vérifier l'assaisonnement et si les algues gonflent trop, rajouter de l'huile.
+* Vérifier l'assaisonnement et rajouter éventuellement de l'huile si les algues ont trop gonflé.

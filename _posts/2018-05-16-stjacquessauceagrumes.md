@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saint Jacques sauce agrumes
+title: Saint-Jacques sauce agrumes
 tag_category: bretagne
 tag_plat: platPoisson
 image: img/recette/stjacquessauceagrumes.png
@@ -13,24 +13,26 @@ index_motClefIngredient: saint-jacques, algue séchée, rhum, orange, citron
 Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée d'agrumes. Elle est ainsi au menu de beaucoup de restaurants et c'est grâce aux dégustations de Ronan, grand amateur de tables étoilées, que nous avons mis au point cette recette.
 
 ### Ingrédients
-* 16 noix de saint-jacques
-* les barbes de saint-jacques
-* 60 g de beurre ½ sel
+* 16 noix de saint-jacques avec leurs barbes
+* 60 g de beurre demi-sel
 * 2 échalotes
 * 1 gousse d’ail
 * 1 bouquet de persil
 * 1 c. à s. d’un mélange d’algues en paillette (dulce, nori, laitue de mer)
-* ½ c. à s. de vinaigre de Xérès
-* ½ c. à s. de rhum
+* 1/2 c. à s. de vinaigre de Xérès
+* 1/2 c. à s. de rhum
 * 1 c. à s. de vin blanc
-* 20 cL de bouillon de volaille (20 cL d’eau et ½ cube)
+* 20 cL de bouillon de volaille (20 cL d’eau et 1/2 cube)
 * 1 orange
 * 1 citron
 * riz basmati
 * sel fin, poivre
 
 ### Préparation
-* Préparation du fumet : Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre, le rhum et le vin blanc. Verser alors le fond de volaille et le jus des agrumes puis laisser frémir pendant 1/2 heure. L’appareil doit réduire de moitié.
+#### Préparation du fumet :
+* Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre, le rhum et le vin blanc. Verser alors le fond de volaille et le jus des agrumes puis laisser frémir pendant 30 mn. L’appareil doit réduire de moitié.
+
+#### Réalisation de la recette :
 * Faire blanchir 5 mn dans de l’eau bouillante la julienne d’écorce d’orange.
 * Faire cuire le riz.
 * Faire chauffer le four à 50°C.
