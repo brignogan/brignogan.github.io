@@ -17,7 +17,7 @@ Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que 
 * 75 g de sucre
 * 4 œufs
 * 500 mL de lait
-* Beurre demi-sel
+* beurre demi-sel
 
 ### Préparation
 * Ajouter les oeufs et le sucre à la farine disposée en fontaine.

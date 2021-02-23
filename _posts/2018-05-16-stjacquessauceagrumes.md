@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: saint-jacques, algue séchée, rhum, orange, citron
 ---
-Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée d'agrumes. Elle est ainsi au menu de beaucoup de restaurants et c'est grâce aux dégustations de Ronan, grand amateur de tables étoilées, que nous avons mis au point cette recette.
+Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée d'agrumes. C'est grâce aux dégustations de Ronan, grand amateur de tables étoilées, que nous avons mis au point cette recette.
 
 ### Ingrédients
 * 16 noix de saint-jacques avec leurs barbes

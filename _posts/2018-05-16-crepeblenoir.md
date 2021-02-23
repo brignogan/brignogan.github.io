@@ -21,7 +21,7 @@ La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penm
 * 1/2 c. à c. de poivre
 * 1 L d'eau
 * 25 cL de lait
-* Huile pour graisser la plaque
+* huile pour graisser la plaque
 
 ### Préparation
 * Délayer petit à petit les farines, le sel, le poivre et l'oeuf dans environ 75 cL d’eau et le lait.

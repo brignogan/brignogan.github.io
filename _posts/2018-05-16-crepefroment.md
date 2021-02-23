@@ -19,7 +19,7 @@ La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand
 * 4 œufs
 * 150 g de sucre
 * 125 g de beurre demi-sel
-* 1 L ¼  de lait entier
+* 1 L 1/4 de lait entier
 * huile pour graisser la bilig
 
 ### Préparation
