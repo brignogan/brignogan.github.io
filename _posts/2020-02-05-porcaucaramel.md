@@ -30,7 +30,7 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 * Ajouter l'oignon haché, mélanger et verser de l'eau à niveau.
 * Couvrir et cuire à petit feu pendant 1 heure. La sauce doit réduire du 1/3.
 * Faire cuire les oeufs durs puis les écaler.
-* Au bout d'une 1/2 heure de cuisson de la viande, ajouter les oeufs entiers dans la cocotte.
+* Au bout de 30 min de cuisson de la viande, ajouter les oeufs entiers dans la cocotte.
 * Servir avec du riz basmati.
 
 

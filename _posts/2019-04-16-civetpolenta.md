@@ -32,8 +32,8 @@ A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient q
 * Préparer un bouillon en dissolvant le cube dans l'eau chaude.
 * Faire revenir, dans le beurre chaud, les oignons et le lard coupé en dés. Les retirer.
 * Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés, remettre les oignons et le lard dans la cocotte.
-* Saupoudrer de farine, bien remuer et cuire 1-2 mn. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.
-* Laisser cuire doucement à couvert pendant 1,5 h. Verser de l'eau froide sur le couvercle de la cocotte pour éviter l'évaporation.
+* Saupoudrer de farine, bien remuer et cuire 1-2 min. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.
+* Laisser cuire doucement à couvert pendant 1 h 30. Verser de l'eau froide sur le couvercle de la cocotte pour éviter l'évaporation.
 * Pendant ce temps, faire bouillir le lait salé.
 * Jeter en pluie la polenta dans le lait bouillant tout en remuant. Maintenir à feu doux pendant 5 mn, en mélangeant constamment, jusqu’à ce que la polenta se détache des parois.
 * Huiler un moule à baba, le remplir avec le gâteau de polenta bien chaud. Déposer le moule sur une casserole d’eau frémissante pour garder la polenta au chaud.

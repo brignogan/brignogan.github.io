@@ -31,7 +31,7 @@ Muni d’un pied très puissant l'ormeau s'accroche sur les supports qu’il ren
 * Elle commence 3 jours à l’avance. Voir la recette « ormeaux poêlés frites ».
 
 #### Préparation du fumet :
-* Préparation du fumet : Une petite heure à l'avance, faire revenir les barbillons dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre et le Noilly. Verser alors le fond de volaille et laisser frémir pendant 30 mn.
+* Préparation du fumet : Une petite heure à l'avance, faire revenir les barbillons dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre et le Noilly. Verser alors le fond de volaille et laisser frémir pendant 30 min.
 
 #### Réalisation de la recette :
 * Faire chauffer le four à 50°C.

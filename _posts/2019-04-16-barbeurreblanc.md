@@ -28,9 +28,9 @@ Le bar est le poisson qui apprécie particulièrement les rouleaux de la mer sur
 
 ### Préparation
 * Faire bouillir de l’eau salée dans une grande casserole.
-* Y cuire les cocos de Paimpol 30 mn. Egoutter.
+* Y cuire les cocos de Paimpol 30 min. Egoutter.
 * Hacher 2 échalotes et les faire revenir dans un peu de beurre.
-* Ajouter les cocos et la pulpe de tomates, laisser cuire doucement à couvert 30 mn.
+* Ajouter les cocos et la pulpe de tomates, laisser cuire doucement à couvert 30 min.
 * Mettre une couche de gros sel dans le fond d’un plat en terre tapissé d’une feuille de papier cuisson.
 * Poser le bar sur le sel et mettre le brin de romarin dans l’entaille du poisson puis recouvrir le tout d’une bonne couche de gros sel.
 * Cuire 15 mn à 210°C.

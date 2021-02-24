@@ -35,7 +35,7 @@ La recette de ce gâteau, dont la base est une pâte brisée, vient de notre cop
 * Incorporer, petit à petit, la farine de manière à obtenir une pâte plus consistante que tout ce que vous avez eu depuis le début puis la tasser dans un moule bien beurré (de diamètre 28 cm).
 * Pour la garniture supérieure, battez un jaune d’œuf fraîchement pondu avec un tout petit peu de lait et, avec un pinceau, badigeonner le dessus de la pâte. Tracer des dessins avec une fourchette en appuyant assez fort.
 * Bien percer la pâte avec la fourchette jusqu’au fond du moule en une dizaine d’endroits bien répartis.
-* Cuire au four environ 30 mn.
+* Cuire au four environ 30 min.
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
 #### pour le version fourrée

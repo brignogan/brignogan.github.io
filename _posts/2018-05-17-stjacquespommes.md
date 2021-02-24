@@ -25,7 +25,7 @@ La noix de coquille saint-jacques est la pépite des assiettes en hiver. Elle s'
 ### Préparation
 * Eplucher et laver les poireaux, les couper en rondelles. Les faire revenir dans une c. à s. d'huile, ajouter un demi-verre d'eau et les faire cuire à petit feu jusqu'à évaporation de l'eau. Réserver.
 * Laver, éplucher et couper les pommes en 8 morceaux, faites les sauter dans 30 g de beurre sur les deux faces jusqu’à légère coloration. Réserver.
-* Dans la même poêle, faire à peine fondre le reste de beurre et y faire cuire doucement les noix de saint-jacques sur les deux faces jusqu’à légère coloration.
+* Dans la même poêle, faire à peine fondre le reste de beurre et y faire cuire doucement les noix de saint-jacques sur les deux faces 2-3 min jusqu’à légère coloration.
 * Rassembler les pommes et les saint-jacques dans le poêle, flamber au calvados, ajouter la crème, faire légèrement réduire (la sauce doit rester liquide), saler, poivrer.
 * Servir avec les poireaux.
 

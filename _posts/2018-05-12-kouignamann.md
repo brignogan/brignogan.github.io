@@ -24,7 +24,7 @@ Le kouign amann est un gâteau originaire de Douarnenez et donc une spécialité
 * Laisser reposer 2h.
 * Etaler la pâte sur la planche farinée et étendre le beurre en couche fine sur cette pâte jusqu’à 10 cm du bord. Déposer le sucre au milieu et plier la pâte en deux. La plier en trois dans l’autre sens. L’étendre à nouveau et la replier en trois dans le sens différent du précédent.
 * Préchauffer le four chaud (220-230°C).
-* Beurrer largement un grand moule rond (la pâte doit arriver à la moitié de la hauteur). Arrondir la pâte à la forme du moule. Mettre au four 45 mn. Le gâteau doit être bien caramélisé.
+* Beurrer largement un grand moule rond (la pâte doit arriver à la moitié de la hauteur). Arrondir la pâte à la forme du moule. Mettre au four 45 min. Le gâteau doit être bien caramélisé.
 * Servir bien chaud saupoudré de sucre.
 
 ### Vins
