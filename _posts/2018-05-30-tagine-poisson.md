@@ -3,7 +3,7 @@ layout: post
 title: Tagine de poisson
 tag_category: maroc
 tag_plat: platPoisson
-image: img/recette/barbue.png
+image: img/recette/tagine-poisson.png
 temps_preparation: 30
 temps_cuisson: 15
 temps_repos: 15
