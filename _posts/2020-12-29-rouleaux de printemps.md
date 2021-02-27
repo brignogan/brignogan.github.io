@@ -64,8 +64,9 @@ Ces rouleaux, appelés "goi cuon", sont un plat typique de la cuisine vietnamien
 
 ### Notes
 * On compte 2-3 rouleaux par personne.
-* Choisir les galettes de riz de la marque Lion Brand et de diamètre 22 cm.
+* Choisir les galettes de riz de la marque Lion Brand et de diamètre 22 cm (voir ci-dessous).
 * La ciboule chinoise (en vietnamien "lahe") est une plante qui ressemble à une ciboule à feuille plate.
 * la sauce hoi-si est une préparation à base de prunes.
 * Pour le mouillage des galettes de riz, Hanh préconise d'utiliser des serviettes non-tissées que l'on mouille et dont on enveloppe les galettes. Il faut récupérer celles-ci au fur et à mesure du besoin.
 * Recette pour utiliser les restes des rouleaux de printemps (soupe "goi va") : Refaire un bouillon avec les têtes de crevettes restantes. Retirer les puis ajouter de la poudre de tamarin pour acidifier la soupe. Y réchauffer la poitrine de porc. Dans chaque bol, placer le vermicelle, les crevettes, la salade et la ciboule chinoise. Finir en y déposant la poitrine et en versant le bouillon.
+* Pour les "novices" de la cuisine vietnamienne, sont présentés ci-dessous : le "Nước Mắm" (saumure de poisson), le "Bánh Phở" (vermicelle de riz), largeur 3mm et 5mm, et le "Bánh Tráng" (galettes de riz).
