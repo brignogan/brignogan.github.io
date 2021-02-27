@@ -18,7 +18,7 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 * 6 œufs
 * 10 morceaux de sucre
 * un peu de sucre en poudre
-* 4-5 c. à s. de nioc-mam
+* 4-5 c. à s. de nuoc-mam
 * sel
 
 
@@ -26,7 +26,7 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 * Couper la poitrine de porc en cubes.
 * Faire un caramel dans la cocotte avec les morceaux de sucre et un peu d'eau. Laisser le sucre bouillir sans remuer jusqu'à ce qu'il commence à se colorer. Remuer alors pour obtenir une couleur dorée homogène.
 * Jeter la viande dans le caramel. Bien mélanger.
-* Ajouter le nioc-mam, le sel (à doser en fonction du nioc-mam) et éventuellement un peu de sucre en poudre si le caramel est trop amer.
+* Ajouter le nuoc-mam, le sel (à doser en fonction du nuoc-mam) et éventuellement un peu de sucre en poudre si le caramel est trop amer.
 * Ajouter l'oignon haché, mélanger et verser de l'eau à niveau.
 * Couvrir et cuire à petit feu pendant 1 heure. La sauce doit réduire du 1/3.
 * Faire cuire les oeufs durs puis les écaler.
