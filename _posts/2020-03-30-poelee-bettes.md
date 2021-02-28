@@ -3,7 +3,7 @@ layout: post
 title: Poêlée de bettes
 tag_category: famille
 tag_plat: platLegume
-image: img/recette/bettes.png
+image: img/recette/poelee-bettes.png
 temps_preparation: 20
 temps_cuisson: 30
 temps_repos: ‘-‘
