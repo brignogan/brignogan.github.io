@@ -29,10 +29,10 @@
 	\vspace{0pt}
 		\begin{tabular}{p{3.8cm}}
 		\textbf{Producteur}:\\     
-		{#1}\\
+		\parbox{3.8cm}{\normalsize \raggedright #1}\\
 		\vspace{0.8pt}
 		\textbf{Adresse}:\\
-		{#2}\\
+		\parbox{3.8cm}{\normalsize \raggedright #2}\\
 	\end{tabular}
 	\end{minipage}	
 	\begin{minipage}[t]{.6\linewidth}
@@ -69,9 +69,9 @@
 	%\end{minipage}		
 	%\begin{minipage}[t]{\textwidth}
 		\begin{longtable}{p{1.4cm} p{9.0cm} }
-			Cuv\'ee : &{#2}\\
-			C\'epage(s) : &{#3}\\
-			Recette(s) : &{#4}\\
+			Cuv\'ee: &{#2}\\
+			C\'epage(s): &{#3}\\
+			Recette(s): &{#4}\\
 		\end{longtable}
 	\end{tcolorbox}	
 	\vspace{.1cm}

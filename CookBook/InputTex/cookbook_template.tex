@@ -2,10 +2,12 @@
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage[T5,T1]{fontenc}
 \usepackage{xfrac}    % Works better with other fonts
 \usepackage[normalem]{ulem}
 \usepackage[french]{babel}
+\usepackage[autostyle=false,french=quotes]{csquotes}
+\MakeOuterQuote{"}
 \usepackage{wrapfig}
 \usepackage{ifoddpage}
 \usepackage{makecell}
@@ -865,6 +867,12 @@
 		\newpage
 	
 	\fi}
+
+%for vietanese
+\DeclareTextSymbolDefault{\OHORN}{T5}
+\DeclareTextSymbolDefault{\UHORN}{T5}
+\DeclareTextSymbolDefault{\ohorn}{T5}
+\DeclareTextSymbolDefault{\uhorn}{T5}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}

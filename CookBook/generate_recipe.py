@@ -289,8 +289,20 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     f.close()
     recipeMMmotClef = []
     recipeMMmotClefB = []
+   
+
+    #deal with special character
+    specialWords         = [u"N\u01b0\u1edbc M\u1eafm",        u"B\xe1nh Ph\u1edf", ]
+    specialWords_inLatex = ["N\uhorn \\\'{\ohorn}c M\\\'{\u{a}}m", "B\\\'anh Ph\\\'{\ohorn}",  ]
+    lines_recipeFile_copy = lines_recipeFile
+    for iline, line in  enumerate(lines_recipeFile_copy):
+        for ispec, specialWord in enumerate(specialWords):
+            if specialWord in line :
+                lines_recipeFile[iline] = lines_recipeFile[iline].replace(specialWord,specialWords_inLatex[ispec]) 
+    
 
     for i, line in enumerate(lines_recipeFile):
+        
         if i == 0: continue
         
         if 'tag_category:' in line: tag_category = line.split('_category:')[1].strip()
@@ -358,6 +370,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []; recipeMMextra = []
     for i, cat in enumerate(lines_txt_per_cat):
+
         if ('### Vin' in cat[0]) | ('### Vins' in cat[0]):
             recipeMMvin = cat[1:]
 
@@ -382,6 +395,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     #append to coockbook
     for line in lines_recipe_template:
+       
         
         flag_modified = 0
         
