@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: bar, coco de Paimpol, sauce beurre blanc | sauce!beurre blanc
+index_motClefIngredient: bar, haricot coco de Paimpol | haricot!coco de Paimpol, sauce beurre blanc | sauce!beurre blanc
 ---
 Le bar est le poisson qui apprécie particulièrement les rouleaux de la mer sur notre côte. Dans cette recette, il est cuit sous le gros sel. C'est la méthode la plus simple pour le préparer. Il est accommodé avec un beurre blanc, une sauce basique de la cuisine bourgeoise.
 
@@ -16,7 +16,7 @@ Le bar est le poisson qui apprécie particulièrement les rouleaux de la mer sur
 * 1 bar de 1,2 kg vidé mais non écaillé
 * 1 kg de gros sel de mer
 * 1 brin de romarin
-* 500 g de cocos de Paimpol
+* 500 g de haricots cocos de Paimpol
 * 2 échalotes
 * 1 boîte de pulpe de tomate
 
