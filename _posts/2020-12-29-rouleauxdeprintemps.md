@@ -16,7 +16,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 #### pour les rouleaux :
 * 2 kg de crevettes roses
 * 1,5 kg de poitrine de porc fraîche
-* 50 galettes de riz (voir Notes)
+* 50 galettes de riz (Bánh Tráng, voir Notes)
 * 1 paquet de vermicelle de riz (Bún Tươi, voir Notes)
 * 1 salade verte (laitue ou batavia)
 * 2 concombres
@@ -24,11 +24,11 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 * 1 bouquet de menthe
 * 1 bouquet de coriandre
 * 1 bouquet de basilic thaïlandais
-* 1 bouquet de ciboule chinoise (voir Notes)
+* 1 bouquet de ciboule chinoise (Lá Hẹ, voir Notes)
 
 #### pour la sauce :
 * 1 bon verre de riz gluant
-* 1 pot de sauce hoi-sin d'eniron 400 mL (voir Notes)
+* 1 pot de sauce Hoi-Sin d'eniron 400 mL (voir Notes)
 * 2 c. à c. d'ail frit (voir Notes)
 * Nước Mắm
 * sucre
@@ -49,7 +49,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 #### pour la sauce :
 * Récupérer le bouillon de crevette.
 * Faire gonfler le riz gluant dans de l'eau puis l'ajouter au bouillon. Cuire à feu doux jusqu'à ce que le riz se transforme en pâte épaisse.
-* Ajouter la sauce hoi-sin.
+* Ajouter la sauce Hoi-Sin.
 * Ajouter 2 c. à c. d'ail frit.
 * Ajuster le goût avec le Nước Mắm pour saler et/ou du sucre si besoin.
 * Concasser les cacahuètes (les mettre dans un torchon et les écraser grossièrement avec un pilon).
@@ -67,10 +67,10 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 
 ### Notes
 * On compte 2-3 rouleaux par personne.
-* Choisir les galettes de riz de la marque Lion Brand et de diamètre 22 cm (voir ci-dessous).
-* La ciboule chinoise (lá hẹ) est une plante à feuilles plates qui ressemble aux feuilles vertes des petits oignons appelés oignons fanes.
-* la sauce hoi-sin est une préparation à base de prunes.
-* Pour préparer de l'ail frit, éplucher les gousses et les hacher. Les jeter dans de l'huile d'olive chaude et les cuire jusqu'à ce qu'elles se colorent très légèrement. Les retirer de suite du feu, elles vont continuer à se colorer en refroidissant. Les égoutter sur un papier absorbant.
+* Choisir les galettes de riz (Bánh Tráng) de la marque Lion Brand et de diamètre 22 cm. Leur [présentation]({% post_url 2021-2-3-pho %}) est décrite dans les "Notes" de la recette du Phở.
+* La ciboule chinoise (Lá Hẹ) est une plante à feuilles plates qui ressemble aux feuilles vertes des petits oignons appelés oignons fanes.
+* la sauce Hoi-Sin est une préparation à base de prunes.
+* Pour préparer de l'ail frit, éplucher les gousses et les hacher. Les jeter dans de l'huile chaude et les cuire en les remuant jusqu'à ce qu'elles se colorent très légèrement. Les retirer de suite du feu et les laisser refroidir tout en remuant, elles vont continuer à se colorer. Les égoutter sur un papier absorbant.
 * Pour le mouillage des galettes de riz, Hanh préconise d'utiliser des serviettes non-tissées que l'on mouille et dont on enveloppe les galettes. Il faut récupérer celles-ci au fur et à mesure du besoin.
 * Recette pour utiliser les restes des rouleaux de printemps (soupe "goi va") : Refaire un bouillon avec les têtes de crevettes restantes. Retirer les puis ajouter de la poudre de tamarin pour acidifier la soupe. Y réchauffer la poitrine de porc. Dans chaque bol, placer le vermicelle, les crevettes, la salade et la ciboule chinoise. Finir en y déposant la poitrine et en versant le bouillon.
-* Pour les "novices" de la cuisine vietnamienne, sont présentés ci-dessous : le "Nước Mắm" (saumure de poisson), le "Bánh Phở" (vermicelle de riz), largeur 3mm et 5mm, et le "Bánh Tráng" (galettes de riz).
+* Pour les "novices" de la cuisine vietnamienne, est présenté ci-dessous le vermicelle de riz (Bún Tươi) à choisir pour les rouleaux de printemps.
