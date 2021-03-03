@@ -2,10 +2,8 @@
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \usepackage[utf8]{inputenc}
-\usepackage[T5,T1]{fontenc}
-%\usepackage{unicode-math}
-\usepackage{mathtools}
-%\setmathfont{XITS math}
+\usepackage[T1]{fontenc}
+\usepackage{vntex} %vietnamese 
 \usepackage{xfrac}    % Works better with other fonts
 \usepackage[normalem]{ulem}
 \usepackage[french]{babel}
@@ -155,7 +153,7 @@
 
 \newcommand{\thiscolor}[2]{\text{#2}  \raisebox{3pt}{\fcolorbox{black}{#1}{\hspace{2mm} }}}
 
-\newcommand{\recipe}[2][\newpage]{%
+\newcommand{\recipe}[3][\newpage]{%
 	#1
 	\fancyhead[LE]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
 	\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
@@ -166,7 +164,7 @@
     %\rhead{\rightmark}%
     \lfoot{}%
     \rfoot{}%
-    \subsubsection{#2}%
+	\subsubsection[#3]{#2}%
 }
 %\newcommand{\serves}[2][Serves]{%
 %    \chead{#1 #2}}
@@ -870,13 +868,6 @@
 		\newpage
 	
 	\fi}
-
-%for vietanese
-\DeclareTextSymbolDefault{\OHORN}{T5}
-\DeclareTextSymbolDefault{\UHORN}{T5}
-\DeclareTextSymbolDefault{\ohorn}{T5}
-\DeclareTextSymbolDefault{\uhorn}{T5}
-\newcommand*{\ovhook}[1]{#1}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
