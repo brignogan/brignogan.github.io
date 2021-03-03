@@ -3,6 +3,9 @@
 \usepackage{multicol}
 \usepackage[utf8]{inputenc}
 \usepackage[T5,T1]{fontenc}
+%\usepackage{unicode-math}
+\usepackage{mathtools}
+%\setmathfont{XITS math}
 \usepackage{xfrac}    % Works better with other fonts
 \usepackage[normalem]{ulem}
 \usepackage[french]{babel}
@@ -873,6 +876,7 @@
 \DeclareTextSymbolDefault{\UHORN}{T5}
 \DeclareTextSymbolDefault{\ohorn}{T5}
 \DeclareTextSymbolDefault{\uhorn}{T5}
+\newcommand*{\ovhook}[1]{#1}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}

@@ -224,6 +224,9 @@ vinDictionary = pickle.load(open('./vinDictionary_fromExcelFile.pickle', 'r'))
 
 recetteDictionary = {}
 recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'r'))
+    
+specialWords         = [u"N\u01b0\u1edbc M\u1eafm",        u"Ph\u1edf",  u"G\u1ecfi", u'Cu\u1ed1n']
+specialWords_inLatex = ["N\uhorn \\\'{\ohorn}c M\\\'{\u{a}}m", "Ph\ovhook{\ohorn}",  u"G\ovhook{o}i", "Cu\\\'{\^{o}}n"]
 
 recetteNoImg = []
 line_missingIndex = []
@@ -232,7 +235,12 @@ recipePlat_prev = ''
 iPlat = 0
 lineVin_error = ['recette, couleur, appelation, domaine, cuvee']
 for recipeFile, recipName, recipeCat, recipePlat in data:
+   
+    for ispec, specialWord in enumerate(specialWords):
+        if specialWord in recipName :
+            recipName = recipName.replace(specialWord,specialWords_inLatex[ispec]) 
     
+
     # activate to debug on specific recipe
     #if 'confitures' not in recipName: continue
 
@@ -292,8 +300,6 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
    
 
     #deal with special character
-    specialWords         = [u"N\u01b0\u1edbc M\u1eafm",        u"B\xe1nh Ph\u1edf", ]
-    specialWords_inLatex = ["N\uhorn \\\'{\ohorn}c M\\\'{\u{a}}m", "B\\\'anh Ph\\\'{\ohorn}",  ]
     lines_recipeFile_copy = lines_recipeFile
     for iline, line in  enumerate(lines_recipeFile_copy):
         for ispec, specialWord in enumerate(specialWords):
@@ -325,7 +331,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             lineTxt = i
             break
     
-    recetteDictionary[recipName] = recipeMMtitle
+    recetteDictionary[recipName] = recipeMMtitle.split('(')[0].strip()
         
     lines_txt = lines_recipeFile[lineTxt+1:]
     lines_txt_per_cat = [[]]
