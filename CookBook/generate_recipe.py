@@ -226,7 +226,7 @@ recetteDictionary = {}
 recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'r'))
     
 specialWords         = [u"N\u01b0\u1edbc M\u1eafm",        u"Ph\u1edf",  u"G\u1ecfi", u'Cu\u1ed1n']
-specialWords_inLatex = ["N\uhorn \\\'{\ohorn}c M\\\'{\u{a}}m", "Ph\ovhook{\ohorn}",  u"G\ovhook{o}i", "Cu\\\'{\^{o}}n"]
+specialWords_inLatex = ["N\uhorn\\\'{\ohorn}c M{\\\'\\abreve}m", "Ph\h{\ohorn}",  u"G\h{o}i", "Cu{\\\'\ocircumflex}n"]
 
 recetteNoImg = []
 line_missingIndex = []
@@ -325,8 +325,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         
         if 'image:'             in line: recipeMMimg = imageDir + line.split('mage:')[1].strip()
     
-        if 'index_motClefIngredient:'     in line: recipeMMmotClef = [xx.strip() for xx in line.split('ClefIngredient:')[1].strip().split(',')]
-        if 'index_motClefBase:'     in line: recipeMMmotClefB = [xx.strip() for xx in line.split('ClefBase:')[1].strip().split(',')]
+        if 'index_motClefIngredient:'     in line: 
+            for ispec, specialWord in enumerate(specialWords):
+                if specialWord in line :
+                    line = line.replace(specialWord,specialWords_inLatex[ispec]) 
+            recipeMMmotClef = [xx.strip() for xx in line.split('ClefIngredient:')[1].strip().split(',')]
+        
+        if 'index_motClefBase:'     in line: 
+            for ispec, specialWord in enumerate(specialWords):
+                if specialWord in line :
+                    line = line.replace(specialWord,specialWords_inLatex[ispec]) 
+            recipeMMmotClefB = [xx.strip() for xx in line.split('ClefBase:')[1].strip().split(',')]
+        
         if line == '---\n': 
             lineTxt = i
             break
@@ -411,6 +421,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMTag' in line:     line = line.replace('recipeMMTag',recipName.replace(' ','').lower() )       ; flag_modified = 2                  
         
         if 'recipeMMnewPage' in line:     line = line.replace('recipeMMnewPage', recipeMMnewPage)       ; flag_modified = 2                  
+        if 'recipeMMRef'     in line:     line = line.replace('recipeMMRef', recipeMMtitle.replace('\h{\ohorn}','o'))       ; flag_modified = 2                  
         if 'recipeMMtimeprep' in line:    line = line.replace('recipeMMtimeprep', recipeMMtimeprep)       ; flag_modified = 2           
         if 'recipeMMtimecooking' in line: line = line.replace('recipeMMtimecooking', recipeMMtimecooking) ; flag_modified = 2
         if 'recipeMMtimechill' in line:   line = line.replace('recipeMMtimechill', recipeMMtimechill)     ; flag_modified = 2
