@@ -811,7 +811,14 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             elif 'includegraphics' in line_:
                 final2_lines.append(line_)
             else:
-                final2_lines.append(re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
+                if '1/2' in line_: line_=line_.replace('1/2','\sfrac{1}{2}')
+                if '\xc2\xbd'   in line_: line_=line_.replace('\xc2\xbd',  '\sfrac{1}{2}')
+                if '1/3' in line_: line_=line_.replace('1/3','\sfrac{1}{3}')
+                if '1/4' in line_: line_=line_.replace('1/4','\sfrac{1}{4}')
+                if '\xc2\xbc' in line_: line_=line_.replace('\xc2\xbc','\sfrac{1}{4}')
+                if '3/4' in line_: line_=line_.replace('3/4','\sfrac{3}{4}')
+                if '\xc2\xbe' in line_: line_=line_.replace('\xc2\xbe','\sfrac{3}{4}')
+                final2_lines.append( re.sub("[,]?[\d]+(?:,\d\d\d)*[\,]?\d*(?:[eE][-+]?\d+)?", lambda match: '${:}$'.format(match.group(0)), line_.replace('mn','min').replace('~','$\\sim$')) ) #parse number to set latex format
    
     if len(recipeMMmotClef) > 0:
         line_missingIndex.append('##'+recipName)
