@@ -580,6 +580,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             line2p = []
             line2p_ = ''
             flag_envVin = False
+            labelwidth = 1.9
+            for ii, line_ in enumerate(recipeMMvin):
+                if (u'Vin rouge doux :' in line_) | (u'Vin blanc doux :' in line_):
+                    labelwidth = 2.75
+                    break
+
             for ii, line_ in enumerate(recipeMMvin):
                 line_tmp = line_.replace('*','').strip()
                 
@@ -587,18 +593,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 if line_tmp[:4] == '####': 
                     if (flag_envVin):
                         flag_envVin = False
-                        line2p_ += '\\end{vin}\n'
+                        line2p_ += '\\end{enumerate}\n'+'\\end{vin}\n'
                     if  u'end' in line2p_.strip().split('\n')[-1] : 
                         line2p_ += u'\\vskip 0.5em '
                     line2p_ += u'\\vins[{:s}]\n'.format(line_tmp.replace('####',''))
                     if not(flag_envVin):
                         flag_envVin = True
-                        line2p_ += '\\begin{vin}\n'
+                        line2p_ += '\\begin{vin}\n' + '\\begin{{enumerate}}[labelindent=1.em,labelwidth={0:3.1f}cm,leftmargin={0:3.1f}cm,align=left,itemindent=0pt,labelsep=0pt]\n'.format(labelwidth)
 
                 else:
                     if not(flag_envVin):
                         flag_envVin = True
-                        line2p_ += '\\begin{vin}\n'
+                        line2p_ += '\\begin{vin}\n'+ '\\begin{{enumerate}}[labelindent=1.em,labelwidth={0:3.1f}cm,leftmargin={0:3.1f}cm,align=left,itemindent=0pt,labelsep=0pt]\n'.format(labelwidth)
                     #this is here that we ll have to parse the wine list to access page number of corresponding wine
                    
                     recipeListVins = parseVinList(line_tmp) #appellation,domain,cuvee
@@ -625,16 +631,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                                                           vin[2].replace(' ',''),
                                                           vin[3].replace(' ','') ) )
 
-                    line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\emph{Vin rouge: }')\
-                            .replace(u'Vin rouge doux : ',u'\\emph{Vin rouge doux: }')\
-                            .replace(u'Vin blanc : ',u'\\emph{Vin blanc: }')\
-                            .replace(u'Vin blanc doux : ',u'\\emph{Vin blanc doux: }')\
-                            .replace(u'Cidre : ',u'\\emph{Cidre: }')\
-                            .replace(u'Vin ros\xe9 :',u'\\emph{Vin ros\xe9: }') + '\n \\par \n' 
+                    line2p_ += line_tmp.replace(u'Vin rouge : ',u'\\item[\\emph{Vin rouge}:]')\
+                            .replace(u'Vin rouge doux : ',u'\\item[\\emph{Vin rouge doux}:]')\
+                            .replace(u'Vin blanc : ',u'\\item[\\emph{Vin blanc}:]')\
+                            .replace(u'Vin blanc doux : ',u'\\item[\\emph{Vin blanc doux}:]')\
+                            .replace(u'Cidre : ',u'\\item[\\emph{Cidre}:]')\
+                            .replace(u'Vin ros\xe9 :',u'\\item[\\emph{Vin ros\xe9}:]') + '\n' #\\par \n' 
             
                     
 
-            if flag_envVin: line2p_ += '\\end{vin}\n'
+            if flag_envVin: line2p_ += '\\end{enumerate}\n'+'\\end{vin}\n'
             
             if line2p_ != '' : line2p_ += u'\\vskip 3mm \n'
             

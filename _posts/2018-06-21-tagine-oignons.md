@@ -46,8 +46,6 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois).
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
 * Vin rouge : Côtes-du-Roussillon (Domaine Sol Payré, Ater Noir).
-####et typiquement :
-* Eau plate (Sidi Harazem ou Sidi Ali) ou gazeuse (Oulmès).
 
 ### Notes
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).

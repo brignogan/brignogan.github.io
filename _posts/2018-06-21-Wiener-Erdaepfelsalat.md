@@ -32,7 +32,7 @@ Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle s
 * Déguster la salade tiède avec des Frankfurter Wurstchen (saucisses de Francfort) et du raifort.
 
 ### Vins
-* Alsace Pinot Noir (Domaine René Fleith, "F"), Coteaux-du-Loir (Domaine de Cézin, Génération IV).
+* Vin rouge : Alsace Pinot Noir (Domaine René Fleith, "F"), Coteaux-du-Loir (Domaine de Cézin, Génération IV).
 
 ### Notes
 * Pour déguster cette salade à la mode autrichienne, il convient de l'accompagner d'une bière blonde légère.
