@@ -842,9 +842,11 @@
 \def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
 
 \newcommand*\addImgSection[1]{ 
+	\clearpage
 	\checkoddpage
 	\ifoddpage
-		\clearpage
+		\null
+		\newpage
 		\stopthumb
 		\thispagestyle{empty}
 		\fancyhead{}
@@ -855,9 +857,6 @@
 		\vfill\null
 		\newpage
 	\else
-		\newpage
-		\null
-		\newpage
 		\stopthumb
 		\thispagestyle{empty}
 		\fancyhead{}
