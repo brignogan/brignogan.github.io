@@ -8,7 +8,7 @@ temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: bar, haricot coco de Paimpol, sauce beurre blanc | sauce!beurre blanc
+index_motClefIngredient: bar, haricots cocos de Paimpol | haricot!coco de Paimpol, sauce beurre blanc | sauce!beurre blanc
 ---
 Le bar est le poisson qui apprécie particulièrement les rouleaux de la mer sur notre côte. Dans cette recette, il est cuit sous le gros sel. C'est la méthode la plus simple pour le préparer. Il est accommodé avec un beurre blanc, une sauce basique de la cuisine bourgeoise.
 
