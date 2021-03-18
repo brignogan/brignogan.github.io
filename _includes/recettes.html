@@ -11,7 +11,10 @@
       en oeuvre pour garnir notre table au quotidien ou pour les jours de fête.
       Elles sont rangées dans les 5 rubriques placées ci-dessous.
     </div>
-    <div class="container">
+
+  <div class="container">
+
+
         <div class="row">
             <div class="col-xs-6 col-sm-5 col-md-4 text-center">
               <div class="secTitle"> <a href="{{ url }}/famille/"> Famille <a> </div>
@@ -85,7 +88,6 @@
         <br>
     </div>
 
-
     <div class="container">
       <p class=text-overWhite>
       Ces plats sont issus de notre tradition familiale faite de cuisine française et
@@ -103,6 +105,30 @@
       Les chapîtres sur “le savoir vivre” et “les élégances
       de la table” sont irrésistibles! Elles sont visibles <a href="https://en.calameo.com/read/0046395075f44e3515927">ici</a>.
       </p>
+
+
+      <div id="search-searchbar"></div>
+
+      <div class="post-list" id="search-hits-wrapper">
+        {% for post in site.posts %}
+          <div class="post-item">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h2>
+
+            <div class="post-snippet">{{ post.excerpt }}</div>
+          </div>
+        {% endfor %}
+      </div>
+
+      {% include algolia.html %}
+
+
     </div>
 
 </section>

@@ -17,3 +17,8 @@ markdown: kramdown
 
 #google analytics
 google_analytics: UA-173536521-1
+
+algolia:
+ application_id: '2XXYBPVSYF'
+ index_name: 'paugam.infoIndex'
+ search_only_api_key: 'a1d6b30f9dc17183c1abb69d899ce98e'
