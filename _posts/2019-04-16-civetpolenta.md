@@ -14,7 +14,7 @@ A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient q
 
 ### Ingrédients
 * 1 lapin de 1,5 kg coupé en morceaux
-* 125 g de lard fumé
+* 125 g de lard fumé (voir Notes)
 * 125 g d’oignons
 * 1 c. à s. de farine
 * 1 cube de bouillon de boeuf
@@ -22,7 +22,7 @@ A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient q
 * 400 mL de vin rouge
 * 30 g de beurre
 * 1 bouquet garni
-* 250 g de polenta
+* 250 g de polenta (voir Notes)
 * huile de tournesol
 * 1,25 L de lait
 * sel, poivre
@@ -31,7 +31,7 @@ A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient q
 ### Préparation
 * Préparer un bouillon en dissolvant le cube dans l'eau chaude.
 * Faire revenir, dans le beurre chaud, les oignons et le lard coupé en dés. Les retirer.
-* Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés, remettre les oignons et le lard dans la cocotte.
+* Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés (pour que la sauce ait bon gpût, il faut que le beurre ait bien roussi), remettre les oignons et le lard dans la cocotte.
 * Saupoudrer de farine, bien remuer et cuire 1-2 min. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.
 * Laisser cuire doucement à couvert pendant 1 h 30. Verser de l'eau froide sur le couvercle de la cocotte pour éviter l'évaporation.
 * Pendant ce temps, faire bouillir le lait salé.
@@ -47,4 +47,4 @@ A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient q
 
 ### Notes
 * On peut remplacer la polenta par de la semoule fine de blé dur. Les proportions sont alors : 150 g de semoule pour 1,25 L de lait.
- * On peut remplacer le lard fumé par de la poitrine demi-sel.
+ * Selon le goût, on peut remplacer le lard fumé par de la poitrine demi-sel.

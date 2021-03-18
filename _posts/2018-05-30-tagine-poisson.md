@@ -25,10 +25,10 @@ Tous les poissons blancs peuvent être préparés en tagine, le citron confit et
 
 ### Préparation
 * Préparer le poisson en portefeuille (pré-découper les filets du poisson le long de la tête et de l'arête centrale sur les deux côtés).
-* Préchauffer le four à 200°C.
+* Préchauffer le four à 210°C.
 * Préparer la marinade en mélangeant le jus de citron, le zeste du citron confit, la gousse d'ail pressée, le coriandre, la demi-échalote hachée et le gingembre à de l'huile d'olive, du sel et du poivre.
 * En enduire le poisson des deux côtés et laisser reposer au moins 1/4 h.
-* Cuire le poisson 15 mn au four à 200°C. Vérifier la cuisson.
+* Cuire le poisson 20 mn au four à 210°C. Vérifier la cuisson.
 * Servir avec du riz ou des pommes de terre vapeur et le jus de cuisson.
 
 ### Vins
