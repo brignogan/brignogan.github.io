@@ -3,7 +3,7 @@ layout: post
 title: Soupe de carottes au cumin
 tag_category: famille
 tag_plat: entree
-image: img/recette/untitled.png
+image: img/recette/soupecarottescumin.png
 temps_preparation: 20
 temps_cuisson: 30
 temps_repos: '-'
