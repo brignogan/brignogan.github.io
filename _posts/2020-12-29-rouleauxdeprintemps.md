@@ -66,8 +66,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois), Champagne (Louis de Sacy, Rosé de Saignée).
 
 ### Notes
-* On compte 2-3 rouleaux par personne.
-* Pour le vermicelle de riz, les galettes de riz et la ciboule chinoise, voir leur [présentation]({% post_url 2021-02-3-pho %}) décrite dans les "Notes" de la recette du Phở. La sauce Hoi-Sin est une préparation à base de prunes.
+* Pour le vermicelle de riz, les galettes de riz et la ciboule chinoise, leur [présentation]({% post_url 2021-02-3-pho %}) est dans les "Notes" de la recette du Phở. La sauce Hoi-Sin est une préparation à base de prunes.
 * Pour préparer de l'ail frit, éplucher les gousses et les hacher. Les jeter dans de l'huile chaude et les cuire en les remuant jusqu'à ce qu'elles se colorent très légèrement. Les retirer de suite du feu et les laisser refroidir tout en remuant, elles vont continuer à se colorer. Les égoutter sur un papier absorbant.
 * Pour le mouillage des galettes de riz, Hanh préconise d'utiliser des serviettes non-tissées que l'on mouille et dont on enveloppe les galettes. Il faut récupérer celles-ci au fur et à mesure du besoin.
 * Recette pour utiliser les restes des rouleaux de printemps (soupe “Gỏi Và”) : Refaire un bouillon avec les têtes de crevettes restantes. Retirer les puis ajouter de la poudre de tamarin pour acidifier la soupe. Y réchauffer la poitrine de porc. Dans chaque bol, placer le vermicelle, les crevettes, la salade et la ciboule chinoise. Finir en y déposant la poitrine et en versant le bouillon.
