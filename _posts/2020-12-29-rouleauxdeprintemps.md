@@ -68,7 +68,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 ### Notes
 * On compte 2-3 rouleaux par personne.
 * Pour les "novices" de la cuisine vietnamienne, est présenté ci-dessous le vermicelle de riz (Bún Tươi) à choisir pour les rouleaux de printemps.
-* Pour les galettes de riz (Bánh Tráng), choisir la marque Lion Brand et un diamètre 22 cm. Leur [présentation]({% post_url 2021-2-3-pho %}) est décrite dans les "Notes" de la recette du Phở.
+* Pour les galettes de riz (Bánh Tráng), choisir la marque Lion Brand et un diamètre 22 cm. Leur [présentation]({% post_url 2021-02-3-pho %}) est décrite dans les "Notes" de la recette du Phở.
 * La ciboule chinoise (Lá Hẹ) est une plante à feuilles plates qui ressemble aux feuilles vertes des petits oignons appelés oignons fanes.
 * la sauce Hoi-Sin est une préparation à base de prunes.
 * Pour préparer de l'ail frit, éplucher les gousses et les hacher. Les jeter dans de l'huile chaude et les cuire en les remuant jusqu'à ce qu'elles se colorent très légèrement. Les retirer de suite du feu et les laisser refroidir tout en remuant, elles vont continuer à se colorer. Les égoutter sur un papier absorbant.
