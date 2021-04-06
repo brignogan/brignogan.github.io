@@ -28,7 +28,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 
 #### pour la sauce :
 * 1 bon verre de riz gluant
-* 1 pot de sauce Hoi-Sin d'eniron 400 mL (voir Notes)
+* 1 pot de sauce Hoi-Sin d'environ 400 mL (voir Notes)
 * 2 c. à c. d'ail frit (voir Notes)
 * Nước Mắm
 * sucre
@@ -67,10 +67,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 
 ### Notes
 * On compte 2-3 rouleaux par personne.
-* Pour les "novices" de la cuisine vietnamienne, est présenté ci-dessous le vermicelle de riz (Bún Tươi) à choisir pour les rouleaux de printemps.
-* Pour les galettes de riz (Bánh Tráng), choisir la marque Lion Brand et un diamètre 22 cm. Leur [présentation]({% post_url 2021-02-3-pho %}) est décrite dans les "Notes" de la recette du Phở.
-* La ciboule chinoise (Lá Hẹ) est une plante à feuilles plates qui ressemble aux feuilles vertes des petits oignons appelés oignons fanes.
-* la sauce Hoi-Sin est une préparation à base de prunes.
+* Pour le vermicelle de riz, les galettes de riz et la ciboule chinoise, voir leur [présentation]({% post_url 2021-02-3-pho %}) décrite dans les "Notes" de la recette du Phở. La sauce Hoi-Sin est une préparation à base de prunes.
 * Pour préparer de l'ail frit, éplucher les gousses et les hacher. Les jeter dans de l'huile chaude et les cuire en les remuant jusqu'à ce qu'elles se colorent très légèrement. Les retirer de suite du feu et les laisser refroidir tout en remuant, elles vont continuer à se colorer. Les égoutter sur un papier absorbant.
 * Pour le mouillage des galettes de riz, Hanh préconise d'utiliser des serviettes non-tissées que l'on mouille et dont on enveloppe les galettes. Il faut récupérer celles-ci au fur et à mesure du besoin.
 * Recette pour utiliser les restes des rouleaux de printemps (soupe “Gỏi Và”) : Refaire un bouillon avec les têtes de crevettes restantes. Retirer les puis ajouter de la poudre de tamarin pour acidifier la soupe. Y réchauffer la poitrine de porc. Dans chaque bol, placer le vermicelle, les crevettes, la salade et la ciboule chinoise. Finir en y déposant la poitrine et en versant le bouillon.
