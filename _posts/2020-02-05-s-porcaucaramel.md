@@ -3,7 +3,7 @@ layout: post
 title: Porc au caramel
 tag_category: amis
 tag_plat: platViande
-image: img/recette/porcaucaramel.png
+image: img/recette/s-porcaucaramel.png
 temps_preparation: 20
 temps_cuisson: 60
 temps_repos: '-'
