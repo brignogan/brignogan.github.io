@@ -7,7 +7,7 @@ image: img/recette/rouleauxdeprintemps.png
 temps_preparation: 60
 temps_cuisson: 45
 temps_repos: 60
-nbre_personne: ‘pour 50 rouleaux’
+nbre_personne: ‘pour 50 rouleaux - on compte 2-3 rouleaux par personne’
 index_motClefIngredient: crevette, poitrine de porc | porc!poitrine, galette de riz, vermicelle de riz, coriandre, menthe
 ---
 Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietnamienne dont la recette a été mise au point par notre amie Hanh Faucheu. C'est un plat très convivial puisque chacun peut préparer ses rouleaux à partir des ingrédients préparés en respectant quelques règles de base. En s'appliquant un peu le résultat peut être tout-à-fait honorable (sinon, on peut soudoyer un expert).
