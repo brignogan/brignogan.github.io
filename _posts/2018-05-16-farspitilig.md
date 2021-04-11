@@ -5,7 +5,7 @@ tag_category: bretagne
 tag_plat: dessert
 image: img/recette/fars-pitilig.png
 temps_preparation: 10
-temps_cuisson: 5
+temps_cuisson: 6
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: fars pitilig | fars!pitilig
@@ -23,9 +23,9 @@ Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que 
 * Ajouter les oeufs et le sucre à la farine disposée en fontaine.
 * Bien mélanger puis ajouter petit à petit le lait.
 * Faire fondre une noix de beurre dans la poêle.
-* Quand il commence à roussir, y verser une ou deux louchées de pâte (suivant l’épaisseur de galette que l’on désire) en agitant avec la cuillère en bois. Quand la pâte commence à bien se former en gros grumeaux, ramener la pâte au centre de la poêle et aplatir les boules.
-* Laisser “prendre” et dorer.
-* Retourner la galette (en la faisant sauter !), glisser des petits morceaux de beurre dessous et finir la cuisson. La galette doit être bien dorée des deux côtés.
+* Quand il commence à roussir, y verser une ou deux louchées de pâte (suivant l’épaisseur de galette que l’on désire). Laisser cuire 30 sec - 1 min à feu moyen, le fond de la galette doit "prendre" dans la poêle. Racler alors le fond de la poêle avec une spatule en bois  pour amener la pâte au centre et former une grosse galette. Aplatir les boules formées et glisser un petit morceau de beurre sous la galette.
+* Laisser cuire et dorer (2-3 min).
+* Retourner la galette (en la faisant sauter !), glisser à nouveau des petits morceaux de beurre dessous et finir la cuisson (2-3 min). La galette doit être bien dorée des deux côtés.
 * Servir bien chaud et éventuellement saupoudrée de sucre.
 * Répéter l’opération jusqu’à épuisement de la pâte. On compte deux galettes par personne.
 
