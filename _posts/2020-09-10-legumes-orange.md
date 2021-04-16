@@ -3,7 +3,7 @@ layout: post
 title: Légumes confits à l'orange
 tag_category: famille
 tag_plat: platLegume
-image: img/recette/untitled.png
+image: img/recette/legumes-orange.png
 temps_preparation: 30
 temps_cuisson: 30
 temps_repos: ‘-‘
