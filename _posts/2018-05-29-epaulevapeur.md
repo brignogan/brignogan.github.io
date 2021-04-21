@@ -3,7 +3,7 @@ layout: post
 title: Epaule d’agneau à la vapeur ou Choua
 tag_category: maroc
 tag_plat: platViande
-image: img/recette/epaule-vapeur.png
+image: img/recette/epaulevapeur.png
 temps_preparation: 10
 temps_cuisson: 60
 temps_repos: ‘-‘
