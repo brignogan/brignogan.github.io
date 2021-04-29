@@ -3,7 +3,7 @@ layout: post
 title: Gratin de courgettes au cumin
 tag_category: amis
 tag_plat: platLegume
-image: img/recette/untitled.png
+image: img/recette/gratin-courgettes.png
 temps_preparation: 15
 temps_cuisson: 30
 temps_repos: '-'
