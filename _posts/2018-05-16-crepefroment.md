@@ -3,7 +3,7 @@ layout: post
 title: Crêpes sucrées
 tag_category: bretagne
 tag_plat: dessert
-image: img/recette/crepe-froment.png
+image: img/recette/crepefroment.png
 temps_preparation: 20
 temps_cuisson: 60
 temps_repos: 60
