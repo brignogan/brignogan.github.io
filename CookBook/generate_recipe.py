@@ -229,6 +229,7 @@ specialWords         = [u"N\u01b0\u1edbc M\u1eafm",        u"Ph\u1edf",  u"G\u1e
 specialWords_inLatex = ["N\uhorn\\\'{\ohorn}c M{\\\'\\abreve}m", "Ph\h{\ohorn}",  u"G\h{o}i", "Cu{\\\'\ocircumflex}n"]
 
 recetteNoImg = []
+recetteNoImgHD = []
 line_missingIndex = []
 recipeCat_prev  = ''
 recipePlat_prev = ''
@@ -428,8 +429,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMserve' in line:       line = line.replace('recipeMMserve', recipeMMserve)             ; flag_modified = 2
         if 'recipeMMintro' in line:        line = line.replace('recipeMMintro', recipeMMintro[0])           ; flag_modified = 2
 
-        if 'recipeMMimg' in line:  
-            if os.path.isfile(recipeMMimg): 
+        if 'recipeMMimg' in line: 
+            recipeMMimgHD = recipeMMimg.replace('png','HD.png').replace('recette/','recette_HD/')
+            if os.path.isfile(recipeMMimgHD): 
+                line = line.replace('recipeMMimg', recipeMMimgHD)                 ; flag_modified = 2
+            elif os.path.isfile(recipeMMimg):
+                if (recipName not in recetteNoImgHD): recetteNoImgHD.append(recipName) 
                 line = line.replace('recipeMMimg', recipeMMimg)                 ; flag_modified = 2
                 if (os.path.basename(recipeMMimg) == 'untitled.png') & (recipName not in recetteNoImg): recetteNoImg.append(recipName) 
             else: 
@@ -852,7 +857,10 @@ f = io.open("LogError/RecetteNoImg.txt","w", encoding='utf-8')
 for line in recetteNoImg:
     f.writelines((line+'\n').decode('utf-8'))
 f.close()
-
+f = io.open("LogError/RecetteNoImgHD.txt","w", encoding='utf-8')
+for line in recetteNoImgHD:
+    f.writelines((line+'\n').decode('utf-8'))
+f.close()
 
 #save file
 f= io.open("cookbook.tex","w", encoding='utf-8')
@@ -873,6 +881,11 @@ if flag_latex:
     subprocess.call(['bash','run_xindy.sh', 'mystyle.xdy', 'cookbook.idx'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
+
+print ''
+print 'nombre recette avec image HD non presentes: {:4d}.'.format(len(recetteNoImgHD))
+print 'nombre recette avec aucune image          : {:4d}.'.format(len(recetteNoImg))
+print 'voir LogError/RecetteNoImg.txt et  LogError/RecetteNoImgHD.txt pour plus de details'
 
 '''
 	 \columnbreak
