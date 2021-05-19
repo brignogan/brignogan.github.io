@@ -3,7 +3,7 @@ layout: post
 title: Lotte au poivre vert
 tag_category: famille
 tag_plat: platPoisson
-image: img/recette/lottepoivre.png
+image: img/recette/lottepoivrevert.png
 temps_preparation: 20
 temps_cuisson: 50
 temps_repos: '-'
