@@ -3,7 +3,7 @@ layout: post
 title: Patates disec'h
 tag_category: bretagne
 tag_plat: platLegume
-image: img/recette/patates.png
+image: img/recette/pommes-de-terre-echalotes.png
 temps_preparation: 15
 temps_cuisson: 30
 temps_repos: ‘-‘
