@@ -3,7 +3,7 @@ layout: post
 title: Sauce gribiche
 tag_category: famille
 tag_plat: sauce
-image: img/recette/gribiche.png
+image: img/recette/sauce-gribiche.png
 temps_preparation: 10
 temps_cuisson: '-'
 temps_repos: '-'

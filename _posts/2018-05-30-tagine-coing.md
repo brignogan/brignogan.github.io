@@ -3,7 +3,7 @@ layout: post
 title: Tagine d’agneau aux coings
 tag_category: maroc
 tag_plat: platViande
-image: img/recette/tagineauxcoings.png
+image: img/recette/tagine-coing.png
 temps_preparation: 30
 temps_cuisson: 60
 temps_repos: ‘-‘
@@ -50,4 +50,4 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 * Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
 * Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts!… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
 * Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
-* les coings à la cannelle préparés pour cette recette de tagine peuvent aussi être dégustés tels quels ou utilisés pour la réalisation de divers desserts et entremets. 
+* les coings à la cannelle préparés pour cette recette de tagine peuvent aussi être dégustés tels quels ou utilisés pour la réalisation de divers desserts et entremets.
