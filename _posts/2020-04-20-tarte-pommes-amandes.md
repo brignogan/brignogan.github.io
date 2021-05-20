@@ -8,9 +8,9 @@ temps_preparation: 30
 temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: pâte feuilletée | pâte!feuilletée, pomme, amandes | amande
+index_motClefIngredient: pâte feuilletée | pâte!feuilletée, pomme, amandes | amande, abricot
 ---
-La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table.
+La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table. A la belle saison, cette recette peut alors permettre de préparer une tarte aux abricots (voir notes)
 
 ### Ingrédients
 * 4 ou 5 pommes (reinettes)
@@ -37,3 +37,4 @@ La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'autom
 
 ### Notes
 * Le fond de tarte peut se faire avec une fine [pâte brisée]({% post_url 2020-04-20-tarte-citron %}) suivant la recette de Hahn Faucheu, décrite pour la tarte au citron.
+* Pour réaliser une tarte aux abricots, suivre la préparation ci-dessus en remplaçant les pommes par 500 g d'abricots. Le fond de pâte crue sera recouvert de 125 g de poudre d'amande qui absorbera le jus des abricots pendant la cuisson et les fruits dénoyautés seront déposés face bombée dessous.
