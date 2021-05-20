@@ -3,7 +3,7 @@ layout: post
 title: Poêlée de petits pois et carottes
 tag_category: famille
 tag_plat: platLegume
-image: img/recette/untitled.png
+image: img/recette/petitspois-carottes.png
 temps_preparation: 20
 temps_cuisson: 30
 temps_repos: ‘-‘
