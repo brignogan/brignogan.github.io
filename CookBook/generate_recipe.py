@@ -430,7 +430,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'recipeMMintro' in line:        line = line.replace('recipeMMintro', recipeMMintro[0])           ; flag_modified = 2
 
         if 'recipeMMimg' in line: 
-            recipeMMimgHD = recipeMMimg.replace('png','HD.png').replace('recette/','recette_HD/')
+            recipeMMimgHD = recipeMMimg.replace('.png','HD.png').replace('recette/','recette_HD/')
             if os.path.isfile(recipeMMimgHD): 
                 line = line.replace('recipeMMimg', recipeMMimgHD)                 ; flag_modified = 2
             elif os.path.isfile(recipeMMimg):
