@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gelée de pommes-oranges-cannelle
+title: Gelées de fruits
 tag_category: famille
 tag_plat: sauce
 image: img/recette/confiturepomme.png
@@ -8,9 +8,11 @@ temps_preparation: 60
 temps_cuisson: 75
 temps_repos: 1200
 nbre_personne: ‘pour 6 pots’
-index_motClefIngredient: pomme, orange, cannelle
+index_motClefIngredient: pomme, orange, cannelle, mûre
 ---
-La gelée de pommes et oranges a été mise au point pour utiliser les pommes du jardin de Saint-Pierre qui tapissaient la pelouse à la fin de l'été. Elle est maintenant préparée avec les pommes du jardin de notre voisin brignoganais, Jop Malgorn, qui nous en offre chaque année.
+Ces recettes de gelée sont réservées à la conservation des fruits de la fin de l'été. La préparation de la gelée de pomme et orange a été mise au point pour utiliser les pommes du jardin de Saint-Pierre qui tapissaient la pelouse à la fin des vacances. Elle est maintenant préparée avec les pommes du jardin de notre voisin brignoganais, Jop Malgorn, qui nous en offre chaque année. En septembre, il faut aussi profiter des belles journées pour cueillir les mûres que nous offrent les talus ou les sous-bois de la Bretagne à l'Alsace. Leur gelée permet de retrouver, tout l'hiver, le parfum de ce fruit délicat.
+
+#### **Gelée de pomme-orange**
 
 ### Ingrédients
 * 3 kg de pommes
@@ -27,3 +29,5 @@ La gelée de pommes et oranges a été mise au point pour utiliser les pommes du
 * Ajouter le jus des oranges, les écorces, le sucre et la cannelle dans la bassine.
 * Cuire environ 30-45 mn en vérifiant la prise de la gelée.
 * Remplir les pots à chaud et les retourner pour laisser refroidir. On obtient 6 pots.
+
+#### **Gelée de mûre**

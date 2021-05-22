@@ -30,6 +30,6 @@ La corne de gazelle est le gâteau typique de la pâtisserie marocaine. Il est i
 * Rouler la pâte obtenue en boule et laisser reposer pendant 1 h.  
 * Faire sécher et dorer les amandes au four pendant quelques minutes. Les retirer et les râper en poudre dans un bol. Ajouter le sucre, l'œuf entier, l'eau de fleur d'oranger et la cannelle. Bien mélanger. Réserver.
 * Etaler la pâte sur 2 mm d'épaisseur. Y découper des carrés de 8 cm de côté environ.
-* Poser, dans le coin de chaque carré, un petit boudin de 5 cm de long de la pâte d'amande. Rouler en forme de croissant
+* Poser, dans le coin de chaque carré, un petit boudin de 5 cm de long de la pâte d'amande. Rouler en forme de croissant.
 * Cuire au four 20 min.
-* Les gâteaux sont nature. Pour les versions enrobées, arroser les gâteaux d'1 c. à s. d'eau de fleur d'oranger et les rouler dans le sucre glace ou dans les amandes effilées dorées au four. 
+* Les gâteaux sont nature. Pour les versions enrobées, arroser les gâteaux d'1 c. à s. d'eau de fleur d'oranger et les rouler dans le sucre glace ou dans les amandes effilées dorées au four.
