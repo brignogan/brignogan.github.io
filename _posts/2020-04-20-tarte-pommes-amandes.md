@@ -24,10 +24,10 @@ La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'autom
 ### Préparation
 * Eplucher les pommes et les couper en lamelles.
 * Pré-chauffer le four à 180°C.
-* Disposer la pâte feuilletée avec sa feuille de papier sulfurisé  dans un moule à tarte à fond amovible. La pâte doit dépasser d’~1,5 cm le bord du moule, retourner ce bord vers l’intérieur.
-* Recouvrir le fond de tarte avec les lamelles de pommes en les faisant se chevaucher au maximum. Inverser le sens de recouvrement à chaque rang (on doit pouvoir faire deux rangs et rajouter quelques lamelles « en fleur » au milieu).
+* Disposer la pâte feuilletée avec sa feuille de papier sulfurisé  dans un moule à tarte à fond amovible. La pâte doit dépasser d’~2 cm le bord du moule.
+* Recouvrir le fond de tarte avec les lamelles de pommes en les faisant se chevaucher au maximum. Inverser le sens de recouvrement à chaque rang (on doit pouvoir faire deux rangs et rajouter quelques lamelles « en fleur » au milieu). Retourner le bord de la pâte vers l’intérieur en faisant un bourrelet.
 * Faire cuire au four pendant 15 min.
-* Pendant ce temps, préparer la crème. Mélanger dans un bol le sucre, l’œuf entier et le crème fraîche.
+* Pendant ce temps, dans un bol, battre l'oeuf entier, ajouter le sucre et bien mélanger. Enfin, détendre l'appareil en ajoutant la crème.
 * Sortir la tarte, vérifier que la bordure se tient bien. Verser la sauce sur les fruits. Saupoudrer copieusement d’amandes. Remettre au four pendant au moins 30 mn mais laisser cuire jusqu’à ce que la tarte prenne une belle teinte dorée.
 * Sortir la tarte et laisser refroidir sur une grille.
 
