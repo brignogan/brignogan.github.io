@@ -3,7 +3,7 @@ layout: post
 title: Tarte aux pommes et amandes
 tag_category: famille
 tag_plat: dessert
-image: img/recette/untitled.png
+image: img/recette/tarte-pommes-amandes.png
 temps_preparation: 30
 temps_cuisson: 45
 temps_repos: '-'
