@@ -38,4 +38,4 @@ La corne de gazelle est le gâteau typique de la pâtisserie marocaine. Il est i
 * Vin blanc doux : Sauternes (Château Haut-Bergeron).
 
 ### Notes
-* Pour accompagner ce dessert marocain, on pourra préférer servir un thé à la menthe (voir la préparation dans la recette [chebakia]({% post_url 2018-05-28-chebakia %}). 
+* Pour accompagner ce dessert marocain, on pourra préférer servir un thé à la menthe dont la préparation est décrite dans les notes de la recette [chebakia]({% post_url 2018-05-28-chebakia %}). 
