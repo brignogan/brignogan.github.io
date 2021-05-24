@@ -34,3 +34,10 @@ Cette sauce mousseline est idéale pour accompagner les asperges blanches ou ver
 * Cuire dans l'eau bouillante salée, 20 min pour les asperges blanches, 6 min pour les vertes.
 * Egoutter et déposer les asperges sur un plat long recouvert d'un papier absorbant. Déficeler.
 * Les asperges se servent de préférence tièdes avec la sauce mousseline.
+
+### Vins
+#### pour les asperges blanches :
+* Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois), Jasnières (Domaine de Cézin, Origine), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris).
+
+#### pour les asperges vertes :
+* Vin blanc : Saint-Joseph (Domaine Louis Chèze, Ro-Rée).

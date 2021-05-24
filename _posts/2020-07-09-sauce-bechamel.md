@@ -38,5 +38,8 @@ Le sauce béchamel est la base de nombreuses recettes comme celle des endives au
 * Dans un plat beurré, verser un fond de sauce béchamel et déposer les endives au jambon puis napper le tout avec le reste de sauce et saupoudrer de gruyère.
 * Passer le plat au gril quelques minutes.
 
+### Vins
+* Vin blanc : Alsace Riesling (Domaine René Fleith, Dorfburg), Alsace Pinot Noir (Domaine René Fleith, "F"), Côtes-du-Jura (Domaine de Savagny).
+
 ### Notes
 * Pour accommoder les restes, procéder comme pour les endives au jambon. Napper les de cette sauce dans un plat beurré, saupoudrer de gruyère et gratiner au four.   

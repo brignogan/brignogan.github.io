@@ -33,3 +33,9 @@ La corne de gazelle est le gâteau typique de la pâtisserie marocaine. Il est i
 * Poser, dans le coin de chaque carré, un petit boudin de 5 cm de long de la pâte d'amande. Rouler en forme de croissant.
 * Cuire au four 20 min.
 * Les gâteaux sont nature. Pour les versions enrobées, arroser les gâteaux d'1 c. à s. d'eau de fleur d'oranger et les rouler dans le sucre glace ou dans les amandes effilées dorées au four.
+
+### Vins
+* Vin blanc doux : Sauternes (Château Haut-Bergeron).
+
+### Notes
+* Pour accompagner ce dessert marocain, on pourra préférer servir un thé à la menthe (voir la préparation dans la recette [chebakia]({% post_url 2018-05-28-chebakia %}). 

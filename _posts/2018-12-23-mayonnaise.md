@@ -39,5 +39,8 @@ La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes
 * Plonger dans ce court-bouillon le morceau de lieu jaune et cuire, toujours à couvert et à petits bouillons, pendant 20 mn.
 * Egoutter le poisson, enlever la peau et servir avec des pommes de terre cuites à l'eau salée et un bol de mayonnaise.
 
+### Vins
+* Vin blanc : Menetou-Salon (Domaine de Châtenoy, Classique), Alsace Riesling (Domaine René Fleith, Steinweg), Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude).
+
 ### Notes
 * La préparation de la mayonnaise est présentée ci-dessous. Cette démonstration est réalisée par Guigui. {%include vimeoPlayer.html id="115649579" padding-bottom="56.25%" label="mayonnaise"%}
