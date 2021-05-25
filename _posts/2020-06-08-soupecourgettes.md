@@ -22,7 +22,7 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 ### Préparation
 * Eplucher les courgettes en laissant une bande sur deux de la peau verte (pour la couleur). Couper les en dés. Couper également le fromage en dés.
 * Mettre les légumes, les cubes de bouillon et le fromage dans une casserole et ajouter de l'eau à hauteur. Cuire à couvert et à feu moyen pendant 30 mn.
-* Mixer le mélange. Ajouter éventuellement de l'eau pour ajuster la consistance. Rectifier l’assaisonnement en salant et poivrant selon le goût.
+* Mixer le mélange. Ajouter éventuellement de l'eau pour ajuster la consistance. Rectifier l’assaisonnement.
 * Servir aussitôt cette soupe avec, éventuellement, un trait de crème.
 
 ### Vins
@@ -30,4 +30,4 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 
 ### Notes
 * Cette soupe peut servir à utiliser les restes de fromage.
-* On peut remplacer le fromage bleu par 2 portions de Vache qui rit.
+* Le fromage bleu peut donner un goût fort à la soupe. Pour plus de douceur, on peut le remplacer par 2 portions de Vache qui rit.
