@@ -33,3 +33,4 @@ Tous les ans, cette soupe d'automne est au menu du repas d'anniversaire de Maël
 
 ### Notes
 * Cette soupe peut être préparée avec du potimarron dont l'avantage est de ne pas nécessiter d'épluchage.
+* Certains convives peuvent ne pas apprécier une boisson avec la soupe. Le vin ne sera donc que proposer.

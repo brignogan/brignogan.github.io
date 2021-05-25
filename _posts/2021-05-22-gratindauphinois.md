@@ -28,3 +28,10 @@ Ce gratin est-il dauphinois? Peut-être est-il savoyard ou doit-on l'appeler sim
 * Préchauffer le four à 180°C.
 * Avec la gousse d’ail épluchée, frotter un plat à gratin et y verser la préparation. Parsemer du reste du fromage râpé et de noisettes de beurre.  
 * Mettre une feuille d’aluminium sur le plat et enfourner pour 1 heure. Au bout d’une heure, retirer la feuille d’alu et laisser cuire encore pendant 30 min. Le gratin doit avoir pris une belle couleur dorée.
+
+### Vins
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Côtes-du-Jura (Domaine de Savagny), Lirac (Domaine de la Mordorée, La Reine des Bois)
+* Vin rouge : Lirac (Domaine de la Mordorée, La Reine des Bois)
+
+### Notes
+* Le gratin dauphinois peut constituer, à lui-seul, un plat principal mais il accompagnera très bien les viandes grillées rouges ou blanches (côte de boeuf, poulet rôti, cochon grillé). Dans ce cas, le vin sera choisi en fonction de la viande.

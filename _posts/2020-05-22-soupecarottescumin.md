@@ -34,3 +34,6 @@ Bien que l'association carottes-cumin-coriandre soit une base de la cuisine maro
 
 ### Vins
 * Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Tavel (Domaine de la Mordorée, La Reine des Bois).
+
+### Notes
+* Accompagner une soupe d'une boisson peut être considérer comme une hérésie. Les vins indiqués sont ceux qui assureront le meilleur accord mais ne doivent pas être imposés aux convives.

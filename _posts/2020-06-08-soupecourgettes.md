@@ -31,3 +31,4 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 ### Notes
 * Cette soupe peut servir à utiliser les restes de fromage.
 * Le fromage bleu peut donner un goût fort à la soupe. Pour plus de douceur, on peut le remplacer par 2 portions de Vache qui rit.
+* Comme pour les autres soupes, les vins indiqués seront proposés aux convives, on peut, en effet, ne pas apprécier de déguster ce plat avec une boisson.
