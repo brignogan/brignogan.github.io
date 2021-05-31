@@ -41,5 +41,6 @@ Le sauce béchamel est la base de nombreuses recettes comme celle des endives au
 ### Vins
 * Vin blanc : Alsace Riesling (Domaine René Fleith, Dorfburg), Côtes-du-Jura (Domaine de Savagny).
 * Vin rouge :  Alsace Pinot Noir (Domaine René Fleith, "F")
+
 ### Notes
 * Pour accommoder les restes, procéder comme pour les endives au jambon. Napper les de cette sauce dans un plat beurré, saupoudrer de gruyère et gratiner au four.   
