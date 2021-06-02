@@ -94,7 +94,9 @@
   {% assign nameneeded = page.slug | append: '-extra' %}
   {% for myimage in site.static_files %}
      {% if myimage.path contains nameneeded %}
+     {% unless myimage.path contains "HD" %}
        <img class='img-rounded-extra' src="{{ url }}{{ myimage.path }}" alt="extra image" />
+     {% endunless %}
      {% endif %}
   {% endfor %}
   </div>
