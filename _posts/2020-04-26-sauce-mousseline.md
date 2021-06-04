@@ -23,3 +23,6 @@ Cette sauce mousseline est idéale pour accompagner les asperges blanches ou ver
 * Mettre dans le bol du mixeur l'oeuf entier, la moutarde, le sel, le poivre et l'huile.
 * Plonger le mixeur et actionner jusqu'à obtenir un mélange homogène et bien ferme.
 * Rectifier l'assaisonnement.
+
+### Notes
+* La sauce mousseline peut aussi se préparer à partir d'une mayonnaise (voir la [préparation]({% post_url 2018-12-23-mayonnaise %})). On incorpore alors à celle-ci le blanc d'oeuf monté en neige.

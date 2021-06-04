@@ -13,7 +13,7 @@ index_motClefBase: sauce hollandaise | sauce!hollandaise
 Le sauce hollandaise est la base des sauces émulsionnées chaudes. Elle est la sauce emblématique des oeufs bénédicte et elle est idéale pour accompagner les poissons pochés et les légumes. Elle peut servir à préparer une sauce moutarde, une sauce mousseline chaude, une sauce bavaroise.
 
 ### Ingrédients
-* 1OO g de beurre demi-sel
+* 100 g de beurre demi-sel
 * 2 jaunes d'oeuf
 * 1 c. à s. d'eau
 * 1 c. à s. de jus de citron
