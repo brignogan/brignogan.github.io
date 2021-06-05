@@ -126,40 +126,45 @@ def parseVinList(string):
 def add_graphics(line2p_,imageDir,img_path):
     
     width_ = 1.
-    if recipName == 'sauce mousseline': width_ = .35
+    if 'asperge' in recipName : width_ = .35
     
-    if recipName == 'homardgrille':
+    if 'homardgrille' in recipName :
         line2p_ += '\n\\begin{center}'
-        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook'))
+        line2p_ += '\n{{\includegraphics[width={:.2f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook'))
         line2p_ += '\n \\put(-310,0) {\\tiny $1$- sur le dos, avec le couteau.} '
         line2p_ += '\n \\put(-210,0) {\\tiny $2$- sur le ventre, avec le couteau.} '
         line2p_ += '\n \\put(-100,0) {\\tiny $3$- sur le ventre, avec les ciseaux.} '
         line2p_ += '\n\\end{center} \n \\par '                     
     
-    elif recipName == 'kardinalchnitten':
+    elif 'kardinalchnitten' in recipName:
         line2p_ += '\n\\begin{center}'
-        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook').replace('.png','.pdf'))
+        line2p_ += '\n{{\includegraphics[width={:.2f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook').replace('.png','.pdf'))
         line2p_ += '\n\\end{center} \n \\par '                     
 
-    elif recipName == 'sachertorte': 
+    elif 'sachertorte' in recipName : 
         line2p_ += '\n\\begin{center}'
-        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook').replace('.png','.pdf'))
+        line2p_ += '\n{{\includegraphics[width={:.2f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path.replace('recette','recetteCookbook').replace('.png','.pdf'))
         line2p_ += '\n\\end{center} \n \\par '                     
     
     else:
         line2p_ += '\n\\begin{center}'
-        line2p_ += '\n{{\includegraphics[width={:.1f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)
+        line2p_ += '\n{{\includegraphics[width={:.2f}\\textwidth]{{{:s}}} }}'.format(width_,imageDir+img_path)
         line2p_ += '\n\\end{center} \n \\par '                     
     
     return line2p_
     
 parser = argparse.ArgumentParser(description='generate cookboo.tex and run latex')
 parser.add_argument('-l','--flag_latex',required=False)
+parser.add_argument('-hd','--flag_hd',required=False)
 args = parser.parse_args()
 if args.flag_latex is None:
     flag_latex = True
 else:
     flag_latex = string_2_bool(args.flag_latex)
+if args.flag_hd is None:
+    flag_hd = True
+else:
+    flag_hd = string_2_bool(args.flag_hd)
 
 #recipeDir = './recipeDir/'
 recipeDir = '../_posts/'
@@ -400,7 +405,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if '### P' in cat[0]:
             recipeMMinstruction= cat[1:]
         
-        if '### Autres' in cat[0]: 
+        if '### Autre' in cat[0]: 
             recipeMMextra = cat[1:]
         
         recipeMMpreinstruction = None
@@ -431,7 +436,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
         if 'recipeMMimg' in line: 
             recipeMMimgHD = recipeMMimg.replace('.png','HD.png').replace('recette/','recette_HD/')
-            if os.path.isfile(recipeMMimgHD): 
+            if (flag_hd) & (os.path.isfile(recipeMMimgHD)): 
                 line = line.replace('recipeMMimg', recipeMMimgHD)                 ; flag_modified = 2
             elif os.path.isfile(recipeMMimg):
                 if (recipName not in recetteNoImgHD): recetteNoImgHD.append(recipName) 
@@ -706,6 +711,19 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             line2p = []
             if (len(recipeMMextra)>0): 
                 line2p_ = ''
+                #add section name
+                line2p_+=r'\parindent0pt'+'\n'
+		line2p_+=r'\noindent'+'\n'
+                title_ = recipeMMtitle.split(' ')[0].lower()
+                if title_[-1] == 's': title_ = title_[:-1]
+                title_ = 'Autre {:s}'.format(title_) 
+                line2p_+=r'{\color{orangecolor}\Large\textbf{'+title_+'}}%    \parindent0pt'+'\n'
+		line2p_+=r'\par'+'\n'
+                if 'g' in title_:
+                    line2p_+=r'\vskip 2mm'+'\n'
+                else:
+                    line2p_+=r'\vskip 4mm'+'\n'
+                
                 #split per recipe
                 extra_name = []; extra_ingredient = []; extra_prep = [] 
                 ii = -1
@@ -733,6 +751,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     flag_noIngr = True
                     if len(extra_ingredient[ii])> 0:
                         flag_noIngr = False
+                        if 'Confiture de poire au gingembre' in extra_name_: line2p_ += '\\newpage\n'
                         line2p_ += '\\begin{minipage}{\\textwidth}\n'
                         line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
                         line2p_ += '\\begin{petitingreds} \n'
@@ -768,6 +787,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 flag_modified = 1
 
                 for ii_line_, line_ in enumerate(line2p):
+                    if 'orangecolor' in line_: continue # this is a title
                     #add index entry
                     recipeMMmotClef2 = copy.deepcopy(recipeMMmotClef)
                     for ii_mot, mot_ in enumerate(recipeMMmotClef2): 
@@ -811,11 +831,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         for line_ in line2p:
             
             percentnumbers = re.findall(r'\d+(?=%)', line_)
-            if len(percentnumbers) > 0:
+            if 'parindent' in line_:
+                final2_lines.append(line_)
+            elif len(percentnumbers) > 0:
                 for percentnumber in percentnumbers:
                     line_ = line_.replace( '{:s}%'.format(percentnumber) ,'{:s}\%'.format(percentnumber) )
 
-            if 'img/recette' in line_:
+            elif 'img/recette' in line_:
                 final2_lines.append(line_)
             elif 'vskip' in line_:
                 final2_lines.append(line_)
@@ -857,11 +879,13 @@ f = io.open("LogError/RecetteNoImg.txt","w", encoding='utf-8')
 for line in recetteNoImg:
     f.writelines((line+'\n').decode('utf-8'))
 f.close()
-f = io.open("LogError/RecetteNoImgHD.txt","w", encoding='utf-8')
-for line in recetteNoImgHD:
-    f.writelines((line+'\n').decode('utf-8'))
-f.close()
-
+if flag_hd: 
+    f = io.open("LogError/RecetteNoImgHD.txt","w", encoding='utf-8')
+    for line in recetteNoImgHD:
+        f.writelines((line+'\n').decode('utf-8'))
+    f.close()
+else:
+    if os.path.isfile("LogError/RecetteNoImgHD.txt"): os.remove("LogError/RecetteNoImgHD.txt")
 #save file
 f= io.open("cookbook.tex","w", encoding='utf-8')
 for line in final1_lines+final2_lines+final3_lines:
@@ -883,7 +907,10 @@ if flag_latex:
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
 
 print ''
-print 'nombre recette avec image HD non presentes: {:4d}.'.format(len(recetteNoImgHD))
+if flag_hd: 
+    print 'nombre recette avec image HD non presentes: {:4d}.'.format(len(recetteNoImgHD))
+else:
+    print "images HD n'ont pas ete prise en compte, flag_hd=", flag_hd  
 print 'nombre recette avec aucune image          : {:4d}.'.format(len(recetteNoImg))
 print 'voir LogError/RecetteNoImg.txt et  LogError/RecetteNoImgHD.txt pour plus de details'
 

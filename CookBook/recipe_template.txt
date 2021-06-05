@@ -22,7 +22,6 @@ recipeMMvin
 
 \begin{note}[recipeMMnote]{recipeMM11note}
 \end{note}
-\vskip 2mm
 
 recipeMMextra
 

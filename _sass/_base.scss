@@ -785,8 +785,11 @@ body {
 .img-ronan {
   display: block;
   max-width: 100%;
-  margin: 0 0 0rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 2px;
+  text-align: center;
 }
 
 .post-content{
