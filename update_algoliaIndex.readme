@@ -1,0 +1,4 @@
+ALGOLIA_API_KEY=XX bundle exec jekyll algolia
+XX is to get from https://www.algolia.com/apps/YY/api-keys/all
+the Admin API Key
+YY is the index name
