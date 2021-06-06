@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grillades de bœuf
+title: Grillades de bœuf sauce béarnaise
 tag_category: famille
 tag_plat: platViande
 image: img/recette/sauce-bearnaise.png
@@ -16,6 +16,7 @@ Les pièces de bœuf comme la côte, l'entrecôte ou le filet peuvent donner d'e
 * 1 belle côte de bœuf
 * 2 entrecôtes de 350 g chacune
 * 4 tranches de filet de bœuf de 175 g chacune
+* fleur de sel, poivre
 * un bol de sauce béarnaise (voir Notes)
 
 ### Préparation
