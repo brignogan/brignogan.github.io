@@ -708,7 +708,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             flag_modified = 1
         
         if ('recipeMMextra' in line): # for extra confiture ingredient and preparation
-            line2p = []
+            #line2p = []
             if (len(recipeMMextra)>0): 
                 line2p_ = ''
                 #add section name
@@ -783,12 +783,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     if (len(recipeMMextra)>1) & (ii < len(recipeMMextra)-1): line2p_ += '\n'
                     
                  
-                line2p.append(line.replace('recipeMMextra', line2p_.rstrip()))
+                line2p = line.replace('recipeMMextra', line2p_.rstrip())
                 flag_modified = 1
+                
+                line2p = line2p.split('\n')
+                for i_, line2p_ in enumerate(line2p):
+                    line2p[i_] = line2p_ + '\n'
 
                 for ii_line_, line_ in enumerate(line2p):
-                    if 'orangecolor' in line_: continue # this is a title
                     #add index entry
+                    if 'orangecolor' in line_: continue
                     recipeMMmotClef2 = copy.deepcopy(recipeMMmotClef)
                     for ii_mot, mot_ in enumerate(recipeMMmotClef2): 
                         if u'|' in mot_:
@@ -810,12 +814,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             else: 
                 flag_modified = 1
 
-        if 'recipeMMpreinstruction' in line:
-            if recipeMMpreinstruction is None:
-                line2p = [line.replace('recipeMMpreinstruction', '')]
-            else:
-                line2p = [line.replace('recipeMMpreinstruction', recipeMMpreinstruction[0])]
-            flag_modified = 1
+        #if 'recipeMMpreinstruction' in line:
+        #    if recipeMMpreinstruction is None:
+        #        line2p = [line.replace('recipeMMpreinstruction', '')]
+        #    else:
+        #        line2p = [line.replace('recipeMMpreinstruction', recipeMMpreinstruction[0])]
+        #    flag_modified = 1
 
         if flag_modified!=1: line2p = [line]
         
