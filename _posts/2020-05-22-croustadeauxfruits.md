@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Croustade aux fruits
+title: Croustades aux fruits
 tag_category: famille
 tag_plat: dessert
 image: img/recette/croustade.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tarte aux pommes et amandes
+title: Tarte aux pommes (ou abricots) et amandes
 tag_category: famille
 tag_plat: dessert
 image: img/recette/tarte-pommes-amandes.png
@@ -10,16 +10,19 @@ temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: pâte feuilletée | pâte!feuilletée, pomme, amandes | amande, abricots | abricot
 ---
-La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table. A la belle saison, cette recette peut alors permettre de préparer une tarte aux abricots (voir notes)
+La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'automne et pendant tout l'hiver jusqu'à ce que les fruits d'été ré-apparaissent sur notre table. A la belle saison, cette recette peut alors permettre de préparer une tarte aux abricots (voir notes).
 
 ### Ingrédients
-* 4 ou 5 pommes (reinettes)
 * 1 pâte feuilletée
 * 25 cL de crème fraîche
 * 1 œuf
 * 100 g de sucre
 * 70 g d’amandes effilées
-
+#### pour la tarte aux pommes :
+* 4 ou 5 pommes (reinettes)
+#### pour la tarte aux abricots :
+* 500 g d'abricots
+* 125 g de poudre d'amande
 
 ### Préparation
 * Eplucher les pommes et les couper en lamelles.
@@ -37,4 +40,4 @@ La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'autom
 
 ### Notes
 * Le fond de tarte peut se faire avec une fine [pâte brisée]({% post_url 2020-04-20-tarte-citron %}) suivant la recette de Hahn Faucheu, décrite pour la tarte au citron.
-* Pour réaliser une tarte aux abricots, suivre la préparation ci-dessus en remplaçant les pommes par 500 g d'abricots. Le fond de pâte crue sera recouvert de 125 g de poudre d'amande qui absorbera le jus des abricots pendant la cuisson et les fruits dénoyautés seront déposés face bombée dessous.
+* Pour réaliser une tarte aux abricots, suivre la préparation ci-dessus en remplaçant les pommes par les abricots. Le fond de pâte crue sera recouvert de la poudre d'amande qui absorbera le jus des abricots pendant la cuisson et les fruits dénoyautés seront déposés face bombée dessous.
