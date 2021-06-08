@@ -3,7 +3,7 @@ layout: post
 title: Sauce hollandaise
 tag_category: famille
 tag_plat: sauce
-image: img/recette/untitled.png
+image: img/recette/sauce-hollandaise.png
 temps_preparation: 10
 temps_cuisson: 10
 temps_repos: '-'
