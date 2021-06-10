@@ -518,7 +518,13 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line_3 = ' ' + line_.split('%})')[1].strip()
                     #get link
                     line_2 = line_.split(']({% post_url')[1].strip().split('%}')[0]
-                    idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_2.strip()+'.md')[0][0]
+                    try:
+                        idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_2.strip()+'.md')[0][0]
+                    except: 
+                        print "###################"
+                        print "j'ai pas trouve dans les noms de post la reference '{:s}' qui se trouve le poste '{:s}'".format(line_2,recipName)
+                        print "###################"
+                        raise NameError('')
                     sectionName = tag_name[idx_].replace(' ','').lower()
                     ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
                     line_ = line_.split(']({% post_url ')[0].replace('[','') + ref_ + line_3  
