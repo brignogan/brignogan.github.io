@@ -41,7 +41,7 @@ Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la r
 * Couper, au couteau et séparément, le jambon, le lard et les champignons en morceaux les plus petits possible (voir note).
 * Dans une poêle, faire suer les champignons à sec puis ajouter le jambon et le lard. Bien mélanger.
 * Fourrer 8 crêpes avec cette farce et les déposer dans un plat (pour le four) beurré.
-* Préparer la [sauce béchamel]({% post_url 2020-07-09-sauce-bechamel %}).
+* Préparer la [sauce béchamel]({% post_url 2020-07-09-sauce8bechamel %}).
 * Verser la sauce sur les crêpes et recouvrir d'une généreuse couche de gruyère râpé.
 * Faire gratiner au turbo-gril.
 * Servir avec une salade verte.

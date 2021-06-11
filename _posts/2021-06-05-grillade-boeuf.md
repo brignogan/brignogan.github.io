@@ -29,4 +29,4 @@ Les pièces de bœuf comme la côte, l'entrecôte ou le filet peuvent donner d'e
 * Vin rouge : Saint-Emilion (Château Franc Patarabet), Saint-Emilion (Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côtes-du-Rhône Villages (Château La Borie), Saint-Aubin (Domaine Hubert Lamy, Derrière chez Edouard), Saint-Estèphe (Château Haut-Marbuzet).
 
 ### Notes
-* Pour la sauce béarnaise, la [préparation]({% post_url 2020-04-24-sauce8bearnaise %}) est décrite dans la rubrique "Sauces et Condiments".
+* Pour la sauce béarnaise, la [préparation]({% post_url 2020-04-24-sauce7bearnaise %}) est décrite dans la rubrique "Sauces et Condiments".
