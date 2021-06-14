@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: d'estragon | estragon, cerfeuil
 index_motClefBase: sauce béarnaise | sauce!béarnaise
 ---
-La sauce béarnaise se déguste chaude ou tiède et accompagne avec bonheur les viandes grillées comme la côte de boeuf, l'entrecôte, le tournedos ou le chateaubriand.
+La sauce béarnaise est, comme la sauce hollandaise, une sauce émulsionnée chaude à base de sabayon. Les herbes qui l'agrémentent en font un accompagnement idéal des viandes grillées comme la côte de boeuf, l'entrecôte, le tournedos ou le chateaubriand.
 
 ### Ingrédients
 * 2 jaunes d'oeufs
