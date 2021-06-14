@@ -24,8 +24,7 @@ La sauce au poivre est, comme la sauce béchamel, un roux blanc mais délayé av
 ### Préparation
 * Délayer le cube de bouillon dans l'eau bouillante. Réserver.
 * Concasser grossièrement les grains de poivre. Réserver.
-* Faire fondre le beurre dans une casserole.
-* Ajouter la farine, mélanger intimement et faire cuire la farine pendant quelques minutes sans la faire prendre de la couleur.
-* En maintenant la casserole sur un petit feu, délayer le mélange beurre-farine en ajoutant petit à petit le bouillon et en lissant bien le mélange avant chaque ajout pour éviter les grumeaux.  Ajuster la quantité de bouillon pour obtenir une bonne consistance de la sauce.
+* Faire fondre le beurre dans une casserole, y ajouter la farine et mélanger intimement. Faire cuire pendant quelques minutes sans faire prendre de la couleur au mélange.
+* Sur petit feu, délayer le mélange beurre-farine en ajoutant petit à petit le bouillon et en fouettant pour éviter les grumeaux.  Ajuster la quantité de bouillon pour obtenir une bonne consistance de la sauce.
 * Ajouter le vinaigre et le poivre concassé. Laisser cuire à feu doux jusqu'au premier bouillon. Si besoin délayer à nouveau avec un peu de bouillon.
 * Rectifier l'assaisonnement (sel et poivre moulu) si besoin.
