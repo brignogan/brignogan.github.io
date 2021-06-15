@@ -3,7 +3,7 @@ layout: post
 title: Sauce au poivre
 tag_category: famille
 tag_plat: sauce
-image: img/recette/untitled.png
+image: img/recette/saucepoivre.png
 temps_preparation: 5
 temps_cuisson: 10
 temps_repos: '-'
@@ -13,12 +13,12 @@ index_motClefBase: sauce au poivre | sauce!au poivre
 La sauce au poivre est, comme la sauce béchamel, un roux blanc mais délayé avec un bouillon au lieu de lait. Cette sauce épicée se marie très bien avec une entrecôte ou un magret de canard.  
 
 ### Ingrédients
-* 50 g de farine
-* 50 g de beurre demi-sel
+* 40 g de farine
+* 40 g de beurre demi-sel
 * un cube de bouillon de boeuf
 * 500 mL d'eau
 * 1 c. à s. de poivre en grains
-* 1 c. à s. de vinaigre de vin
+* 1 c. à s. de vinaigre de vin ou balsamique
 * sel
 
 ### Préparation
