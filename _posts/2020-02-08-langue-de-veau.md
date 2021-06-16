@@ -26,7 +26,7 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * Déposer la langue dans une cocotte, la couvrir d'eau froide. Faire bouillir l'eau puis, à couvert, faire cuire 1 h en écumant régulièrement.
 * Ajouter le cube de bouillon, les carottes, le cèleri et le bouquet garni. Faire cuire à nouveau 1 h à couvert.
 * A la fin de la cuisson de la langue, l'égoutter et ôter la peau. La couper en tranches.
-* Servir la langue accompagnée de la sauce gribiche et de pommes de terre cuites à l'eau.
+* Servir la langue accompagnée des légumes, de la sauce gribiche et de pommes de terre cuites à l'eau.
 
 ### Vins
 * Vin blanc : Jasnières	(Domaine de Cézin, Origine), Pays d'Hérault (Mas de Daumas-Gassac).
