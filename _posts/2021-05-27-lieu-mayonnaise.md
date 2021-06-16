@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: 4
 index_motClefIngredient: lieu jaune, pomme de terre, mayonnaise
 ---
-Le lieu jaune à la mayonnaise était un plat traditionnel pour les repas maigres du vendredi. Il reste un repas de poisson basique pour les menus "de tous les jours".
+Il s'agit ici du lieu jaune à ne pas confondre avec le lieu noir ou le colin qui sont des poissons bien moins prisés. Comme le bar, le lieu jaune, pêché à la ligne, est l'un des meilleurs poissons de notre côte. Préparé à la mayonnaise, il était traditionnellement servi pour les repas maigres du vendredi. Cela reste un repas de poisson basique pour les menus "de tous les jours".
 
 ### Ingrédients
 * 600 g de lieu jaune
