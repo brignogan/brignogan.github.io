@@ -40,6 +40,5 @@ La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penm
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois), Bandol (Château Guilhem Tournier, La Malissonne).
 
 ### Notes
-* La taille de la louche détermine l’épaisseur de la crêpe. On peut donc moduler cette épaisseur en remplissant plus ou moins la louche.
 * A l'étalement de la première louchée, si la pâte glisse sous le rateau, la bilig est trop grasse, l’essuyer avec un chiffon sec. Si la pâte colle à la bilig, celle-ci n'est pas assez grasse ou pas assez chaude. Prévoir une ou deux crêpes-test afin de parfaire la préparation.
 * Voici un exemple de préparation pour "la complète" (jambon-oeuf-fromage).{% include vimeoPlayer.html id="390606477" padding-bottom="56.25%" label="complète blé noir"%}
