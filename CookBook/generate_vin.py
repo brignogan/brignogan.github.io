@@ -52,6 +52,7 @@ def saveplot(appellations_domain,vin,metropole,bassins):
                               #vin.geometry.coords.xy[0][0]-1.e5, vin.geometry.coords.xy[0][0]+1.e5,\
                               #vin.geometry.coords.xy[1][0]-1.e5, vin.geometry.coords.xy[1][0]+1.e5
     if vin.Bassin == 'Bourgogne': buffer_lim = 100.e3
+    elif u'domainedelamordor' in vin.DomaineChateau.replace('&','').replace(' ','').lower()  : buffer_lim = 50.e3
     else: buffer_lim = 200.e3
 
     '''
@@ -999,18 +1000,25 @@ if __name__ == '__main__':
         if (((not(flag_restart)) or (not(os.path.isfile(map_domain))))):
             if len(appellation_) != 0:
                 hash_patterns = ('..', '//', 'o', '\\\\', 'O', '*', '-')
+                hash_colors   = ('.5', '.5', '.5', '.5', '.5', '.5', '.5')
+                facecolor = 'none'
+                if u'domainedelamordor' in vin.DomaineChateau.replace('&','').replace(' ','').lower()  : 
+                    hash_patterns = ('oo', '....', 'O', '//', '-')
+                    hash_colors   = ('.5', '0.1', '0.5', '.5', '.5', '.5', '.5')
+                    facecolor     = ''
+                
                 if simple_appelation(appellation_.reset_index().nom[0]) not in appellations_domainName:
                     
-                    appellation_.plot(ax=ax, zorder=5, facecolor='none', edgecolor='.5', hatch=hash_patterns[len(appellations_domain)])
+                    appellation_.plot(ax=ax, zorder=5, facecolor='none', edgecolor=hash_colors[len(appellations_domain)], hatch=hash_patterns[len(appellations_domain)])
                     
                     appellations_domainName.append(simple_appelation(appellation_.reset_index().nom[0]))
                    
                     if flag_international == 0:
                         LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
-                                                                    edgecolor='.5', label=simple_appelation(vin.Appelation) ) )
+                                                                    edgecolor=hash_colors[len(appellations_domain)], label=simple_appelation(vin.Appelation) ) )
                     else:
                         LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
-                                                                    edgecolor='.5', label=simple_appelation(vin.Bassin) ) )
+                                                                    edgecolor=hash_colors[len(appellations_domain)], label=simple_appelation(vin.Bassin) ) )
 
                     appellations_domain = appellation_ if len(appellations_domain)==0 else appellations_domain.append(appellation_)
 
