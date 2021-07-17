@@ -5,6 +5,8 @@
 \usepackage[T1]{fontenc}
 \usepackage{vntex} %vietnamese 
 \usepackage{xfrac}    % Works better with other fonts
+
+
 \usepackage[normalem]{ulem}
 \usepackage[french]{babel}
 \usepackage[autostyle=false,french=quotes]{csquotes}
@@ -134,11 +136,15 @@
   \pagenumbering{arabic}}
 \makeatother
 
+%\usepackage{bold-extra}
+%\usepackage{slantsc}
+
 %% Vary the colors at will
 
 \definecolor{vegcolor}{rgb}{0,0.5,0.2}
 \definecolor{frzcolor}{rgb}{0,0,1}
 \definecolor{orangecolor}{rgb}{.83,.33,0}
+\definecolor{titlecolor}{rgb}{.78,0,0}
 \definecolor{antiquebrass}{rgb}{0.8, 0.58, 0.46}
 \definecolor{bronze}{rgb}{0.8, 0.5, 0.2}
 \definecolor{frenchblue}{rgb}{0.0, 0.45, 0.73}
@@ -879,8 +885,12 @@
 
 \input{./InputTex/frontPage}
 %############
-
 \clearpage % end title page
+
+\mbox{}
+\vfill
+© Copyright Famille Paugam, Coat Tanguy, Brignogan, 2021\\
+
 \begingroup
   \pagestyle{empty}
   \null
