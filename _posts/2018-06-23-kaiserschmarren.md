@@ -37,4 +37,4 @@ C'est un dessert typiquement autrichien et cette recette vient de Veronika, une 
 
 ### Notes
 * A la mode autrichienne, ce gâteau sera accompagné d'un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
-* La légende veut que cette recette ait été inventé pour l'impératrice Elisabeth d'Autriche (dite Sissi) qui souhaitait un dessert pauvre en calories. Elle ne l'apprécia pas et c'est l'empereur François-Joseph qui le valida.  
+* La légende veut que cette recette ait été inventée pour l'impératrice Elisabeth d'Autriche (dite Sissi) qui souhaitait un dessert pauvre en calories. Elle ne l'apprécia pas et c'est l'empereur François-Joseph qui le valida.  
