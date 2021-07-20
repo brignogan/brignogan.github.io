@@ -47,4 +47,3 @@ Muni d’un pied très puissant l'ormeau s'accroche sur les supports qu’il ren
 
 ### Notes
 * Olivier Roellinger conseille de préparer les ormeaux en les massant pour les attendrir. En pays léonard, on est plus pragmatique et on préfère un bon coup de maillet sur la bête.
-* Il faut aussi noter que l'intérieur de la coquille est recouvert de nacre aux reflets changeant. Cette coquille est parfois récupérée pour faire des bijoux ou des incrustations par les ébénistes et luthiers.

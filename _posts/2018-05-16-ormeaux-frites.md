@@ -3,7 +3,7 @@ layout: post
 title: Ormeaux poêlés frites
 tag_category: bretagne
 tag_plat: platPoisson
-image: img/recette/ormeau2.png
+image: img/recette/ormeaux-frites.png
 temps_preparation: 45
 temps_cuisson: 20
 temps_repos: 4320
@@ -39,3 +39,4 @@ Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d�
 
 ### Notes
 * Il y a à peu près 9 ormeaux moyens au kilo.
+* Il faut aussi noter que l'intérieur de la coquille est recouvert de nacre aux reflets changeant. Cette coquille est parfois récupérée pour faire des bijoux ou des incrustations par les ébénistes et luthiers.
