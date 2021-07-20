@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: bette
 ---
-Cette recette est excellente pour préparer les bettes. Elles peuvent être blanches, jaunes ou rouges. En mélange, elles font, de plus, une belle poêlée.
+Cette recette est excellente pour préparer les bettes. Elles peuvent être blanches, jaunes ou rouges. En mélange, elles font, de plus, une belle poêlée qui accompagne aussi bien les viandes que les poissons.
 
 ### Ingrédients
 * 1 kg de bettes
@@ -32,4 +32,3 @@ Cette recette est excellente pour préparer les bettes. Elles peuvent être blan
 
 ### Notes
 * Les bettes se marient très bien avec le goût acidulé mais pour une poêlée moins acide, on peut supprimer le jus de citron. Pour la même raison, on peut remplacer le fromage blanc par de la crème fraîche.
-* Cette poêlée peut accompagner les poissons comme les viandes.

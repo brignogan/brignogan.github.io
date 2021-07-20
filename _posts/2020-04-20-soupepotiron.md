@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: potiron
 ---
-Tous les ans, cette soupe d'automne est au menu du repas d'anniversaire de Maëlle. Pour cette fête familiale, elle est à l'entrée ce qu'est la tarte au citron au dessert : incontournable.
+Cette soupe est un plat classique de l'automne et se retrouve, chaque année, au menu du repas d'anniversaire de Maëlle. Pour cette fête familiale, elle est à l'entrée ce qu'est la tarte au citron au dessert : incontournable.
 
 ### Ingrédients
 * 500 g de potiron
