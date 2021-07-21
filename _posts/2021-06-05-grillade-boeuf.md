@@ -3,7 +3,7 @@ layout: post
 title: Grillades de bœuf sauce béarnaise ou au poivre
 tag_category: famille
 tag_plat: platViande
-image: img/recette/sauce-bearnaise.png
+image: img/recette/grillade-boeuf.png
 temps_preparation: 10
 temps_cuisson: 20
 temps_repos: 5
