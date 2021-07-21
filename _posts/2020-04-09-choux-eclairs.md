@@ -3,7 +3,7 @@ layout: post
 title: Choux et éclairs
 tag_category: famille
 tag_plat: dessert
-image: img/recette/eclair.png
+image: img/recette/choux-eclairs.png
 temps_preparation: 60
 temps_cuisson: 45
 temps_repos: 1200
