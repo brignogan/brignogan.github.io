@@ -3,7 +3,7 @@ layout: post
 title: Gratin dauphinois
 tag_category: famille
 tag_plat: platLegume
-image: img/recette/untitled.png
+image: img/recette/gratindauphinois.png
 temps_preparation: 20
 temps_cuisson: 110
 temps_repos: '-'
