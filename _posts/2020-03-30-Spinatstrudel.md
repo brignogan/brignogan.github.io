@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: pâte feuilletée | pâte!feuilletée, épinard, feta, muscade
 ---
-C'est la version salée de l'apfelstrudel. Comme pour ce dernier, la finesse de la pâte est le secret de la réussite.
+C'est la version salée de l'Apfelstrudel. Comme pour ce dernier, la finesse de la pâte est le secret de la réussite.
 
 ### Ingrédients
 * 1 pâte feuilletée
