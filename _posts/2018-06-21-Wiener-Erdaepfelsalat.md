@@ -3,7 +3,7 @@ layout: post
 title: Wiener Erdäpfelsalat (« la » salade de pommes de terre autrichienne)
 tag_category: autriche
 tag_plat: platLegume
-image: img/recette/erdaepfelsalat.png
+image: img/recette/wiener-Erdaepfelsalat.png
 temps_preparation: 15
 temps_cuisson: 20
 temps_repos: ‘-‘

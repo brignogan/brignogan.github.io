@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: pomme, cannelle, raisin sec, pâte feuilletée | pâte!feuilletée, chapelure
 ---
-Ce dessert est une recette autrichienne mythique dont la réussite tient à la qualité de la pâte utilisée.
+Ce dessert est une recette autrichienne mythique. Sa spécificité tient à la pâte utilisée (Strudelteig) fastidieuse à préparer. Une bonne alternative consiste à la remplacer par de la pâte feuilletée. Le gâteau est alors appelé Apfelschlangerl.
 
 ### Ingrédients
 * 3-4 pommes
@@ -19,11 +19,10 @@ Ce dessert est une recette autrichienne mythique dont la réussite tient à la q
 * poudre d'amande
 * sucre roux
 * raisins secs préalablement macérés dans le rhum
-* 1 pâte feuilletée (ou éventuellement des feuilles de pâte « filo », plus proche de la vraie « strudelteig »)
+* 1 pâte feuilletée ou filo
 * beurre
 * chapelure
 * 1 jaune d’œuf
-
 
 ### Préparation
 * Éplucher les pommes en les gardant entières. Les râper avec une mandoline. Ajouter du jus du citron, du sucre roux, de la poudre d'amande (pour absorber le jus des pommes), de la cannelle, selon votre goût.
@@ -39,4 +38,4 @@ Ce dessert est une recette autrichienne mythique dont la réussite tient à la q
 * Pommeau : Pommeau de Bretagne (Distillerie des Menhirs).
 
 ### Notes
-* A la mode autrichienne, ce gâteau sera accompagné d'un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
+* Ci-dessous, un vrai Apfelstrudel présenté par Melanie et sa maman.
