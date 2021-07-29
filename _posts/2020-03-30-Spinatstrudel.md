@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: pâte feuilletée | pâte!feuilletée, épinard, feta, muscade
 ---
-C'est la version salée de l'Apfelstrudel. Comme pour ce dernier, la finesse de la pâte est le secret de la réussite.
+C'est la version salée de l'Apfelstrudel. Comme pour ce dernier, la finesse de la pâte (Strudelteig) est le secret de la réussite. Celle-ci étant fastidieuse à préparer, une bonne alternative consiste à la remplacer par de la pâte feuilletée.
 
 ### Ingrédients
 * 1 pâte feuilletée
@@ -39,5 +39,5 @@ C'est la version salée de l'Apfelstrudel. Comme pour ce dernier, la finesse de 
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches).
 
 ### Notes
-* A la place de la pâte feuilletée, on peut utiliser des feuilles de pâte "filo" pour être au plus proche de la vraie "strudelteig".
+* A la place de la pâte feuilletée, on peut utiliser des feuilles de pâte "filo" pour être au plus proche de la vraie "Strudelteig".
 * Une bière blonde légère sera une boisson idéale pour déguster ce feuilleté d'épinard à la mode autrichienne.
