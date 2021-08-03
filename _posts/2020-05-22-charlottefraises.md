@@ -3,7 +3,7 @@ layout: post
 title: Charlotte aux fraises
 tag_category: famille
 tag_plat: dessert
-image: img/recette/untitled.png
+image: img/recette/charlottefraises.png
 temps_preparation: 45
 temps_cuisson: '-'
 temps_repos: 360
