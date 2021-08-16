@@ -46,6 +46,9 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois).
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
 * Vin rouge : Côtes-du-Roussillon (Domaine Sol Payré, Ater Noir).
+#### Plus aventureux :
+* Vin blanc doux : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Sauternes (Château Haut-Bergeron), Maury (Les Vignes d'Elodie).
+* Vin rouge doux : Maury (Les Vignes d'Elodie).
 
 ### Notes
 * Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
