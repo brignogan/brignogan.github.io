@@ -37,4 +37,4 @@ Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier m
 
 ### Notes
 * Si la recette se fait traditionnellement dans le couscoussier, le temps de cuisson doit être d'au moins 2h.
-* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
+* Pour la boisson d'accompagnement, voir la note de la recette [Brochettes de poisson]({% post_url 2018-05-28-brochettedepoisson %}).

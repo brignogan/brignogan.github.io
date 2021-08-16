@@ -44,10 +44,11 @@ Les brochettes servies avec ces accompagnements sont une recette typiquement mar
 * Récupérer et hacher l'écorce du citron confit. Hacher les olives.
 * Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié du coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile d'arachide et du sel. Ajuster l'assaisonnement. Réserver au frais.
 * Cuire 5 mn les brochettes sur le barbecue très chaud.
-* Servir les brochettes avec le jus de la marinade, les différentes salades et les oeufs. Ne pas oublier le pain (kesra ou à défaut baguette). Proposer sel, poivre et cumin.
+* Servir les brochettes avec les échalotes et le jus de la marinade, les différentes salades et les oeufs. Proposer sel, poivre et cumin.
 
 ### Vins
 * Vin rouge : Lirac (Domaine de la Mordorée, La Reine des Bois), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de la Mordorée, La Dame Voyageuse).
 
 ### Notes
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès). Notons aussi que, traditionnellement, les brochettes de viande comme les tagines et le couscous se mangent avec du kesra (pain plat marocain) ou à défaut de la baguette. On y va alors avec les doigts !… mais si on se permet un accompagnement de vin, on peut prendre des couverts.

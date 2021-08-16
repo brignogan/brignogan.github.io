@@ -59,4 +59,4 @@ Cette recette de couscous est en fait une synthèse de la recette de Rkia (recet
 
 ### Note
 * Grand Mère Saint Pierre commençait la préparation de son couscous à 5 h du matin pour midi…. Elle cuisait très longuement, dans de l’eau salée, les pois chiches, mis à tremper depuis la veille. Elle épluchait les petits artichauts et les cuisait à l’eau salée. Elle avait les mains toutes noires et les frottait avec du citron… une vraie galère !!! On peut maintenant faire confiance aux légumes en conserve. Ouf!
-* Typiquement, ce plat du Maghreb devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès au Maroc).
+* Pour le service de ce plat voir la note de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}). Spécifiquement, la dégustation du couscous nécessite une cuiller. 

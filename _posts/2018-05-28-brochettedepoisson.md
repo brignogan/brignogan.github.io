@@ -38,3 +38,4 @@ Le kanoun est un fourneau bas en terre ou en métal utilisé traditionnellement 
 
 ### Notes
 * Ne pas laisser mariner trop longtemps le poisson qui donnerait trop de son eau.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).

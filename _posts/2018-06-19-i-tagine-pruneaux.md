@@ -47,6 +47,5 @@ Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être 
 
 ### Notes
 * Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn, les égoutter puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.
-* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
-* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
 * Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
+* Pour le service de ce plat voir la note de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).

@@ -41,5 +41,4 @@ Les keftas sont à la base de nombreuses recettes marocaines. On peut par exempl
 * Vin rouge : Côtes-de-Provence (Domaine Saint Victorin, Cuivre), Côtes-de-Provence (Domaine Saint Victorin, Damien), Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Minervois (Château Le Bouchat-Alaux, Fontaine de Santé), Côtes-du-Rhône Villages (Château La Borie, Emile Borie).
 
 ### Notes
-* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès).
-* Traditionnellement, le tagine se mange avec du kesra (pain plat marocain) et avec les doigts !… mais comme on se permet de l'accompagner de vin, on peut prendre des couverts.
+* Pour le service de ce plat voir la note de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).
