@@ -57,6 +57,6 @@ Cette recette de couscous est en fait une synthèse de la recette de Rkia (recet
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois).
 * Vin rouge : Pays d'Hérault (Mas de Daumas-Gassac), Côtes-du-Roussillon (Domaine Sol Payré, Ater Noir), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Bandol (Château de Pibarnon), Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Gigondas	(Château d'Ampuis).
 
-### Note
+### Notes
 * Grand Mère Saint Pierre commençait la préparation de son couscous à 5 h du matin pour midi…. Elle cuisait très longuement, dans de l’eau salée, les pois chiches, mis à tremper depuis la veille. Elle épluchait les petits artichauts et les cuisait à l’eau salée. Elle avait les mains toutes noires et les frottait avec du citron… une vraie galère !!! La cuisson de la marga dans le bas du couscoussier durait 1h1/2. On peut maintenant faire confiance aux légumes en conserve et utiliser la cocotte minute... Ouf!
 * Pour le service de ce plat voir la note de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}). Spécifiquement, la dégustation du couscous nécessite une cuiller.
