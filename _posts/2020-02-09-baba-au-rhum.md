@@ -45,3 +45,6 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 
 ### Vins
 * Vin blanc : Macvin du Jura (Domaine de Savagny).
+
+### Notes
+* Le baba au rhum "express" est évidemment plus rapide à préparer. La pâte est levée avec de la levure alsacienne et ne nécessite donc pas de période de repos. Le gâteau n'a donc ni la même texture, ni le goût particulier dû à la levure du boulanger.  
