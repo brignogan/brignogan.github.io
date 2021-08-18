@@ -51,13 +51,13 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 * Mélanger le chocolat fondu au reste de la préparation.
 * Monter les blancs en neige, incorporer le sucre en poudre. Battre bien ferme puis incorporer délicatement à la préparation.
 * Finir en incorporant la farine passée au tamis.
-* Beurrer et fariner un moule à manquer (diamètre 24(22)cm). Y verser la pâte. Cuire au four 45 min à 160°C à chaleur tournante. Pendant la cuisson du gâteau, réaliser la 1ère étape de la préparation du glaçage (voir ci-dessous). 
+* Beurrer et fariner un moule à manquer (diamètre 24(22)cm). Y verser la pâte. Cuire au four 45 min à 160°C à chaleur tournante. Pendant ce temps commencer la préparation du glaçage (voir ci-dessous).
 * Laisser refroidir le gâteau démoulé sur une grille.
 * Une fois froid, poser le gâteau sur un fond en carton (d'une circonférence légèrement plus petite) recouvert d'une feuille d'aluminium. Le couper en deux dans l'épaisseur. Recouvrir le dessous avec la préparation à l'abricot et reposer la deuxième moitié du gâteau par dessus. Recouvrir l'extérieur du gâteau (dessus et coté) avec une fine couche de marmelade.
 
 #### Préparation du glaçage :
 
-* Faire fondre le beurre et le chocolat au bain-marie. Quand l'ensemble est bien fondu et homogène, ajouter la cuillère d'huile, mélanger puis sortir du feu et laisser refroidir. Réchauffer à nouveau pour re-liquéfier parfaitement le glaçage.
+* Faire fondre le beurre et le chocolat au bain-marie. Quand l'ensemble est homogène, ajouter la cuillère d'huile, mélanger puis laisser refroidir. Réchauffer à nouveau pour re-liquéfier parfaitement le glaçage.
 * Déposer le gâteau avec son fond en carton sur la grille et poser l'ensemble sur un plat plus large que le gâteau pour recueillir le glaçage qui va dégouliner (schéma ci-dessous).
 * Recouvrir le gâteau en versant le glaçage chaud à travers une passoire fine (chinois) en commençant par le centre du gâteau et en finissant par les bords.
 * Réserver le gâteau au frais (idéalement 12 h au frigo).
