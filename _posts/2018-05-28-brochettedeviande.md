@@ -18,7 +18,7 @@ Les brochettes servies avec ces accompagnements sont une recette typiquement mar
 * 2 c. à c. de paprika
 * 1/2 c. à c. de gingembre
 * 4-5 pistils de safran
-* huile d'arachide
+* huile d'arachide et huile d'olive
 * 6 petites courgettes vert clair
 * 2 gousses d'ail
 * 3 carottes

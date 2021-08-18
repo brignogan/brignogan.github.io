@@ -28,14 +28,18 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 
 ### Préparation
 * Faire couper l'épaule en morceaux par le boucher.
+
+#### Cuisson de la viande
 * Hacher très fin le persil, le coriandre et l’ail pour obtenir 2 c. à s. de hachis.
 * Mettre dans le tagine (ou un plat creux) un verre d’huile, la moitié du hachis herbes-ail, le safran, le gingembre, le colorant, du sel et du poivre. Bien mélanger.
 * Ajouter les morceaux de viande, bien les enduire du mélange et verser le tout dans la cocotte minute.
 * Faire dorer la viande à grand feu puis ajouter le reste du mélange herbes-ail et l’oignon émincé.
-* Ajouter 150-200 mL d’eau dans le tagine pour le rincer et verser dans la cocotte (la viande doit être à peine couverte). Fermer la cocotte et laisser cuire à petit feu ¾ h.
+* Ajouter 150-200 mL d’eau dans le tagine pour le rincer et verser dans la cocotte (la viande doit être à peine couverte). Fermer la cocotte et laisser cuire à petit feu ¾ h. Procéder alors à la préparation de l'accompagnement (voir ci-dessous).
 * Au bout de ce temps, ouvrir la cocotte et vérifier que la viande est cuite (elle doit se défaire avec les doigts). Faire mijoter à petit feu à découvert pour faire évaporer l’eau pendant ¼ h. La sauce doit être limpide et onctueuse. A ce moment, la viande est prête, verser le tout dans le tajine et laisser mijoter pour confire la viande.
+
+#### Préparation de l'accompagnement
 * Pendant la cuisson de la viande, couper les coings en quatre et ôter le coeur (ne pas les éplucher), les mettre à tremper dans de l’eau citronnée pour qu’ils ne s’oxydent pas.
-* Les faire cuire dans de l’eau bouillante. Bien surveiller la cuisson en piquant régulièrement chaque quartier avec une pointe de couteau. Sortir et réserver les quartiers dès qu’ils sont juste cuits. Attention : ils ne cuisent pas tous à la même vitesse.
+* Les faire cuire dans de l’eau bouillante. Bien surveiller la cuisson (qui va durer 15-20 min) en piquant régulièrement chaque quartier avec une pointe de couteau. Sortir et réserver les quartiers dès qu’ils sont juste cuits. Attention : ils ne cuisent pas tous à la même vitesse.
 * Quand ils sont tous cuits, les remettre dans la casserole contenant à peu près 100 mL d’eau. Ajouter le sucre et la cannelle et faire cuire à feu doux pour que la sauce caramélise légèrement. Ajouter de l’eau si besoin et remuer délicatement les coings pour qu’ils soient bien enrobés de la sauce. Garder au chaud et si besoin ajouter encore de l'eau pour maintenir la consistance de la sauce.
 * Au moment de servir, disposer les coings sur la viande. Traditionnellement, le tagine se mange avec du kesra (pain plat marocain).
 

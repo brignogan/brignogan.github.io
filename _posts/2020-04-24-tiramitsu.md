@@ -16,10 +16,10 @@ Ce tiramisu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportait
 * 4 oeufs
 * 250 g de mascarpone
 * 50 g de sucre (pour un goût peu sucré)
-* 5 sachets-doses de café soluble
-* 300 mL d'eau chaude
-* 2 c. à s. d'amaretto (ou whisky)
-*  250 g de boudoirs
+* 2 sachets-doses de café soluble
+* 100 mL d'eau chaude
+* 1 c. à s. d'amaretto (ou whisky)
+* 250 g de boudoirs
 * chocolat en poudre sucré (Nesquik)
 * sel
 

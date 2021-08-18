@@ -24,8 +24,8 @@ La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand
 
 ### Préparation
 * Faire juste fondre le beurre et laisser refroidir.
-* Mélanger les farines, les jaunes d’œufs, le sucre et un peu de lait pour obtenir une pâte homogène.
-* Ajouter le beurre.
+* Mélanger les farines, les jaunes d’œufs, le sucre et un peu de lait pour obtenir une pâte homogène assez épaisse.
+* Ajouter le beurre fondu.
 * Ajouter les blancs d’œufs montés en neige.
 * Délayer délicatement avec le reste de lait. Laisser reposer.
 * Chauffer la bilig à 200-210°C.

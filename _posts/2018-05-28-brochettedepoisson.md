@@ -13,20 +13,20 @@ index_motClefIngredient: lotte, saumon, paprika, gingembre, safran
 Le kanoun est un fourneau bas en terre ou en métal utilisé traditionnellement au Maroc pour le chauffage et la cuisson des aliments. Equipé d'une grille, il permet la cuisson des grillades. Halima et Rkia étaient des expertes en gestion du kanoun. Depuis notre retour en France, il a été troqué contre un barbecue électrique pour une préparation plus cool des brochettes.  
 
 ### Ingrédients
-* 900 g de poissons fermes : lotte, saumon
+* 900 g de poissons fermes : lotte, saumon, thon
 * 1 gousse d'ail
 * 2 c. à c. de paprika
 * 1/2 c. à c. de gingembre
 * 4-5 pistils de safran
-* 20 cl de crème fraîche liquide
+* 20 cL de crème fraîche liquide
 * 1/2 citron
-* huile d'arachide
+* huile d'arachide ou tournesol
 * sel, poivre,
 
 ### Préparation
 * Couper les poissons en gros dés.
 * Ecraser la gousse d'ail.
-* Mélanger le tout et ajouter huile d'arachide, sel, poivre, paprika, gingembre et safran.
+* Mélanger le tout et ajouter huile, sel, poivre, paprika, gingembre et safran.
 * Laisser mariner 2 h au frais.
 * Egoutter les dés de poissons et les enfiler sur des brochettes.
 * Cuire 5 mn les brochettes sur le barbecue très chaud.

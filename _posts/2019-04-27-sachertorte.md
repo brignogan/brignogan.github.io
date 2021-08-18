@@ -51,7 +51,7 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 * Mélanger le chocolat fondu au reste de la préparation.
 * Monter les blancs en neige, incorporer le sucre en poudre. Battre bien ferme puis incorporer délicatement à la préparation.
 * Finir en incorporant la farine passée au tamis.
-* Beurrer et fariner un moule à manquer (diamètre 24(22)cm). Y verser la pâte. Cuire au four 45 min à 160°C à chaleur tournante.
+* Beurrer et fariner un moule à manquer (diamètre 24(22)cm). Y verser la pâte. Cuire au four 45 min à 160°C à chaleur tournante. Pendant la cuisson du gâteau, réaliser la 1ère étape de la préparation du glaçage (voir ci-dessous). 
 * Laisser refroidir le gâteau démoulé sur une grille.
 * Une fois froid, poser le gâteau sur un fond en carton (d'une circonférence légèrement plus petite) recouvert d'une feuille d'aluminium. Le couper en deux dans l'épaisseur. Recouvrir le dessous avec la préparation à l'abricot et reposer la deuxième moitié du gâteau par dessus. Recouvrir l'extérieur du gâteau (dessus et coté) avec une fine couche de marmelade.
 

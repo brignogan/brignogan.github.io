@@ -30,12 +30,16 @@ Ce tagine sucré-salé est emblématique de la cuisine marocaine. Il peut être 
 ### Préparation
 * Faire couper l'épaule en morceaux par le boucher.
 * Faire tremper les pruneaux dans une casserole d’eau tiède.
+
+#### Cuisson de la viande
 * Hacher très fin le persil, le coriandre et l’ail pour obtenir 2 c. à s. de hachis.
 * Mettre dans le tagine (ou un plat creux) un verre d’huile, la moitié du hachis herbes-ail, le safran, le gingembre, le colorant, du sel et du poivre. Bien mélanger.
 * Ajouter les morceaux de viande, bien les enduire du mélange et verser le tout dans la cocotte minute.
 * Faire dorer la viande à grand feu puis ajouter le reste du mélange herbes-ail et l’oignon émincé.
-* Ajouter 150-200 mL d’eau dans le tagine pour le rincer et verser dans la cocotte (la viande doit être à peine couverte). Fermer la cocotte et laisser cuire à petit feu ¾ h.
+* Ajouter 150-200 mL d’eau dans le tagine pour le rincer et verser dans la cocotte (la viande doit être à peine couverte). Fermer la cocotte et laisser cuire à petit feu ¾ h. Procéder alors à la préparation de l'accompagnement (voir ci-dessous).
 * Au bout de ce temps, ouvrir la cocotte et vérifier que la viande est cuite (elle doit se défaire avec les doigts). Faire mijoter à petit feu à découvert pour faire évaporer l’eau pendant ¼ h. La sauce doit être limpide et onctueuse. A ce moment, la viande est prête, verser le tout dans le tajine et laisser mijoter pour confire la viande.
+
+#### Préparation de l'accompagnement
 * Pendant la cuisson de la viande, faire cuire les pruneaux dans la casserole pendant ¼ h puis vider l’eau pour n’en garder qu’à peu près 150 mL au fond de la casserole.
 * Ajouter alors le sucre et la cannelle aux pruneaux et faire cuire à feu doux pour que la sauce caramélise légèrement. Ajouter de l’eau si besoin et remuer délicatement les pruneaux pour qu’ils soient bien enrobés de la sauce. Garder au chaud et, si besoin, ajouter à nouveau un peu d'eau pour maintenir la consistance de la sauce.
 * Trier les grains de sésame pour ne garder que ceux qui ont une couleur dorée.

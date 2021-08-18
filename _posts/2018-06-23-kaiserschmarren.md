@@ -33,7 +33,7 @@ C'est un dessert typiquement autrichien et cette recette vient de Veronika, une 
 
 
 ### Vins
-* Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
+* Vin blanc : Macvin du Jura (Domaine de Savagny).
 
 ### Notes
 * A la mode autrichienne, ce gâteau sera accompagné d'un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
