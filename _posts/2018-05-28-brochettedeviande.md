@@ -18,7 +18,7 @@ Les brochettes servies avec ces accompagnements sont une recette typiquement mar
 * 2 c. à c. de paprika
 * 1/2 c. à c. de gingembre
 * 4-5 pistils de safran
-* huile d'arachide et huile d'olive
+* huile de tournesol et huile d'olive
 * 6 petites courgettes vert clair
 * 2 gousses d'ail
 * 3 carottes
@@ -36,13 +36,13 @@ Les brochettes servies avec ces accompagnements sont une recette typiquement mar
 ### Préparation
 * Couper la viande en gros dés.
 * Hacher les échalotes.
-* Mélanger le tout et ajouter huile d'arachide, sel, poivre, paprika, gingembre et safran. Laisser mariner au moins 6 h.
+* Mélanger le tout et ajouter huile de tournesol, sel, poivre, paprika, gingembre et safran. Laisser mariner au moins 6 h.
 * Cuire les oeufs durs.
 * Couper les courgettes en deux dans le sens de la longueur. Les cuire dans l'eau bouillante salée. Elle doivent rester fermes. Les laisser refroidir. Les recouvrir d'une gousse d'ail hachée puis arroser le tout d'un filet d'huile d'olive. Réserver au frais.
-* Eplucher les carottes, les couper en rondelles de 1/2 cm. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Saupoudrer du cumin et arroser d'huile d'arachide. Ajouter la moitié du coriandre haché. Bien mélanger et réserver au frais.
+* Eplucher les carottes, les couper en rondelles de 1/2 cm. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Saupoudrer du cumin et arroser d'huile de tournesol. Ajouter la moitié du coriandre haché. Bien mélanger et réserver au frais.
 * Couper les tomates en quartier, saler, poivrer et arroser d'un filet d'huile d'olive.
 * Récupérer et hacher l'écorce du citron confit. Hacher les olives.
-* Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié du coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile d'arachide et du sel. Ajuster l'assaisonnement. Réserver au frais.
+* Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié du coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile de tournesol et du sel. Ajuster l'assaisonnement. Réserver au frais.
 * Cuire 5 mn les brochettes sur le barbecue très chaud.
 * Servir les brochettes avec les échalotes et le jus de la marinade, les différentes salades et les oeufs. Proposer sel, poivre et cumin.
 
