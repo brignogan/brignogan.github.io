@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: paleron de bœuf | bœuf!paleron, lard fumé, champignon, vin
 ---
-Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est un plat typique de la cuisine bourgeoise. Comme la blanquette, c'est un plat très apprécié en hiver. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
+Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est un plat typique de la cuisine bourgeoise. Comme la blanquette, c'est un plat très apprécié en hiver.
 
 ### Ingrédients
 * 800 g de paleron de bœuf
@@ -46,3 +46,6 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 
 ### Vins
 * Vin rouge : Nuits-Saint-Georges (Domaine Philippe Girard, Les Charmois), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Volnay (Domaine Philippe Girard, La Gigotte), Santenay (Domaine Hubert Lamy, Clos les Gravières), Savigny-lès-Beaune (Domaine Philippe Girard, Les Narbantons), Savigny-lès-Beaune (Domaine Philippe Girard, Les Godeaux).
+
+### Notes
+* L'utilisation de la cocotte minute permet de réduire le temps de préparation comme pour beaucoup de recettes mijotées. Avant l'invention de cet ustensile incontournable, il n'en était pas de même. La grand-mère d'une belle-soeur de Michelle, bourguignonne pure souche, décrivait sa recette en commençant par : "On se lève à 5 h du matin..."
