@@ -1,9 +1,14 @@
+from __future__ import print_function
+from __future__ import division
+from builtins import zip
+from past.utils import old_div
 import sys
 import os
 import glob
+import importlib
 import numpy as np
-reload(sys)
-sys.setdefaultencoding('utf-8')
+importlib.reload(sys)
+#sys.setdefaultencoding('utf-8')
 import io 
 import pdb 
 import operator 
@@ -65,9 +70,9 @@ def timefloat2string(x):
         return '{:2d} min'.format(int(x))
     else:
         if int(np.mod(x,60)) > 0: 
-            return '{:2d} h : {:2d} min'.format(int(x)/60, int(np.mod(x,60)))
+            return '{:2d} h : {:2d} min'.format(old_div(int(x),60), int(np.mod(x,60)))
         else: 
-            return '{:2d} h'.format(int(x)/60)
+            return '{:2d} h'.format(old_div(int(x),60))
 
 
 def write_time(x):
@@ -207,7 +212,7 @@ for recipeFile in recipeFiles:
 category_def = [u'famille', u'amis', u'bretagne', u'maroc', u'autriche']
 plat_def     = [u'entree', u'platLegume', u'platPoisson', u'platViande', u'dessert', u'sauce']
 
-data = zip(recipeFiles_all, tag_name, tag_category_all, tag_plat_all)
+data = list(zip(recipeFiles_all, tag_name, tag_category_all, tag_plat_all))
 data = sorted(data, key =  lambda x: ( category_def.index(x[2]), plat_def.index(x[3]), x[1]))
 
 f= io.open("./InputTex/cookbook_template.tex","r", encoding='utf-8')
@@ -225,13 +230,13 @@ lines_recipe_template = f.readlines()
 f.close()
 
 #load vinDictionary: key=appellation+domain+cuvee
-vinDictionary = pickle.load(open('./vinDictionary_fromExcelFile.pickle', 'r'))
+vinDictionary = pickle.load(open('./vinDictionary_fromExcelFile.pickle', 'rb'))
 
 recetteDictionary = {}
-recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'r'))
-    
+recetteDictionary2 = {} if not(os.path.isfile('./recetteDictionary.pickle')) else pickle.load(open('./recetteDictionary.pickle', 'rb'))
+
 specialWords         = [u"N\u01b0\u1edbc M\u1eafm",        u"Ph\u1edf",  u"G\u1ecfi", u'Cu\u1ed1n']
-specialWords_inLatex = ["N\uhorn\\\'{\ohorn}c M{\\\'\\abreve}m", "Ph\h{\ohorn}",  u"G\h{o}i", "Cu{\\\'\ocircumflex}n"]
+specialWords_inLatex = ["N\\uhorn\\\'{\ohorn}c M{\\\'\\abreve}m", "Ph\h{\\ohorn}",  "G\h{o}i", "Cu{\\\'\ocircumflex}n"]
 
 recetteNoImg = []
 recetteNoImgHD = []
@@ -390,6 +395,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         lines_txt_per_cat.pop(0)
         recipeMMintro = ['']
 
+    #convert link to biblio
+    #if recipName == 'soupecarottescumin': pdb.set_trace()
+    recipeMMintro2 = recipeMMintro[:]
+    recipeMMintro = []
+    for line in recipeMMintro2:
+        if "| relative_url }" in line: 
+            ref_ = line.split('[ [')[1].split('#')[1].split("'")[0]
+            line_ = line.split('[ [')[0] + u"\\" + "cite{{{:s}}}.".format(ref_)
+            recipeMMintro.append(line_)
+        else:
+            recipeMMintro.append(line)
+
     recipeMMvin = []; recipeMMnote = []; recipeMMinstruction = []; recipeMMextra = []
     for i, cat in enumerate(lines_txt_per_cat):
 
@@ -452,8 +469,6 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 line2p.append('\extra[{:s}] \n'.format(subtitle_mainRecipy))
             flag_modified = 1
             
-            
-        
         if 'recipeMMingredient' in line: 
             line2p = []
 
@@ -521,9 +536,9 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     try:
                         idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_2.strip()+'.md')[0][0]
                     except: 
-                        print "###################"
-                        print "j'ai pas trouve dans les noms de post la reference '{:s}' qui se trouve le poste '{:s}'".format(line_2,recipName)
-                        print "###################"
+                        print("###################")
+                        print("j'ai pas trouve dans les noms de post la reference '{:s}' qui se trouve le poste '{:s}'".format(line_2,recipName))
+                        print("###################")
                         raise NameError('')
                     sectionName = tag_name[idx_].replace(' ','').lower()
                     ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
@@ -637,8 +652,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                             
                             #add recipe to wine lookuptable
                             key = vin[0].replace(' ','').lower()+vin[1].replace(' ','').lower()+vin[2].replace(' ','').lower()+vin[3].replace(' ','').lower()
-                            if key in vinDictionary.keys():
-                                if recipName in recetteDictionary2.keys():
+                            if key in list(vinDictionary.keys()):
+                                if recipName in list(recetteDictionary2.keys()):
                                     vinDictionary[key].append( '{:s} (p. \pageref{{{:s}}})'.format(recetteDictionary2[recipName],'sec:'+recipName.replace(' ','').lower() ) ) 
                             else: 
                                 lineVin_error.append( '{:s}, {:s}, {:s}, {:s}, {:s}'.format(recipName, 
@@ -690,9 +705,9 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     try:
                         idx_ = np.where( np.array(recipeFiles_all) == '../_posts/'+line_22.strip()+'.md')[0][0]
                     except: 
-                        print "###################"
-                        print "j'ai pas trouve dans les noms de post la reference '{:s}' qui se trouve le poste '{:s}'".format(line_22,recipName)
-                        print "###################"
+                        print("###################")
+                        print("j'ai pas trouve dans les noms de post la reference '{:s}' qui se trouve le poste '{:s}'".format(line_22,recipName))
+                        print("###################")
                         raise NameError('')
                     sectionName = tag_name[idx_].replace(' ','').lower()
                     ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
@@ -725,12 +740,12 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 line2p_ = ''
                 #add section name
                 line2p_+=r'\parindent0pt'+'\n'
-		line2p_+=r'\noindent'+'\n'
+                line2p_+=r'\noindent'+'\n'
                 title_ = recipeMMtitle.split(' ')[0].lower()
                 if title_[-1] == 's': title_ = title_[:-1]
                 title_ = 'Autre {:s}'.format(title_) 
                 line2p_+=r'{\color{orangecolor}\Large\textbf{'+title_+'}}%    \parindent0pt'+'\n'
-		line2p_+=r'\par'+'\n'
+                line2p_+=r'\par'+'\n'
                 if 'g' in title_:
                     line2p_+=r'\vskip 2mm'+'\n'
                 else:
@@ -876,36 +891,36 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     #if 'sangl' in recipName: sys.exit()        
 
 #save missing index
-f = io.open("LogError/missinIndex.txt","w", encoding='utf-8')
+f = io.open("LogError/missinIndex.txt","w", )
 for line in line_missingIndex:
-    f.writelines((line+'\n').decode('utf-8'))
+    f.writelines((line+'\n'))
 f.close()
 
 
 #save error in matching wine
-f = io.open("LogError/errorVinDansRecette.csv","w", encoding='utf-8')
+f = io.open("LogError/errorVinDansRecette.csv","w", )
 for line in lineVin_error:
-    print line
-    f.writelines((line+'\n').decode('utf-8'))
+    print(line)
+    f.writelines((line+'\n'))
 f.close()
 
 
 #save missing index
-f = io.open("LogError/RecetteNoImg.txt","w", encoding='utf-8')
+f = io.open("LogError/RecetteNoImg.txt","w", )
 for line in recetteNoImg:
-    f.writelines((line+'\n').decode('utf-8'))
+    f.writelines((line+'\n'))
 f.close()
 if flag_hd: 
-    f = io.open("LogError/RecetteNoImgHD.txt","w", encoding='utf-8')
+    f = io.open("LogError/RecetteNoImgHD.txt","w", )
     for line in recetteNoImgHD:
-        f.writelines((line+'\n').decode('utf-8'))
+        f.writelines((line+'\n'))
     f.close()
 else:
     if os.path.isfile("LogError/RecetteNoImgHD.txt"): os.remove("LogError/RecetteNoImgHD.txt")
 #save file
-f= io.open("cookbook.tex","w", encoding='utf-8')
+f= io.open("cookbook.tex","w", )
 for line in final1_lines+final2_lines+final3_lines:
-    f.write( line.decode('utf-8') )
+    f.write( line )
 f.close()
 
 pickle.dump(vinDictionary,open('./vinDictionary_fromWebSiteParsing.pickle','wb')) 
@@ -920,15 +935,17 @@ if flag_latex:
     #subprocess.call(['texindy','-M mystyle.xdy','-C utf8','-L french','cookbook.idx'])
     subprocess.call(['bash','run_xindy.sh', 'mystyle.xdy', 'cookbook.idx'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
+    subprocess.call(['bibtex', 'cookbook.aux'])
+    subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
 
-print ''
+print('')
 if flag_hd: 
-    print 'nombre recette avec image HD non presentes: {:4d}.'.format(len(recetteNoImgHD))
+    print('nombre recette avec image HD non presentes: {:4d}.'.format(len(recetteNoImgHD)))
 else:
-    print "images HD n'ont pas ete prise en compte, flag_hd=", flag_hd  
-print 'nombre recette avec aucune image          : {:4d}.'.format(len(recetteNoImg))
-print 'voir LogError/RecetteNoImg.txt et  LogError/RecetteNoImgHD.txt pour plus de details'
+    print("images HD n'ont pas ete prise en compte, flag_hd=", flag_hd)  
+print('nombre recette avec aucune image          : {:4d}.'.format(len(recetteNoImg)))
+print('voir LogError/RecetteNoImg.txt et  LogError/RecetteNoImgHD.txt pour plus de details')
 
 '''
 	 \columnbreak

@@ -15,7 +15,9 @@ CookBook/*.ind
 CookBook/*.ilg
 CookBook/*.aux
 CookBook/*.toc
-CookBook/*.tmb 
+CookBook/*.tmb
+CookBook/*.bbl
+CookBook/*.blg
 CookBook/*.out
 CookBook/*.pickle
 CookBook/VinMaps/

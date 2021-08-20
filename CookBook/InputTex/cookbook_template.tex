@@ -62,7 +62,7 @@
 
 
 \end{filecontents*}
-
+\usepackage[nottoc,numbib]{tocbibind}
 \usepackage[totoc]{idxlayout}
 %\hypersetup{
 %    colorlinks,
@@ -949,5 +949,11 @@ XX
 \end{center}
 } 
 \printindex
+
+\fancyhead{}
+\fancyhead[LE]{\bfseries\nouppercase{ }}      % Chapter in the right on even pages
+\fancyhead[RO]{\bfseries\nouppercase{\leftmark}}      % Chapter in the right on even pages
+\bibliographystyle{unsrt}
+\bibliography{biblio}
 
 \end{document}

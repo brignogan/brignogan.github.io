@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: carotte, cumin
 ---
-Bien que l'association carottes-cumin-coriandre soit une base de la cuisine marocaine traditionnelle, cette soupe n'en fait pas partie. C'est une soupe de carottes revisitée dont les saveurs rappellent l'ambiance du souk.
+Bien que l'association carottes-cumin-coriandre soit une base de la cuisine marocaine traditionnelle, cette soupe n'en fait pas partie. C'est une soupe de carottes revisitée dont les saveurs rappellent l'ambiance du souk [ [2]]({{ '/bibliographie/#meilleuressoupes' | relative_url }}).
 
 ### Ingrédients
 * 600 g de carottes
