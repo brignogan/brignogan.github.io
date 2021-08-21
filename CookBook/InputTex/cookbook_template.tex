@@ -853,9 +853,8 @@
 	\clearpage
 	\checkoddpage
 	\ifoddpage
-		\null
-		\newpage
-		\stopthumb
+		
+    \stopthumb
 		\thispagestyle{empty}
 		\fancyhead{}
 		\null\vfill
@@ -864,7 +863,9 @@
 		\end{center} 
 		\vfill\null
 		\newpage
-	\else
+\else
+		\null
+		\newpage
 		\stopthumb
 		\thispagestyle{empty}
 		\fancyhead{}
