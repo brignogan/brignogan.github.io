@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: fenouil, carotte, artichaut, orange
 ---
-Les légumes confits accompagnant les poissons rôtis sont une association étonnante et surtout gagnante. Cependant pour que le goût sucré ne soit pas dominant, il est préférable d'y ajouter quelques légumes simplement cuits à la vapeur.
+Les légumes confits accompagnant les poissons rôtis sont une association étonnante et surtout gagnante. Cependant pour que le goût sucré ne soit pas dominant, il est préférable d'y ajouter quelques légumes simplement cuits à la vapeur  [ [3]]({{ '/bibliographie/#macuisinedelamer' | relative_url }}).
 
 ### Ingrédients
 * 1 gros fenouil

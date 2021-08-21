@@ -11,7 +11,7 @@ nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: rhum
 index_motClefBase: pâte à savarin | pâte!à savarin
 ---
-Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de Ginette Mathiot. Indéniablement plus compliquée que celle du baba express de Grand-Mère Ploudaniel, elle donne quand même un meilleur résultat pour la pâte à savarin.
+Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de Ginette Mathiot. Indéniablement plus compliquée que celle du baba express de Grand-Mère Ploudaniel, elle donne quand même un meilleur résultat pour la pâte à savarin  [ [5]]({{ '/bibliographie/#patisseriepourtous' | relative_url }}).
 
 
 ### Ingrédients

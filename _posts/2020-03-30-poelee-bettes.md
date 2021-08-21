@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: bette
 ---
-Cette recette est excellente pour préparer les bettes. Elles peuvent être blanches, jaunes ou rouges. En mélange, elles font, de plus, une belle poêlée qui accompagne aussi bien les viandes que les poissons.
+Cette recette est excellente pour préparer les bettes. Elles peuvent être blanches, jaunes ou rouges. En mélange, elles font, de plus, une belle poêlée qui accompagne aussi bien les viandes que les poissons  [ [4]]({{ '/bibliographie/#vivelepoisson' | relative_url }}).
 
 ### Ingrédients
 * 1 kg de bettes
