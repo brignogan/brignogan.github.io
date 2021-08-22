@@ -24,6 +24,6 @@ L'houmous est une préparation originaire du Proche-Orient à base de pois chich
 
 ### Préparation
 * Egoutter les pois chiches en conservant l'eau d'égouttage.
-* Mixer les pois chiches pour en faire une purée. Ajouter un peu de l'eau d'égouttage pour obtenir un mélange lisse.
+* Mixer les pois chiches pour en faire une purée. Ajouter un peu de l'eau d'égouttage pour obtenir un mélange lisse de consistance crémeuse.
 * Ajouter le tahini, le jus de citron, la gousse d'ail pressée, le persil et le sel.
 * Verser sur la préparation l'huile d'olive et le poivre de Cayenne.

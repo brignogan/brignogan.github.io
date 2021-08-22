@@ -32,3 +32,7 @@ Quand les petits pois et les carottes nouvelles arrivent sur les étales du marc
 
 ### Vins
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Côtes-de-Provence (Domaine Saint Victorin, Jacqueline).
+
+### Notes
+* Attention de ne pas ajouter trop de sucre, ce qui dénaturerait le goût des petits pois.
+* On peut ajouter 3-4 feuilles de laitue dans la poêlée et, au moment de servir, quelques feuilles de basilic fraîches.

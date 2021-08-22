@@ -34,7 +34,7 @@ Maëlle a participé à un atelier de pâtisserie chez Le Nôtre et en a rapport
 #### pour le fondant au chocolat ou au café :
 * 250 g de fondant blanc
 * 75 g de "sirop de base" = 43 g de sucre + 32 g d'eau
-* 75 g de chocolat noir 50% ou 12 g de café soluble
+* 75 g de chocolat noir 50% ou 5 g de café soluble
 
 ### Préparation
 #### Préparation de la crème pâtissière (à faire la veille).

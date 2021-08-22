@@ -14,19 +14,20 @@ Cette soupe est un plat classique de l'automne et se retrouve, chaque année, au
 
 ### Ingrédients
 * 500 g de potiron
-* 1 cube de bouillon de volaille
+* 2 cubes de bouillon de volaille
 * 1 jaune d’œuf
 * 10 cL de crème fraîche
 * sel, poivre
-* persil ou croutons et fromage râpé ou poivre de Cayenne
+* persil
+* facultatif : croutons et fromage râpé, poivre de Cayenne
 
 ### Préparation
 * Epépiner le potiron et le couper en gros dés. Eplucher chaque dé.
 * Les recouvrir d'eau dans une casserole et porter à ébullition pendant 15 mn.
 * Egoutter puis remettre dans la casserole avec de l'eau à hauteur et le cube de bouillon. Faire bouillir et cuire à nouveau 10 mn.
-* Mixer le tout pour obtenir un velouté, rajouter éventuellement de l'eau pour ajuster la consistance. Rectifier  l’assaisonnement avec sel et poivre.
+* Mixer le tout pour obtenir un velouté, rajouter éventuellement de l'eau pour ajuster la consistance. Rectifier  l’assaisonnement avec le deuxième cube de bouillon émietté et du poivre.
 * Au dernier moment, mélanger, dans un bol, le jaune d’œuf avec la crème fraîche.
-* Redonner un bouillon au velouté de potiron, puis ajouter le mélange crémeux. Ne pas faire bouillir après cette opération. Servir aussitôt avec, au choix, du persil haché, des croutons grillés et fromage râpé ou une pincée de poivre de Cayenne.
+* Redonner un bouillon au velouté de potiron, puis ajouter le mélange crémeux. Ne pas faire bouillir après cette opération. Servir aussitôt avec du persil haché et éventuellement des croutons grillés, du fromage râpé ou une pincée de poivre de Cayenne.
 
 ### Vins
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Alsace grand cru Furstentum (Domaine René Fleith, Pinot Gris), Jasnières (Domaine de Cézin, Origine), Côtes-du-Jura (Domaine de Savagny, Vin Jaune).

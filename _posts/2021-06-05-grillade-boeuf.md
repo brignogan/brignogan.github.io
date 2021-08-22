@@ -13,8 +13,8 @@ index_motClefIngredient: côte de bœuf | bœuf!côte, entrecôte | bœuf!entrec
 Les pièces de bœuf comme la côte, l'entrecôte ou le filet peuvent donner d'excellentes grillades qui seront accompagnées avec bonheur d'une sauce béarnaise ou d'une sauce au poivre.
 
 ### Ingrédients
-* 1 belle côte de bœuf
-* 2 entrecôtes de 350 g chacune
+* 1 belle côte de bœuf ou
+* 2 entrecôtes de 350 g chacune ou
 * 4 tranches de filet de bœuf de 175 g chacune
 * fleur de sel, poivre
 * un bol de sauce béarnaise ou au poivre (voir Notes)

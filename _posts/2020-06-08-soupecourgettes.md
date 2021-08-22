@@ -15,14 +15,15 @@ Cette soupe était celle que nous préparait Grand-Mère Ploudaniel pour les dî
 ### Ingrédients
 * 600 g de courgettes
 * 2 cubes de bouillon de volaille
-* 50 g de fromage bleu (fourme, auvergne)  
+* 30 g de fromage bleu (fourme, auvergne)  
 * sel, poivre
 * facultatif : crème fraîche
 
 ### Préparation
 * Eplucher les courgettes en laissant une bande sur deux de la peau verte (pour la couleur). Couper les en dés. Couper également le fromage en dés.
-* Mettre les légumes, les cubes de bouillon et le fromage dans une casserole et ajouter de l'eau à hauteur. Cuire à couvert et à feu moyen pendant 30 mn.
-* Mixer le mélange. Ajouter éventuellement de l'eau pour ajuster la consistance. Rectifier l’assaisonnement.
+* Mettre les légumes, un premier cube de bouillon et le fromage dans une casserole et ajouter de l'eau à hauteur. Cuire à couvert et à feu moyen pendant 30 mn.
+* Ajuster le goût en ajoutant tout ou partie du deuxième cube de bouillon.
+* Mixer le mélange et, pour ajuster la consistance, ajouter éventuellement de l'eau pour diluer ou faire bouillir quelques instants pour épaissir. Rectifier l’assaisonnement.
 * Servir aussitôt cette soupe avec, éventuellement, un trait de crème.
 
 ### Vins

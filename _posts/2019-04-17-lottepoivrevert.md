@@ -29,7 +29,7 @@ C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat 
 ### Préparation
 * Préchauffer le four à 220°C.
 * Couper la lotte en morceaux.
-* Préparer les légumes: laver, et couper carottes, céleri et échalotes en julienne (= fins bâtonnets).
+* Laver puis couper en julienne (c'est à dire en fins bâtonnets) les carottes, le céleri et les échalotes en julienne .
 * Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé. Saler et faire cuire 10 mn au four.
 * Sortir le plat du four. Poser les morceaux de lotte dessus.
 * Arroser du vin blanc.
