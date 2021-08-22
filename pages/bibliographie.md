@@ -11,5 +11,7 @@ Suisse, 2009.<a class="anchor-tag" id="meilleuressoupes"></a>
 - [4] Nathalie Beauvais. *Vive le Poisson !*. Trop Mad !, 2014.<a class="anchor-tag" id="vivelepoisson"></a>
 - [5] Ginette Mathiot. *La patisserie pour tous*. Albin Michel, Paris, France,
 1973.<a class="anchor-tag" id="patisseriepourtous"></a>
-- [6] XX
-- [7] XX   
+- [6] Gaston Lenôtre. *Ecole Lenôtre - La Patisserie - Grand Classique*.
+Jerome Vilette, 2006.<a class="anchor-tag" id="lenotre"></a>
+- [7] XX 
+- [8] XX
