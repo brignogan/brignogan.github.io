@@ -5,7 +5,7 @@ tag_category: famille
 tag_plat: entree
 image: img/recette/macedoine.png
 temps_preparation: 40
-temps_cuisson: '-'
+temps_cuisson: 30
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: petit pois, haricots verts | haricot!vert, carotte, pomme de terre, œuf, anchois | anchois, mayonnaise
@@ -29,7 +29,7 @@ Favorite de Grand-Mère Saint-Pierre, cette entrée est un régal dès que comme
 * Couper séparément, en petits dés, les haricots verts, les carottes et les pommes de terre.
 * On doit obtenir le même volume de chaque légume (à peu près un bol).
 * Cuire successivement les légumes dans une même casserole d'eau salée bouillante en égouttant chacun avec une écumoire en fin de cuisson : en premier, les pommes de terre (8 mn), puis les petits pois (5 mn), puis les carottes (8 mn) et enfin les haricots verts (5 mn). Laisser refroidir.
-* Cuire les oeufs durs puis les écaler. Les couper en deux et séparer les jaunes des blancs. Ecraser les jaunes à la fourchette et y ajouter petit à petit 1 à 2 c. à s. de la mayonnaise, que l'on aura bien relevée, jusqu'à obtenir une bonne consistance.
+* Cuire les oeufs durs (10 min) puis les écaler. Les couper en deux et séparer les jaunes des blancs. Ecraser les jaunes à la fourchette et y ajouter petit à petit 1 à 2 c. à s. de la mayonnaise jusqu'à obtenir une bonne consistance.
 * Déposer un filet d'anchois dans chaque demi-blanc d'oeuf et le recouvrir du mélange jaune-mayonnaise.
 * Aux légumes refroidis, ajouter peu à peu le reste de la mayonnaise et mélanger délicatement. Ajuster la quantité de mayonnaise à son goût.
 * Servir la macédoine avec les oeufs à la russe, des quartiers de tomates, des feuilles de salade. On peut ajouter des morceaux de filets fumés de saumon ou de truite.
@@ -39,4 +39,4 @@ Favorite de Grand-Mère Saint-Pierre, cette entrée est un régal dès que comme
 * Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée (Château La Borie, Alix).
 
 ### Notes
-* Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments".
+* Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments". On prendra soin de bien l'assaisonner.

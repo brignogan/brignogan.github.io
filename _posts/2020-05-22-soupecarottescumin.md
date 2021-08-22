@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: carotte, cumin
 ---
-Bien que l'association carottes-cumin-coriandre soit une base de la cuisine marocaine traditionnelle, cette soupe n'en fait pas partie. C'est une soupe de carottes revisitée dont les saveurs rappellent l'ambiance du souk [ [2]]({{ '/bibliographie/#meilleuressoupes' | relative_url }}).
+Bien que l'association carottes-cumin-coriandre soit une base de la cuisine marocaine traditionnelle, cette soupe n'en fait pas partie. Découverte dans un recueil de recettes, cette soupe de carottes revisitée offre des saveurs rappelant l'ambiance du souk [ [2]]({{ '/bibliographie/#meilleuressoupes' | relative_url }}).
 
 ### Ingrédients
 * 600 g de carottes
@@ -27,8 +27,8 @@ Bien que l'association carottes-cumin-coriandre soit une base de la cuisine maro
 
 ### Préparation
 * Eplucher et émincer l’échalote. Peler et couper les carottes en rondelles épaisses.
-* Faire fondre, à feu moyen, le beurre dans une cocotte. Ajouter l’échalote, les carottes et le cumin. Faire dorer pendant 4 mn.
-* Verser de l'eau à hauteur et ajouter le laurier et les cubes de bouillon. Faire bouillir pour dissoudre les cubes. Saler si nécessaire, poivrer et couvrir. Laisser cuire 25 mn à couvert.
+* Faire fondre le beurre, à feu moyen, dans une cocotte. Ajouter l’échalote, les carottes et le cumin. Faire dorer pendant 4 mn.
+* Verser de l'eau à hauteur et ajouter le laurier et un premier cube de bouillon. Faire bouillir pour dissoudre le cube. Pour ajuster le goût, ajouter tout ou partie du deuxième cube de bouillon, poivrer et couvrir. Laisser cuire 25 mn à couvert.
 * Oter les feuilles de laurier. Mixer la préparation en rajoutant éventuellement de l'eau pour ajuster la consistance. Ajouter la crème, le jus du demi-citron et le coriandre. Rectifier l’assaisonnement.
 * Servir cette soupe avec un trait de crème et quelques feuilles de coriandre. Ajouter éventuellement dans chaque assiette quelques graines de coriandre concassées.
 

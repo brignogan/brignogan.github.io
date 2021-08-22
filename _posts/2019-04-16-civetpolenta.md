@@ -31,7 +31,7 @@ A la campagne ou dans les bourgs comme Ploudaniel, tous les jardins abritaient q
 ### Préparation
 * Préparer un bouillon en dissolvant le cube dans l'eau chaude.
 * Faire revenir, dans le beurre chaud, les oignons et le lard coupé en dés. Les retirer.
-* Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés (pour que la sauce ait bon gpût, il faut que le beurre ait bien roussi), remettre les oignons et le lard dans la cocotte.
+* Faire revenir les morceaux de lapin. Lorsqu’ils sont bien dorés (pour que la sauce ait bon goût, il faut que le beurre ait bien roussi), remettre les oignons et le lard dans la cocotte.
 * Saupoudrer de farine, bien remuer et cuire 1-2 min. Mouiller avec le bouillon et le vin rouge. Saler, poivrer et ajouter le bouquet garni.
 * Laisser cuire doucement à couvert pendant 1 h 30. Verser de l'eau froide sur le couvercle de la cocotte pour éviter l'évaporation.
 * Pendant ce temps, faire bouillir le lait salé.

@@ -19,7 +19,7 @@ La marmelade d'oranges amères est inspirée de la recette originelle due à l'�
 
 ### Préparation
 #### La macération
-* Laver les oranges, ôter le reste de la fleur.
+* Laver les oranges, ôter les pédoncules.
 * Eplucher les oranges, réserver les peaux entières avec toute leur épaisseur.
 * Couper chaque tranche de chair en deux. Récupérer les pépins et les enfermer dans un nouet de gaze.
 * Couper fin les écorces entières au couteau pour obtenir des filaments du type carotte râpée.

@@ -39,5 +39,5 @@ La tarte aux pommes et amandes est la tarte que l'on peut préparer dès l'autom
 * Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain), Tokaj Aszu (Domaine Disznoko, 5 Puttonyos).
 
 ### Notes
-* Le fond de tarte peut se faire avec une fine [pâte brisée]({% post_url 2020-04-20-tarte-citron %}) suivant la recette de Hahn Faucheu, décrite pour la tarte au citron.
+* Le fond de tarte peut se faire avec une fine [pâte brisée]({% post_url 2020-04-20-tarte-citron %}) suivant la recette de Hanh Faucheu, décrite pour la tarte au citron.
 * Pour réaliser une tarte aux abricots, suivre la préparation ci-dessus en remplaçant les pommes par les abricots. Le fond de pâte crue sera recouvert de la poudre d'amande qui absorbera le jus des abricots pendant la cuisson et les fruits dénoyautés seront déposés face bombée dessous.

@@ -5,7 +5,7 @@ tag_category: famille
 tag_plat: platLegume
 image: img/recette/gratindauphinois.png
 temps_preparation: 20
-temps_cuisson: 110
+temps_cuisson: 90
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: pomme de terre

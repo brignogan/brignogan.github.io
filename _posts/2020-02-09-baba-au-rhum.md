@@ -32,7 +32,7 @@ Cette recette a été récupérée dans le livre "La pâtisserie pour tous" de G
 ### Préparation
 #### Idéalement, préparer l'intégralité du baba la veille.
 * Mettre 80 g de farine dans une terrine et faire un puits, y mettre la levure et délayer avec un peu d'eau tiède.
-* Mélanger à la farine pour obtenir une pâte molle qui doit lever, à couvert, non loin d'une source de chaleur jusqu'à ce qu'elle ait triplé de volume (2-3 h).
+* Mélanger à la farine pour obtenir une pâte molle qui doit lever, à couvert, non loin d'une source de chaleur (ou dans le four chauffé au minimum, 20-30°C) jusqu'à ce qu'elle ait triplé de volume (2-3 h).
 * Ajouter ensuite à cette pâte, et tout ensemble, le reste de la farine (170 g), les oeufs et le sucre. Travailler à la main en tapant la pâte jusqu'à ce qu'elle soit très souple et légère.
 * Finir en incorporant le beurre tiède et laisser gonfler à nouveau la pâte, à couvert, non loin de la chaleur. Lorsqu'elle a doublé de volume, on peut l'utiliser (2-3 h).
 * Chauffer le four (chaleur tournante) à 180°C.

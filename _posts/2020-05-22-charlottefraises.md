@@ -44,8 +44,8 @@ Ce gâteau de l’été a souvent été, chez nous, le gâteau d’anniversaire 
 * Recouvrir le tout avec le reste de biscuits imbibés. Le moule doit être rempli au maximum.
 * Couvrir avec un couvercle qui presse le gâteau. Ajouter un poids si nécessaire.
 * Conserver au frigo au moins une demi-journée.
-* Préparer le coulis : laver rapidement et équeuter les fruits puis les placer dans le bol du mixeur, ajouter le sucre et le jus du demi-citron, mixer le tout et ajouter l’eau au fur et à mesure, passer au chinois pour éliminer les pépins, conserver au frigo.
-* Démouler la charlotte et verser un peu de coulis dessus. Décorer de quelques fraises et framboises.
+* Préparer le coulis : laver rapidement et équeuter les fruits puis les placer dans le bol du mixeur, ajouter le sucre et le jus du demi-citron, mixer le tout et ajouter l’eau au fur et à mesure en vérifiant la consistance du coulis., Passer au chinois pour éliminer les pépins, conserver au frigo.
+* Démouler la charlotte et verser un peu de coulis dessus. Décorer de quelques fraises et framboises et d'un peu de crème chantilly.
 * Servir avec le reste de coulis en saucière.
 
 
