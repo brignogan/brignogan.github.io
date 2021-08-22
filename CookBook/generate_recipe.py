@@ -427,6 +427,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         
         recipeMMpreinstruction = None
 
+
+    for iline_, line_ in enumerate(recipeMMingredient):
+        if '%' in line_ : 
+            recipeMMingredient[iline_] = recipeMMingredient[iline_].replace('%','\%')
+
     #check if subtitle for the main recipy is present
     subtitle_mainRecipy = None
     if '####' in lines_txt_per_cat[0][-1]:
