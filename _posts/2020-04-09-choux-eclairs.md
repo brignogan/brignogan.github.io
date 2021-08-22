@@ -11,7 +11,7 @@ nbre_personne: ‘pour 15-16 pièces de 12 cm’
 index_motClefIngredient: café, chocolat
 index_motClefBase: pâte à choux | pâte!à choux, crème pâtissière | crème!pâtissière
 ---
-Maëlle a participé à un atelier de pâtisserie chez Le Nôtre et en a rapporté la recette des choux, des éclairs, du Saint-Honoré et des chouquettes. Les préparations de base de cette recette sont la pâte à choux et la crème pâtissière.
+Les préparations de base de cette recette sont la pâte à choux et la crème pâtissière. Maëlle a participé à un atelier de pâtisserie chez Le Nôtre et en a rapporté la recette des choux, des éclairs, du Saint-Honoré et des chouquettes [ [6]]({{ '/bibliographie/#lenotre' | relative_url }}).
 
 ### Ingrédients
 #### pour la pâte à choux :
