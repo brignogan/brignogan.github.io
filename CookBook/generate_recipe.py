@@ -607,8 +607,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line2p.append(line_.replace('*','').strip())
                     line2p.append('\n')
                     line2p.append('\n')
-                
-            
+               
             flag_modified = 1
 
 
