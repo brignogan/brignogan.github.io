@@ -28,11 +28,11 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 1 pincée de cannelle
 
 ### Préparation
-#### pour la pâte sablée à l'avoine
+#### Préparation de la pâte sablée à l'avoine
 * Mélanger dans un saladier et du bout des doigts la farine, les flocons d’avoine, la cassonade et le beurre.
 * Mouiller légèrement la pâte sablée obtenue avec un peu d'eau pour en faire des gros grumeaux.
 
-#### pour la croustade
+#### Préparation de la croustade
 * Préchauffer le four à 200°C.
 * Beurrer un plan allant au four.
 * Eplucher et couper les pommes en gros dés. Les déposer dans le fond du plat.

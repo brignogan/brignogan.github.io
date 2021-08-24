@@ -37,7 +37,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 ### Préparation
 * Faire gonfler le riz gluant dans de l'eau au moins 4-5 h.
 
-#### pour les rouleaux :
+#### Préparation des rouleaux :
 * Décortiquer les crevettes et conserver les têtes.
 * Dans une casserole, mettre la moitié des têtes de crevettes  et les recouvrir d'eau (réserver l'autre moitié des têtes pour cuisiner les restes le soir ou le lendemain - voir Notes). Porter le contenu de la casserole à ébullition puis cuire 15 min à petit feu. Enlever les têtes à l'écumoire. Mettre la poitrine dans le bouillon. Ajuster le niveau d'eau pour recouvrir la viande. Saler si nécessaire. Re-porter à ébullition et cuire 15 min à feu doux. Arrêter le feu et laisser refroidir dans le bouillon (au moins 1 h).
 * Couper les crevettes en deux dans le sens de la longueur et retirer le boyau.
@@ -45,10 +45,10 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 * Laver et égoutter les germes de soja.
 * Effeuiller et laver la salade.
 * Laver et essorer la menthe, le coriandre, le basilic et la ciboule.
-* Pour la cuisson du vermicelle de riz, suivre les conseils sur le paquet. Sinon, plonger le vermicelle dans une casserole d'eau froide. Porter à ébullition puis arrêter le feu, couvrir et laisser en attente 10 min. Egoutter.
+* Plonger le vermicelle dans une casserole d'eau froide. Porter à ébullition puis arrêter le feu, couvrir et laisser en attente 10 min. Egoutter.
 * Egoutter la poitrine de porc et la découper en fines tranches.
 
-#### pour la sauce :
+#### Préparation de la sauce :
 * Récupérer le bouillon de crevette.
 * Ajouter le riz gluant gonflé au bouillon. Cuire à feu doux jusqu'à ce que le riz se transforme en pâte épaisse.
 * Ajouter la sauce Hoi-Sin.
@@ -56,7 +56,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 * Ajuster le goût avec le Nước Mắm pour saler et/ou du sucre si besoin.
 * Concasser les cacahuètes (les mettre dans un torchon et les écraser grossièrement avec un pilon).
 
-#### pour le dressage :
+#### Dressage :
 * Mouiller légèrement les galettes de riz suivant la méthode de Hanh (voir Notes).
 * Confectionner le rouleau : étaler la galette de riz, déposer en première couche une crevette et une tranche de poitrine, les recouvrir d'une couche de vermicelle, finir par les germes de soja et la verdure selon le goût... et rouler!
 * Dans une coupelle, mélanger, en dosant à sa convenance, des cacahuètes concassées à la sauce.
