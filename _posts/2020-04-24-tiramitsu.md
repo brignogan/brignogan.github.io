@@ -3,7 +3,7 @@ layout: post
 title: Tiramisu
 tag_category: amis
 tag_plat: dessert
-image: img/recette/untitled.png
+image: img/recette/tiramisu.png
 temps_preparation: 30
 temps_cuisson: '-'
 temps_repos: 180
