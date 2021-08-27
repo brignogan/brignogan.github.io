@@ -72,4 +72,3 @@ Les préparations de base de cette recette sont la pâte à choux et la crème p
 ### Notes
 * On compte 50 g pour 1 oeuf, soit 15 g de jaune et 35 g de blanc.
 * Pour la cuisson, dessiner préalablement des croix ou des barres de 12 cm correctement réparties au dos du papier cuisson.
-* Pour la boisson d'accompagnement, on pourra préférer servir un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie).
