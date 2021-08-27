@@ -33,5 +33,5 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 * Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée	(Château La Borie, Alix).
 
 ### Notes
-* La préparation de la [sauce gribiche]({% post_url 2021-06-09-sauce3gribiche %}) est décrite dans la rubrique "Sauces et Condiments".
+* Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [sauce gribiche]({% post_url 2021-06-09-sauce3gribiche %}) .
 * Cette recette peut-être réalisée avec des langues de porc au goût un peu moins fin. On compte alors une langue par convive et le mode de cuisson est le même que pour la langue de veau.

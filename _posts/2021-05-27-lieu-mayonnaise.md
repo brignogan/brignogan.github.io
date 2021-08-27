@@ -32,4 +32,4 @@ Il s'agit ici du lieu jaune à ne pas confondre avec le lieu noir ou le colin qu
 * Vin blanc : Menetou-Salon (Domaine de Châtenoy, Classique), Alsace Riesling (Domaine René Fleith, Steinweg), Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude).
 
 ### Notes
-* Pour la mayonnaise, la [préparation]({% post_url 2018-12-23-mayonnaise %}) est décrite dans la rubrique "Sauces et Condiments".
+* Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [mayonnaise]({% post_url 2018-12-23-mayonnaise %}) .

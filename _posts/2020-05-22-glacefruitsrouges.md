@@ -32,4 +32,4 @@ Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pe
 * Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).
 
 ### Notes
-* Pour le coulis de fruits rouges, la [préparation]({% post_url 2020-05-22-charlottefraises %}) est décrite dans la recette de la charlotte aux fraises.
+* Pour le coulis de fruits rouges, on en trouvera la préparation dans la recette de la [charlotte aux fraises]({% post_url 2020-05-22-charlottefraises %}) .
