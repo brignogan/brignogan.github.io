@@ -3,7 +3,7 @@ layout: post
 title: Glace aux fruits rouges de Grand-Mère Ploudaniel
 tag_category: famille
 tag_plat: dessert
-image: img/recette/untitled.png
+image: img/recette/glace.png
 temps_preparation: 60
 temps_cuisson: '-'
 temps_repos: 120
