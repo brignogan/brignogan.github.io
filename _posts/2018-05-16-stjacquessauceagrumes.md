@@ -45,5 +45,5 @@ Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Gewurztraminer (Domaine René Fleith, Letzenberg), Menetou-Salon (Domaine de Châtenoy, Classique), Pays d'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
-* Des prescriptions pour la préparation des noix de saint-jacques sont données dans les notes de la recette des Saint-Jacques flambées aux pommes [Saint-Jacques flambées aux pommes]({% post_url 2018-05-17-stjacquespommes %}) .
+* La préparation des noix est décrite dans les notes de la recette des [Saint-Jacques flambées aux pommes]({% post_url 2018-05-17-stjacquespommes %}) .
 * On peut ajouter quelques brisures de crêpes de blé noir séchées à la poêle.
