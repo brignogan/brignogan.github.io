@@ -67,7 +67,7 @@ Ces rouleaux, appelés "Gỏi Cuốn", sont un plat typique de la cuisine vietna
 * Vin rosé : Tavel (Domaine de la Mordorée, La Reine des Bois), Champagne (Louis de Sacy, Rosé de Saignée).
 
 ### Notes
-* Pour le vermicelle de riz, les galettes de riz et la ciboule chinoise, leur [présentation]({% post_url 2021-02-3-pho %}) est dans les "Notes" de la recette du Phở. La sauce Hoi-Sin est une préparation à base de prunes.
+* Le vermicelle de riz, les galettes de riz et la ciboule chinoise sont décrits dans les "Notes" de la recette du Phở. On trouvera y leur [présentation]({% post_url 2021-02-3-pho %}) . La sauce Hoi-Sin est une préparation à base de prunes.
 * Pour préparer de l'ail frit, éplucher les gousses et les hacher. Les jeter dans de l'huile chaude et les cuire en les remuant jusqu'à ce qu'elles se colorent très légèrement. Les retirer de suite du feu et les laisser refroidir tout en remuant, elles vont continuer à se colorer. Les égoutter sur un papier absorbant.
 * Pour le mouillage des galettes de riz, Hanh préconise d'utiliser des serviettes non-tissées que l'on mouille et dont on enveloppe les galettes. Il faut récupérer celles-ci au fur et à mesure du besoin.
 * Il est préférable d'acheter des cacahuètes simplement décortiquées et blanchies (sans leur peau rouge) et de les griller : préchauffer le four à 180°C, disposer les cacahuètes bien étalées sur un papier cuisson, laisser griller pendant 20-25 min en surveillant la couleur.
