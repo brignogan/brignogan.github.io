@@ -40,4 +40,4 @@ La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
 
 ### Notes
-* La préparation de la bilig est décrite dans les [notes]({% post_url 2018-05-16-crepeblenoir %}) de la recette des crêpes de blé noir.
+* La préparation de la bilig est décrite dans les notes de la recette des  [crêpes de blé noir]({% post_url 2018-05-16-crepeblenoir %}) .

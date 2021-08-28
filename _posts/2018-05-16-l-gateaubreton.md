@@ -28,7 +28,7 @@ La recette de ce gâteau, dont la base est une pâte brisée, vient de notre cop
 * 1/2 citron
 
 ### Préparation
-#### pour le gâteau
+#### Préparation du gâteau
 * Chauffer le four à 200°C.
 * Mélanger, dans un premier temps, le sucre, le rhum, les jaunes d’œuf.
 * A ce mélange jaunâtre, ajouter le beurre préalablement ramolli (en le laissant par exemple une nuit à température ambiante) et, à la main, malaxer le tout pour obtenir un mélange homogène.
@@ -38,7 +38,7 @@ La recette de ce gâteau, dont la base est une pâte brisée, vient de notre cop
 * Cuire au four environ 30 min.
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
 
-#### pour le version fourrée
+#### Préparation de la version fourrée
 * Commencer la préparation de la crème la veille. Faire bouillir l'eau et y faire infuser le thé. Ajouter les pruneaux et réchauffer jusqu'à frémissement. Réserver. Le lendemain, faire cuire les pruneaux 15 mn à feu doux. Sortir les pruneaux et les dénoyauter. Remettre les pruneaux dans le jus, ajouter le sucre et le jus du demi-citron. Faire bouillir puis mixer le mélange et le faire cuire à feu doux 10-15 mn comme une confiture.
 * Préparer la pâte du gâteau comme ci-dessus. Découper une feuille de papier sulfurisé à la taille du haut du moule. Avec les mains mouillées, étaler une partie de la pâte sur ce disque de papier pour faire une galette un peu épaisse. Mettre au réfrigérateur. Etaler le reste de la pâte dans le moule beurrée et la faire remonter sur les bords sur 2 cm. Remplir le centre de la crème aux pruneaux, retourner la galette refroidie sur le dessus et ôter le papier. Presser bien la bordure pour souder le gâteau. Finir comme ci-dessus avec le badigeon de jaune d'oeuf, les dessins à la fourchette et la cuisson au four.  
 

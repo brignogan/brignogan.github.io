@@ -34,5 +34,6 @@ Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que 
 * Vin blanc : Maury (Les Vignes d'Elodie), Macvin du Jura (Domaine de Savagny).
 
 ### Notes
+* Pour un service optimum, les galettes doivent être dégustées aussitôt cuites. Autant dire que la cuisinière ne peut passer à table que lorsque tous les convives sont rassasiés.
 * A Ploudaniel, on mangeait le fars pitilig comme le fars forn avec du jambon…
 * Pour une boisson d'accompagnement plus typique, on peut servir du lait ribot.
