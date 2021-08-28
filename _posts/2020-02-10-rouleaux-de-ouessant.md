@@ -45,6 +45,7 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 * Préparer la sauce : mixer l'aneth et le persil, ajouter la crème fraîche et remixer le tout et verser dans une casserole. Saler, poivrer et chauffer 3 mn sur feu doux pour exprimer les colorants. Filtrer au tamis en pressant bien pour récupérer "la couleur". Laisser refroidir.
 * Partager le tartare de truite en 6 portions. Déposer chacune sur une tranche dr truite fumée et former le rouleau.
 * Poser chaque rouleau sur un lit de sauce verte et décorer avec un brin d'aneth ou de ciboulette.
+* Remettre au frigo au moins 20 min.
 * Griller les toasts.
 * Servir avec un 1/2 toast grillé garni d'oeufs de truite et l'autre 1/2 toast garni de tartare d'algues.  
 
@@ -55,4 +56,4 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 
 ### Notes
 * Il est préférable de congeler le filet de truite la veille de la préparation pour pouvoir le découper en petits dés réguliers. Il décongèlera rapidement pendant la coupe et la macération dans le citron.
-* La recette du tartare d'algues est donnée dans la rubrique "sauces et condiments".
+* Dans la rubrique "Sauces et Condiments", on trouvera la préparation du [tartare d'algues]({% post_url 2020-02-10-tartare-algues %}) .
