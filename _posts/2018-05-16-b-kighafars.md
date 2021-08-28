@@ -75,7 +75,7 @@ Le kig ha fars est un plat typiquement léonard mais la recette est souvent l'ob
 
 ### Notes
 * On peut remplacer le petit salé par un jarret de porc demi-sel qui sera alors mis à cuire dès le début avec le boeuf.
-* L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand-Mère Saint-Pierre. Grand-Mère Ploudaniel cuisait simplement les lards avec les oignons. 
+* L’accompagnement du fars par un pot-au-feu garni vient de la recette de Grand-Mère Saint-Pierre. Grand-Mère Ploudaniel l'accompagnait simplement des lards cuits avec les oignons.
 * A Saint-Pierre, on mangeait le fars noir en tranche, style béton armé !… pas du tout apprécié à Ploudaniel où les lards se mangeaient avec le fars noir en "brujunes" saupoudré de sucre et accompagné de salade verte vinaigrée.
 * Le fars blanc était dans la recette de Mémé Saint-Pierre et donc originaire de Plouzané.
-* Le reste de fars peut être servi soit frit au beurre avec des échalotes, soit réchauffé à la vapeur. Les restes du pot-au-feu peuvent, quant à eux, être accommodés avec une sauce gribiche dont la [préparation]({% post_url 2021-06-09-sauce3gribiche %}) est décrite dans la rubrique "Sauces et Condiments".
+* Le reste de fars peut être servi soit frit au beurre avec des échalotes, soit réchauffé à la vapeur. Les restes du pot-au-feu peuvent, quant à eux, être accommodés avec une [sauce gribiche]({% post_url 2021-06-09-sauce3gribiche %}) .

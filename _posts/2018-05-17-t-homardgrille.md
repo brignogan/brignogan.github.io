@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: homard, lambic
 ---
-Le homard foisonne sur notre côte pendant l'été et c'est un régal de la déguster grillé avec une sauce au lambic comme dans cette recette liée à notre terroir. Une fois que l'on a vaincu sa peur de la bête... tout va bien.
+Le homard foisonne sur notre côte pendant l'été et c'est un régal de le déguster grillé avec une sauce au lambic comme dans cette recette liée à notre terroir. Une fois que l'on a vaincu sa peur de la bête... tout va bien.
 
 ### Ingrédients
 * 2 homards de 1,2 kg chacun (ou 4 homards de 600 g)
@@ -42,4 +42,4 @@ Le homard foisonne sur notre côte pendant l'été et c'est un régal de la dég
 * Les homards (s'ils sont bien vivants) peuvent se garder, sans problème, 2-3 jours bien à plat dans un bac en bas du réfrigérateur, recouverts d'un torchon humide. Vérifier chaque jour qu'ils sont bien vivants, sinon les cuire aussitôt (point 1).
 * La préparation peut se faire en deux temps. La veille (par exemple), procéder aux 4 premiers points de la recette et recouvrir d'un film les homards dans la lèchefrite. Conserver au réfrigérateur. Garder le mélange beurre/corail à température ambiante pour que le beurre reste en pommade. Poursuivre la préparation le lendemain.   
 * Si on a choisi la version 1 homard par personne, cuire d’abord 4 demi-homards, les servir chaud et cuire les 4 autres pendant la dégustation des premiers.
-* On peut remplacer le riz par du fars du dont la [préparation]({% post_url 2018-05-16-b-kighafars %}) est décrite dans la recette du Kig ha fars. On peut alors appeler la recette "legest ha fars".
+* On peut remplacer le riz par du fars du dont la [préparation]({% post_url 2018-05-16-b-kighafars %}) est décrite dans la recette du Kig ha fars. On peut alors appeler la recette "Legest ha fars".

@@ -13,7 +13,7 @@ index_motClefIngredient: ormeau, pomme de terre
 Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages. Elle les accommode très simplement suivant la recette qui est, en fait, l’équivalent du steak-frites. Les ormeaux sont, en effet, considérés comme les biftecks de la mer.
 
 ### Ingrédients
-* 12 ormeaux moyens (ou plus suivant leur taille, voir note 1)
+* 12 ormeaux moyens (ou plus suivant leur taille, voir Notes)
 * 20 g de beurre demi-sel
 * 1 gousse d’ail
 * 1 bouquet de persil

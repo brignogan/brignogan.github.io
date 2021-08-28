@@ -11,7 +11,7 @@ nbre_personne: ‘pour deux douzaines de crêpes’
 index_motClefBase: pâte à crêpe de blé noir | pâte!à crêpe de blé noir
 ---
 
-La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penmarch) qui est diplômée de l’Université de la Crêpe de Saint Jean Trolimon. Pour réaliser les crêpes, il est préférable d'utiliser une bilig (plaque chauffante), un rastel (rateau) et un spannel (spatule).
+La recette de la pâte à crêpe de blé noir nous a été donnée par Michelle (Penmarch) qui est diplômée de l’Université de la Crêpe de Saint Jean Trolimon. Pour réaliser les crêpes, il est préférable d'utiliser une bilig (plaque chauffante), un rastel (rateau) et un spannel (spatule).
 
 ### Ingrédients
 * 500 g de farine de sarrasin
@@ -31,7 +31,7 @@ La recette de la pâte à crêpe de blé noir a été donnée par Michelle (Penm
 * Utiliser la louche n°8 (diamètre en cm) pour verser une louchée de pâte et l’étaler au rateau. Cuire la première face 1 mn (les bords de la crêpe se décollent facilement).
 * Si on ne veut pas fourrer la crêpe, la retourner et cuire à nouveau 1 mn - 1 mn 30.
 * Si on veut la fourrer, y étaler un morceau de beurre et ajouter aussitôt la garniture : fromage râpé, oeuf battu, jambon, andouille, saumon fumé,…. Cuire une bonne minute. Plier la crêpe.
-* Pour un fourrage à l’oeuf miroir, cuire le blanc directement sur la crêpe, ajouter ensuite les autres éléments du fourrage (fromage rapé, jambon,...) puis déposer le jaune cru sur la crêpe après pliage.
+* Pour un fourrage à l’oeuf miroir, cuire le blanc directement sur la crêpe beurrée, ajouter ensuite les autres éléments du fourrage (fromage rapé, jambon,...) puis déposer le jaune cru sur la crêpe après pliage.
 * La crêpe de blé noir peut aussi devenir un excellent dessert. Sur la bilig, il faut bien la beurrer puis la fourrer de miel et la plier. Dans l'assiette, l'arroser de lambig et flamber.
 
 ### Vins
