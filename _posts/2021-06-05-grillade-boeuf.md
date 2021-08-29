@@ -26,8 +26,8 @@ Les pièces de bœuf comme la côte, l'entrecôte ou le filet peuvent donner d'e
 * La pièce de viande et la sauce béarnaise ou la sauce au poivre se servent avec des frites, des pommes de terre sautées ou des haricots verts poêlés.
 
 ### Vins
-* Vin rouge : Saint-Emilion (Château Franc Patarabet), Saint-Emilion (Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côtes-du-Rhône Villages (Château La Borie), Saint-Aubin (Domaine Hubert Lamy, Derrière chez Edouard), Saint-Estèphe (Château Haut-Marbuzet).
+* Vin rouge : Saint-Emilion (Château Franc Patarabet), Saint-Emilion (Château La Gaffelière), Pessac-Léognan (Domaine de la Solitude), Haut-Médoc (Château Sociendo-Mallet), Côtes-du-Rhône Villages (Château La Borie), Saint-Aubin (Domaine Hubert Lamy, Derrière chez Edouard), Saint-Estèphe (Château Haut-Marbuzet), Collines-Rhodaniennes (Les vignobles de Seyssuel, Saxeolum).
 
 ### Notes
 * Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [sauce béarnaise]({% post_url 2020-04-24-sauce7bearnaise %}) .
-* Même chose pour la [sauce au poivre]({% post_url 2021-06-14-sauce9poivre %}) . 
+* Même chose pour la [sauce au poivre]({% post_url 2021-06-14-sauce9poivre %}) .
