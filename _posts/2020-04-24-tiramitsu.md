@@ -8,7 +8,7 @@ temps_preparation: 30
 temps_cuisson: '-'
 temps_repos: 180
 nbre_personne: ‘pour 6 personnes’
-index_motClefIngredient: boudoir, mascarpone, café,  d'amaretto | amaretto, chocolat
+index_motClefIngredient: biscuit à la cuiller, mascarpone, café,  d'amaretto | amaretto, chocolat
 ---
 Ce tiramisu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportait ses recettes des villes où elle accompagnait son mari Jacques, directeur au CNRS, qui faisait des missions à l'étranger. Ils allaient ainsi régulièrement à Florence en Toscane.
 
@@ -19,7 +19,7 @@ Ce tiramisu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportait
 * 2 sachets-doses de café soluble
 * 100 mL d'eau chaude
 * 1 c. à s. d'amaretto (ou whisky)
-* 250 g de boudoirs
+* 250 g de biscuits à la cuiller
 * chocolat en poudre sucré (Nesquik)
 * sel
 
@@ -33,8 +33,8 @@ Ce tiramisu est un dessert de Monique Salaün, une amie d'Orsay. Elle rapportait
 * Incorporer délicatement les blancs au mélange précédent.
 * Préparer la sauce de trempage avec le café, l'eau chaude et l'alcool.
 * Dans un plat à gratin, couvrir le fond d'une couche de crème.
-* Tremper rapidement, et un par un, les boudoirs dans la sauce et en faire une couche sur la crème. Bien tasser pour faire remonter la crème.
-* Disposer à nouveau une couche de crème puis une couche de boudoirs. Finir par une couche de crème.
+* Tremper rapidement, et un par un, les biscuits à la cuiller dans la sauce et en faire une couche sur la crème. Bien tasser pour faire remonter la crème.
+* Disposer à nouveau une couche de crème puis une couche de biscuits. Finir par une couche de crème.
 * Saupoudrer de chocolat en poudre.
 * Faire reposer au frigo une demi-journée.    
 
