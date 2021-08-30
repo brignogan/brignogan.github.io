@@ -38,5 +38,5 @@ La corne de gazelle est le gâteau typique de la pâtisserie marocaine. Il est i
 * Vin blanc doux : Sauternes (Château Haut-Bergeron).
 
 ### Notes
-* Si on ne dispose que d'amandes décortiquées, en suivant la méthode décrite pour la recettes du tgine d'agneau aux pruneaux et aux amandes, on peut facilement préparer des [amandes émondées]({% post_url 2018-06-19-i-tagine-pruneaux %}).
+* Si on ne dispose que d'amandes décortiquées, en suivant la méthode décrite pour la recettes du tagine d'agneau aux pruneaux et aux amandes, on peut facilement préparer des [amandes émondées]({% post_url 2018-06-19-i-tagine-pruneaux %}).
 * Pour accompagner ce dessert marocain, on pourra préférer servir un thé à la menthe dont la préparation est décrite dans les notes de la recette [chebakia]({% post_url 2018-05-28-chebakia %}).
