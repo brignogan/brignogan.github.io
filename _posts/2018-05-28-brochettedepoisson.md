@@ -20,7 +20,7 @@ Le kanoun est un fourneau bas en terre ou en métal utilisé traditionnellement 
 * 4-5 pistils de safran
 * 20 cL de crème fraîche liquide
 * 1/2 citron
-* huile d'arachide ou tournesol
+* huile de tournesol
 * sel, poivre,
 
 ### Préparation

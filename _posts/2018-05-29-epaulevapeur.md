@@ -17,7 +17,7 @@ Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier m
 * 1 petit bouquet de coriandre
 * 1 petit bouquet de persil plat
 * 1 gousse d’ail
-* ½ oignon
+* 1/2 oignon
 * sel, poivre
 * fleur de sel
 * cumin
@@ -37,4 +37,4 @@ Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier m
 
 ### Notes
 * Si la recette se fait traditionnellement dans le couscoussier, le temps de cuisson doit être d'au moins 2h.
-* Pour la boisson d'accompagnement, voir la note de la recette [Brochettes de poisson]({% post_url 2018-05-28-brochettedepoisson %}).
+* Pour la boisson d'accompagnement, on trouvera une remarque dans les notes de la recette [Brochettes de poisson]({% post_url 2018-05-28-brochettedepoisson %}).

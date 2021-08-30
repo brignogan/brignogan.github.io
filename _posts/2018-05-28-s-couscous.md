@@ -28,22 +28,22 @@ Cette recette de couscous est en fait une synthèse de la recette de Rkia (recet
 * 1 kg de semoule de couscous moyenne
 * 3-4 oignons
 * 1 poignée de raisins secs
-* 40 g de beurre ½ sel
-* ½ c. à c. de cannelle
-* ½ c. à s. de sucre
+* 40 g de beurre demi-sel
+* 1/2 c. à c. de cannelle
+* 1/2 c. à s. de sucre
 * 2 c. à s. d’harissa
-* huile d’arachide
+* huile de tournesol
 
 ### Préparation
 #### Cuisson de la marga
-* Eplucher tous les légumes.
-* La cuisson de la marga se fait dans la cocotte minute. Y faire revenir les morceaux d’agneau dans un peu d’huile d’arachide. Les retirer, un par un, lorsque la viande est bien dorée. Eliminer le gras la cocotte puis y faire juste suer, sans les faire dorer, les carottes et les navets coupées en gros morceaux et l’ail haché. Remettre la viande, ajouter les tomates et les pois chiches et bien remuer. Couvrir d’eau et faire bouillir. Dissoudre le paprika dans un peu de l’eau bouillante et l’ajouter dans la cocotte. Saler, fermer la cocotte et cuire 3/4 h (voir le paragraphe "Préparation de la semoule et des oignons à la cannelle").
-* Au bout des 3/4 h de cuisson de la margua, ouvrir la cocotte et ajouter les courgettes et la courge coupées en gros morceaux ainsi que les fonds d’artichaut et les haricots verts, . Couvrir simplement la cocotte (sans la fermer) et laisser mijoter 1/2 h.
+* Eplucher les carottes, les navets, l'ail et la courge. Equeuter les haricots verts et les courgettes.
+* La cuisson de la marga se fait dans la cocotte minute. Y faire revenir les morceaux d’agneau dans un peu d’huile. Les retirer, un par un, lorsque la viande est bien dorée. Eliminer le gras la cocotte puis y faire juste suer, sans les faire dorer, les carottes et les navets coupées en gros morceaux et l’ail haché. Remettre la viande, ajouter les tomates et les pois chiches et bien remuer. Couvrir d’eau et faire bouillir. Dissoudre le paprika dans un peu de l’eau bouillante et l’ajouter dans la cocotte. Saler, fermer la cocotte et cuire 45 min (voir le paragraphe "Préparation de la semoule et des oignons à la cannelle").
+* Au bout des 3/4 h de cuisson de la margua, ouvrir la cocotte et ajouter les courgettes et la courge coupées en gros morceaux ainsi que les fonds d’artichaut et les haricots verts, . Couvrir simplement la cocotte (sans la fermer) et laisser mijoter 30 min.
 
 #### Préparation de la semoule et des oignons à la cannelle
 * Pendant la cuisson de la marga, dans une bassine, mouiller la graine de couscous en lui ajoutant petit à petit 1 L d’eau salée et en l’égrenant entre les doigts. Laisser gonfler sous un torchon.
-* Emincer les oignons. Mettre les raisins secs à gonfler dans de l’eau tiède.
-* Faire fondre la moitié du beurre dans une casserole à sauce. Y jeter les oignons, bien remuer, ajouter une pincée de sel, couvrir et laisser cuire doucement sans perdre l’eau des oignons pendant 25 mn, remuer de temps en temps. Ajouter les raisins égouttés et la cannelle, bien remuer et laisser cuire toujours à couvert ¼ h. Ajouter le sucre. Bien remuer et cuire doucement 10 mn. Le mélange doit devenir marron. Vérifier l’assaisonnement. Réserver.
+* Eplucher et émincer les oignons. Mettre les raisins secs à gonfler dans de l’eau tiède.
+* Faire fondre la moitié du beurre dans une casserole à sauce. Y jeter les oignons, bien remuer, ajouter une pincée de sel, couvrir et laisser cuire doucement sans perdre l’eau pendant 25 mn, remuer de temps en temps. Ajouter les raisins égouttés et la cannelle, bien remuer et laisser cuire toujours à couvert 15 min. Ajouter le sucre. Bien remuer et cuire doucement 10 mn. Le mélange doit devenir marron. Vérifier l’assaisonnement. Réserver.
 * Faire bouillir de l’eau dans une grande casserole (ou dans un rice-cooker) et installer dessus le couscoussier (prévenir éventuellement les fuites de vapeur avec un torchon mouillé). Y mettre la graine gonflée et attendre que la vapeur traverse celle-ci. Verser la alors dans la bassine et remuer avec une fourchette pour décoller les grains. Laisser en attente.
 
 #### Service
@@ -59,4 +59,4 @@ Cette recette de couscous est en fait une synthèse de la recette de Rkia (recet
 
 ### Notes
 * Grand Mère Saint Pierre commençait la préparation de son couscous à 5 h du matin pour midi…. Elle cuisait très longuement, dans de l’eau salée, les pois chiches, mis à tremper depuis la veille. Elle épluchait les petits artichauts et les cuisait à l’eau salée. Elle avait les mains toutes noires et les frottait avec du citron… une vraie galère !!! La cuisson de la marga dans le bas du couscoussier durait 1h1/2. On peut maintenant faire confiance aux légumes en conserve et utiliser la cocotte minute... Ouf!
-* Pour le service de ce plat voir la note de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}). Spécifiquement, la dégustation du couscous nécessite une cuiller.
+* Pour le service de ce plat, on lira les notes de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}). Spécifiquement, la dégustation du couscous nécessite une cuiller.

@@ -35,7 +35,7 @@ Tous les poissons blancs peuvent être préparés en tagine, le citron confit et
 * Vin blanc : Pays d'Hérault (Mas de Daumas-Gassac), Pessac-Léognan (Domaine de la Solitude), Auxey-Duresses (Les Caves de l'Orangerie, Le Val), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches), Côtes-du-Jura (Domaine de Savagny, Vin Jaune).
 
 ### Notes
-* Pour la boisson d'accompagnement, voir la note de la recette [Brochettes de poisson]({% post_url 2018-05-28-brochettedepoisson %}).
+* Pour la boisson d'accompagnement, on trouvera une remarque dans les notes de la recette [Brochettes de poisson]({% post_url 2018-05-28-brochettedepoisson %}).
 * Pour évaluer la taille du poisson, on compte environ 700-800 g pour les déchets sur le poids du poisson et 150 g de chair par personne.
 * Si on souhaite cuisiner ce tagine avec des poissons ronds (cabillaud, bar, lotte), les préparer en gros tronçons de filet pour les faire mariner.
 * La préparation d'une barbue en portefeuille est présentée ci-dessous.

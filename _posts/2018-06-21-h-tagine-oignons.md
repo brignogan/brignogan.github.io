@@ -14,7 +14,7 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 
 ### Ingrédients
 * 1,5 kg d'épaule d’agneau avec os
-* 1 kg oignons
+* 1 kg d'oignons
 * 1 verre de raisins secs
 * 1 bouquet de persil plat
 * 1 bouquet de coriandre
@@ -23,7 +23,7 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * 4-5 pistil de safran
 * 1/3 de sachet de colorant alimentaire (voir note)
 * 1 c. à c. de cannelle
-* 1 ½  c. à s. de sucre
+* 1 c. à s. de sucre
 * huile, beurre, sel, poivre
 
 ### Préparation
@@ -33,17 +33,17 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 * Hacher très fin le persil, le coriandre et l’ail pour obtenir 2 c. à s. de hachis.
 * Mettre dans le tagine (ou un plat creux) un verre d’huile, la moitié du hachis herbes-ail, le safran, le gingembre, le colorant, du sel et du poivre. Bien mélanger.
 * Ajouter les morceaux de viande, bien les enduire du mélange et verser le tout dans la cocotte minute.
-* Faire dorer la viande à grand feu puis ajouter le reste du mélange herbes-ail et l’oignon émincé.
-* Ajouter 150-200 mL d’eau dans le tagine pour le rincer et verser dans la cocotte (la viande doit être à peine couverte). Fermer la cocotte et laisser cuire à petit feu ¾ h. Procéder alors à la préparation de l'accompagnement (voir ci-dessous)
-* Au bout de ce temps, ouvrir la cocotte et vérifier que la viande est cuite (elle doit se défaire avec les doigts). Faire mijoter à petit feu à découvert pour faire évaporer l’eau pendant ¼ h. La sauce doit être limpide et onctueuse. A ce moment, la viande est prête, verser le tout dans le tajine et laisser mijoter pour confire la viande.
+* Faire dorer la viande à grand feu puis ajouter le reste du mélange herbes-ail.
+* Ajouter 150-200 mL d’eau dans le tagine pour le rincer et verser dans la cocotte (la viande doit être à peine couverte). Fermer la cocotte et laisser cuire à petit feu 45 min. Procéder alors à la préparation de l'accompagnement (voir ci-dessous)
+* Au bout de ce temps, ouvrir la cocotte et vérifier que la viande est cuite (elle doit se défaire avec les doigts). Faire mijoter à petit feu à découvert pendant 15 min pour réduire la sauce qui doit devenir limpide et onctueuse. A ce moment, la viande est prête, verser le tout dans le tagine et laisser mijoter pour confire la viande.
 
 #### Préparation de l'accompagnement
 * Pendant la cuisson de la viande, éplucher et émincer les oignons, mettre les raisins secs à tremper dans un bol d’eau tiède.
-* Mettre un bon morceau de beurre dans une sauteuse. Quand il est fondu, y mettre les oignons avec une pincée de sel et bien remuer. Couvrir complètement pour ne pas perdre l’eau des oignons et laisser cuire un bon ¼ h en remuant de temps en temps.
+* Mettre un bon morceau de beurre dans une sauteuse. Quand il est fondu, y mettre les oignons avec une pincée de sel et bien remuer. Couvrir complètement pour ne pas perdre l’eau des oignons et laisser cuire 15 min en remuant de temps en temps.
 * Quand les oignons sont à peu près cuits, rajouter une pointe de couteau de colorant (les oignons deviennent jaune) et remettre à cuire 10 mn.
-* Rajouter les raisins égouttés et la cannelle. Bien remuer et laisser cuire toujours à couvert pendant ¼ h. Si les oignons collent, ajouter un peu de la sauce de la viande.
-* Quand les raisins sont cuits, ajouter le sucre et si besoin un peu de cannelle. Bien remuer. Le mélange doit devenir marron. Laisser cuire toujours à couvert pendant encore 10 mn. Conserver au chaud.
-* Au moment de servir, disposer les oignons sur la viande dans le tajine.
+* Rajouter les raisins égouttés et la cannelle. Bien remuer et laisser cuire toujours à couvert pendant 15 min. Si les oignons collent, ajouter un peu de la sauce de la viande.
+* Quand les raisins sont cuits, ajouter le sucre. Bien remuer. Goûter et, si besoin, ajouter un peu de cannelle et/ou un peu de sucre Le mélange doit devenir marron. Laisser cuire toujours à couvert pendant encore 10 mn. Conserver au chaud.
+* Au moment de servir, disposer les oignons sur la viande dans le tagine.
 
 ### Vins
 * Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois).
@@ -55,4 +55,4 @@ Certains tagines sont saisonniers parce que préparés avec des légumes ou des 
 
 ### Notes
 * Le colorant alimentaire utilisé dans la cuisine marocaine est de la tartrazine (E102). Il est autorisé en France mais on peut s'en passer pour une cuisine plus "bio". On peut le remplacer par du curcuma.
-* Pour le service de ce plat voir la note de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).
+* Pour le service de ce plat, on lira les notes de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).
