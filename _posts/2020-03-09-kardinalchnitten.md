@@ -47,8 +47,7 @@ Ce gâteau est un fleuron de la pâtisserie viennoise à base de génoise, de me
 * Mettre la plaque au four et cuire pendant 25 mn en observant le biscuit qui doit être légèrement coloré.
 
 #### Préparation de la crème :
-* Battre la crème fraîche et le sachet de chantifix en chantilly bien formée.
-* Ajouter le café en poudre dilué dans le minimum d'eau et le sucre selon le goût (la crème ne doit pas être trop sucrée). Réserver au frigo.
+* Battre la crème fraîche et le sachet de chantifix en chantilly bien formée. Ajouter le café en poudre dilué dans le minimum d'eau et le sucre selon le goût (la crème ne doit pas être trop sucrée). Réserver au frigo.
 
 #### Montage du gâteau (voir le schéma) :
 * Laisser refroidir le biscuit meringué. On a obtenu deux morceaux, bien les dissocier (au besoin les recouper).
