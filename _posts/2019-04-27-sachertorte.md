@@ -33,7 +33,7 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 * 1 cuillère à soupe d'huile
 
 #### pour la décoration et l'accompagnement :
-* 25 cl de crème liquide entière
+* 25 cL de crème liquide entière
 * un peu de sucre en poudre (selon le goût)
 * 1 paquet de « Chantifix » (pour rendre la chantilly plus ferme)
 * quelques framboises ou mirabelles ou oranges confites selon la saison
@@ -57,7 +57,7 @@ La sachertorte est un des gâteaux les plus connus au monde. Elle a été créé
 
 #### Préparation du glaçage :
 
-* Faire fondre le beurre et le chocolat au bain-marie. Quand l'ensemble est homogène, ajouter la cuillère d'huile, mélanger puis laisser refroidir. Réchauffer à nouveau pour re-liquéfier parfaitement le glaçage.
+* Faire fondre le beurre et le chocolat au bain-marie. Quand l'ensemble est homogène, ajouter la cuiller d'huile, mélanger puis laisser refroidir. Réchauffer à nouveau pour re-liquéfier parfaitement le glaçage.
 * Déposer le gâteau avec son fond en carton sur la grille et poser l'ensemble sur un plat plus large que le gâteau pour recueillir le glaçage qui va dégouliner (schéma ci-dessous).
 * Recouvrir le gâteau en versant le glaçage chaud à travers une passoire fine (chinois) en commençant par le centre du gâteau et en finissant par les bords.
 * Réserver le gâteau au frais (idéalement 12 h au frigo).

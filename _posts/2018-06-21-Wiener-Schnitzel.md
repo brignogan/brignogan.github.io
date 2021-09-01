@@ -19,7 +19,7 @@ Pour être qualifiée de "viennoise", cette escalope panée doit être préparé
 * chapelure (idéalement Semmel Brösel ou de la baguette séchée au four et broyée)
 * sel, poivre
 * 1 citron bio
-* huile d'arachide
+* huile de tournesol
 
 ### Préparation
 * Taper les escalopes avec un marteau à viande jusqu'à ce qu'elles ne fassent plus que 4 mm d'épaisseur.

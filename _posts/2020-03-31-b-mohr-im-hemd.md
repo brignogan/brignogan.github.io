@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: rhum, amande, chapelure, chocolat
 ---
-Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson à la vapeur lui donne une consistance tout à fait particulière.
+Le nom du gâteau se traduit en français par "le Maure en chemise" et personne n'a imaginé de le débaptiser. C'est donc sous ce nom que l'on peut déguster ce gâteau tout-à-fait particulier cuit au bain-marie.
 
 ### Ingrédients
 * 100 g de beurre en pommade
@@ -36,8 +36,8 @@ Le nom du gâteau se traduit en français par "le Maure en chemise". une cuisson
 * Beurrer un moule style kouglof et saupoudrer de chapelure. Le remplir au 3/4 de pâte.
 * Placer le moule dans une casserole (ou le rice-cooker) avec de l'eau à mi-hauteur du moule. Couvrir avec un papier sopalin (qui va absorber la vapeur d'eau) et un couvercle pas trop étanche.
 * Faire cuire 25-30 mn au bain-marie (l'eau doit bouillir gentillement).
-* Préparer le glaçage au chocolat : faire fondre 50 g de chocolat, 25 g de crème, 25 g de lait et le reste de rhum au bain-marie. Quand tout est fondu et bien mélangé, hors du feu, ajouter l'huile, mélanger et laisser refroidir.
-* Quand le gâteau est cuit et refroidi, réchauffer le glaçage pour le re-liquéfier et en recouvrir le gâteau.
+* Préparer la sauce au chocolat : faire fondre 50 g de chocolat, 25 g de crème, 25 g de lait et le reste de rhum au bain-marie. Quand tout est fondu et bien mélangé, hors du feu, ajouter l'huile, mélanger et laisser refroidir.
+* Quand le gâteau est cuit et refroidi, réchauffer la sauce pour la re-liquéfier et en recouvrir le gâteau.
 * Servir le Mohr-im-Hemd avec de la crème chantilly.
 
 ### Vins
