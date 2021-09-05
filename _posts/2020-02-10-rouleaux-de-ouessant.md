@@ -10,7 +10,7 @@ temps_repos: 90
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: truite, aneth, gin
 ---
-Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. L'excellence de ce produit de notre terroir est mis à profit dans cette entrée [ [7]]({{ '/bibliographie/#XX' | relative_url }}).
+Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. L'excellence de ce produit de notre terroir est mis à profit dans cette entrée [ [7]]({{ '/bibliographie/#savoureuseBreizh' | relative_url }}).
 
 ### Ingrédients
 #### pour les rouleaux :

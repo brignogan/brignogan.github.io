@@ -13,5 +13,6 @@ Suisse, 2009.<a class="anchor-tag" id="meilleuressoupes"></a>
 1973.<a class="anchor-tag" id="patisseriepourtous"></a>
 - [6] Gaston Lenôtre. *Ecole Lenôtre - La Patisserie - Grand Classiques et
   Créations.*. Jerome Vilette, 2006.<a class="anchor-tag" id="lenotre"></a>
-- [7] XX 
-- [8] XX
+- [7] Raymonde Charlon. *Savoureuse BRETAGNE*. OuestFrance, Rennes, 1993.
+- [8] Olivier Roellinger. *Ormeaux de plongée à la cancalaise*. [elle.fr/Elle-a-Table](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Ormeaux-de-plongee-a-la-cancalaise-2086738){:target="_blank"}
+, diernierement vu le 2021-08-30.

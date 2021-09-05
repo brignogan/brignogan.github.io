@@ -10,7 +10,7 @@ temps_repos: 4320
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: ormeau, algue séchée, nouilly-prat
 ---
-Muni d’un pied très puissant l'ormeau s'accroche sur les supports qu’il rencontre, comme les rochers, sous lesquels il se dissimule en colonie. Il fréquente nos côtes mais il n'est pas aisé de le pêcher. Aussi, avoir des voisins experts en la matière est un bienfait. Pour les accommoder, cette recette a été inspirée de celle de Olivier Roellinger, chef étoilé de Cancale [ [8]]({{ '/bibliographie/#XX' | relative_url }}).
+Muni d’un pied très puissant l'ormeau s'accroche sur les supports qu’il rencontre, comme les rochers, sous lesquels il se dissimule en colonie. Il fréquente nos côtes mais il n'est pas aisé de le pêcher. Aussi, avoir des voisins experts en la matière est un bienfait. Pour les accommoder, cette recette a été inspirée de celle de Olivier Roellinger, chef étoilé de Cancale [ [8]]({{ '/bibliographie/#roellinger' | relative_url }}).
 
 ### Ingrédients
 * 12 ormeaux moyens (ou plus suivant leur taille) avec leur barbillons

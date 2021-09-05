@@ -53,25 +53,30 @@
 	\noindent
 	%\begin{minipage}[t]{.3\textwidth}
 	%\begin{tcolorbox}[width=.3\textwidth,]
-		{\color{orangecolor}\textbf{#1}}
+		{\color{orangecolor}\textbf{#1}
+		\vspace{6pt}}
 	%\end{tcolorbox}
 	%\end{minipage}	
 	%\hfill
-	\vspace{6pt}
 	}
 
 \newcommand{\vinShowInfoAppellation}[4]{
 	\noindent
 	\begin{tcolorbox}[width=\textwidth, breakable,blanker]
 	%\begin{minipage}[t]{\textwidth}
+	%\if###5##
+    %\else
+	%	{\color{orangecolor}\textbf{#5}
+	%	\vspace{6pt}}
+	%\fi	
 	{\textbf{#1}}%
 	\vspace{-.24cm}
 	%\end{minipage}		
 	%\begin{minipage}[t]{\textwidth}
 		\begin{longtable}{p{1.4cm} p{9.0cm} }
-			Cuv\'ee: &{#2}\\
+			Cuv\'ee:     &{#2}\\
 			C\'epage(s): &{#3}\\
-			Recette(s): &{#4}\\
+			Recette(s):  &{#4}\\
 		\end{longtable}
 	\end{tcolorbox}	
 	\vspace{.1cm}

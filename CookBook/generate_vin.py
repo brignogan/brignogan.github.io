@@ -923,8 +923,8 @@ if __name__ == '__main__':
         newCouleur = 0
         if section_couleur != vin.Couleur:
             print('    ', vin.Couleur)
-            #final2_lines.append('\n')
-            final2_lines.append(u'\n \\vinShowCouleur{{{:s}}}\n'.format(vin.Couleur))
+            final2_lines.append('\n')
+            final2_lines.append(u'\n\\vinShowCouleur{{{:s}}}\n'.format(vin.Couleur))
             final2_lines.append(u'%--------------\n')
             section_couleur = vin.Couleur
             newCouleur = 1
@@ -1003,7 +1003,10 @@ if __name__ == '__main__':
         else:
             vin_Appelation = vin.Appelation  
 
-        final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
+        if False: #newCouleur == 1: 
+            final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here,vin.Couleur))
+        else:
+            final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
         #final2_lines.append(u'\n \\vspace{.05cm} \n')
      
         #create_dictionary
@@ -1073,49 +1076,55 @@ if __name__ == '__main__':
     for line in final2_lines:
         if '{.}' not in line: final22_lines.append(line)
 
-    #remove empty colour
-    final222_lines = []
-    for iline, line in enumerate(final22_lines):
-        if 'vinShowCouleur' in line: 
-            flag_ok = False
-            ii = iline+1
-            while ii < len(final22_lines):
-                if 'vinShowInfoAppellation' in final22_lines[ii]:
-                    flag_ok = True
-                    final222_lines.append(line)
-                    break
-                if 'vinShowCouleur' in final22_lines[ii]: 
-                    break
-                ii += 1
-            continue
+    if True:
+        #remove empty colour
+        final222_lines = []
+        for iline, line in enumerate(final22_lines):
+            if 'vinShowCouleur' in line: 
+                flag_ok = False
+                ii = iline+1
+                while ii < len(final22_lines):
+                    if 'vinShowInfoAppellation' in final22_lines[ii]:
+                        flag_ok = True
+                        final222_lines.append(line)
+                        break
+                    if 'vinShowCouleur' in final22_lines[ii]: 
+                        break
+                    ii += 1
+                continue
 
-        final222_lines.append(line)
-   
-    #remove empty wine
-    final2222_lines = []
-    ii_no = -999
-    for iline, line in enumerate(final222_lines):
-        
-        if 'vinSection' in line: 
-            ii = iline+1
-            while ii < len(final222_lines):
-                if 'vinShowCouleur' in final222_lines[ii]:
-                    final2222_lines.append(line)
-                    ii_no = -999
-                    break
-                if ('vinSection' in final222_lines[ii]) | ('newpage' in final222_lines[ii]): 
-                    ii_no = ii -1
-                    break
-                if ii == len(final222_lines)-1:  
-                    ii_no = ii -1
-                    break
-                ii += 1
-            continue
-        
-        #print(ii_no)
-        #if 'Cabelier' in line: pdb.set_trace()
-        if iline <= ii_no: continue
-        final2222_lines.append(line)
+            final222_lines.append(line)
+    else:
+        final222_lines = final22_lines
+
+    if True:
+        #remove empty wine
+        final2222_lines = []
+        ii_no = -999
+        for iline, line in enumerate(final222_lines):
+            
+            if 'vinSection' in line: 
+                ii = iline+1
+                while ii < len(final222_lines):
+                    if 'vinShowCouleur' in final222_lines[ii]:
+                        final2222_lines.append(line)
+                        ii_no = -999
+                        break
+                    if ('vinSection' in final222_lines[ii]) | ('newpage' in final222_lines[ii]): 
+                        ii_no = ii -1
+                        break
+                    if ii == len(final222_lines)-1:  
+                        ii_no = ii -1
+                        break
+                    ii += 1
+                continue
+            
+            #print(ii_no)
+            #if 'Cabelier' in line: pdb.set_trace()
+            if iline <= ii_no: continue
+            final2222_lines.append(line)
+    else:
+        final2222_lines = final222_lines
    
     #save file
     f= io.open(dir_out+"vin.tex","w")
