@@ -13,7 +13,7 @@ index_motClefIngredient: lotte, céleri, carotte, poivre vert
 C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat de lotte.  Pour cuisiner les produits de la "godaille" de ses voisins et amis pécheurs, Michelle ne manque, en effet, pas d'idées.
 
 ### Ingrédients
-* 600 g de lotte environ
+* 800 g de lotte environ
 * 4 échalotes
 * 1 branche de céleri
 * 3 carottes
