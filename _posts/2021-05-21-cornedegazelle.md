@@ -1,37 +1,35 @@
 ---
 layout: post
-title: Cornes de gazelle
+title: Cornes de gazelle ou kaab el ghzal
 tag_category: maroc
 tag_plat: dessert
 image: img/recette/cornedegazelle.png
 temps_preparation: 20
 temps_cuisson: 20
 temps_repos: 60
-nbre_personne: ‘pour 4 personnes’
+nbre_personne: ‘pour 35-40 pièces’
 index_motClefIngredient: amande, cannelle
 ---
-La corne de gazelle est le gâteau typique de la pâtisserie marocaine. Il est impensable de boire un thé à la menthe sans croquer une corne de gazelle. Elle peut être nature mais aussi enrobée d'amandes ou de sucre glace.
+La corne de gazelle est le fleuron de la pâtisserie marocaine et il est impensable de boire un thé à la menthe sans croquer un de ces gâteaux. Ils peuvent être nature mais aussi enrobé d'amandes ou de sucre glace.
 
 ### Ingrédients
 * 250 g de farine
-* 250 g de beurre
-* 150 g d'amandes émondées (voir note)
-* 150 g de sucre
+* 1/2 c. à s. de beurre demi-sel fondu
+* 30 g de beurre demi-sel
+* 500 g d'amandes émondées (voir notes)
+* 350 g de sucre
 * 1 œuf
-* 1 c. à c. de cannelle en poudre
-* 1 c. à s. d'eau de fleur d'oranger
-* sel
+* 1 pincée de cannelle en poudre
+* 1/2 verre d'eau de fleur d'oranger
 * facultatif : 1 c. à s. de fleur d'oranger, des amandes effilées, du sucre glace.
 
 ### Préparation
 * Préchauffer le four à 180°C.
-* Verser la farine dans un récipient. Ajouter du beurre et 1 pincée de sel.
-* Ajouter ensuite avec 3 c. à s. d’eau glacée puis pétrir rapidement. Si la pâte s’effrite, l'arroser à nouveau d’un peu d’eau glacée jusqu'à obtention d’une pâte bien élastique.
-* Rouler la pâte obtenue en boule et laisser reposer pendant 1 h.  
-* Faire sécher et dorer les amandes au four pendant quelques minutes. Les retirer et les râper en poudre dans un bol. Ajouter le sucre, l'œuf entier, l'eau de fleur d'oranger et la cannelle. Bien mélanger. Réserver.
-* Etaler la pâte sur 2 mm d'épaisseur. Y découper des carrés de 8 cm de côté environ.
-* Poser, dans le coin de chaque carré, un petit boudin de 5 cm de long de la pâte d'amande. Rouler en forme de croissant.
-* Cuire au four 20 min.
+* Faire sécher et dorer les amandes au four pendant quelques minutes. Les râper en poudre dans un bol. Ajouter le sucre, l'œuf entier, 1 c. à s. d'eau de fleur d'oranger et la cannelle. Bien mélanger. Réserver.
+* Verser la farine dans un récipient. Ajouter le beurre fondu et pétrir en versant petit à petit l’eau de fleur d'oranger. La pâte doit être élastique et poursuivre le pétrissage au moins 30 min puis pendant l'opération d'étalage.
+* Prélever une boule de pâte de la grosseur d'une orange et l'étaler en un ruban de 8 cm de long sur 1 mm d'épaisseur. Poser des petits boudins de pâte d'amande de 5 cm de long et espacés de 3-4 cm au centre d'une bande de 4 cm de large le long du ruban. Replier le ruban sur la pâte d'amande et découper chaque "corne" à 2-3 mm de chaque boudin. Pincer les deux épaisseurs de pâte pour souder les gâteaux. Leur donner une forme de croissant et piquer chacun avec une fourchette.
+* Répéter cette opération jusqu'à épuisement de la pâte.
+* Cuire les cornes au four 20 min.
 * Les gâteaux sont nature. Pour les versions enrobées, arroser les gâteaux d'1 c. à s. d'eau de fleur d'oranger et les rouler dans le sucre glace ou dans les amandes effilées dorées au four.
 
 ### Vins
