@@ -92,6 +92,7 @@
   <div class='img-extra'>
 
   {% assign nameneeded = page.slug | append: '-extra' %}
+  <!--{{nameneeded}}-->
   {% for myimage in site.static_files %}
      {% if myimage.path contains nameneeded %}
      {% unless myimage.path contains "HD" %}
