@@ -3,7 +3,7 @@ layout: post
 title: Kig ha fars
 tag_category: bretagne
 tag_plat: platViande
-image: img/recette/kighafars.png
+image: img/recette/b-kighafars.png
 temps_preparation: 30
 temps_cuisson: 90
 temps_repos: '-'
