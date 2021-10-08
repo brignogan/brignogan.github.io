@@ -747,7 +747,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 line2p_+=r'\noindent'+'\n'
                 title_ = recipeMMtitle.split(' ')[0].lower()
                 if title_[-1] == 's': title_ = title_[:-1]
-                title_ = 'Autre {:s}'.format(title_) 
+                title_ = 'Autres {:s}s'.format(title_) 
                 line2p_+=r'{\color{orangecolor}\Large\textbf{'+title_+'}}%    \parindent0pt'+'\n'
                 line2p_+=r'\par'+'\n'
                 if 'g' in title_:
