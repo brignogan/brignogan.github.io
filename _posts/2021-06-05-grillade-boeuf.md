@@ -8,7 +8,7 @@ temps_preparation: 10
 temps_cuisson: 20
 temps_repos: 5
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: côte de bœuf | bœuf!côte, entrecôte | bœuf!entrecôte, filet de bœuf | bœuf!filet, sauce béarnaise | sauce!béarnaise, sauce au poivre | sauce!au poivre
+index_motClefIngredient: côte de bœuf | bœuf!côte, entrecôte | bœuf!entrecôte, filet de bœuf | bœuf!filet, sauce béarnaise | sauce!béarnaise, au poivre | sauce!au poivre
 ---
 Les pièces de bœuf comme la côte, l'entrecôte ou le filet peuvent donner d'excellentes grillades qui seront accompagnées avec bonheur d'une sauce béarnaise ou d'une sauce au poivre.
 

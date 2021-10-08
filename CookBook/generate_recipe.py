@@ -747,13 +747,6 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                 line2p_+=r'\noindent'+'\n'
                 title_ = recipeMMtitle.split(' ')[0].lower()
                 if title_[-1] == 's': title_ = title_[:-1]
-                title_ = 'Autres {:s}s'.format(title_) 
-                line2p_+=r'{\color{orangecolor}\Large\textbf{'+title_+'}}%    \parindent0pt'+'\n'
-                line2p_+=r'\par'+'\n'
-                if 'g' in title_:
-                    line2p_+=r'\vskip 2mm'+'\n'
-                else:
-                    line2p_+=r'\vskip 4mm'+'\n'
                 
                 #split per recipe
                 extra_name = []; extra_ingredient = []; extra_prep = [] 
@@ -777,6 +770,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         extra_ingredient[ii].append(line_.replace('*','').rstrip())
                     if (flag_prep == 1):
                         extra_prep[ii].append(line_.replace('*','').rstrip())
+                
+                if len(extra_name) > 1: 
+                    title_ = 'Autres {:s}s'.format(title_) 
+                else:
+                    title_ = 'Autre {:s}'.format(title_) 
+
+                line2p_+=r'{\color{orangecolor}\Large\textbf{'+title_+'}}%    \parindent0pt'+'\n'
+                line2p_+=r'\par'+'\n'
+                if 'g' in title_:
+                    line2p_+=r'\vskip 2mm'+'\n'
+                else:
+                    line2p_+=r'\vskip 4mm'+'\n'
                     
                 for ii, extra_name_ in enumerate(extra_name):
                     flag_noIngr = True
