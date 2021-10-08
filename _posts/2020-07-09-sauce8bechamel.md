@@ -8,7 +8,6 @@ temps_preparation: 5
 temps_cuisson: 10
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: endive, jambon
 index_motClefBase: sauce béchamel | sauce!béchamel
 ---
 La sauce béchamel est, à la base, un roux blanc. Elle est l'ingrédient de nombreuses recettes de type "gratin". Elle est aussi très utile pour accommoder les restes, Grand-Mère Saint-Pierre servait ainsi les restes de poulets ou de poissons (voir notes).
