@@ -35,5 +35,5 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 
 
 ### Vins
-* Vin blanc : Alsace Grand Cru Kaefferkopf (Domaine Léon Baur, Cœur de Grain).
+* Vin blanc : Alsace Gewurztraminer (Domaine René Fleith, Letzenberg).
 * Vin rouge : Lirac	(Domaine de la Mordorée, La Reine des Bois), Mont-Caume (Domaine La Roche Redonne, Abondance), Côtes-du-Rhône (Domaine de Beaurenard, Rasteau).
