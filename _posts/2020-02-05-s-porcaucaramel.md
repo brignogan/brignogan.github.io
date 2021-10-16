@@ -27,10 +27,10 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 * Faire un caramel dans la cocotte avec les morceaux de sucre et un peu d'eau. Laisser le sucre bouillir sans remuer jusqu'à ce qu'il commence à se colorer. Remuer alors pour obtenir une couleur dorée homogène.
 * Jeter la viande dans le caramel. Bien mélanger.
 * Ajouter le Nước Mắm, le sel (à doser en fonction du Nước Mắmm) et éventuellement un peu de sucre en poudre si le caramel est trop amer.
-* Ajouter l'oignon haché, mélanger et verser de l'eau à niveau.
-* Couvrir et cuire à petit feu pendant 1 heure. La sauce doit réduire du 1/3.
-* Faire cuire les oeufs durs puis les écaler.
-* Au bout de 30 min de cuisson de la viande, ajouter les oeufs entiers dans la cocotte.
+* Ajouter l'oignon haché, mélanger et bien couvrir la cocotte.
+* Cuire à petit feu pendant 30 min. La viande va rendre son jus pour donner la sauce qui ne doit pas s'évaporer. Verser de l'eau sur le couvercle pour éviter l'évaporation.
+* Pendant ce temps, faire cuire les oeufs durs puis les écaler.
+* Au bout de 30 min de cuisson de la viande, ajouter les oeufs entiers dans la cocotte et poursuivre la cuisson dans les mêmes conditions pendant 30 min.
 * Servir avec du riz basmati.
 
 
