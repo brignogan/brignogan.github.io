@@ -1060,7 +1060,7 @@ if __name__ == '__main__':
                         lines_confImg = f.readlines()
                         widthImg = float(lines_confImg[0].split(':')[1])
                         vertivalSpaveImg = float(lines_confImg[1].split(':')[1])
-                 else:
+                else:
                     widthImg = 0.6
                     vertivalSpaveImg = 2
                 final2_lines.append(u'\\showExtraVinImg{{{:s}}}{{{:3.1f}}}{{{:3.1f}mm}}\n'.format(imgVinFile,widthImg,vertivalSpaveImg))

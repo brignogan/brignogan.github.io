@@ -870,11 +870,11 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         with open(configImgFile,'r') as f:
                             lines_confImg = f.readlines()
                             widthImg = float(lines_confImg[0].split(':')[1])
-                            vertivalSpaveImg = float(lines_confImg[1].split(':')[1])
-                     else:
+                            vertivalSpaveImg = '{:3.1f}mm'.format(float(lines_confImg[1].split(':')[1]))
+                    else:
                         widthImg = 0.6
-                        vertivalSpaveImg = ''
-                    line2p.append('\showExtraImg{{{:s}}}{{{:3.1f}}}{{{:3.1f}}mm}'.format(img_,widthImg,vertivalSpaveImg)))
+                        vertivalSpaveImg = r'-\abovedisplayskip'
+                    line2p.append('\showExtraImg{{{:s}}}{{{:3.1f}}}{{{:s}}}'.format(img_,widthImg,vertivalSpaveImg))
 
         for line_ in line2p:
             
