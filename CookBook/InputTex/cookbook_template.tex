@@ -247,11 +247,12 @@
 	\fi
 	}
 
-\newcommand{\showExtraImg}[1]{
+\newcommand{\showExtraImg}[3]{
 	\noindent
 	\begin{center}
-	\begin{minipage}{.6\textwidth}
-	\vspace{-\abovedisplayskip}
+	\begin{minipage}{#2\textwidth}
+	%\vspace{-\abovedisplayskip}
+	\vspace{#3}
 	\includegraphics[width=\linewidth]{#1}%
 	\end{minipage}
 	\end{center}

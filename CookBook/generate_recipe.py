@@ -332,8 +332,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if 'temps_repos:'       in line: recipeMMtimechill   = write_time( line.split('_repos:')[1].strip()       )
         
         if 'nbre_personne:'     in line: recipeMMserve = line.split('_personne:')[1].\
-                                                         strip().replace("\xe2\x80\x98",'').replace("\xe2\x80\x99",'')
-        
+                                                         strip().replace('‘','').replace('’','')
         if 'image:'             in line: recipeMMimg = imageDir + line.split('mage:')[1].strip()
     
         if 'index_motClefIngredient:'     in line: 
@@ -866,7 +865,16 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             else:
                 line2p = []
                 for img_ in imgextras:
-                    line2p.append('\showExtraImg{{{:s}}}'.format(img_))
+                    configImgFile = os.path.dirname(img_)+'/'+os.path.basename(img_).split('.')[0]+'.txt'
+                    if os.path.isfile(configImgFile):
+                        with open(configImgFile,'r') as f:
+                            lines_confImg = f.readlines()
+                            widthImg = float(lines_confImg[0].split(':')[1])
+                            vertivalSpaveImg = float(lines_confImg[1].split(':')[1])
+                     else:
+                        widthImg = 0.6
+                        vertivalSpaveImg = ''
+                    line2p.append('\showExtraImg{{{:s}}}{{{:3.1f}}}{{{:3.1f}}mm}'.format(img_,widthImg,vertivalSpaveImg)))
 
         for line_ in line2p:
             
