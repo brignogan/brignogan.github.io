@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: fenouil, carotte, artichaut, orange
 ---
-Légumes confits et poissons rôtis est une association étonnante et surtout gagnante. Cependant pour que le goût sucré ne soit pas dominant, il est préférable d'y ajouter quelques légumes simplement cuits à la vapeur. La recette proposée par un chef concarnois a été adoptée pour accompagner nos poissons de la côte (turbot, barbue, bar)  [ [3]]({{ '/bibliographie/#macuisinedelamer' | relative_url }}).
+L'association légumes confits/poissons rôtis est étonnante mais surtout gagnante. Cependant pour que le goût sucré ne soit pas dominant, il est préférable d'y ajouter quelques légumes simplement cuits à la vapeur. La recette proposée par un chef concarnois a été adoptée pour accompagner nos poissons de la côte (turbot, barbue, bar)  [ [3]]({{ '/bibliographie/#macuisinedelamer' | relative_url }}).
 
 ### Ingrédients
 * 1 gros fenouil

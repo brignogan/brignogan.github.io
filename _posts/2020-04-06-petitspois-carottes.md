@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: petit pois, carotte
 ---
-Quand les petits pois et les carottes nouvelles arrivent sur les étales du marché au printemps, cette poêlée classique est un régal. Elle accompagne les viandes blanches (veau, porc).
+Quand les petits pois et les carottes nouvelles arrivent sur les étals du marché au printemps, cette poêlée classique est un régal. Elle accompagne les viandes blanches (veau, porc).
 
 ### Ingrédients
 * 1,5 kg de petits pois (600 g écossés)

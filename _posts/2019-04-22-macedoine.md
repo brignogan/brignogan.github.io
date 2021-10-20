@@ -32,7 +32,7 @@ Favorite de Grand-Mère Saint-Pierre, cette entrée est un régal dès que comme
 * Cuire les oeufs durs (10 min) puis les écaler. Les couper en deux et séparer les jaunes des blancs. Ecraser les jaunes à la fourchette et y ajouter petit à petit 1 à 2 c. à s. de la mayonnaise jusqu'à obtenir une bonne consistance.
 * Déposer un filet d'anchois dans chaque demi-blanc d'oeuf et le recouvrir du mélange jaune-mayonnaise.
 * Aux légumes refroidis, ajouter peu à peu le reste de la mayonnaise et mélanger délicatement. Ajuster la quantité de mayonnaise à son goût.
-* Servir la macédoine avec les oeufs à la russe, des quartiers de tomates, des feuilles de salade. On peut ajouter des morceaux de filets fumés de saumon ou de truite.
+* Servir la macédoine avec les oeufs à la russe, des quartiers de tomate, des feuilles de salade. On peut ajouter des morceaux de filets fumés de saumon ou de truite.
 
 ### Vins
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique), Pessac-Léognan (Domaine de la Solitude).

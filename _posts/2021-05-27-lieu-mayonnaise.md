@@ -7,7 +7,7 @@ image: img/recette/lieu-mayonnaise.png
 temps_preparation: 15
 temps_cuisson: 20
 temps_repos: ‘-‘
-nbre_personne: 4
+nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: lieu jaune, pomme de terre, mayonnaise
 ---
 Il s'agit ici du lieu jaune à ne pas confondre avec le lieu noir ou le colin qui sont des poissons bien moins prisés. Comme le bar, le lieu jaune, pêché à la ligne, est l'un des meilleurs poissons de notre côte. Préparé à la mayonnaise, il était traditionnellement servi pour les repas maigres du vendredi. Cela reste un repas de poisson basique pour les menus "de tous les jours".

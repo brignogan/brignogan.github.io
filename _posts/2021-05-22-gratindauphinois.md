@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: pomme de terre
 ---
-Ce gratin est-il dauphinois? Peut-être est-il savoyard ou doit-on l'appeler simplement gratin de pommes de terre. Peu importe, c'est comme cela que le dénommer Grand-Mère Saint-Pierre qui le servait souvent en "plat du soir" avec de la charcuterie.
+Ce gratin est-il dauphinois? Peut-être est-il savoyard ou doit-on l'appeler simplement gratin de pommes de terre. Peu importe, c'est comme cela que le dénommait Grand-Mère Saint-Pierre qui le servait souvent en "plat du soir" avec de la charcuterie.
 
 ### Ingrédients
 * 1 kg de pommes de terre

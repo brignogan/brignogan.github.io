@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soupe au potiron
+title: Soupe de potiron
 tag_category: famille
 tag_plat: entree
 image: img/recette/soupepotiron.png

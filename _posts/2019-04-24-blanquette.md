@@ -26,7 +26,7 @@ La blanquette de veau est un plat emblématique de l'hiver. Avec le boeuf bourgu
 * 1 jaune d'oeuf
 * sel, poivre
 * 1 c. à s. de lait
-* facultatif : une dizaine de petits oignons grelots, de la crème et du jus de citron
+* facultatif : une dizaine d'oignons grelots, de la crème et du jus de citron
 
 
 ### Préparation
@@ -40,7 +40,7 @@ La blanquette de veau est un plat emblématique de l'hiver. Avec le boeuf bourgu
 
 
 ### Vins
-* Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Dorfburg), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Alsace Grand Cru Furstentum (Domaine René Fleith, Pinot Gris), Chassagne-Montrachet (Domaine Gilles Bouton et fils,	Les Voillenots Dessous), Côtes-du-Jura (Domaine de Savagny).  
+* Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Riesling (Domaine René Fleith, Dorfburg), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Alsace Grand Cru Furstentum (Domaine René Fleith, Pinot Gris), Chassagne-Montrachet (Domaine Gilles Bouton et fils, Les Voillenots Dessous), Côtes-du-Jura (Domaine de Savagny).  
 
 
 ### Notes
