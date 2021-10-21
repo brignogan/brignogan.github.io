@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: sauce hollandaise | sauce!hollandaise
 ---
-Le sauce hollandaise est la base des sauces émulsionnées chaudes à partir de sabayon. Elle est la sauce emblématique des oeufs bénédicte et elle est idéale pour accompagner les poissons pochés et les légumes. Elle peut servir à préparer une sauce moutarde, une sauce mousseline chaude, une sauce bavaroise.
+Le sauce hollandaise est la base des sauces émulsionnées chaudes à partir de sabayon. Elle est la sauce emblématique des oeufs Bénédicte et elle est idéale pour accompagner les poissons pochés et les légumes. Elle peut servir à préparer une sauce moutarde, une sauce mousseline chaude, une sauce bavaroise.
 
 ### Ingrédients
 * 170 g de beurre demi-sel

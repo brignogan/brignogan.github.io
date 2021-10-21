@@ -7,10 +7,10 @@ image: img/recette/mayonnaise.png
 temps_preparation: 15
 temps_cuisson: '-'
 temps_repos: ‘-‘
-nbre_personne: ‘-’
+nbre_personne: ‘pour un bol’
 index_motClefBase: mayonnaise
 ---
-La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes, langoustines, homards), les poissons, les oeufs durs, les légumes et les viandes froides. Elle est la recette de base des sauces émulsionnées froide comme la sauce cocktail ou la sauce tartare.
+La mayonnaise est l'accompagnement idéal pour les crustacés (crabes, crevettes, langoustines, homards), les poissons, les oeufs durs, les légumes et les viandes froides. Elle est la recette de base des sauces émulsionnées froides comme la sauce cocktail ou la sauce tartare.
 
 ### Ingrédients
 * 1 jaune d'œuf

@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: sauce béchamel | sauce!béchamel
 ---
-La sauce béchamel est, à la base, un roux blanc. Elle est l'ingrédient de nombreuses recettes de type "gratin". Elle est aussi très utile pour accommoder les restes, Grand-Mère Saint-Pierre servait ainsi les restes de poulets ou de poissons (voir notes).
+La sauce béchamel est, à la base, un roux blanc. Elle est l'ingrédient de nombreuses recettes de type "gratin". Elle est aussi très utile pour accommoder les restes, Grand-Mère Saint-Pierre servait ainsi les restes de poulet ou de poisson (voir Notes).
 
 ### Ingrédients
 * 50 g de farine
@@ -20,7 +20,7 @@ La sauce béchamel est, à la base, un roux blanc. Elle est l'ingrédient de nom
 
 ### Préparation
 * Faire fondre le beurre dans une casserole.
-* Ajouter la farine, mélanger intimement et faire cuire la farine pendant quelques minutes sans la faire prendre de la couleur.
+* Ajouter la farine, mélanger intimement et faire cuire la farine pendant quelques minutes sans lui faire prendre de la couleur.
 * En maintenant la casserole sur un petit feu, délayer le mélange beurre-farine en ajoutant petit à petit le lait et en lissant bien le mélange avant chaque ajout pour éviter les grumeaux.
 * La sauce est cuite au premier bouillon.
 * Saler et poivrer.

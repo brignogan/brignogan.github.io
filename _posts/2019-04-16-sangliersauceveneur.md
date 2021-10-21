@@ -46,7 +46,7 @@ Cette recette a été inaugurée avec un rôti de sanglier offert par les collè
 
 #### Préparation de la sauce :
 * Dans une sauteuse, faire revenir les os dans l’huile d’olive. Ajouter les légumes de la marinade, faire revenir puis cuire pendant 10 minutes.
-* Déglacer au vinaigre de cidre puis ajouter 50 cL de marinade et 50 cL de fond de volaille. Vérifier l'assaisonnement et saler si nécessaire.
+* Déglacer au vinaigre de cidre puis ajouter 50 cL de marinade et le bouillon de volaille. Vérifier l'assaisonnement et saler si nécessaire.
 * Laisser mijoter pendant 1 h 30 à couvert.
 * Au bout de ce temps, enlever les légumes et les os, faire réduire la sauce d’un tiers et ajouter la gelée de groseille.
 * Délayer la maïzéna dans un peu d’eau froide et lier la sauce progressivement avec ce mélange.

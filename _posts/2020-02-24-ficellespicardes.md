@@ -11,7 +11,7 @@ nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: jambon, lard fumé, champignon, sauce béchamel | sauce!béchamel
 index_motClefBase: pâte à crêpe salée | pâte!à crêpe salée
 ---
-Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la recette a été rapportée par Grand-Mère Saint-Pierre de Amiens où la famille Drévès a séjourné de 1962 à 1965. C'est une pâte à crêpe salée qui en est la base.
+Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie. La recette a été rapportée par Grand-Mère Saint-Pierre d'Amiens où la famille Drévès a séjourné de 1962 à 1965. C'est une pâte à crêpe salée qui en est la base.
 
 ### Ingrédients
 #### pour les crêpes :
@@ -23,7 +23,7 @@ Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la r
 
 #### pour la farce :
 * 4 tranches de jambon blanc
-* 4 tranches de lard fumé (de préférence cuit - voir note)
+* 4 tranches de lard fumé (de préférence cuit - voir Notes)
 * 250 g de champignons de Paris
 
 #### pour la sauce béchamel :
@@ -38,7 +38,7 @@ Cette crêpe farcie fait partie de la cuisine traditionnelle de Picardie et la r
 ### Préparation
 * Préparer la pâte à crêpe en mélangeant la farine en puits, les oeufs entiers, le sel, l'huile et en diluant petit à petit avec le lait.
 * Cuire les crêpes assez épaisses à la poêle. On doit faire à peu près 12-14 crêpes. On compte ensuite 2 crêpes par personnes.
-* Couper, au couteau et séparément, le jambon, le lard et les champignons en morceaux les plus petits possible (voir note).
+* Couper, au couteau et séparément, le jambon, le lard et les champignons en morceaux les plus petits possible (voir Notes).
 * Dans une poêle, faire suer les champignons à sec puis ajouter le jambon et le lard. Bien mélanger.
 * Fourrer 8 crêpes avec cette farce et les déposer dans un plat (pour le four) beurré.
 * Préparer la [sauce béchamel]({% post_url 2020-07-09-sauce8bechamel %}).

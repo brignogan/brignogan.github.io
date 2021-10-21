@@ -21,7 +21,7 @@ Les préparations de base de cette recette sont la pâte à choux et la crème p
 * 2 g de sel fin
 * 4 g de sucre semoule
 * 110 g de farine (type 55)
-* 4 oeufs + 1 oeuf
+* 5 oeufs (4+1)
 * sucre glace
 
 #### pour la crème pâtissière au chocolat ou au café (à préparer la veille) :
@@ -45,12 +45,12 @@ Les préparations de base de cette recette sont la pâte à choux et la crème p
 
 #### Préparation des choux ou éclairs.
 * Préchauffer le four à 165°C pour les éclairs ou les choux à fourrer ou à 150°C pour les choux croquants.
+* Tamiser la farine dans un bol et battre légèrement 4 oeufs dans un autre bol.
 * Faire bouillir le lait, l'eau, le beurre, le sel et le sucre dans une casserole.
-* Tamiser la farine et battre légèrement 4 oeufs dans un bol.
-* Hors du feu, ajouter la farine au liquide bouillant, tout d'un coup et remuer.
+* Hors du feu, ajouter la farine, tout d'un coup, au liquide bouillant, et remuer.
 * Faire dessécher l'appareil en remettant sur le feu pour former une pâte et permettre à celle-ci de se décoller des parois de la casserole (formation d'une petite pellicule au fond qui crépite).
-* Transvaser la pâte dans un bol puis, incorporer les 4 oeufs battus en 2 ou 3 fois. Si la texture de la pâte n'est pas assez souple, battre l'oeuf supplémentaire et en rajouter une quantité suffisante.
-* Déposer la pâte avec une poche à douille sur un papier cuisson recouvrant la plaque à pâtisserie (voir notes) : des boudins de 12 cm de long et assez espacés pour des éclairs ou 12 tas pour des gros choux ou 18 pour des petits. Saupoudrer de sucre glace.
+* Transvaser la pâte dans une jatte et y incorporer les 4 oeufs battus en 2 ou 3 fois. Si la texture de la pâte n'est pas assez souple, battre l'oeuf supplémentaire et en rajouter une quantité suffisante.
+* Déposer la pâte avec une poche à douille sur un papier cuisson recouvrant la plaque à pâtisserie (voir Notes) : des boudins de 12 cm de long et assez espacés pour des éclairs ou 12 tas pour des gros choux ou 18 pour des petits. Saupoudrer de sucre glace.
 * Cuire au four : 30 mn à 165°C pour les éclairs ou les choux à fourrer ou bien 45 mn à 150°C pour des choux croquants.
 * Surtout ne pas ouvrir le four pendant la cuisson.
 

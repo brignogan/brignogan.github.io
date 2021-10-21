@@ -37,7 +37,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Beurrer un plan allant au four.
 * Eplucher et couper les pommes en gros dés. Les déposer dans le fond du plat.
 * Ajouter 3 c. à s. d'eau et 2 c. à s. de jus de citron.
-* Saupoudrer le tout du sucre et de la cannelle.
+* Saupoudrer le tout de sucre et de cannelle.
 * Recouvrir les fruits de la pâte sablée.
 * Cuire au four pendant au moins 45 mn en surveillant la cuisson jusqu’à ce que le caramel remonte par dessus le gâteau.
 * La croustade se sert chaude avec une boule de glace vanille.
@@ -61,7 +61,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 
 ##### Préparation
 * Préchauffer le four à 200°C.
-* Beurrer un plan allant au four.
+* Beurrer un plat allant au four.
 * Eplucher et couper la rhubarbe et les pommes en gros dés, les déposer dans le fond du plat.
 * Ajouter les framboises et les cassis.
 * Ajouter 3 c. à s. d’eau et saupoudrer du sucre.
@@ -85,10 +85,10 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 
 ##### Préparation
 * Préchauffer le four à 180°C.
-* Beurrer un plan allant au four.
+* Beurrer un plat allant au four.
 * Eplucher les poires, couper les en deux et arroser les de jus de citron.
 * Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir les poires dans le sirop puis égoutter les et récupérer le sirop.
-* Dans une poêle, faire revenir les poires coupées en quartiers dans du beurre jusqu’à une consistance tendre puis ajouter le sucre vanillé et le vinaigre et bien mélanger.
+* Dans une poêle, faire revenir les poires coupées en quartiers dans du beurre jusqu’à obtenir une consistance tendre puis ajouter le sucre vanillé et le vinaigre et bien mélanger.
 * Verser la poêlée dans le plat et ajouter 2 c. à s. de sirop.
 * Eparpiller les noix de pécan et pépites de chocolat (ou les petits morceaux de carrés) sur les fruits.
 * Recouvrir le tout de la pâte sablée préparée.
