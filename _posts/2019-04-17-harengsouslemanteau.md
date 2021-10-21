@@ -10,15 +10,15 @@ temps_repos: 120
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: hareng fumé, pomme de terre, œuf, betterave, mayonnaise
 ---
-Rencontrées au cours de missions de coopérations entre l'Université Polytechnique de Tomsk et l'Université Paris Sud, nos collègues russes Natalya Baranovskaya et Nina Osipova sont devenues des amies. A chacune de nos visites en Sibérie, elles se faisaient un plaisir de nous faire découvrir leur pays et leur tradition culinaire dont cette recette de hareng est un fleuron. Le nom russe de ce plat est : "seledka pod shuboy".
+Rencontrées au cours de missions de coopération entre l'Université Polytechnique de Tomsk et l'Université Paris Sud, nos collègues russes Natalya Baranovskaya et Nina Osipova sont devenues des amies. A chacune de nos visites en Sibérie, elles se faisaient un plaisir de nous faire découvrir leur pays et leur tradition culinaire dont cette recette de hareng est un fleuron. Le nom russe de ce plat est : селедка под шубой (selyodka pod shuboy).
 
 ### Ingrédients
 * 200 g de hareng fumé doux
 * 4 pommes de terre
 * 4 œufs
-* 1 betterave moyenne cuite (voir notes)
+* 1 betterave moyenne cuite (voir Notes)
 * 2 échalotes
-* un bol de mayonnaise (voir notes)
+* un bol de mayonnaise (voir Notes)
 * 10 cornichons
 
 ### Préparation
