@@ -859,7 +859,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
         if flag_modified!=1: line2p = [line]
         
         if 'recipeMMextraImg' in line:
-            imgextras = glob.glob('.'.join(recipeMMimg.split('.')[:-1])+'-extra*')
+            imgextras = glob.glob('.'.join(recipeMMimg.split('.')[:-1])+'-extra*.png')
             if len(imgextras) == 0:
                 line2p = [line.replace('recipeMMextraImg', '')]
             else:
