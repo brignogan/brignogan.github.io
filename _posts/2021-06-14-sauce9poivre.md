@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: sauce au poivre | sauce!au poivre
 ---
-La sauce au poivre est, comme la sauce béchamel, un roux blanc mais délayé avec un bouillon au lieu de lait. Cette sauce épicée se marie très bien avec une entrecôte ou un magret de canard.  
+La sauce au poivre est, comme la sauce béchamel, un roux blanc mais délayé avec du bouillon au lieu du lait. Cette sauce épicée se marie très bien avec une entrecôte ou un magret de canard.  
 
 ### Ingrédients
 * 40 g de farine
@@ -26,5 +26,5 @@ La sauce au poivre est, comme la sauce béchamel, un roux blanc mais délayé av
 * Concasser grossièrement les grains de poivre. Réserver.
 * Faire fondre le beurre dans une casserole, y ajouter la farine et mélanger intimement. Faire cuire pendant quelques minutes sans faire prendre de la couleur au mélange.
 * Sur petit feu, délayer le mélange beurre-farine en ajoutant petit à petit le bouillon et en fouettant pour éviter les grumeaux.  Ajuster la quantité de bouillon pour obtenir une bonne consistance de la sauce.
-* Ajouter le vinaigre et le poivre concassé. Laisser cuire à feu doux jusqu'au premier bouillon. Si besoin délayer à nouveau avec un peu de bouillon.
+* Ajouter le vinaigre et le poivre concassé. Laisser cuire à feu doux jusqu'au premier bouillon. Si besoin, délayer à nouveau avec un peu de bouillon.
 * Rectifier l'assaisonnement (sel et poivre moulu) si besoin.

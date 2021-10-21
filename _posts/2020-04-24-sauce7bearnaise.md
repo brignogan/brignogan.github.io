@@ -14,7 +14,7 @@ index_motClefBase: sauce béarnaise | sauce!béarnaise
 La sauce béarnaise est, comme la sauce hollandaise, une sauce émulsionnée chaude à base de sabayon. Les herbes qui l'agrémentent en font un accompagnement idéal des viandes grillées comme la côte de boeuf, l'entrecôte, le tournedos ou le chateaubriand.
 
 ### Ingrédients
-* 2 jaunes d'oeufs
+* 2 jaunes d'oeuf
 * 125 g de beurre demi-sel
 * 5 c. à s. de vin blanc
 * 3 c. à s. de vinaigre
@@ -31,7 +31,7 @@ La sauce béarnaise est, comme la sauce hollandaise, une sauce émulsionnée cha
 * Dans une casserole, mélanger le vin blanc, le vinaigre, l'estragon haché et l'échalote (pas le cerfeuil qui perd son goût anisé à la cuisson). Saler et poivrer.
 * Cuire 10 mn à feu doux. Il doit rester 1 c. à c. de liquide.
 * Retirer du feu et faire refroidir quelques minutes.
-* Ajouter les jaunes d'oeufs et fouetter.
+* Ajouter les jaunes d'oeuf et fouetter.
 * Remettre sur le feu doux (ou au bain-marie à 50°C) pour faire monter en sabayon. Le mélange doit épaissir et devenir mousseux et on doit voir le fond de la casserole.
 * Retirer du feu et ajouter, petit à petit, le beurre fondu (clarifié c'est-à-dire sans le petit lait) en fouettant pour obtenir une bonne émulsion.
 * Hacher le reste de l'estragon et le cerfeuil. Ajouter ce hachis à la sauce.

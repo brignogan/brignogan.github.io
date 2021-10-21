@@ -7,7 +7,7 @@ image: img/recette/sauce-mousseline.png
 temps_preparation: 10
 temps_cuisson: '-'
 temps_repos: '-'
-nbre_personne: ‘-’
+nbre_personne: ‘pour un bol’
 index_motClefBase: sauce mousseline | sauce!mousseline
 ---
 Cette sauce mousseline est idéale pour accompagner les asperges blanches ou vertes mais aussi d'autres légumes comme les pommes de terre, le chou fleur, les carottes, les tomates... C'est une sauce émulsionnée froide comme la mayonnaise mais plus légère de celle-ci.

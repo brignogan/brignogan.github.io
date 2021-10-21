@@ -12,7 +12,7 @@ index_motClefIngredient: abricot, fraise, rhubarbe, poire, romarin, gingembre, m
 ---
 Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation-type est détaillée pour la recette de la confiture d'abricot (c'est la plus facile à réussir). A la suite, des précisions sont données pour la préparation d'autres confitures.
 
-#### **Confiture d'abricot**
+#### **Confiture d'abricots**
 
 ### Ingrédients
 * 3,3 kg d'abricots bien mûrs soit 3 kg d'abricots dénoyautés
@@ -21,16 +21,16 @@ Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation
 ### Préparation
 #### La macération
 * Laver les fruits et les sécher en les étalant sur un torchon.
-* Les dénoyauter, les peser et les déposer dans la bassine à confiture (voir note).
-* Ajouter le sucre et le mélanger délicatement aux fruits avec une cuillère en bois à long manche.
+* Les dénoyauter, les peser et les déposer dans la bassine à confiture (voir Notes).
+* Ajouter le sucre et le mélanger délicatement aux fruits avec une cuiller en bois à long manche.
 * Recouvrir d'un linge propre et laisser macérer toute une nuit.
 
 #### La cuisson
 * Le lendemain, plonger les pots vides et leurs couvercles dans de l'eau très chaude pendant au moins 10 mn puis les retourner sur un torchon propre (prévoir plus de pots que nécessaire).
 * Faire bouillir la confiture (~ 20 min). L'écume monte.
 * Maintenir un bon bouillon 30 à 35 mn en remuant souvent et en surveillant que la confiture n'attache pas au fond de la bassine. L'écume va se résorber petit à petit.
-* Lorsque les bouillons deviennent visqueux et projettent des gouttes de confiture, vérifier la consistance de la confiture en en versant une à deux gouttes sur une assiette froide. Elle ne doit pas couler en penchant l'assiette et doit également coller à votre doigt si vous le poser sur la goutte.
-* Lorsque la consistance souhaitée est obtenue, si il reste de l'écume, ajouter une noisette de beurre et bien remuer, elle doit disparaître.
+* Lorsque les bouillons deviennent visqueux et projettent des gouttes de confiture, vérifier la consistance de la confiture en versant une à deux gouttes sur une assiette froide. Elle ne doit pas couler en penchant l'assiette et doit également coller à votre doigt si vous le poser sur la goutte.
+* Lorsque la consistance souhaitée est obtenue, s'il reste de l'écume, ajouter une noisette de beurre et bien remuer, elle doit disparaître.
 * Mettre immédiatement en pots. Remplir chaque pot à ras bord avec une petite louche et au moyen d'un entonnoir à confiture. Fermer le pot puis le retourner sur une planche en bois pour le laisser refroidir (la confiture brûlante va aseptiser le pot et le couvercle).
 * Conserver les pots dans un placard au sec et au frais.
 
@@ -40,12 +40,12 @@ Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation
 
 ### Autres confitures
 
-#### **Confiture d'abricot au romarin**
+#### **Confiture d'abricots au romarin**
 ##### Préparation
 * Elle est identique à celle de la confiture d'abricot (ci-dessus) avec l'ajout de 1-2 branches de romarin/kg de fruits dans le sucre avant la macération.
 * Retirer les branches à la fin de la cuisson avant la mise en pot.
 
-#### **Confiture de poire au gingembre**
+#### **Confiture de poires au gingembre**
 ##### Ingrédients
 * 3,3 kg de poires (conférence) soit 3 kg de poires préparées
 * 550 g de sucre cristallisé/kg de fruits préparés soit 1,650 kg
@@ -59,10 +59,10 @@ Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation
 * Bien mélanger, recouvrir d'un linge propre et laisser macérer toute une nuit.
 * Le lendemain, suivre les instructions données pour la cuisson de la confiture d'abricots.
 
-#### **Confiture de rhubarbe et orange**
+#### **Confiture de rhubarbe et oranges**
 ##### Ingrédients
 * 3,3 kg de feuilles de rhubarbe soit 3 kg de rhubarbe nettoyée
-* 750 g de sucre cristallisé/kg de fruits nettoyé soit 2,250 kg
+* 750 g de sucre cristallisé/kg de fruits nettoyés soit 2,250 kg
 * 2 oranges non traitées
 
 ##### Préparation
@@ -72,11 +72,11 @@ Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation
 * Bien mélanger, recouvrir d'un linge propre et laisser macérer toute une nuit.
 * Le lendemain, suivre les instructions données pour la cuisson de la confiture d'abricots.
 
-#### **Confiture de rhubarbe et abricot**
+#### **Confiture de rhubarbe et abricots**
 ##### Préparation
 * Elle est identique à celle de la confiture de rhubarbe et oranges (ci-dessus) en remplaçant les 2 oranges par 250 g d'abricots secs que l'on coupe en petits dés.
 
-#### **Confiture de fraise**
+#### **Confiture de fraises**
 ##### Ingrédients
 * 3 kg de fraises soit 2,8 kg de fruits équeutés
 * 700 g de sucre cristallisé/kg soit 2 kg
@@ -90,6 +90,6 @@ Ces recettes viennent essentiellement de Grand-Mère Ploudaniel. La préparation
 * Ajouter les fruits et faire à nouveau bouillir. Ecumer et vérifier la consistance de la confiture.
 * Mettre en pots comme pour les autres confitures.
 
-#### **Confiture de fraise et menthe**
+#### **Confiture de fraises et menthe**
 ##### Préparation
-* Elle est identique à celle de la confiture de fraise (ci-dessus) et à la fin de la cuisson on ajoute 10 feuilles de menthe par kg de fruits dans la bassine. On mélange et on laisse infuser 2-3 mn. On retire les feuilles et on redonne un bouillon avant la mise en pot.
+* Elle est identique à celle de la confiture de fraises (ci-dessus) et à la fin de la cuisson on ajoute 10 feuilles de menthe par kg de fruits dans la bassine. On mélange et on laisse infuser 2-3 mn. On retire les feuilles et on redonne un bouillon avant la mise en pot.

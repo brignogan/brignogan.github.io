@@ -31,7 +31,7 @@ La marmelade d'oranges amères est inspirée de la recette originelle due à l'�
 * Si on a fait bouillir trop fort et qu'il semble que l'eau se soit trop évaporée, en ajouter mais pas plus d'un demi verre.
 * Ajouter alors le sucre d'un coup et ramener à ébullition. Faire bouillir alors à découvert et à gros bouillons 15 mn.
 * Vérifier si la marmelade est prise en en déposant un peu sur une assiette froide, elle doit se figer et ne pas couler. La cuisson ne doit pas dépasser 20 mn.
-* Retirer le nouet de pépins et empoter. Couvrir à chaud et retourner les pots pour refroidir. On obtient une dizaine de pots.
+* Retirer le nouet de pépins et empoter. Couvrir à chaud et retourner les pots. Laisser refroidir. On obtient une dizaine de pots.
 
 ### Notes
 * Le sucre blanc, qui préserve la couleur et la transparence de la marmelade, est préférable au sucre roux qui lui donne une couleur foncée.

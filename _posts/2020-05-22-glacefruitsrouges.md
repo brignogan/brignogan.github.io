@@ -16,17 +16,17 @@ Une grande partie du jardin de Grand-Mère Ploudaniel, dans le champ de Costi Pe
 * 500 g de fruits rouges (fraises, framboises, cassis)
 * 250 g de crème fraîche liquide
 * 250 g de sucre glace
-* facultatif : le jus d'un citron
+* facultatif : coulis de fruits rouges (voir Notes)
 
 ### Préparation
 * Mixer les fruits puis filtrer la purée obtenue au chinois pour éliminer les pépins.
-* Battre la crème en chantilly et y mélanger le sucre tout en en le tamisant.
-* Ajouter ensuite le coulis de fruits à la crème.
-* Mélanger d abord à la fourchette pour homogénéiser puis battre le tout au batteur pendant 10 min.
- * Verser le mélange dans un récipient hermétique puis placer au congélateur bien à plat.
-* Faire prendre pendant 30 mn. Sortir la crème glacée et la gratter avec une fourchette pour éviter la formation de cristaux.
+* Battre la crème en chantilly et y mélanger le sucre tout en en le tamisant.
+* Ajouter ensuite la purée de fruits à la crème.
+* Mélanger à la fourchette pour homogénéiser l'appareil puis battre le tout au batteur pendant 10 min.
+ * Verser le mélange dans un récipient hermétique puis placer au congélateur bien à plat. Faire prendre pendant 30 mn.
+* Sortir la crème glacée et la gratter avec une fourchette pour éviter la formation de cristaux. Remettre 30 min au congélateur.
 * Répéter cette opération 3 fois pour obtenir une glace bien crémeuse.
-* Servir la glace accompagnée de biscuits, de crème chantilly et/ou de coulis de fruits rouges (voir notes).
+* Servir la glace accompagnée de biscuits, de crème chantilly et/ou de coulis de fruits rouges (voir Notes).
 
 ### Vins
 * Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).

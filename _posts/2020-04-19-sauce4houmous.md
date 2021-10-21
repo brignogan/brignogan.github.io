@@ -7,7 +7,7 @@ image: img/recette/houmous.png
 temps_preparation: 20
 temps_cuisson: '-'
 temps_repos: '-'
-nbre_personne: ‘-’
+nbre_personne: ‘pour un bol’
 index_motClefIngredient: pois chiche, tahini
 ---
 L'houmous est une préparation originaire du Proche-Orient à base de pois chiches et de sésame. Ce condiment peut servir à préparer des toasts ou des verrines pour l'apéritif. Il peut aussi constituer une entrée, accompagné de crudités.
