@@ -368,7 +368,18 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
     if len(lines_txt_per_cat[0])>0: 
         recipeMMintro = lines_txt_per_cat[0]
-        for ii_line_, line_ in enumerate(recipeMMintro):
+   
+        #special font
+        for iline__, line__ in enumerate(recipeMMintro):
+            #for cyrillic 
+            if 'selyodka' in line__: 
+                line___ = line__.split('Le nom russe')
+                recipeMMintro[iline__] = line___[0] + ' Le nom russe de ce plat est : {{\cyrrm{selyodka pod shuboy}}} (selyodka pod shuboy).'
+
+            #for arabic font
+            # {\setcode{utf8}\setarab\RL{اَلْعَرَبيَّةُ}.
+
+        for ii_line_, line_in in enumerate(recipeMMintro):
             #add index entry
             recipeMMmotClefB2 = copy.deepcopy(recipeMMmotClefB)
             for ii_mot, mot_ in enumerate(recipeMMmotClefB2): 
@@ -435,7 +446,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     subtitle_mainRecipy = None
     if '####' in lines_txt_per_cat[0][-1]:
         subtitle_mainRecipy =  lines_txt_per_cat[0][-1].replace('**','').replace('####','')
-
+        
+    
     #append to coockbook
     for line in lines_recipe_template:
        
@@ -865,7 +877,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             else:
                 line2p = []
                 for img_ in imgextras:
-                    configImgFile = os.path.dirname(img_)+'/'+os.path.basename(img_).split('.')[0]+'.txt'
+                    configImgFile = os.path.dirname(img_).replace('_HD','')+'/'+os.path.basename(img_).split('.')[0]+'.txt'
                     if os.path.isfile(configImgFile):
                         with open(configImgFile,'r') as f:
                             lines_confImg = f.readlines()

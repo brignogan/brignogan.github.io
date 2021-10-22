@@ -1,14 +1,15 @@
 \documentclass[twoside]{article}
 \usepackage{fancyhdr}
 \usepackage{multicol}
-\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{vntex} %vietnamese 
+\usepackage[utf8]{inputenc}
+\usepackage[utf8]{vntex} %vietnamese 
+\usepackage[french]{babel}
 \usepackage{xfrac}    % Works better with other fonts
-
+\usepackage{./Latex_extra_package/cyrillic}
+\usepackage{arabtex}
 
 \usepackage[normalem]{ulem}
-\usepackage[french]{babel}
 \usepackage[autostyle=false,french=quotes]{csquotes}
 \MakeOuterQuote{"}
 \usepackage{wrapfig}
@@ -881,6 +882,19 @@
 		\newpage
 	
 	\fi}
+
+\newcommand{\cyrrm}{\fontencoding{OT2}\selectfont\textcyrup}
+\newcommand{\cyrit}{\fontencoding{OT2}\selectfont\textcyrit}
+\newcommand{\cyrsl}{\fontencoding{OT2}\selectfont\textcyrsl}
+\newcommand{\cyrsf}{\fontencoding{OT2}\selectfont\textcyrsf}
+\newcommand{\cyrbf}{\fontencoding{OT2}\selectfont\textcyrbf}
+\newcommand{\cyrsc}{\fontencoding{OT2}\selectfont\textcyrsc}
+%%%% cyrrm = "Roman", or really upright, normal font
+%%%% cyrit = Italic (cursive forms of letters)
+%%%% cyrsl = Italic (non-cursive forms of letters)
+%%%% cyrsf = Sans-serif
+%%%% cyrbf = Bold-face 
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
