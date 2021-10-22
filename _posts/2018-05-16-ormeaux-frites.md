@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ormeaux poêlés frites
+title: Ormeaux-frites
 tag_category: bretagne
 tag_plat: platPoisson
 image: img/recette/ormeaux-frites.png
@@ -10,7 +10,7 @@ temps_repos: 4320
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: ormeau, pomme de terre
 ---
-Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages. Elle les accommode très simplement suivant la recette qui est, en fait, l’équivalent du steak-frites. Les ormeaux sont, en effet, considérés comme les biftecks de la mer.
+Mimie Le Gall, notre amie et voisine de Coat Tanguy est une grande pêcheuse d’ormeaux. Elle connait tous les rochers du port de Brignogan au Lividig où se cachent les précieux coquillages. Elle les accommode très simplement suivant la recette qui est, en fait, l’équivalent du steak-frites. Les ormeaux sont, en effet, considérés comme les steaks de la mer.
 
 ### Ingrédients
 * 12 ormeaux moyens (ou plus suivant leur taille, voir Notes)

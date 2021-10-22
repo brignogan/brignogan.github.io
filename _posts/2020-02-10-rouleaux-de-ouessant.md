@@ -15,7 +15,7 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 ### Ingrédients
 #### pour les rouleaux :
 * 6 tranches de truite fumée (ou de saumon fumé)
-* 200 g de filet de truite (voir note)
+* 200 g de filet de truite (voir Notes)
 * 2 c. à s. de jus de citron
 * 1/2 c. à c. de gin
 * 1 petite échalote
@@ -43,7 +43,7 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 * Y mélanger les petits cubes de poisson et l'échalote.
 * Réserver 1 heure au frigo.
 * Préparer la sauce : mixer l'aneth et le persil, ajouter la crème fraîche et remixer le tout et verser dans une casserole. Saler, poivrer et chauffer 3 mn sur feu doux pour exprimer les colorants. Filtrer au tamis en pressant bien pour récupérer "la couleur". Laisser refroidir.
-* Partager le tartare de truite en 6 portions. Déposer chacune sur une tranche dr truite fumée et former le rouleau.
+* Partager le tartare de truite en 6 portions. Déposer chacune sur une tranche de truite fumée et former le rouleau.
 * Poser chaque rouleau sur un lit de sauce verte et décorer avec un brin d'aneth ou de ciboulette.
 * Remettre au frigo au moins 20 min.
 * Griller les toasts.
@@ -56,4 +56,4 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 
 ### Notes
 * Il est préférable de congeler le filet de truite la veille de la préparation pour pouvoir le découper en petits dés réguliers. Il décongèlera rapidement pendant la coupe et la macération dans le citron.
-* Dans la rubrique "Sauces et Condiments", on trouvera la préparation du [tartare d'algues]({% post_url 2020-02-10-tartare-algues %}) .
+* Dans la rubrique "Sauces et Condiments", on trouvera la préparation du [tartare d'algues]({% post_url 2020-02-10-tartare-algues %}).
