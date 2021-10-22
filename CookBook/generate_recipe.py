@@ -840,17 +840,22 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     if len(extra_ingredient[ii])> 0:
                         flag_noIngr = False
                         if 'Confiture de poire au gingembre' in extra_name_: line2p_ += '\\newpage\n'
-                        line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                        #line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                        line2p_ += '\\begin{tcolorbox}[blanker,width=\\textwidth,]\n'
                         line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
                         line2p_ += '\\begin{petitingreds} \n'
                         for line__ in extra_ingredient[ii]:
                             line2p_ += line__ + '\n'
                         line2p_ += '\\end{petitingreds} \n'
-                        line2p_ += '\\end{minipage}'
+                        #line2p_ += '\\end{minipage}'
+                        line2p_ += '\\end{tcolorbox}'
                         line2p_ += '\\par \n'
-                        line2p_ += '\\medskip'
+                        #line2p_ += '\\medskip'
+                        #line2p_ += '\\smallskip'
+                        #line2p_ += '\\vskip 1mm \n'
                     else:
-                        line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                        #line2p_ += '\\begin{minipage}{\\textwidth}\n'
+                        line2p_ += '\\begin{tcolorbox}[blanker,width=\\textwidth,]\n'
                         line2p_ += '\extra[{:s}]'.format(extra_name_.strip().replace('**','')) + '\n'
                     if len(extra_prep[ii]) > 1:
                         line2p_ += '\\begin{petitprep} \n'
@@ -864,7 +869,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                         line2p_ += '\\end{petitprep_noNumber} \n'
 
                     if flag_noIngr:
-                        line2p_ += '\\end{minipage}'
+                        #line2p_ += '\\end{minipage}'
+                        line2p_ += '\\end{tcolorbox}'
                         line2p_ += '\\par \n'
 
                     line2p_ += '\\bigskip'
