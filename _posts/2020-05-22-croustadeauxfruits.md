@@ -68,7 +68,6 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Recouvrir les fruits de la pâte sablée préparée.
 * Cuire au four pendant au moins 45 mn en surveillant la cuisson jusqu’à ce que le caramel remonte par dessus le gâteau.
 * La croustade se sert chaude avec une boule de glace vanille.
-* Voir le vin d'accompagnement ci-dessus.
 
 #### **Croustade "poires, chocolat"**
 ##### Ingrédients
@@ -94,4 +93,3 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * Recouvrir le tout de la pâte sablée préparée.
 * Cuire au four pendant 30 mn.
 * La croustade se sert chaude avec une boule de glace vanille.
-* Voir le vin d'accompagnement ci-dessus.
