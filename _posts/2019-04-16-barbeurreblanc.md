@@ -13,7 +13,7 @@ index_motClefIngredient: bar, haricots cocos de Paimpol | haricot!coco de Paimpo
 Le bar est le poisson qui apprécie particulièrement les rouleaux de la mer sur notre côte. Dans cette recette, il est cuit sous le gros sel. C'est la méthode la plus simple pour le préparer. Il est accommodé avec un beurre blanc, une sauce basique de la cuisine bourgeoise.
 
 ### Ingrédients
-* 1 bar de 1,2 kg vidé mais non écaillé
+* 1 bar de 1,2 kg vidé (par les ouies) mais non écaillé
 * 1 kg de gros sel de mer
 * 1 brin de romarin
 * 500 g de haricots cocos de Paimpol
