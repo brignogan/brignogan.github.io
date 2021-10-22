@@ -39,4 +39,4 @@ Favorite de Grand-Mère Saint-Pierre, cette entrée est un régal dès que comme
 * Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée (Château La Borie, Alix).
 
 ### Notes
-* Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [mayonnaise]({% post_url 2018-12-23-mayonnaise %}) . On prendra soin de bien l'assaisonner.
+* Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [mayonnaise]({% post_url 2018-12-23-mayonnaise %}). On prendra soin de bien l'assaisonner.

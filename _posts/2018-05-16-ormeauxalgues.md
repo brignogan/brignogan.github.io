@@ -28,7 +28,7 @@ Muni d’un pied très puissant l'ormeau s'accroche sur les supports qu’il ren
 
 ### Préparation
 #### Préparation des ormeaux :
-* Elle commence 3 jours à l’avance. On trouvera la préparation des [ormeaux]({% post_url 2018-05-16-ormeaux-frites.md %}).
+* Elle commence 3 jours à l’avance. On trouvera la préparation des [ormeaux]({% post_url 2018-05-16-ormeaux-frites %}).
 
 #### Préparation du fumet :
 * Une petite heure à l'avance, faire revenir les barbillons dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir quelques instants.
