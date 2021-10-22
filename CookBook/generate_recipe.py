@@ -18,6 +18,8 @@ import pickle
 import argparse
 import json 
 import copy
+import unicodedata
+
 
 #####################################################
 def ensure_dir(f):
@@ -32,7 +34,42 @@ def string_2_bool(string):
     else:
         return False
 
+################################################
+def find_ranges(nums):
+    nums = sorted(set(nums))
+    gaps = [[s, e] for s, e in zip(nums, nums[1:]) if s+1 < e]
+    edges = iter(nums[:1] + sum(gaps, []) + nums[-1:])
+    return list(zip(edges, edges))
 
+################################################
+def isArabic(text):
+    flag = False
+    indexText = np.zeros(len(text))
+    for ii, ch in enumerate(text):
+        if ch == '\n': continue
+        try:
+            name = unicodedata.name(ch).lower()
+        except:
+           pdb.set_trace() 
+        if ('arabic' in name) or ('persian' in name): 
+            indexText[ii] = 1
+            flag = True
+            #return True;
+    if not(flag):
+        return False, None
+
+    idxs = find_ranges(np.where(indexText==1)[0])
+    
+    words = []
+    for idx in idxs:
+        words.append(text[idx[0]:idx[1]+1])
+
+    for word in words:
+        text = text.replace(word, '{{\setcode{{utf8}}\setarab\RL{{{:s}}}}}'.format(word[::-1]))
+
+    return True, text
+
+################################################
 def color_section(x):
     if x == 'maroc':
         return 'antiquebrass'
@@ -378,6 +415,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
 
             #for arabic font
             # {\setcode{utf8}\setarab\RL{اَلْعَرَبيَّةُ}.
+            if isArabic(line__)[0]:
+                recipeMMintro[iline__] = isArabic(line__)[1]
 
         for ii_line_, line_in in enumerate(recipeMMintro):
             #add index entry
