@@ -585,7 +585,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     line_ = add_graphics(line_.split('{% include')[0].strip(),imageDir,img_path)
 
                 if len(line_.split(']({% post_url ')) > 1: 
-                    line_3 = ' ' + line_.split('%})')[1].strip()
+                    line_3 = '' + line_.split('%})')[1].strip()
+                    if line_3[0] != '.': line_3 = ' ' + line_3
                     #get link
                     line_2 = line_.split(']({% post_url')[1].strip().split('%}')[0]
                     try:
@@ -598,7 +599,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     sectionName = tag_name[idx_].replace(' ','').lower()
                     ref_ = u' (voir page \pageref{{sec:{:s}}})'.format(sectionName)
                     line_ = line_.split(']({% post_url ')[0].replace('[','') + ref_ + line_3  
-
+                
                 if (i==0) & (line_[:4] != '####'):
                     ii = i+1
                     ii_ori = ii
@@ -753,7 +754,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
                     flag_img = True
 
                 if len(line_.split(']({% post_url ')) > 1: 
-                    line_33 = ' ' + line_.split('%})')[1].strip()
+                    line_33 = '' + line_.split('%})')[1].strip()
+                    if line_33[0] != '.': line_33 = ' ' + line_33
                     #get link
                     line_22 = line_.split(']({% post_url')[1].strip().split('%}')[0]
                     try:
