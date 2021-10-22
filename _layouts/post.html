@@ -95,9 +95,11 @@
   <!--{{nameneeded}}-->
   {% for myimage in site.static_files %}
      {% if myimage.path contains nameneeded %}
+     {% if myimage.path contains '.png' %}
      {% unless myimage.path contains "HD" %}
        <img class='img-rounded-extra' src="{{ url }}{{ myimage.path }}" alt="extra image" />
      {% endunless %}
+     {% endif %}
      {% endif %}
   {% endfor %}
   </div>
