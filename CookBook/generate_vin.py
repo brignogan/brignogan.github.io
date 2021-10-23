@@ -57,7 +57,7 @@ def saveplot(appellations_domain,vin,metropole,bassins):
         xmin,ymin,xmax,ymax = bassins.loc[bassins.nom == vin.Bassin].total_bounds
                               #vin.geometry.coords.xy[0][0]-1.e5, vin.geometry.coords.xy[0][0]+1.e5,\
                               #vin.geometry.coords.xy[1][0]-1.e5, vin.geometry.coords.xy[1][0]+1.e5
-    if vin.Bassin == 'Bourgogne': buffer_lim = 100.e3
+    if vin.Bassin == 'Bourgogne': buffer_lim = 130.e3
     elif u'domainedelamordor' in vin.DomaineChateau.replace('&','').replace(' ','').lower()  : buffer_lim = 50.e3
     else: buffer_lim = 200.e3
 
@@ -1003,10 +1003,13 @@ if __name__ == '__main__':
         else:
             vin_Appelation = vin.Appelation  
 
+        end_cepage = ''
+        if len(vin.Cepages.split(','))>0: end_cepage = '.'
+
         if False: #newCouleur == 1: 
             final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here,vin.Couleur))
         else:
-            final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here))
+            final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%')+end_cepage, listRecipies_here))
         #final2_lines.append(u'\n \\vspace{.05cm} \n')
      
         #create_dictionary
