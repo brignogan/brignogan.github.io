@@ -8,7 +8,7 @@ temps_preparation: 45
 temps_cuisson: 40
 temps_repos: 4320
 nbre_personne: ‘pour 4 personnes’
-index_motClefIngredient: ormeau, algue séchée, nouilly-prat
+index_motClefIngredient: ormeau, algue séchée, Nouilly-Prat
 ---
 Muni d’un pied très puissant l'ormeau s'accroche sur les supports qu’il rencontre, comme les rochers, sous lesquels il se dissimule. Il fréquente nos côtes mais il n'est pas aisé de le pêcher. Aussi, avoir des voisins experts en la matière est un bienfait. Pour les accommoder, cette recette a été inspirée de celle de Olivier Roellinger, alors chef étoilé à Cancale [ [8]]({{ '/bibliographie/#roellinger' | relative_url }}).
 

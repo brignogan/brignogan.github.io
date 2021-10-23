@@ -17,12 +17,12 @@ La recette de ce gâteau, dont la base est une pâte brisée, vient de notre cop
 * 4 ou 5 œufs +1
 * 250 g de sucre en poudre
 * 400 g de farine
-* 1 verre de rhum
+* 3 cL de rhum
 * 1 sachet de sucre vanillé
 
 #### pour la crème de pruneaux facultative
 * 250 g de pruneaux (avec noyaux)
-* 375 mL d'eau
+* 37,5 cL d'eau
 * 1 sachet de thé
 * 125 g de sucre
 * 1/2 citron
@@ -33,7 +33,7 @@ La recette de ce gâteau, dont la base est une pâte brisée, vient de notre cop
 * Mélanger, dans un premier temps, le sucre, le rhum, les jaunes d’œuf.
 * A ce mélange jaunâtre, ajouter le beurre préalablement ramolli (en le laissant par exemple une nuit à température ambiante) et, à la main, malaxer le tout pour obtenir un mélange homogène.
 * Incorporer, petit à petit, la farine de manière à obtenir une pâte plus consistante que tout ce que vous avez eu depuis le début puis la tasser dans un moule bien beurré (de diamètre 28 cm).
-* Pour la garniture supérieure, battez un jaune d’œuf fraîchement pondu avec un tout petit peu de lait et, avec un pinceau, badigeonner le dessus de la pâte. Tracer des dessins avec une fourchette en appuyant assez fort.
+* Pour la garniture supérieure, battre un jaune d’œuf fraîchement pondu avec un tout petit peu de lait et, avec un pinceau, badigeonner le dessus de la pâte. Tracer des dessins avec une fourchette en appuyant assez fort.
 * Bien percer la pâte avec la fourchette jusqu’au fond du moule en une dizaine d’endroits bien répartis.
 * Cuire au four environ 30 min.
 * Démouler immédiatement et délicatement pour ne pas casser le gâteau. Laisser refroidir.
