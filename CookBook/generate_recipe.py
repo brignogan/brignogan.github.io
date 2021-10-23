@@ -418,7 +418,8 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
             if isArabic(line__)[0]:
                 recipeMMintro[iline__] = isArabic(line__)[1]
 
-        for ii_line_, line_in in enumerate(recipeMMintro):
+        
+        for ii_line_, line_ in enumerate(recipeMMintro):
             #add index entry
             recipeMMmotClefB2 = copy.deepcopy(recipeMMmotClefB)
             for ii_mot, mot_ in enumerate(recipeMMmotClefB2):
@@ -443,6 +444,7 @@ for recipeFile, recipName, recipeCat, recipePlat in data:
     else:
         lines_txt_per_cat.pop(0)
         recipeMMintro = ['']
+
 
     #convert link to biblio
     #if recipName == 'soupecarottescumin': pdb.set_trace()
