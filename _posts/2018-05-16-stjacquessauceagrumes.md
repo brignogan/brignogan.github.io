@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saint-Jacques sauce agrumes
+title: Saint-jacques sauce agrumes
 tag_category: bretagne
 tag_plat: platPoisson
 image: img/recette/stjacquessauceagrumes.png
@@ -45,5 +45,5 @@ Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée
 * Vin blanc : Alsace Grand Cru Rangen (Wolfberger, Riesling), Alsace Gewurztraminer (Domaine René Fleith, Letzenberg), Menetou-Salon (Domaine de Châtenoy, Classique), Pays d'Hérault (Mas de Daumas-Gassac).
 
 ### Notes
-* La préparation des noix est décrite dans les notes de la recette des [Saint-Jacques flambées aux pommes]({% post_url 2018-05-17-stjacquespommes %}) .
-* On peut ajouter quelques brisures de crêpes de blé noir séchées à la poêle.
+* La préparation des noix est décrite dans les notes de la recette des [saint-jacques flambées aux pommes]({% post_url 2018-05-17-stjacquespommes %}) .
+* On peut ajouter quelques brisures de crêpe de blé noir séchées à la poêle.

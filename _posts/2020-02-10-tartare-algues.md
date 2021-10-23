@@ -14,8 +14,8 @@ Ce condiment se marie très bien avec les plats de poisson et permet de prépare
 
 ### Ingrédients
 * 2 c. à s. d'algues séchées (dulce, nori)
-* jus de citron
-* huile d'olive
+* 1 c. à s. de jus de citron
+* 5 cL d'huile d'olive
 * sel
 
 ### Préparation

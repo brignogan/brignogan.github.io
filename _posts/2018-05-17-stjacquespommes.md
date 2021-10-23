@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saint-Jacques flambées aux pommes
+title: Saint-jacques flambées aux pommes
 tag_category: bretagne
 tag_plat: platPoisson
 image: img/recette/stjacquespommes.png

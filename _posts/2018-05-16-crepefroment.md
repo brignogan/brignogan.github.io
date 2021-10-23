@@ -33,7 +33,7 @@ La recette de la pâte à crêpe sucrée vient de Berthe Riou, une amie de Grand
 * Utiliser la louche n°7 (diamètre en cm) pour verser une louchée de pâte sur la bilig et étaler la pâte au râteau.
 * Cuire la première face 1 mn puis retourner la crêpe et prolonger la cuisson encore une bonne minute pour que la crêpe prenne une belle couleur.
 * On peut alors fourrer ces crêpes avec du sucre, de la confiture, du sirop d’érable, etc...
-* Le fourrage de ces crêpes peut se faire sur la bilig après la cuisson de la première face. Dans ce cas, bien beurrer la crêpe (pour que la garniture ne la traverse pas et endommage la bilig). Ajouter alors : fruits cuits (pomme, banane), amandes, chocolat, etc... Plier et déposer dans l'assiette. On peut alors les arroser de jus de citron ou d'alcool (rhum, lambig,...) que l'on fait flamber. Une boule de glace ou de sorbet peut aussi accompagner la préparation.
+* Le fourrage de ces crêpes peut se faire sur la bilig après la cuisson de la première face. Dans ce cas, bien beurrer la crêpe (pour que la garniture ne la traverse pas et endommage la bilig). Ajouter alors : fruits cuits (pomme, banane), amandes, chocolat, etc... Plier et déposer dans l'assiette. On peut alors les arroser de jus de citron ou d'alcool (rhum, lambig,...) que l'on fait flamber. Une boule de glace ou de sorbet et de la crème chantilly peuvent aussi accompagner la préparation.
 
 ### Vins
 * Cidre : Pays fouesnantais (Cidre Séhédic, Brut bio), Pays fouesnantais (Cidre Séhédic, Demi-sec bio).

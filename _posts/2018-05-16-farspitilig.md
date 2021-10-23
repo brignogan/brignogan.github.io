@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fars pitilig
+title: Farz pitilig
 tag_category: bretagne
 tag_plat: dessert
 image: img/recette/fars-pitilig.png
@@ -10,13 +10,13 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: fars pitilig | fars!pitilig
 ---
-Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que celle du fars forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand-Mère Ploudaniel !
+Le farz pitilig est aussi appelé farz buan. C’est en fait la même pâte que celle du farz forn mais cuite à la poêle au lieu du four. La recette n’est pas difficile mais le résultat n’est jamais pareil !!! Le secret est dans le mouvement… et dans la quantité de beurre…. Il ne sera, de toute façon, jamais aussi bon que celui préparé par Grand-Mère Ploudaniel !
 
 ### Ingrédients
 * 125 g de farine de froment
 * 75 g de sucre
 * 4 œufs
-* 500 mL de lait
+* 50 cL de lait
 * beurre demi-sel
 
 ### Préparation
@@ -35,5 +35,5 @@ Le fars pitilig est aussi appelé fars buan. C’est en fait la même pâte que 
 
 ### Notes
 * Pour un service optimum, les galettes doivent être dégustées aussitôt cuites. Autant dire que la cuisinière ne peut passer à table que lorsque tous les convives sont rassasiés.
-* A Ploudaniel, on mangeait le fars pitilig comme le fars forn avec du jambon…
+* A Ploudaniel, on mangeait le farz pitilig comme le farz forn avec du jambon…
 * Pour une boisson d'accompagnement plus typique, on peut servir du lait ribot.

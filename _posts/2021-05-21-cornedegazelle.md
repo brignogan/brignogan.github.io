@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cornes de gazelle ou kaab el ghzal
+title: Cornes de gazelle 
 tag_category: maroc
 tag_plat: dessert
 image: img/recette/cornedegazelle.png
@@ -10,7 +10,7 @@ temps_repos: 60
 nbre_personne: ‘pour 35-40 pièces’
 index_motClefIngredient: amande, cannelle
 ---
-La corne de gazelle est le fleuron de la pâtisserie marocaine et il est impensable de boire un thé à la menthe sans croquer un de ces gâteaux. Ils peuvent être nature mais aussi enrobé d'amandes ou de sucre glace. Il est plus commode et surtout plus sympa de réaliser cette préparation au moins à quatre mains. 
+La corne de gazelle (kaab el ghzal, كعب الغزال) est le fleuron de la pâtisserie marocaine et il est impensable de boire un thé à la menthe sans croquer un de ces gâteaux. Ils peuvent être nature mais aussi enrobé d'amandes ou de sucre glace. Il est plus commode et surtout plus sympa de réaliser cette préparation au moins à quatre mains.
 
 ### Ingrédients
 * 250 g de farine

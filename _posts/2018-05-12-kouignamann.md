@@ -14,7 +14,7 @@ Le kouign amann est un gâteau originaire de Douarnenez et donc une spécialité
 ### Ingrédients
 * 500 g de farine de froment
 * 30 g de levure de boulanger
-* 400 g d’eau tiède
+* 40 cL d’eau tiède
 * 250 g de beurre demi-sel en pommade
 * 125 g de sucre
 
