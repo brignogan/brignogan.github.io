@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: épaule d'agneau | agneau!épaule, coriandre, cumin
 ---
-Ce mode de cuisson de l'agneau se fait traditionnellement dans le couscoussier mais Halima comme Rkia avait adopté la cocotte minute pour réaliser cette recette.
+La cuisson à la vapeur de l'agneau (لحم المبخر) se fait traditionnellement dans le couscoussier mais Halima comme Rkia avait adopté la cocotte minute pour réaliser cette recette.
 
 ### Ingrédients
 * 1 épaule d'agneau

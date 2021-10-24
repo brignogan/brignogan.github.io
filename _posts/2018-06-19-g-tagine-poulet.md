@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: poulet, coriandre, gingembre, safran, citron frais | citron, citron confit | citron confit, olive verte
 ---
-Ce tagine est un grand classique de la cuisine marocaine et le meilleur que nous n'ayons jamais mangé était servi dans le petit restaurant à l'entrée des ruines de Volubilis.
+Ce tagine (طاجين) est un grand classique de la cuisine marocaine et le meilleur que nous n'ayons jamais mangé était servi dans le petit restaurant à l'entrée des ruines de Volubilis.
 
 ### Ingrédients
 * 1 poulet d'1,7 kg avec son foie et son gésier
