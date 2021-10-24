@@ -91,10 +91,12 @@ def saveplot(appellations_domain,vin,metropole,bassins):
     # find a solution for alsace appellations
     #add igp 
 
-    if vin.Pays == 'France':
+    if (vin.Pays == 'France') | (vin.Pays == 'Hongrie'):
         #add prefecture
         if vin.DomaineChateau == u'Ch\xe2teau La Borie':
-            selectedCommune = ['Nice', 'Marseille', 'Montpellier', 'Avignon', 'Gap', 'Saint-\xc3\x89tienne', 'Valence', 'Bastia', 'Ajaccio'] 
+            selectedCommune = ['Nice', 'Marseille', 'Montpellier', 'Avignon', 'Gap', 'Valence', 'Bastia', 'Ajaccio'] 
+        elif vin.DomaineChateau == u'Les vignobles de Seyssuel  ':
+            selectedCommune = ['Lyon', 'Saint-Étienne', 'Grenoble', 'Valence', 'Chambéry', ] 
         else:
             selectedCommune = prefectures.Commune.to_list() 
         prefectures.loc[prefectures.Commune.isin(selectedCommune)].plot(ax=ax, color='k', markersize=20,)
@@ -865,6 +867,8 @@ if __name__ == '__main__':
                 #--
                 if vin.DomaineChateau == u'Ch\xe2teau La Borie':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
+                elif vin.DomaineChateau == u'Les vignobles de Seyssuel  ':
+                    bx = fig.add_axes([0.02,0.02, 0.26,0.26])
                 elif vin.DomaineChateau == u'Ch\xe2teau Haut-Marbuzet':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
                 elif vin.DomaineChateau == u'Cidre S\xe9h\xe9dic':
@@ -924,6 +928,14 @@ if __name__ == '__main__':
         if section_couleur != vin.Couleur:
             print('    ', vin.Couleur)
             final2_lines.append('\n')
+            
+            #if Daumas Rouge add page break
+            if (vin.DomaineChateau.replace(' ','').lower() == 'masdedaumas-gassac') & (vin.Couleur == 'Rouge') :  final2_lines.append(u'\n\\newpage')
+            #if Cezin Rouge add page break
+            if (vin.DomaineChateau.replace(' ','').lower() == 'domainedecézin') & (vin.Couleur == 'Rouge') :  final2_lines.append(u'\n\\newpage')
+            #if mordoree Rose add page break
+            if (vin.DomaineChateau.replace(' ','').lower() == 'domainedelamordorée') & (vin.Couleur == 'Rosé') :  final2_lines.append(u'\n\\newpage')
+            
             final2_lines.append(u'\n\\vinShowCouleur{{{:s}}}\n'.format(vin.Couleur))
             final2_lines.append(u'%--------------\n')
             section_couleur = vin.Couleur
@@ -1003,8 +1015,8 @@ if __name__ == '__main__':
         else:
             vin_Appelation = vin.Appelation  
 
-        end_cepage = ''
-        if len(vin.Cepages.split(','))>0: end_cepage = '.'
+        end_cepage = '.'
+        if vin.Cepages == '-': end_cepage = ''
 
         if False: #newCouleur == 1: 
             final2_lines.append(u'\\vinShowInfoAppellation{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}}{{{:s}}} \n'.format(vin_Appelation, vin.Cuvee, vin.Cepages.replace('%','\%'), listRecipies_here,vin.Couleur))
