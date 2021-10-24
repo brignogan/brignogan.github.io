@@ -95,7 +95,7 @@ def saveplot(appellations_domain,vin,metropole,bassins):
         #add prefecture
         if vin.DomaineChateau == u'Ch\xe2teau La Borie':
             selectedCommune = ['Nice', 'Marseille', 'Montpellier', 'Avignon', 'Gap', 'Valence', 'Bastia', 'Ajaccio'] 
-        elif vin.DomaineChateau == u'Les vignobles de Seyssuel  ':
+        elif vin.DomaineChateau == u'Les Vignobles de Seyssuel':
             selectedCommune = ['Lyon', 'Saint-Étienne', 'Grenoble', 'Valence', 'Chambéry', ] 
         else:
             selectedCommune = prefectures.Commune.to_list() 
@@ -867,7 +867,7 @@ if __name__ == '__main__':
                 #--
                 if vin.DomaineChateau == u'Ch\xe2teau La Borie':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
-                elif vin.DomaineChateau == u'Les vignobles de Seyssuel  ':
+                elif vin.DomaineChateau == u'Les Vignobles de Seyssuel':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
                 elif vin.DomaineChateau == u'Ch\xe2teau Haut-Marbuzet':
                     bx = fig.add_axes([0.02,0.02, 0.26,0.26])
