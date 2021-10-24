@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: (aiguillette | bœuf!aiguillette, tranche grasse | bœuf!tranche grasse, poire | bœuf!poire, petit pois, coriandre, tomate, gingembre, safran, cumin, œuf
 ---
-Les keftas sont à la base de nombreuses recettes marocaines. On peut par exemple en faire des brochettes. Préparées en tagine, cette recette vient du restaurant « La Clé » qui était la cantine des coopérants à Rabat dans les années 70-80.
+Les keftas sont à la base de nombreuses recettes marocaines. On peut par exemple en faire des brochettes. Préparées en tagine (طاجين), cette recette vient du restaurant « La Clé » qui était la cantine des coopérants à Rabat dans les années 70-80.
 
 ### Ingrédients
 * 500 g bœuf haché (aiguillette, tranche grasse ou poire)
