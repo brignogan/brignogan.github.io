@@ -19,7 +19,7 @@ Ce tagine (طاجين) est un grand classique de la cuisine marocaine et le meil
 * 1 grosse gousse d’ail
 * 1 c. à c. de gingembre en poudre
 * 4-5 pistils de safran
-* 1/3 de sachet de colorant alimentaire (voir note)
+* 1/3 de sachet de colorant alimentaire (voir Notes)
 * 1/2 citron frais
 * 1 citron confit (dans le sel)
 * 1 trentaine d'olives vertes dénoyautées

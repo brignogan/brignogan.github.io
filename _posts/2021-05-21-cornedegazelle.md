@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cornes de gazelle 
+title: Cornes de gazelle
 tag_category: maroc
 tag_plat: dessert
 image: img/recette/cornedegazelle.png
@@ -16,7 +16,7 @@ La corne de gazelle (kaab el ghzal, كعب الغزال) est le fleuron de la p�
 * 250 g de farine
 * 1/2 c. à s. de beurre demi-sel fondu
 * 30 g de beurre demi-sel
-* 500 g d'amandes émondées (voir notes)
+* 500 g d'amandes émondées (voir Notes)
 * 350 g de sucre
 * 1 œuf
 * 1 pincée de cannelle en poudre

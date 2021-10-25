@@ -26,7 +26,7 @@ Les brochettes servies avec des légumes en salade sont une recette typiquement 
 * 6 œufs
 * 6 tomates moyennes
 * 250 g de fèves ou de pois chiches cuits
-* 1 bouquet de coriandre frais
+* 1 bouquet de coriandre fraiche
 * 2 c. à s. de jus de citron
 * 4-5 olives vertes dénoyautées
 * 1 citron confit
@@ -38,16 +38,16 @@ Les brochettes servies avec des légumes en salade sont une recette typiquement 
 * Hacher les échalotes.
 * Mélanger le tout et ajouter huile de tournesol, sel, poivre, paprika, gingembre et safran. Laisser mariner au moins 6 h.
 * Cuire les oeufs durs.
-* Couper les courgettes en deux dans le sens de la longueur. Les cuire dans l'eau bouillante salée. Elle doivent rester fermes. Les laisser refroidir. Les recouvrir d'une gousse d'ail hachée puis arroser le tout d'un filet d'huile d'olive. Réserver au frais.
-* Eplucher les carottes, les couper en rondelles de 1/2 cm. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Saupoudrer du cumin et arroser d'huile de tournesol. Ajouter la moitié du coriandre haché. Bien mélanger et réserver au frais.
+* Couper les courgettes en deux dans le sens de la longueur. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Les recouvrir d'une gousse d'ail hachée puis arroser le tout d'un filet d'huile d'olive. Réserver au frais.
+* Eplucher les carottes, les couper en rondelles de 1/2 cm. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Saupoudrer du cumin et arroser d'huile de tournesol. Ajouter la moitié de la coriandre hachée. Bien mélanger et réserver au frais.
 * Couper les tomates en quartier, saler, poivrer et arroser d'un filet d'huile d'olive.
 * Récupérer et hacher l'écorce du citron confit. Hacher les olives.
-* Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié du coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile de tournesol et du sel. Ajuster l'assaisonnement. Réserver au frais.
+* Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié de la coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile de tournesol et du sel. Ajuster l'assaisonnement. Réserver au frais.
 * Cuire 5 mn les brochettes sur le barbecue très chaud.
 * Servir les brochettes avec les échalotes et le jus de la marinade, les différentes salades et les oeufs. Proposer sel, poivre et cumin.
 
 ### Vins
-* Vin rouge : Lirac (Domaine de la Mordorée, La Reine des Bois), Saint-Emilion (Château Franc Patarabet, Vieilles Vignes), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de la Mordorée, La Dame Voyageuse).
+* Vin rouge : Lirac (Domaine de la Mordorée, La Reine des Bois), Pommard (Domaine Philippe Girard, Vieilles Vignes), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de la Mordorée, La Dame Voyageuse), Coteaux-du-Loir (Domaine de Cézin, Génération IV).
 
 ### Notes
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.

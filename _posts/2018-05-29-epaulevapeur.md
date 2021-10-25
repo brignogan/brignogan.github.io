@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: épaule d'agneau | agneau!épaule, coriandre, cumin
 ---
-La cuisson à la vapeur de l'agneau (لحم المبخر) se fait traditionnellement dans le couscoussier mais Halima comme Rkia avait adopté la cocotte minute pour réaliser cette recette.
+La cuisson à la vapeur de l'agneau (لحم المبخر) se fait traditionnellement dans le couscoussier mais Halima et Rkia avaient adopté la cocotte minute pour réaliser cette recette.
 
 ### Ingrédients
 * 1 épaule d'agneau
@@ -30,7 +30,7 @@ La cuisson à la vapeur de l'agneau (لحم المبخر) se fait traditionnelle
 * Fermer la cocotte et cuire 1h.
 * Quand la viande est cuite, la sortir de la cocotte et la placer dans un plat qui va au four. La couvrir d’une grosse noix de beurre.
 * Mettre au gril quelques minutes jusqu’à ce que le dessus de l’épaule soit grillé.
-* Servir l’épaule avec du cumin et de la fleur de sel, accompagnée de pommes de terre cuite à l’eau.
+* Servir l’épaule avec du cumin et de la fleur de sel, accompagnée de pommes de terre cuites à l’eau.
 
 ### Vins
 * Vin rouge : Bandol (Château Guilhem Tournier, La Malissonne), Châteauneuf-du-Pape (Domaine de Beaurenard, Beaurenard), Châteauneuf-du-Pape (Domaine de Beaurenard, Boisrenard), Cornas (Cave de Tain, Arènes Sauvages), Saint-Estèphe (Château Haut-Marbuzet).

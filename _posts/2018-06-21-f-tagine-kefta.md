@@ -15,23 +15,23 @@ Les keftas sont à la base de nombreuses recettes marocaines. On peut par exempl
 ### Ingrédients
 * 500 g bœuf haché (aiguillette, tranche grasse ou poire)
 * 500 g de petits pois écossés
-* 1 boîte de tomate
+* 1 boîte de tomates
 * 1 oignon
 * 2 gousses d'ail
 * 1 bouquet de persil plat
 * 1 bouquet de coriandre
 * 1 c. à c. de gingembre en poudre
-* 4-5 pistil de safran
+* 4-5 pistils de safran
 * 1 c. à c. de cumin
 * 6 œufs
 * huile d'olive, sel, poivre
 
 ### Préparation
-* Verser la viande dans un saladier. Ajoutez le cumin, le gingembre et le safran, le sel et le poivre. Mélangez le tout, former des boulettes avec la viande et réserver.
+* Verser la viande dans un saladier. Ajoutez le cumin, le gingembre, le safran, le sel et le poivre. Mélangez le tout, former des boulettes avec la viande et réserver.
 * Eplucher l’oignon et l’ail et les tailler en brunoise. Dans une casserole, faites-les revenir dans l'huile d'olive pendant 10 minutes à feu doux.
 * Ajouter les tomates, laissez cuire 5 minutes. Ajouter les petits pois et de l’eau à peine à hauteur. Cuire 20 mn puis laisser épaissir la sauce.
 * Verser le tout dans le tagine et garder au chaud.
-* Hacher le coriandre et le persil.
+* Hacher la coriandre et le persil.
 * Au dernier moment, déposer les boulettes de kefta sur les petits pois, parsemer de coriandre et de persil, laissez mijoter à couvert 4-5 minutes maximum.
 * Pour finir, cassez les œufs par dessus et refermer le couvercle du tagine pour achever la cuisson pendant 3-4 mn (les oeufs doivent être juste pochés).
 * Servir aussitôt.

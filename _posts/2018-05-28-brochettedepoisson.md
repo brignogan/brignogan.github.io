@@ -28,10 +28,10 @@ Le kanoun est un fourneau bas en terre ou en métal utilisé traditionnellement 
 * Ecraser la gousse d'ail.
 * Mélanger le tout et ajouter huile, sel, poivre, paprika, gingembre et safran.
 * Laisser mariner 2 h au frais.
-* Egoutter les dés de poissons et les enfiler sur des brochettes.
-* Cuire 5 mn les brochettes sur le barbecue très chaud.
+* Egoutter les dés de poisson et les enfiler sur des brochettes.
+* Cuire les brochettes 5 mn sur le barbecue très chaud.
 * Préparer la sauce avec la crème et le jus de citron.
-* Servir les brochettes avec du riz ou des pommes de terre au beurre, une 1/2 tomate frites, quelques feuilles de verdure (roquette, sauge, pousses d'épinard) et la sauce.
+* Servir les brochettes avec du riz ou des pommes de terre au beurre, une demi-tomate frite, quelques feuilles de verdure (roquette, sauge, pousses d'épinard) et la sauce.
 
 ### Vins
 * Vin blanc : Hermitage (Cave de Tain, Au Cœur des Siècles), Saint-Joseph (Domaine Louis Chèze, Ro-Rée), Saint-Joseph (Château d'Ampuis, Lieu-dit), Lirac (Domaine de la Mordorée, La Reine des Bois), Alsace Grand Cru Furstentum (Domaine René Fleith, Pinot Gris).
