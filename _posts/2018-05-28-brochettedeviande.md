@@ -39,7 +39,7 @@ Les brochettes servies avec des légumes en salade sont une recette typiquement 
 * Mélanger le tout et ajouter huile de tournesol, sel, poivre, paprika, gingembre et safran. Laisser mariner au moins 6 h.
 * Cuire les oeufs durs.
 * Couper les courgettes en deux dans le sens de la longueur. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Les recouvrir d'une gousse d'ail hachée puis arroser le tout d'un filet d'huile d'olive. Réserver au frais.
-* Eplucher les carottes, les couper en rondelles de 1/2 cm. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Saupoudrer du cumin et arroser d'huile de tournesol. Ajouter la moitié de la coriandre hachée. Bien mélanger et réserver au frais.
+* Eplucher les carottes, les couper en rondelles de 1/2 cm. Les cuire dans l'eau bouillante salée. Elles doivent rester fermes. Les laisser refroidir. Saupoudrer du cumin et arroser d'huile de tournesol. Ajouter la moitié de la coriandre hachée et mélanger. Réserver au frais.
 * Couper les tomates en quartier, saler, poivrer et arroser d'un filet d'huile d'olive.
 * Récupérer et hacher l'écorce du citron confit. Hacher les olives.
 * Mélanger les fèves (ou les pois chiches), une gousse d'ail hachée, l'autre moitié de la coriandre hachée, le jus de citron, le citron confit et les olives. Ajouter de l'huile de tournesol et du sel. Ajuster l'assaisonnement. Réserver au frais.

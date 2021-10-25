@@ -43,7 +43,7 @@ Certains tagines (طاجين) sont saisonniers parce que préparés avec des lé
 * Quand les oignons sont à peu près cuits, rajouter une pointe de couteau de colorant (les oignons deviennent jaune) et remettre à cuire 10 mn.
 * Rajouter les raisins égouttés et la cannelle. Bien remuer et laisser cuire toujours à couvert pendant 15 min. Si les oignons collent, ajouter un peu de sauce de la viande.
 * Quand les raisins sont cuits, ajouter le sucre. Bien remuer. Goûter et, si besoin, ajouter un peu de cannelle et/ou un peu de sucre Le mélange doit devenir marron. Laisser cuire toujours à couvert pendant encore 10 mn. Conserver au chaud.
-* Au moment de servir, disposer les oignons sur la viande dans le tagine.
+* Pour servir, disposer les oignons sur la viande dans le tagine.
 
 ### Vins
 * Vin blanc : Lirac (Domaine de la Mordorée, La Reine des Bois).
@@ -54,5 +54,5 @@ Certains tagines (طاجين) sont saisonniers parce que préparés avec des lé
 * Vin rouge doux : Maury (Les Vignes d'Elodie).
 
 ### Notes
-* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine-poulet %}). 
+* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine-poulet %}).
 * Pour le service de ce plat, on lira les notes de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).
