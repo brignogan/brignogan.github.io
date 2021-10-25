@@ -54,5 +54,5 @@ Certains tagines (طاجين) sont saisonniers parce que préparés avec des lé
 * Vin rouge doux : Maury (Les Vignes d'Elodie).
 
 ### Notes
-* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine -poulet %}). 
+* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine-poulet %}). 
 * Pour le service de ce plat, on lira les notes de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).
