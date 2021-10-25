@@ -52,5 +52,5 @@ Ce tagine (طاجين) sucré-salé est emblématique de la cuisine marocaine. I
 
 ### Notes
 * Si on ne dispose que d'amandes décortiquées, on peut aisément les émonder en suivant la méthode suivante : plonger les amandes dans l'eau bouillante pendant 3 mn, les égoutter puis presser chaque amande entre le pouce et l'index pour expulser l'amande émondée.
-* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine -poulet %}).
+* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine-poulet %}).
 * Pour le service de ce plat, on lira les notes de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).

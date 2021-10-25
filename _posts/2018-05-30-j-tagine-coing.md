@@ -51,6 +51,6 @@ La saison des coings, c’est l’automne. Traditionnellement, à Agadir, on man
 * Vin rouge doux : Maury (Les Vignes d'Elodie).
 
 ### Notes
-* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine -poulet %}).
+* Voir la note sur le colorant alimentaire dans la recette [Tagine de poulet au citron confit]({% post_url 2018-06-19-g-tagine-poulet %}).
 * Pour le service de ce plat, on lira les notes de la recette [Brochettes de viande]({% post_url 2018-05-28-brochettedeviande %}).
 * Les coings à la cannelle préparés pour cette recette de tagine peuvent aussi être dégustés tels quels ou utilisés pour la réalisation de divers desserts et entremets.
