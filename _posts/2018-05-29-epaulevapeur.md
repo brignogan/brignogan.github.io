@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epaule d’agneau à la vapeur ou Choua
+title: Epaule d’agneau à la vapeur
 tag_category: maroc
 tag_plat: platViande
 image: img/recette/epaulevapeur.png
@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: épaule d'agneau | agneau!épaule, coriandre, cumin
 ---
-La cuisson à la vapeur de l'agneau (لحم المبخر) se fait traditionnellement dans le couscoussier mais Halima et Rkia avaient adopté la cocotte minute pour réaliser cette recette.
+Cette préparation s'appelle Choua en marocain. La cuisson à la vapeur de l'agneau (لحم المبخر) se fait traditionnellement dans le couscoussier mais Halima et Rkia avaient adopté la cocotte minute pour réaliser cette recette.
 
 ### Ingrédients
 * 1 épaule d'agneau
