@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schwarzwälder Kirschtorte (La Forêt Noire)
+title: Schwarzwälder Kirschtorte
 tag_category: autriche
 tag_plat: dessert
 image: img/recette/foret-noire.png
@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: chocolat, cannelle, kirsch, griotte
 ---
-Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique particulièrement apprécié aux fêtes de fin d'année.
+Ce gâteau est la célèbre Forêt Noire. Il est né en Allemagne pendant la première guerre mondiale puis a été adopté et perfectionné en Autriche. Il en est devenu un dessert emblématique particulièrement apprécié aux fêtes de fin d'année.
 
 ### Ingrédients
 * 110 g de farine
@@ -25,9 +25,9 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 * 100 cL de crème fraîche
 * 40 g de sucre glace
 * 1 sachet de chantifix
-* 60 mL de kirsch
+* 6 cL de kirsch
 * 250 g de griottes au sirop
-* 60 mL du jus des griottes
+* 6 cL du jus des griottes
 * 30 g de chocolat pâtissier
 * 1 pointe de couteau de sel
 * du beurre pour graisser les plats
@@ -48,13 +48,13 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 * Mélanger les 2 jaunes à 75 g de sucre et bien remuer pour obtenir un mélange mousseux.
 * Mélanger à part 50 g de farine, 1/2 sachet de sucre vanillé, 15 g de chocolat en poudre, 12 g de Maïzena, une pointe de couteau de cannelle, 1/2 cuiller à thé de levure et une petite pointe de couteau de sel.
 * Ajouter petit à petit ce mélange aux oeufs/sucre.
-* Battre fermement en neige les 3 blancs d'oeufs et les incorporer au mélange précédent.
+* Battre fermement en neige les 3 blancs d'oeuf et les incorporer au mélange précédent.
 * Beurrer à nouveau le moule à manquer et y verser la pâte. Cuire au four 30 mn.
 * Laisser refroidir quelques instants puis démouler sur une grille pour parfaire le refroidissement.
 * Couper le gâteau en deux horizontalement et humecter chacune des deux moitiés avec 2 cuillers à soupe de kirsch.
 
 #### Préparation de la garniture aux griottes ("Kirschmasse"):
-* Egoutter les griottes et récupérer 60 mL du jus. Réserver 7 griottes pour la décoration.
+* Egoutter les griottes et récupérer 6 cL du jus. Réserver 7 griottes pour la décoration.
 * Verser 2 cuillers à soupe de jus dans un bol et chauffer le reste dans une casserole.
 * Mélanger 1 cuiller à café de Maïzena au jus dans le bol puis verser le tout dans le jus chaud de la casserole. Faire bouillir quelques instants et ajouter les griottes. Si besoin, rajouter un peu de sucre roux et refaire cuire avec les griottes. Retirer du feu et aromatiser avec le kirsch. Laisser refroidir.
 
@@ -68,9 +68,9 @@ Ce gâteau, né en Allemagne pendant la première guerre mondiale, a été adopt
 * Poser dessus le premier biscuit génoise et presser légèrement.
 * Répartir sur ce biscuit un deuxième quart de la crème chantilly.
 * Poser par-dessus le deuxième biscuit et, à nouveau, presser légèrement.
-* Utiliser un troisième quart de crème pour recouvrir le dessus du gâteau et, en en réservant un peu pour la décoration, recouvrir les côtés du gâteau avec le dernier quart de crème. .
-* Recouvrir le dessus du gâteau de chocolat en poudre et les côtés avec des copeaux de chocolat patissier.
-* Répartir sur le gâteau, avec une poche à douille, sept rosettes de crème chantilly et poser dessus chacune une griotte.  
+* Utiliser un troisième quart de crème pour recouvrir le dessus du gâteau. En réservant un peu du dernier quart de crème pour la décoration, utiliser celui-ci pour recouvrir les côtés du gâteau. 
+* Recouvrir le dessus du gâteau de chocolat en poudre et les côtés avec des copeaux de chocolat pâtissier.
+* Répartir sur le gâteau, avec une poche à douille, sept rosettes de crème chantilly et poser plusieurs chacune une griotte.  
 
 ### Vins
 * Vin rouge : Maury Tuilé (Les Vignes d'Elodie), Côtes-du-Rhône (Domaine de Beaurenard, Rasteau).

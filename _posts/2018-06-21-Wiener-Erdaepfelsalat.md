@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wiener Erdäpfelsalat (« la » salade de pommes de terre autrichienne)
+title: Wiener Erdäpfelsalat
 tag_category: autriche
 tag_plat: platLegume
 image: img/recette/wiener-Erdaepfelsalat.png
@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: pomme de terre, ciboulette, cornichon, échalote
 ---
-Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).
+Ce plat est la salade de pommes de terre typique de l’Autriche (et de l’Allemagne). Elle est l'accompagnement de choix pour la Wiener Schnitzel, l'escalope viennoise. Elle se déguste tiède toute l’année et peut aussi se manger froide l’été (en pique-nique par exemple).
 
 ### Ingrédients
 * 1 kg de pommes de terre
@@ -18,7 +18,7 @@ Cette salade est LA salade typique de l’Autriche (et de l’Allemagne). Elle s
 * 1 bouquet de persil
 * quelques cornichons à la russe
 * 2 échalotes
-* 100 mL de bouillon de volaille
+* 10 cL de bouillon de volaille
 * 3 c. à s. d’huile d’olive
 * 3 c. à s. de vinaigre de cidre
 * sel, poivre, moutarde

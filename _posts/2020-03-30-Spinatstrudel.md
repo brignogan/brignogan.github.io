@@ -34,7 +34,7 @@ C'est la version salée de l'Apfelstrudel. Comme pour ce dernier, la finesse de 
 * Enrouler la pâte autour des épinards en s'aidant du papier sulfurisé. Terminer le pliage en mettant le bord de fermeture de la pâte dessous le rouleau contre le papier. Replier les bouts pour fermer.
 * Badigeonner le dessus du strudel avec le jaune d'oeuf à l'aide d'un pinceau. Faire quelques entailles légères sur le dessus, sans aller jusqu'à ouvrir la pâte.
 * Enfourner environ 30 mn jusqu'à ce que le strudel soit bien doré et que quelques très légères bulles sortent des fermetures des 2 bouts. Attention à ne pas laisser trop longtemps pour ne pas faire crever les côtés.
-* On peut servir le spinatstrudel avec un oeuf mollé (cuisson 5 Domaine à l'eau bouillante) pour un plat plus complet.
+* On peut servir le spinatstrudel avec un oeuf mollé (cuisson 5 min à l'eau bouillante) pour un plat plus complet.
 
 ### Vins
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude), Nuits-Saint-Georges (Domaine Gille, Les Terres Blanches).

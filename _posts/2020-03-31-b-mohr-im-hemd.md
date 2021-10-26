@@ -17,15 +17,15 @@ Le nom du gâteau se traduit en français par "le Maure en chemise" et personne 
 * 60 g de sucre
 * 1 paquet de sucre vanillé
 * 100 g de chocolat pâtissier
-* 25 mL de crème liquide
-* 25 mL de lait
+* 2,5 cL de crème liquide
+* 2,5 cL de lait
 * 3 oeufs
 * 2 lichettes de rhum
 * 1 pointe de couteau de cannelle
 * 50 g d'amandes (ou noisettes) en poudre (ou très finement hachées)  
 * 15 g de chapelure
 * 15 g de farine
-* 1 cuiller à café d'huile de tournesol
+* 1 c. à c. d'huile de tournesol
 
 ### Préparation
 * Mélanger les sucres et les jaunes d'oeufs jusqu'à obtenir un mélange mousseux.
@@ -36,7 +36,7 @@ Le nom du gâteau se traduit en français par "le Maure en chemise" et personne 
 * Beurrer un moule style kouglof et saupoudrer de chapelure. Le remplir au 3/4 de pâte.
 * Placer le moule dans une casserole (ou le rice-cooker) avec de l'eau à mi-hauteur du moule. Couvrir avec un papier sopalin (qui va absorber la vapeur d'eau) et un couvercle pas trop étanche.
 * Faire cuire 25-30 mn au bain-marie (l'eau doit bouillir gentillement).
-* Préparer la sauce au chocolat : faire fondre 50 g de chocolat, 25 g de crème, 25 g de lait et le reste de rhum au bain-marie. Quand tout est fondu et bien mélangé, hors du feu, ajouter l'huile, mélanger et laisser refroidir.
+* Préparer la sauce au chocolat : faire fondre 50 g de chocolat, 2,5 cL de crème, 2,5 cL de lait et le reste de rhum au bain-marie. Quand tout est fondu et bien mélangé, hors du feu, ajouter l'huile, mélanger et laisser refroidir.
 * Quand le gâteau est cuit et refroidi, réchauffer la sauce pour la re-liquéfier et en recouvrir le gâteau.
 * Servir le Mohr-im-Hemd avec de la crème chantilly.
 

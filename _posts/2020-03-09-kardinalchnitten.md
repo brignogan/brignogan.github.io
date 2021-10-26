@@ -24,7 +24,7 @@ Ce gâteau est un fleuron de la pâtisserie viennoise à base de génoise, de me
 * 250 g de sucre en poudre
 
 #### Pour la crème :
-* 500 mL de crème liquide
+* 50 cL de crème liquide
 * 2 dosettes de café en poudre
 * 1 sachet de chantifix
 * un peu de sucre en poudre
@@ -35,14 +35,14 @@ Ce gâteau est un fleuron de la pâtisserie viennoise à base de génoise, de me
 #### Préparation de la pâte à génoise :
 * Séparer les jaunes des blancs des 6 oeufs en réservant à part 4 blancs pour la meringue et les 2 autres pour le biscuit.
 * Battre les 6 jaunes avec 100 g de sucre en poudre et le sachet de sucre vanillé jusqu'à ce que le mélange blanchisse et devienne mousseux et léger.
-* Incorporer alors petit à petit et avec précaution les 100 g de farine puis les 2 blancs montés en neige très ferme.
+* Incorporer, petit à petit, et avec précaution les 100 g de farine puis les 2 blancs montés en neige très ferme.
 
 #### Préparation de la meringue :
 * Battre les 4 blancs réservés en neige puis tout en continuant à les battre y incorporer petit à petit 250 g de sucre.
 
 #### Cuisson (voir le schéma) :
 * Etaler une feuille de papier cuisson sur la plaque du four.
-* Mettre l'appareil à meringue dans une poche à douille et le déposer sur la feuille en formant 6 "cordons" de environ 33 cm de long et espacés d'environ 3 cm, fermer par un peu de meringue les 4 espaces extérieurs sauf celui du centre (pour eviter que la pâte à biscuit ne s'étale). Il faut utiliser la totalité de l'appareil à meringue.
+* Mettre l'appareil à meringue dans une poche à douille et le déposer sur la feuille en formant 6 "cordons" d'environ 33 cm de long et espacés d'environ 3 cm, fermer par un peu de meringue les 4 espaces extérieurs sauf celui du centre (pour éviter que la pâte à biscuit ne s'étale). Il faut utiliser la totalité de l'appareil à meringue.
 * Remplir à nouveau la poche à douille avec la pâte à biscuit et la répartir dans les 4 interstices extérieurs. L'espace central doit donc rester vide.
 * Mettre la plaque au four et cuire pendant 25 mn en observant le biscuit qui doit être légèrement coloré.
 

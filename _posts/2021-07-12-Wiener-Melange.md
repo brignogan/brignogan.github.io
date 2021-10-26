@@ -13,8 +13,8 @@ index_motClefIngredient: café
 Cette boisson chaude, dont l'ingrédient typique est la mousse de lait, est traditionnellement servie dans les cafés viennois. Il ne faut pas confondre le Wiener Melange avec ce qu'en France on appelle le café viennois qui se prépare avec de la crème fouettée et du chocolat.
 
 ### Ingrédients
-* 125 mL de café fort (espresso)
-* 125 mL de lait entier
+* 12,5 cL de café fort (espresso)
+* 12,5 cL de lait entier
 * facultatif : cacao, cannelle et/ou sucre en poudre
 
 ### Préparation

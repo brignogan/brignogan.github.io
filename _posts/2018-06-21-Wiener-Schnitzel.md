@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wiener Schnitzel (escalope viennoise)
+title: Wiener Schnitzel
 tag_category: autriche
 tag_plat: platViande
 image: img/recette/wiener-schnitzel.png
@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 2 personnes’
 index_motClefIngredient: escalopes de veau | veau!escalope, œuf, chapelure
 ---
-Pour être qualifiée de "viennoise", cette escalope panée doit être préparée avec de la viande de veau coupée très fine. C'est évidemment le plat typique de Vienne et cette recette nous a été donnée par Veronika, une amie autrichienne de Maëlle.
+Ce plat est la célèbre escalope viennoise. Pour avoir ce qualificatif, cette escalope panée doit être préparée avec de la viande de veau coupée très fine. C'est évidemment le plat typique de Vienne et cette recette nous a été donnée par Veronika, une amie autrichienne de Maëlle.
 
 ### Ingrédients
 * 2 escalopes de veau (ou de porc) (1 par personne)
@@ -23,9 +23,9 @@ Pour être qualifiée de "viennoise", cette escalope panée doit être préparé
 
 ### Préparation
 * Taper les escalopes avec un marteau à viande jusqu'à ce qu'elles ne fassent plus que 4 mm d'épaisseur.
-* Saler, poivrer les 2 cotés de chaque escalope.
+* Saler, poivrer les 2 côtés de chaque escalope.
 * Les passer dans la farine, puis dans l’œuf entier battu, enfin dans la chapelure.
-* Dans une grande poêle à fond épais, faire revenir les escalopes dans un bon cm d'huile. Retourner l'escalope quand le premier coté est bien doré. Veiller à ce que l'huile ne soit pas trop chaude, et ne pas hésiter à changer l'huile régulièrement, si on fait plusieurs escalopes, pour éviter que les dernières escalopes ne noircissent.
+* Dans une grande poêle à fond épais, faire revenir les escalopes dans un bon cm d'huile. Retourner l'escalope quand le premier côté est bien doré. Veiller à ce que l'huile ne soit pas trop chaude et, si on fait plusieurs escalopes, ne pas hésiter à changer l'huile régulièrement pour éviter que les dernières escalopes ne noircissent.
 * Maintenir les escalopes au chaud dans le four à basse température, recouvert d'une feuille d'aluminium pour éviter qu'elles ne se dessèchent.
 * Servir avec un quartier de citron frais que chaque convive pressera dans son assiette à loisir. Accompagner avec une Erdäpfel Salat et de la mâche.
 
