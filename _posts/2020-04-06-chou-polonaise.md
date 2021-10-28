@@ -27,8 +27,7 @@ Erika Guibé, est une amie d'origine polonaise, chimiste à l'Institut de Chimie
 * Emincer les oignons, couper les carottes en rondelles et les pommes en dés.
 * Nettoyer le chou et le couper en lanières.
 * Dans une cocotte, faire revenir pendant 5 mn, dans un peu d'huile, les oignons et les lardons.
-* Ajouter les carottes, les pommes, le chou et le genièvre. Saler et poivrer.
-* Verser un verre d'eau.
+* Ajouter les carottes, les pommes, le chou et le genièvre. Saler, poivrer et verser un verre d'eau.
 * Faire cuire à feu doux et à couvert pendant au moins 1 h (30 min si on utilise une cocotte-minute).
 
 ### Vins
