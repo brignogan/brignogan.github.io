@@ -36,7 +36,7 @@ Favorite de Grand-Mère Saint-Pierre, cette entrée est un régal dès que comme
 
 ### Vins
 * Vin blanc : Jasnières (Domaine de Cézin, Origine), Menetou-Salon (Domaine de Châtenoy, Classique), Pessac-Léognan (Domaine de la Solitude).
-* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée (Château La Borie, Alix).
+* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée (Château La Borie).
 
 ### Notes
 * Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [mayonnaise]({% post_url 2018-12-23-mayonnaise %}). On prendra soin de bien l'assaisonner.

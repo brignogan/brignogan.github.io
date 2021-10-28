@@ -30,7 +30,7 @@ En Bretagne, la langue de veau était considérée comme un mets délicat et sys
 
 ### Vins
 * Vin blanc : Jasnières	(Domaine de Cézin, Origine), Pays d'Hérault (Mas de Daumas-Gassac).
-* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée	(Château La Borie, Alix).
+* Vin rosé : Côtes-de-Provence (Domaine Saint Victorin, Jacqueline), Méditerranée	(Château La Borie).
 
 ### Notes
 * Dans la rubrique "Sauces et Condiments", on trouvera la préparation de la [sauce gribiche]({% post_url 2021-06-09-sauce3gribiche %}) .
