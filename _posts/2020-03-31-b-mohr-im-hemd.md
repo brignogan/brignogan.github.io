@@ -10,7 +10,7 @@ temps_repos: ‘-‘
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: rhum, amande, chapelure, chocolat
 ---
-Le nom du gâteau se traduit en français par "le Maure en chemise" et personne n'a imaginé de le débaptiser. C'est donc sous ce nom que l'on peut déguster ce gâteau tout-à-fait particulier cuit au bain-marie.
+Le nom du gâteau se traduit en français par "le Maure en chemise". Une critique dénonçant le caractère discriminant de ce nom a failli entraîner une débaptisation. Mais considérant que "mohr" est un vieux mot sans connotation péjorative, les pâtissiers autrichiens ont résisté et c'est donc toujours sous ce nom que l'on peut déguster ce gâteau tout-à-fait particulier cuit au bain-marie.
 
 ### Ingrédients
 * 100 g de beurre en pommade
