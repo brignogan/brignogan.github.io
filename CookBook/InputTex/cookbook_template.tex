@@ -17,14 +17,22 @@
 \usepackage{ifoddpage}
 \usepackage{makecell}
 \usepackage{enumitem}
-\usepackage[%
-    a5paper,
-    %papersize={5.5in,8.5in},
-    margin=0.75in,
-    top=0.75in,
-    bottom=0.75in,
-    %twoside
-    ]{geometry}
+%\usepackage[%
+%    a5paper,
+%    %papersize={5.5in,8.5in},
+%    margin=0.75in,
+%    top=0.75in,
+%    bottom=0.75in,
+%    %twoside
+%    ]{geometry}
+\usepackage[paperheight=8.3in,
+            paperwidth=5.92in,
+            inner=0.75in,
+            outer=0.86in,
+            top=0.75in,
+            bottom=0.75in,
+            heightrounded]{geometry}
+            %showframe]{geometry}
 \usepackage{longtable}
 \usepackage[skins,breakable]{tcolorbox}
 \usepackage{xcolor}
@@ -83,7 +91,7 @@
 			linefill=dots,
 			height={30pt},           % height of the marker
 			minheight={30pt},%
-            width={auto},
+            width={38.5pt},
 			distance={2mm},
 			topthumbmargin={82pt},   % postion of the 1set marker
 			bottomthumbmargin={auto},%
@@ -511,60 +519,60 @@
 \newcommand*\iconEntree{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-14,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
+	\setbox0=\hbox{\put(-22.5,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(-11,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
+	\setbox0=\hbox{\put(-2.5,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_entree_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
 \newcommand*\iconLegume{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-14.5,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
+	\setbox0=\hbox{\put(-23.,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(-12.,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
+	\setbox0=\hbox{\put(-3.5,7){\includegraphics[scale=0.05, trim= 0em -5em -5em -5em,]{Icones/icon_legume_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
 \newcommand*\iconPoisson{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-15.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
+	\setbox0=\hbox{\put(-24,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(-13.5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
+	\setbox0=\hbox{\put(-5,7){\includegraphics[scale=0.012, trim= 0em -5em -5em -5em,]{Icones/icon_poisson_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
 \newcommand*\iconViande{
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
+	\setbox0=\hbox{\put(-21.3,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(-11.7,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
+	\setbox0=\hbox{\put(-3.2,7){\includegraphics[scale=0.015, trim= 0em -5em -5em -5em,]{Icones/icon_viande_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
 \newcommand*\iconDessert{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-13,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
+	\setbox0=\hbox{\put(-21.5,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(-10.7,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
+	\setbox0=\hbox{\put(-2.2,8){\includegraphics[scale=0.016, trim= 0em -5em -5em -5em,]{Icones/icon_dessert_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
 \newcommand*\iconSauce{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(-12.8,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
+	\setbox0=\hbox{\put(-21.3,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(-11,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
+	\setbox0=\hbox{\put(-2.5,7){\includegraphics[scale=0.017, trim= 0em -5em -5em -5em,]{Icones/icon_sauce_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -572,10 +580,10 @@
 \newcommand*\iconBordeaux{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bordeaux_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bordeaux_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bordeaux_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bordeaux_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -583,10 +591,10 @@
 \newcommand*\iconAlsace{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_alsace_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_alsace_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_alsace_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_alsace_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -594,10 +602,10 @@
 \newcommand*\iconBourgogne{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bourgogne_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bourgogne_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bourgogne_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_bourgogne_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -605,10 +613,10 @@
 \newcommand*\iconChampagne{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_champagne_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_champagne_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_champagne_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_champagne_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -616,10 +624,10 @@
 \newcommand*\iconJura{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_jura_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_jura_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_jura_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_jura_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -627,10 +635,10 @@
 \newcommand*\iconLanguedoc{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_languedoc_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_languedoc_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_languedoc_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_languedoc_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -638,10 +646,10 @@
 \newcommand*\iconProvence{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_provence_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_provence_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_provence_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_provence_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -649,10 +657,10 @@
 \newcommand*\iconSudOuest{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_sudouest_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_sudouest_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_sudouest_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_sudouest_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -660,10 +668,10 @@
 \newcommand*\iconLoire{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_loire_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_loire_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_loire_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_loire_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -671,10 +679,10 @@
 \newcommand*\iconRhone{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_rhone_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_rhone_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_rhone_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_rhone_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -682,10 +690,10 @@
 \newcommand*\iconCidreB{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreB_white.pdf}}}
+	\setbox0=\hbox{\put(10,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreB_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreB_white.pdf}}}
+	\setbox0=\hbox{\put(11,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreB_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -693,10 +701,10 @@
 \newcommand*\iconCidreN{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreN_white.pdf}}}
+	\setbox0=\hbox{\put(10,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreN_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreN_white.pdf}}}
+	\setbox0=\hbox{\put(11,4){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_cidreN_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -704,10 +712,10 @@
 \newcommand*\iconVinInternational{ 
 \checkoddpage
 \ifoddpage
-	\setbox0=\hbox{\put(0,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_international_white.pdf}}}
+	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_international_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \else
-	\setbox0=\hbox{\put(10,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_international_white.pdf}}}
+	\setbox0=\hbox{\put(11,8){\includegraphics[scale=0.021, trim= 0em -5em -5em -5em,]{Icones/icon_international_white.pdf}}}
 	\parbox{\wd0}{\box0}
 \fi
 }
@@ -860,7 +868,9 @@
 	\clearpage
 	\checkoddpage
 	\ifoddpage
-    \stopthumb
+		\null
+		\newpage
+		\stopthumb
 		\thispagestyle{empty}
 		\fancyhead{}
 		\null\vfill
@@ -869,10 +879,8 @@
 		\end{center} 
 		\vfill\null
 		\newpage
-\else
-		\null
-		\newpage
-		\stopthumb
+     \else
+        \stopthumb
 		\thispagestyle{empty}
 		\fancyhead{}
 		\null\vfill
@@ -953,7 +961,7 @@ amis.\\
 \fancyhead{}
 
 \mainmatter
-\setcounter{page}{2}
+\setcounter{page}{1}
 
 XX
 
