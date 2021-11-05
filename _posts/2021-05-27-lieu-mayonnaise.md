@@ -26,7 +26,8 @@ Il s'agit ici du lieu jaune à ne pas confondre avec le lieu noir ou le colin qu
 * Réaliser un court-bouillon dans une grande casserole en faisant bouillir de l'eau salée à laquelle on a ajouté un filet de vinaigre de cidre, un oignon coupé en quatre, quelques branches de persil, un brin de romarin et du poivre. Laisser bouillonner quelques minutes à couvert.
 * Plonger dans ce court-bouillon le morceau de lieu jaune et cuire, toujours à couvert et à petits bouillons, pendant 20 mn.
 * Cuire les pommes de terre pendant 15 min dans de l'eau salée.
-* Egoutter le poisson, enlever la peau et servir avec les pommes de terre et un bol de mayonnaise.
+* Egoutter le poisson et enlever la peau. 
+* Servir avec les pommes de terre et un bol de mayonnaise.
 
 ### Vins
 * Vin blanc : Menetou-Salon (Domaine de Châtenoy, Classique), Alsace Riesling (Domaine René Fleith, Steinweg), Jasnières (Domaine de Cézin, Origine), Pessac-Léognan (Domaine de la Solitude).
