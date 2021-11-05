@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: calamar
 ---
-La famille Drévès a séjourné à Antibes de 1956 à 1959 et Grand-Mère Saint-Pierre s'y est essayée à la cuisine provençale. Elle a rapporté cette recette pour préparer les calamars (ou encornets) qui n'étaient pas très communs sur l'étal des poissonniers en Bretagne à cette époque.
+La famille Drévès a séjourné à Antibes de 1956 à 1959 et Grand-Mère Saint-Pierre s'y est essayée à la cuisine provençale. A cette époque, les marchés de Provence ne ressemblent pas à ceux de Bretagne et, en particulier, les étals de poissonniers. Elle a ainsi appris à cuisiner, entre autres, les poulpes et les calamars. 
 
 ### Ingrédients
 * 800 g de petits calamars
