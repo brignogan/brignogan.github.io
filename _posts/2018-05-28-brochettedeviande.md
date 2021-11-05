@@ -51,4 +51,4 @@ Les brochettes servies avec des légumes en salade sont une recette typiquement 
 
 ### Notes
 * On peut aussi faire les brochettes avec du poulet ou des abats (foie et gésier). La préparation reste la même.
-* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse : Sidi Harazem, Sidi Ali ou Oulmès). Notons aussi que, traditionnellement, les brochettes de viande comme les tagines et le couscous se mangent avec du kesra (pain plat marocain) ou à défaut de la baguette. On y va alors avec les doigts !… mais si on se permet un accompagnement de vin, on peut prendre des couverts.
+* Typiquement, ce plat marocain devrait être accompagné d'une boisson non alcoolisée (eau plate ou eau gazeuse). Notons aussi que, traditionnellement, les brochettes de viande comme les tagines et le couscous se mangent avec du kesra (pain plat marocain) ou à défaut de la baguette. On y va alors avec les doigts !… mais si on se permet un accompagnement de vin, on peut prendre des couverts.
