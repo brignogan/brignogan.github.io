@@ -74,5 +74,5 @@ Le kig ha farz est un plat typiquement léonard mais la recette est souvent l'ob
 
 ### Notes
 * On peut remplacer le petit salé par un jarret de porc demi-sel qui sera alors mis à cuire dès le début avec les oignons.
-* A Saint-Pierre, on servait le pot-au-feu avec le far noir en tranche, style béton armé !… pas du tout apprécié à Ploudaniel où on ne mangeait que du lard avec le far noir en "brujun" saupoudré de sucre et accompagné de salade verte vinaigrée.
+* A Saint-Pierre, on servait le pot-au-feu avec le far noir en tranches, style béton armé !… pas du tout apprécié à Ploudaniel où on ne mangeait que du lard avec le far noir en "brujun" saupoudré de sucre et accompagné de salade verte vinaigrée.
 * Le reste de far peut être servi soit frit au beurre avec des échalotes, soit réchauffé à la vapeur. Les restes du pot-au-feu peuvent, quant à eux, être accommodés avec une [sauce gribiche]({% post_url 2021-06-09-sauce3gribiche %}) .

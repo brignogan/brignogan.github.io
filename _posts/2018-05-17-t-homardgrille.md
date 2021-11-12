@@ -34,7 +34,7 @@ Le homard foisonne sur notre côte pendant l'été et c'est un régal de le dég
 * Servir aussitôt avec le riz.
 
 ### Vins
-* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Condrieu (Domaine Louis Chèze, Brèze), Condrieu (Domaine Louis Chèze, Pagus Luminis), Hermitage (Cave de Tain, Au Cœur des Siècles)
+* Vin blanc : Pessac-Léognan (Domaine de la Solitude), Alsace Grand Cru Rangen (Wolfberger, Pinot Gris), Condrieu (Domaine Louis Chèze, Brèze), Condrieu (Domaine Louis Chèze, Pagus Luminis), Hermitage (Cave de Tain, Au Cœur des Siècles).
 * Vin rosé : Champagne (Louis de Sacy, Rosé de Saignée).
 
 ### Notes

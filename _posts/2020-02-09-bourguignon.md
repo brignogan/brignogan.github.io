@@ -26,7 +26,7 @@ Bien qu'issu de la cuisine traditionnelle de Bourgogne, le boeuf bourguignon est
 * 1 c. à s. de farine
 * 1 bouteille de vin de bourgogne ou de beaujolais (750 mL)
 * sel, poivre
-* facultatif : une boîte de marrons.
+* facultatif : une boîte de marrons
 
 ### Préparation
 * Couper la viande en gros cubes (5 cm).

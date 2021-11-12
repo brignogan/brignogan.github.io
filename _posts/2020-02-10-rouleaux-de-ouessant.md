@@ -29,7 +29,7 @@ Les abers sont un lieu de prédilection pour l'élevage de truites de qualité. 
 #### pour l'accompagnement :
 * 6 toasts de pain de mie
 * 6 c. à c. d'oeufs de truite
-* 6 c. à c. de tartare d'algues (voir note, prévoir la préparation du tartare à l'avance)
+* 6 c. à c. de tartare d'algues (voir Notes, prévoir la préparation du tartare à l'avance)
 
 
 ### Préparation

@@ -10,7 +10,7 @@ temps_repos: 360
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: (aiguillette | bœuf!aiguillette, tranche grasse | bœuf!tranche grasse, poire | bœuf!poire, paprika, gingembre, safran, courgette, carotte, cumin, pois chiche, coriandre, olive verte, citron confit, œuf, tomate
 ---
-Les brochettes servies avec des légumes en salade sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus européanisé, servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
+Les brochettes servies avec des légumes en salade sont une recette typiquement marocaine de Halima et Rkia. On peut, dans un esprit plus "européanisé", servir les brochettes avec des frites… comme au restaurant l'Elysée de Rabat dans les années 70-80.
 
 ### Ingrédients
 * 1,2 kg de bœuf (aiguillette, tranche grasse ou poire)
@@ -26,7 +26,7 @@ Les brochettes servies avec des légumes en salade sont une recette typiquement 
 * 6 œufs
 * 6 tomates moyennes
 * 250 g de fèves ou de pois chiches cuits
-* 1 bouquet de coriandre fraiche
+* 1 bouquet de coriandre fraîche
 * 2 c. à s. de jus de citron
 * 4-5 olives vertes dénoyautées
 * 1 citron confit

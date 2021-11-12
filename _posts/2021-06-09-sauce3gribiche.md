@@ -30,4 +30,4 @@ Le sauce gribiche est l'accompagnement idéale de la langue de veau ou du pot-au
 * Effeuiller le cerfeuil et l'estragon. Hacher les feuilles et ciseler la ciboulette.
 * Hacher les blancs d'oeuf.
 * Dans un bol, écraser les jaunes d'oeuf à la fourchette. Incorporer intimement la moutarde et verser petit à petit le vinaigre puis faire monter en mayonnaise en versant l'huile. Saler et poivrer.
-* Ajouter les herbes, le hachis de câpre et de cornichon et les blancs d'oeuf.
+* Ajouter les herbes, le hachis de câpres et de cornichons et les blancs d'oeuf.

@@ -68,9 +68,9 @@ Ce gâteau est la célèbre Forêt Noire. Il est né en Allemagne pendant la pre
 * Poser dessus le premier biscuit génoise et presser légèrement.
 * Répartir sur ce biscuit un deuxième quart de la crème chantilly.
 * Poser par-dessus le deuxième biscuit et, à nouveau, presser légèrement.
-* Utiliser un troisième quart de crème pour recouvrir le dessus du gâteau. En réservant un peu du dernier quart de crème pour la décoration, utiliser celui-ci pour recouvrir les côtés du gâteau. 
+* Utiliser un troisième quart de crème pour recouvrir le dessus du gâteau. En réservant un peu du dernier quart de crème pour la décoration, utiliser celui-ci pour recouvrir les côtés du gâteau.
 * Recouvrir le dessus du gâteau de chocolat en poudre et les côtés avec des copeaux de chocolat pâtissier.
-* Répartir sur le gâteau, avec une poche à douille, sept rosettes de crème chantilly et poser plusieurs chacune une griotte.  
+* Répartir sur le gâteau, avec une poche à douille, sept rosettes de crème chantilly et poser une griotte sur chacune.  
 
 ### Vins
 * Vin rouge : Maury Tuilé (Les Vignes d'Elodie), Côtes-du-Rhône (Domaine de Beaurenard, Rasteau).

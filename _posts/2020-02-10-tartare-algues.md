@@ -13,7 +13,7 @@ index_motClefIngredient: algue séchée
 Ce condiment se marie très bien avec les plats de poisson et permet de préparer des toasts pour accompagner un apéritif ou une entrée.
 
 ### Ingrédients
-* 2 c. à s. d'algues séchées (dulce, nori)
+* 2 c. à s. d'algues séchées (dulse, nori)
 * 1 c. à s. de jus de citron
 * 5 cL d'huile d'olive
 * sel
