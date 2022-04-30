@@ -24,7 +24,7 @@ Le porc au caramel est une des nombreuses recettes de Hanh Faucheu, notre amie v
 
 ### Préparation
 * Couper la poitrine de porc en cubes.
-* Faire un caramel dans la cocotte avec les morceaux de sucre et un peu d'eau. Laisser le sucre bouillir sans remuer jusqu'à ce qu'il commence à se colorer. Remuer alors pour obtenir une couleur dorée homogène.
+* Faire un caramel dans la cocotte avec les morceaux de sucre et un peu d'eau. Laisser le sucre bouillir sans remuer jusqu'à ce qu'il commence à se colorer. Remuer alors avec une cuiller en bois pour obtenir une couleur dorée homogène.
 * Jeter la viande dans le caramel. Bien mélanger.
 * Ajouter le Nước Mắm, le sel (à doser en fonction du Nước Mắmm) et éventuellement un peu de sucre en poudre si le caramel est trop amer.
 * Ajouter l'oignon haché, mélanger et bien couvrir la cocotte.

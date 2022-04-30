@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 6 personnes’
 index_motClefIngredient: flocon d'avoine, pomme, citron, cannelle, rhubarbe, framboise, cassis, poire, chocolat
 ---
-La croustade (le crumble en anglais) est un dessert typiquement québécois. Cette recette vient de Babette qui est partie, depuis les années 80, exercer son métier de sage-femme sur les rives du Saint-Laurent. Faite d'une couche de fruits et d'une couche de pâte sablée à l'avoine, il en existe plusieurs variantes suivant les fruits utilisés : pommes, rhubarbe-franboise-cassis, poire-chocolat. La préparation-type est détaillée pour la recette de la croustade aux pommes.
+La croustade (le crumble en anglais) est un dessert typiquement québécois. Cette recette vient de Babette qui est partie, depuis les années 80, exercer son métier de sage-femme sur les rives du Saint-Laurent. Faite d'une couche de fruits et d'une couche de pâte sablée à l'avoine, il en existe plusieurs variantes suivant les fruits utilisés : pommes, rhubarbe-framboise-cassis, poire-chocolat. La préparation-type est détaillée pour la recette de la croustade aux pommes.
 
 #### **Croustade "pommes"**
 
@@ -34,7 +34,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 
 #### Préparation de la croustade
 * Préchauffer le four à 200°C.
-* Beurrer un plan allant au four.
+* Beurrer un plat allant au four.
 * Eplucher et couper les pommes en gros dés. Les déposer dans le fond du plat.
 * Ajouter 3 c. à s. d'eau et 2 c. à s. de jus de citron.
 * Saupoudrer le tout de sucre et de cannelle.
@@ -72,7 +72,7 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 #### **Croustade "poires, chocolat"**
 ##### Ingrédients
 * 375 g de pâte sablée à l'avoine (voir préparation ci-dessus).
-* 6 poires
+* 6 poires (préparées à l'avance)
 * 275 g de sucre
 * 750 mL d'eau
 * 3 c. à s. de jus de citron
@@ -83,10 +83,11 @@ La croustade (le crumble en anglais) est un dessert typiquement québécois. Cet
 * 80 g de chocolat en pépite
 
 ##### Préparation
+* Eplucher les poires, couper les en deux et arroser les de jus de citron.
+* Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir les poires dans le sirop.
 * Préchauffer le four à 180°C.
 * Beurrer un plat allant au four.
-* Eplucher les poires, couper les en deux et arroser les de jus de citron.
-* Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir les poires dans le sirop puis égoutter les et récupérer le sirop.
+* Egoutter les poires et récupérer le sirop.
 * Dans une poêle, faire revenir les poires coupées en quartiers dans du beurre jusqu’à obtenir une consistance tendre puis ajouter le sucre vanillé et le vinaigre et bien mélanger.
 * Verser la poêlée dans le plat et ajouter 2 c. à s. de sirop.
 * Eparpiller les noix de pécan et pépites de chocolat (ou les petits morceaux de carrés) sur les fruits.

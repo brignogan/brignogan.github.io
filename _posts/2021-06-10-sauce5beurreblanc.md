@@ -10,7 +10,7 @@ temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefBase: sauce beurre blanc | sauce!beurre blanc
 ---
-Le sauce beurre blanc est idéale pour accompagner les poissons. Grand-Mère Saint-Pierre en a appris la préparation pendant son séjour à Saumur ou elle était traditionnellement servie avec le brochet, poisson typique de la Loire. C'est une sauce émulsionnée chaude sans oeuf.
+Le sauce beurre blanc est idéale pour accompagner les poissons. Grand-Mère Saint-Pierre en a appris la préparation pendant son séjour à Saumur où elle était traditionnellement servie avec le brochet, poisson typique de la Loire. C'est une sauce émulsionnée chaude sans oeuf.
 
 ### Ingrédients
 * 4 échalotes
