@@ -45,17 +45,7 @@ page 111
 ##  [Mohr im Hemd]({% post_url 2020-03-31-b-mohr-im-hemd %})
 page 192
 8ème à 15ème lignes :
-50 g de beurre en pommade		
-60 g de sucre				
-1 paquet de sucre vanillé		
-150 g de chocolat pâtissier		 
-20 cL de crème liquide		
-3 œufs					
-1 lichette de rhum					
-1 pointe de couteau de cannelle
-50 g d'amandes (ou noisettes) en poudre (ou très finement hachées)
-15 g de chapelure
-15 g de farine
+* 50 g de beurre en pommade, 60 g de sucre, 1 paquet de sucre vanillé, 150 g de chocolat pâtissier, 20 cL de crème liquide, 3 œufs, 1 lichette de rhum, 1 pointe de couteau de cannelle, 50 g d'amandes (ou noisettes) en poudre (ou très finement hachées), 15 g de chapelure, 15 g de farine
 							
 page 193
 9ème à 12ème lignes :
