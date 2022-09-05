@@ -6,6 +6,13 @@ permalink: "/RecettesCoatTanguyErratumV1/"
 
 Voici la liste des erreurs dans les recettes de la première version du manuscrit "Les Recettes de Coat Tanguy":
 
+##  [Lotte au poivre vert]({% post_url 2019-04-17-lottepoivrevert %})
+page 28 – Lotte au poivre vert
+16ème ligne :
+* faire cuire 15 min au four.
+20ème ligne :
+* Remettre au four 20 min à 220°C.
+
 ##  [Croustades aux fruits]({% post_url 2020-05-22-croustadeauxfruits %})
 page 58 – Croustade « pommes »
 3ème ligne :
@@ -38,6 +45,13 @@ page 111
 6ème et 7ème lignes :
 * Saupoudrer copieusement de chocolat en poudre.
 * Faire reposer au frigo au moins une demi-journée.
+
+#  [Saint-jacques sauce agrumes]({% post_url 2018-05-16-stjacquessauceagrumes %})
+page 126
+8ème et 9ème lignes :
+* remplacer les 20 cL de bouillon de volaille par seulement 1/2 cube de bouillon de volaille.
+20ème ligne :
+* Déglacer avec le vinaigre, le rhum et le vin blanc. Ajouter de l'eau au jus d'agrumes pour obtenir un volume de 20 cL et verser dans la préparation avec le 1/2 cube de bouillon puis laisser frémir pendant 30 min..
 
 ##  [Mohr im Hemd]({% post_url 2020-03-31-b-mohr-im-hemd %})
 page 192
