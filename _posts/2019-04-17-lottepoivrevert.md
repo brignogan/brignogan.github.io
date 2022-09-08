@@ -30,11 +30,11 @@ C'est à Penmarc'h, chez Michelle, que nous avons découvert cet excellent plat 
 * Préchauffer le four à 220°C.
 * Couper la lotte en morceaux.
 * Laver puis couper en julienne (c'est à dire en fins bâtonnets) les carottes, le céleri et les échalotes.
-* Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé. Saler et faire cuire 10 mn au four.
+* Graisser le plat, y étaler les légumes, et ajouter l'ail écrasé. Saler et faire cuire 15 mn au four.
 * Sortir le plat du four. Poser les morceaux de lotte dessus.
 * Arroser avec le vin blanc.
 * Saler, poivrer et répartir les petits morceaux de beurre.
-* Remettre au four 30 mn environ à 220°C.
+* Remettre au four 20 mn environ à 220°C.
 * Pendant ce temps, préparer la sauce: écraser le poivre vert dans un bol et le mélanger à la crème, ajouter un peu de persil ciselé.
 * Sortir le plat du four. Baisser la température du four à 200°C.
 * Verser le mélange crémeux sur le poisson.

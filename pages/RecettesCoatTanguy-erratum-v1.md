@@ -39,11 +39,17 @@ page 111 - 6ème et 7ème lignes :
 * Saupoudrer copieusement de chocolat en poudre.
 * Faire reposer au frigo au moins une demi-journée.
 
-#  [Saint-jacques sauce agrumes]({% post_url 2018-05-16-stjacquessauceagrumes %})
+##  [Saint-jacques sauce agrumes]({% post_url 2018-05-16-stjacquessauceagrumes %})
 page 126 - 8ème et 9ème lignes :
 * remplacer les 20 cL de bouillon de volaille par seulement 1/2 cube de bouillon de volaille.
 page 126 - 20ème ligne :
 * Déglacer avec le vinaigre, le rhum et le vin blanc. Ajouter de l'eau au jus d'agrumes pour obtenir un volume de 20 cL et verser dans la préparation avec le 1/2 cube de bouillon puis laisser frémir pendant 30 min.
+
+##  [Farz forn du]({% post_url 2020-02-24-farsdu %})
+page 136 - 10ème ligne :
+* Préchauffer le four à 200°C.
+page 136 - 18ème ligne :
+* Cuire 40 min à 200°C.
 
 ##  [Mohr im Hemd]({% post_url 2020-03-31-b-mohr-im-hemd %})
 page 192 - 8ème à 15ème lignes :

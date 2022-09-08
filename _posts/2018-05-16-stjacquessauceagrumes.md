@@ -22,7 +22,7 @@ Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée
 * 1/2 c. à s. de vinaigre de Xérès
 * 1/2 c. à s. de rhum
 * 1 c. à s. de vin blanc
-* 20 cL de bouillon de volaille (20 cL d’eau et 1/2 cube)
+* 1/2 cube de bouillon de volaille
 * 1 orange
 * 1 citron
 * riz basmati
@@ -30,7 +30,7 @@ Coquillage d'hiver, la saint-jacques peut se préparer avec bonheur accompagnée
 
 ### Préparation
 #### Préparation du fumet :
-* Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre, le rhum et le vin blanc. Verser alors le fond de volaille et le jus des agrumes puis laisser frémir pendant 30 min. L’appareil doit réduire de moitié.
+* Presser l’orange et le citron. Couper l’écorce d’orange en julienne. Faire revenir les barbes dans 20 g de beurre noisette, ajouter les échalotes et l'ail épluché et émincé. Continuer à faire revenir puis ajouter quelques queues de persil hachées et le mélange d'algues. Déglacer avec le vinaigre, le rhum et le vin blanc. Ajouter de l'eau au jus d'agrumes pour obtenir un volume de 20 cL et verser dans la préparation avec le 1/2 cube de bouillon puis laisser frémir pendant 30 min. L’appareil doit réduire de moitié.
 
 #### Réalisation de la recette :
 * Faire blanchir 5 mn dans de l’eau bouillante la julienne d’écorce d’orange.
