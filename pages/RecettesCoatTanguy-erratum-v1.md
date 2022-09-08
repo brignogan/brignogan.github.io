@@ -51,13 +51,12 @@ page 126
 8ème et 9ème lignes :
 * remplacer les 20 cL de bouillon de volaille par seulement 1/2 cube de bouillon de volaille.
 20ème ligne :
-* Déglacer avec le vinaigre, le rhum et le vin blanc. Ajouter de l'eau au jus d'agrumes pour obtenir un volume de 20 cL et verser dans la préparation avec le 1/2 cube de bouillon puis laisser frémir pendant 30 min..
+* Déglacer avec le vinaigre, le rhum et le vin blanc. Ajouter de l'eau au jus d'agrumes pour obtenir un volume de 20 cL et verser dans la préparation avec le 1/2 cube de bouillon puis laisser frémir pendant 30 min.
 
 ##  [Mohr im Hemd]({% post_url 2020-03-31-b-mohr-im-hemd %})
 page 192
 8ème à 15ème lignes :
-* 50 g de beurre en pommade, 60 g de sucre, 1 paquet de sucre vanillé, 150 g de chocolat pâtissier, 20 cL de crème liquide, 3 œufs, 1 lichette de rhum, 1 pointe de couteau de cannelle, 50 g d'amandes (ou noisettes) en poudre (ou très finement hachées), 15 g de chapelure, 15 g de farine
-
+* 50 g de beurre en pommade, 60 g de sucre, 1 paquet de sucre vanillé, 150 g de chocolat pâtissier, 20 cL de crème liquide, 3 œufs, 1 lichette de rhum, 1 pointe de couteau de cannelle, 50 g d'amandes (ou noisettes) en poudre (ou très finement hachées), 15 g de chapelure, 15 g de farine.
 page 193
 9ème à 12ème lignes :
 * Préparer la sauce au chocolat : Faire légèrement bouillir la crème fraîche puis la verser sur les 100 g de chocolat restants coupés en morceaux. Remuer avec un fouet pour faire fondre le chocolat et obtenir une sauce lisse. Réserver.
