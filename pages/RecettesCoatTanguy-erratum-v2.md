@@ -1,10 +1,10 @@
 ---
 layout: page_simple
-title: "Erratum de la Version 1 des Recettes de Coat Tanguy"
+title: "Erratum de la Version 2 des Recettes de Coat Tanguy"
 permalink: "/RecettesCoatTanguyErratumV2/"
 ---
 
-Voici la liste des erreurs dans les recettes de la première version du manuscrit "Les Recettes de Coat Tanguy":
+Voici la liste des erreurs dans les recettes de la deuxieme version du manuscrit "Les Recettes de Coat Tanguy":
 
 ##  [Lotte au poivre vert]({% post_url 2019-04-17-lottepoivrevert %})
 page 28 – 16ème ligne :
