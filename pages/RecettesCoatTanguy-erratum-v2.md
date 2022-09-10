@@ -1,7 +1,7 @@
 ---
 layout: page_simple
 title: "Erratum de la Version 1 des Recettes de Coat Tanguy"
-permalink: "/RecettesCoatTanguyErratumV1/"
+permalink: "/RecettesCoatTanguyErratumV2/"
 ---
 
 Voici la liste des erreurs dans les recettes de la première version du manuscrit "Les Recettes de Coat Tanguy":
