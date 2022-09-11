@@ -15,8 +15,10 @@ page 28 – 20ème ligne :
 ##  [Croustades aux fruits]({% post_url 2020-05-22-croustadeauxfruits %})
 page 58 – Croustade « pommes » 3ème ligne :
 * Beurrer un plat allant au four.
+
 page 59 – Croustade « poires-chocolat » 11ème ligne :
 * 6 poires (préparées à l'avance)
+
 page 59 – Croustade « poires-chocolat » 16ème à 22ème lignes :
 * Eplucher les poires, couper les en deux et arroser les de jus de citron.
 * Faire bouillir l'eau et le sucre dans une casserole, y déposer les demi-poires, couvrir et faire cuire à faibles bouillons pendant 15 mn. Laisser refroidir les poires dans le sirop.
