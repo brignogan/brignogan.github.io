@@ -717,7 +717,8 @@ if __name__ == '__main__':
         metropole.plot(ax=ax, facecolor='white', edgecolor='none',linewidth=.0,zorder=0)
         
         bassins.plot( ax=ax, cmap=plt.cm.colors.ListedColormap(bassins['color']),zorder=1,alpha=.5)
-        bassins.apply(lambda x: ax.annotate(s=str(x.nom),\
+        #bassins.apply(lambda x: ax.annotate(s=str(x.nom),\
+        bassins.apply(lambda x: ax.annotate(str(x.nom),\
                                             xy=[x.geometry.centroid.x + x.add_to_name_position.coords.xy[0][0],\
                                                 x.geometry.centroid.y + x.add_to_name_position.coords.xy[1][0] ], ha='center',zorder=5),axis=1);
         
