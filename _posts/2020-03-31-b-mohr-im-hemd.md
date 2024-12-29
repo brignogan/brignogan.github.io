@@ -43,4 +43,4 @@ Le nom du gâteau se traduit en français par "le Maure en chemise". Une critiqu
 
 ### Notes
 * Un bon café, un arabica (Huehuetenango du Guatemala ou Moka Yrga Cheffe d'Ethiopie), sera une boisson idéale pour accompagner typiquement ce gâteau.
-* On peut, si on préfère, servir le gâteau et sa sauce tièdes. 
+* On peut, si on préfère, servir le gâteau et sa sauce tièdes.

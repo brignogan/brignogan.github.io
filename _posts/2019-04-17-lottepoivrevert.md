@@ -5,7 +5,7 @@ tag_category: famille
 tag_plat: platPoisson
 image: img/recette/lottepoivrevert.png
 temps_preparation: 20
-temps_cuisson: 50
+temps_cuisson: 45
 temps_repos: '-'
 nbre_personne: ‘pour 4 personnes’
 index_motClefIngredient: lotte, céleri, carotte, poivre vert

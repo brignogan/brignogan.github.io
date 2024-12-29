@@ -34,4 +34,4 @@ Cette soupe est un plat classique de l'automne et se retrouve, chaque année, au
 
 ### Notes
 * Cette soupe peut être préparée avec du potimarron dont l'avantage est de ne pas nécessiter d'épluchage.
-* Certains convives peuvent ne pas apprécier une boisson avec la soupe. Le vin ne sera donc que proposer.
+* Certains convives peuvent ne pas apprécier une boisson avec la soupe. Le vin ne sera donc que proposé.
