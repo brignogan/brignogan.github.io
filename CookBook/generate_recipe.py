@@ -220,6 +220,12 @@ recipeFiles = glob.glob(recipeDir+'*.md')
 
 ensure_dir('./LogError/')
 
+if flag_latex: 
+    files_to_remove = glob.glob('cookbook.*')
+    # Remove each file
+    for file in files_to_remove:
+        os.remove(file)
+
 #load tag
 tag_category_all = []
 tag_plat_all     = []
