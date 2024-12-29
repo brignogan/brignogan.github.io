@@ -364,7 +364,7 @@ if __name__ == '__main__':
    
 
         if pays in [u'Nouvelle Z\xe9lande ', u'Italie']:
-            empty_ = gpd.GeoDataFrame([], crs="EPSG:4326") 
+            empty_ = gpd.GeoDataFrame({"geometry": []}, crs="EPSG:4326")
             country_pakage[pays]['inlandWater']       = empty_
             country_pakage[pays]['inlandWater_river'] = empty_ 
             country_pakage[pays]['inlandWater_lake']  = empty_ 
@@ -437,7 +437,7 @@ if __name__ == '__main__':
         #join df
         appellation_bassin_per_communes = allAppellation_per_communes.set_index('Appellation').join(listAppellations.set_index('Appellation'))
         #deal with Alsace
-        appellation_bassin_per_communes.loc['alsace':'alsacf','Bassin'] = 'Alsace'
+        appellation_bassin_per_communes.loc[['alsace' in s for s in appellation_bassin_per_communes.index],'Bassin'] = 'Alsace'
         #fiefs vendees
         appellation_bassin_per_communes.loc[['fiefs-vend\xc3\xa9ens' in s for s in appellation_bassin_per_communes.index],'Bassin'] = 'Vall\xc3\xa9e de la Loire'
         #gaillac
@@ -832,8 +832,11 @@ if __name__ == '__main__':
             #plot
             if (section_domain != 'mm'):
                 if ((not(flag_restart)) or (not(os.path.isfile(map_domain)))): 
-                    saveplot(appellations_domain, vin_prev, metropole_prev, bassins_prev) 
-            
+                    try:
+                        saveplot(appellations_domain, vin_prev, metropole_prev, bassins_prev) 
+                    except: 
+                        print('pass -- no save plot')
+                        pass
             section_domain = vin.DomaineChateau
             map_domain = dir_maps+'{:s}.png'.format(''.join(section_domain.split(' '))).replace("'",'')
             map_domain = unicodedata.normalize('NFD', str(map_domain)).encode('ascii', 'ignore')
@@ -1052,7 +1055,7 @@ if __name__ == '__main__':
                         LegendElement_domain.append( mpatches.Patch(facecolor='w', hatch=hash_patterns[len(appellations_domain)], \
                                                                     edgecolor=hash_colors[len(appellations_domain)], label=simple_appelation(vin.Bassin) ) )
 
-                    appellations_domain = appellation_ if len(appellations_domain)==0 else appellations_domain.append(appellation_)
+                    appellations_domain = appellation_ if len(appellations_domain)==0 else pd.concat([appellations_domain,appellation_])
 
         
         flag_checkVinIng = False
@@ -1083,8 +1086,11 @@ if __name__ == '__main__':
 
     #for the last plot
     if (((not(flag_restart)) or (not(os.path.isfile(map_domain)))) & (section_domain != 'mm')): 
-        saveplot(appellations_domain, vin_prev, metropole_prev, bassins_prev )
-    
+        try: 
+            saveplot(appellations_domain, vin_prev, metropole_prev, bassins_prev )
+        except: 
+            print('pass -- no saveplot')
+            pass
    
     #scan vin to remove wine with no recipies in reference
     #remove no recipes
