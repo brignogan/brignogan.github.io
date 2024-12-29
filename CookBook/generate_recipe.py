@@ -1016,6 +1016,8 @@ if flag_latex:
     subprocess.call(['bibtex', 'cookbook.aux'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
     subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
+    subprocess.call(['bibtex', 'cookbook.aux'])
+    subprocess.call(['pdflatex', '-shell-escape', 'cookbook.tex'])
 
 print('')
 if flag_hd:
